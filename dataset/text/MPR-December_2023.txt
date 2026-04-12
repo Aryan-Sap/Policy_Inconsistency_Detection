@@ -1,0 +1,1575 @@
+Monthly Policy Review
+December 2023
+Highlights of this Issue
+Winter Session of Parliament held from December 4, 2023 to December 21, 2023 (p. 2)
+Ten Bills were introduced and 17 were passed, including the three Bills that seek to replace the IPC, CrPC and Indian
+Evidence Act, and the Bill to regulate the telecommunications sector.
+Parliament passes Bills seeking to replace three criminal laws (p. 2)
+These Bills retain most provisions from the earlier Acts. They also codify new offences such as terrorism, revise
+provisions on bail and custody, and classify electronic evidence as primary evidence.
+Parliament passes Bill to regulate the appointment of Election Commissioners (p. 4)
+The Election Commissioners will be chosen by a selection committee consisting of the Prime Minister, the Leader of
+Opposition in Lok Sabha and a Union Cabinet Minister.
+Parliament passes the Telecommunications Bill, 2023 (p. 8)
+The Bill regulates the telecom sector. It sets out the processes for the assignment of spectrum, authorisations needed,
+and allows the government to intercept telecommunications.
+Supreme Court upholds abrogation of Article 370 (p. 5)
+The Court held the Article to be a temporary provision. It also directed the Election Commission to take necessary
+steps to conduct elections in Jammu and Kashmir before September 2024.
+Parliament passes three Bills related to Jammu and Kashmir (p. 3)
+These Bills increase the total seats in the legislature from 83 to 90, reserve one-third seats for women in its legislature,
+and substitute the reservation for ‘weak and under-privileged classes’ with ‘other backward classes’.
+IRDAI issues draft regulations for insurance products (p. 6)
+The draft regulations provide a framework for designing insurance products by considering aspects such as risk
+coverage needs of customers and offering simple to understand products.
+Scheme regarding private exploration agencies for strategic minerals announced (p. 15)
+The scheme delineates the general conditions and mode of engagement of notified private exploration agencies by
+central government and funding for exploration of critical and strategic minerals.
+Current account deficit at 1% of GDP in second quarter of 2023-24 (p. 2)
+Current account deficit in the second quarter of 2023-24 was significantly lower than the 3.8% of GDP recorded in the
+corresponding quarter of 2022-23.
+Standing Committee submits report on Ayushman Bharat (p. 11)
+The Committee recommended measures such as increasing the budgetary allocation on the scheme, including wider
+sections of the population within the scheme, and empanelling a wider range of hospitals.
+Standing Committee submits report on Electric Vehicles (p. 11)
+The Committee recommended measures such as extending the FAME Scheme, expanding charging infrastructure, and
+providing further tax concessions on EVs.
+Vision document on logistics and shipping released (p. 10)
+The document identifies target-based actions for developing the maritime logistics sector. These are targeted to be
+achieved by 2047, and include having carbon neutral ports and converting all ports to just-in-time arrival.
+January 2, 2024
+PRS Legislative Research Institute for Policy Research Studies
+3rd Floor, Gandharva Mahavidyalaya 212, Deen Dayal Upadhyaya Marg  New Delhi – 110002
+Tel: (011) 23234801, 43434035  www.prsindia.org
+Monthly Policy Review – December 2023 PRS Legislative Research
+Parliament Table 1: Balance of payments, Q2 2023-24 (USD
+billion)
+Arpita Mallick (arpita@prsindia.org) Q2 Q1 Q2
+2022- 2023- 2023-
+Winter Session 2023 concludes: Criminal 23 24 24
+Reform Laws passed a. Exports 111.9 105.0 108.5
+b. Imports 190.2 161.6 169.5
+The Winter Session of Parliament was held from
+c. Trade Balance (a-b) -78.3 -56.6 -61.0
+December 4, 2023 to December 21, 2023. Parliament
+sat for 14 days and adjourned sine-die one day before d. Net services 34.4 35.1 39.9
+the planned schedule. e. Other transfers 13 12.3 12.8
+Ten Bills were introduced during the session, and 17 f. Current account (c+d+e) -30.9 -9.2 -8.3
+were passed. Bills introduced and passed in this g. Capital account 1.5 34.3 9.9
+session include the Telecommunications Bill, 2023, and h. Errors and omissions -0.9 -0.6 0.8
+three Bills replacing the Indian Penal Code, 1860, the
+i. Change in reserves (f+g+h) -30.4 24.4 2.5
+Code of Criminal Procedure, 1973, and the Indian
+Sources: RBI; PRS.
+Evidence Act, 1872 were withdrawn. Instead, three
+new Bills were introduced and passed. Seven Bills
+introduced in earlier sessions were also passed. These
+include the Chief Election Commissioners Bill, 2023 Home Affairs
+and the Post Office Bill, 2023.
+Parliament passes Bills to replace three
+146 members were suspended in this session. One
+criminal laws
+member (Ms. Mahua Moitra) was expelled from
+Parliament on grounds of ethical misconduct. Rutvik Upadhyaya (rutvik@prsindia.org)
+For more details on legislative business transacted
+The Bharatiya Nyaya Sanhita, 2023 (BNS) , The
+during the Winter Session 2023, see here.
+Bharatiya Nagrik Suraksha Sanhita, 2023 (BNSS) and
+For details on the functioning of Parliament during the the Bharatiya Sakshya Adhiniyam (BSA), 2023 were
+session, see here. passed by Parliament.2,3,4 The BNS replaces the Indian
+Penal Code, 1860 (IPC).5 The BNSS replaces the Code
+of Criminal Procedure, 1973 (CrPC), and the BSA
+replaces the Indian Evidence Act, 1872 (IEA). 6,7 Three
+Macroeconomic Development Bills were introduced in Lok Sabha in August and
+examined by the Standing Committee on Home
+Tushar Chakrabarty (tushar@prsindia.org)
+Affairs.8,9,10 They were later withdrawn and replaced
+with new Bills, which incorporate most
+Current account deficit at 1% of GDP in the
+recommendations made by the Standing Committee.
+second quarter of 2023-24
+Key changes from the earlier laws include:
+India recorded a current account deficit of USD 8.3 Bharatiya Nyaya Sanhita, 2023
+billion (1% of GDP) in the second quarter (July-
+ Terrorism: The BNS adds terrorism as an
+September) of 2023-24, significantly lower than the
+offence. It defines terrorism as an act that intends
+deficit of USD 30.9 billion (3.8% of GDP) in the
+corresponding quarter of 2022-23.1 In the first quarter to: (i) threaten the unity, integrity, and security of
+the country, or (ii) likely to strike terror amongst
+(April-June) of 20234-24, current account deficit was
+the general public.
+USD 9.2 billion (1.1% of GDP). Merchandise trade
+deficit reduced from USD 78.3 billion in the second  Organised Crime: The BNS adds organised
+quarter of 2022-23 to USD 61 billion in the second crime as an offence. This includes offences such
+quarter of 2023-24. as kidnapping, extortion, contract killing, land
+grabbing, financial scams and cybercrime carried
+The capital account registered a net inflow of USD 9.9
+billion in the second quarter of 2023-24 as compared to
+out on behalf of a crime syndicate.
+a net inflow of USD 1.5 billion in the corresponding  Offences by a group on grounds of identity:
+quarter of 2022-23. In first quarter of 2023-24, capital The new offences include murder and causing
+account registered a net inflow of USD 34.3 billion. grievous hurt by a group of five or more people on
+grounds of certain identity markers as an offence.
+Foreign exchange reserves increased by USD 2.5
+These markers include race, caste or community,
+billion in the second quarter of 2023-24 as compared to
+sex, place of birth, language, personal belief, or
+a decrease of USD 30.4 billion in the same quarter of
+any other grounds. These offences carry the same
+2022-23. In the first quarter of 2023-24, foreign
+penalty as murder and causing grievous hurt.
+exchange reserves had increased by USD 24.4 billion.
+- 2-
+Monthly Policy Review – December 2023 PRS Legislative Research
+ Sedition: The BNS removes the offence of  Oral evidence: Under the IEA, oral evidence
+sedition. It instead penalises the following: (i) includes statements made before Courts by
+exciting or attempting to excite secession, armed witnesses in relation to a fact under inquiry. The
+rebellion, or subversive activities, (ii) encouraging BSA allows oral evidence to be given
+feelings of separatist activities, or (iii) endangering electronically. This would permit witnesses,
+the sovereignty or unity and integrity of India. accused persons, and victims to testify through
+These offences may involve exchange of words or electronic means.
+signs, electronic communication, or use of
+For a PRS analysis of the Bill, see here.
+financial means.
+For a PRS analysis of the Bill, see here. Parliament passes the Jammu and Kashmir
+Reorganisation (Amendment) Bill, 2023
+Bharatiya Nagrik Suraksha Sanhita, 2023
+Tushar Chakrabarty (tushar@prsindia.org)
+ Power to use handcuffs: The BNSS provides for
+the use of handcuffs during arrest. It provides that The Jammu and Kashmir Reorganisation (Amendment)
+handcuffs may only be used to arrest: (i) a habitual Bill, 2023 was passed by Parliament.11 The Bill
+or repeat offender who has escaped custody, or (ii) amends the Jammu and Kashmir Reorganisation Act,
+a person who has committed offences such as rape, 2019.12 The Act provides for the reorganisation of the
+acid attack, organized crime, acts endangering state of Jammu and Kashmir into the union territories
+sovereignty, unity and integrity of India. of Jammu and Kashmir (with legislature) and Ladakh
+(without legislature). Key features of the Bill include:
+ Successors deposing for transferred or retired
+officers: The BNSS states that if an officer who  Number of seats in the Legislative Assembly:
+prepared a document or report for an inquiry or The 2019 Act specified the total number of seats in
+trial is transferred, retired or has died, the Court the Jammu and Kashmir Legislative Assembly to
+will ensure that their successor officer deposes on be 83. It reserved six seats for Scheduled Castes.
+the document. No seats were reserved for Scheduled Tribes. The
+Bill increases the total number of seats to 90. It
+ Detention of Undertrials: Under the CrPC, if an
+also reserves seven seats for Scheduled Castes and
+undertrial has served half the maximum
+nine seats for Scheduled Tribes. In addition, the
+imprisonment for an offence, he must be released
+Act allocates 24 seats to constituencies in
+on bail. This does not apply to offences
+Pakistani-occupied Jammu and Kashmir.
+punishable by death. The BNSS adds that this
+provision will not be extended to: (i) offences  Nomination of Kashmiri migrants: The Bill
+punishable by life imprisonment and (ii) adds that the Lieutenant Governor may nominate
+undertrials charged under multiple offences. up to two members from the Kashmiri migrant
+community to the Legislative Assembly. One of
+ Collection of Forensic Evidence: The BNSS
+the nominated members must be a woman.
+mandates forensic investigation for offences
+punishable with at least seven years of For a PRS summary of the Bill, see here.
+imprisonment. In such cases, forensic experts will
+visit crime scenes to collect forensic evidence and Parliament passes Bill reserving seats for
+record the process on mobile phone or any other
+women in Jammu and Kashmir legislature
+electronic device.
+Rutvik Upadhyaya (rutvik@prsindia.org)
+For a PRS analysis of the Bill, see here.
+The Jammu and Kashmir Reorganisation (Second
+Bharatiya Sakshya Adhiniyam, 2023 Amendment) Bill, 2023 was passed by Parliament.13
+ Documentary evidence: Under the IEA, a The Bill amends the Jammu and Kashmir
+document includes writings, maps, and caricatures. Reorganisation Act, 2019.12
+The BSA retains this classification. It classifies
+ Reservation for women: The Bill reserves, as
+electronic records as documents.
+nearly as possible, one-third of all elected seats in
+ Admissibility of electronic or digital records as the Jammu and Kashmir Legislative Assembly for
+evidence: The BSA provides that electronic or women. This reservation will also apply to the
+digital records will have the same legal effect as seats reserved for Scheduled Castes and Scheduled
+paper records. It expands the definition of Tribes in the Assembly.
+electronic records to include information stored in
+ Commencement of reservation: The reservation
+semiconductor memory or any communication
+will be effective once the census conducted after
+devices (smartphones, laptops). This will also
+the commencement of this Bill has been published.
+include records on emails, server logs,
+Based on the census, delimitation will be
+smartphones, and locational evidence.
+undertaken to reserve seats for women. The
+- 3-
+Monthly Policy Review – December 2023 PRS Legislative Research
+reservation will be in place for 15 years. However, be rotated after each delimitation, as determined by
+it will continue till such date as determined by a a law made by Parliament.
+law made by Parliament.
+For a PRS summary of the Bill, see here
+For a PRS summary of the Bill, see here.
+Bill amending the Jammu and Kashmir
+Law and Justice
+Reservation Act, passed by Parliament
+Rutvik Upadhyaya (rutvik@prsindia.org) Bill regulating the appointments of Election
+Commissioners passed by Parliament
+The Jammu and Kashmir Reservation (Amendment)
+Bill, 2023, was passed by Parliament.14 It amends the Tanvi Vipra (tanvi@prsindia.org)
+Jammu and Kashmir Reservation Act, 2004.15 The Act
+provides for reservation in jobs and admission in The Chief Election Commissioner And Other Election
+professional institutions to members of Scheduled Commissioners (Appointment, Conditions Of Service
+Castes, Scheduled Tribes, and other socially and And Term Of Office) Bill, 2023 was passed by
+educationally backward classes. Parliament.18,19 It replaces the Election Commission
+(Conditions of Service of Election Commissioners and
+Under the Act, socially and educationally backward Transaction of Business) Act, 1991.20
+classes include: (i) people residing in villages declared
+as socially and educationally backward by the Union As per the Constitution, the Chief Election
+Territory (UT) of Jammu and Kashmir, (ii) people Commissioner (CEC) and other Election
+residing in areas adjoining the Actual Line of Control Commissioners will be appointed by the President.
+and International Border, and (iii) weak and under- The Bill specifies a procedure for appointing the CEC
+privileged classes (social castes), as notified. The and other ECs. It adds that the President will make
+central government may make inclusions or exclusions appointments upon the recommendation of a Selection
+from category of weak and under-privileged classes, on Committee. Key features of the Bill are:
+the recommendations of a Commission. The Bill
+ Composition of Selection Committee: The
+substitutes weak and under-privileged classes with
+Selection Committee will consist of: (i) the Prime
+other backward classes as declared by the UT of
+Minister as Chairperson, (ii) the Leader of
+Jammu and Kashmir. The definition of weak and
+Opposition in Lok Sabha as member, and (iii) a
+under-privileged classes is deleted from the Act.
+Union Cabinet Minister nominated by the Prime
+For a PRS summary of the Bill, see here. Minister as member. If the Leader of Opposition
+has not been recognised, the leader of the single
+largest opposition party in Lok Sabha will assume
+Parliament passes Bill reserving seats for
+the role.
+women in Puducherry legislature
+ Search Committee: A Search Committee will
+Rutvik Upadhyaya (rutvik@prsindia.org)
+prepare a panel of five persons for the
+consideration of the Selection Committee. The
+The Government of Union Territories (Amendment)
+Search Committee will be headed by the Minister
+Bill, 2023 was passed by Parliament.16 The Bill
+of Law and Justice, and have two Secretary-level
+amends the Government of Union Territories Act,
+members. The Selection Committee may consider
+1963.17 The Act provides for establishing Legislative
+candidates who have not been included in the panel
+Assemblies and constitution of Councils of Ministers
+prepared by the Search Committee.
+for certain Union Territories.
+ Qualification of CEC and ECs: Persons who are
+ Reservation for women: The Bill reserves one-
+holding or have held posts equivalent to the rank of
+third of all elected seats in the Puducherry
+Secretary to the central government will be eligible
+Legislative Assembly for women. This will also
+to be appointed as CEC and ECs. Such persons
+apply to the seats reserved for Scheduled Castes
+must have expertise in managing elections.
+and Scheduled Tribes in the Assembly.
+ Conditions of service: The salary of the CEC will
+ Commencement of reservation: The reservation
+be equivalent to that of a Judge of the Supreme
+will be effective once the census conducted after
+Court. Other conditions of service such as medical
+the commencement of this Bill has been published.
+facilities and travel allowance will be determined
+Based on the census, delimitation will be
+by the President through Rules.
+undertaken to reserve seats for women. The
+reservation will be provided for 15 years. For a PRS analysis of the Bill, see here.
+However, it will continue till such date as
+determined by a law made by Parliament.
+ Rotation of seats: Seats reserved for women will
+- 4-
+Monthly Policy Review – December 2023 PRS Legislative Research
+Parliament passes the Repealing and laws passed by Parliament on other subjects with the
+Amending Bill, 2022 concurrence of the state government.
+Tushar Chakrabarty (tushar@prsindia.org) In August 2019, the Parliament adopted resolutions to
+repeal the provisions of Article 370 through
+The Repealing and Amending Bill, 2022, was passed Presidential Orders.28 It also passed a Bill reorganising
+by Parliament.21 It repeals 65 laws that are obsolete or the erstwhile state of J&K into: (i) the Union Territory
+that have been made redundant by other laws. It also of Jammu and Kashmir with a legislature, and (ii) the
+corrects a minor drafting error in the Factoring Union Territory of Ladakh without a legislature. These
+Regulation Act, 2011.22 decisions were challenged in the Supreme Court.29
+For a PRS summary of the Bill, see here. The Supreme Court upheld the abrogation of Article
+370. It held that: (i) the erstwhile state of J&K did not
+Bill to amend the Advocates Act, 1961, passed have any sovereignty, (ii) Article 370 was a temporary
+provision, (iii) the President had the power to declare
+by Parliament
+that Article 370 ceases to operate without the
+Tushar Chakrabarty (tushar@prsindia.org) recommendation of the Constituent Assembly (which
+was dissolved), (iv) Parliament can exercise the powers
+The Advocates (Amendment) Bill, 2023, was passed by of the State Legislature for law making as well as non-
+Parliament.23 The Bill replaces certain sections related law making purposes, and (v) the Constitution of J&K
+to touts under the Legal Practitioners Act, 1879 and stands inoperative and has become redundant.
+incorporate them in the Advocates Act, 1961.24,25 The
+Considering the submission of the Solicitor General
+1961 Act consolidates the law related to legal
+that the statehood of J&K will be restored, the Court
+practitioners and constitutes Bar Councils and the All-
+stated that it is not necessary to rule on the
+India Bar. Key features of the Bill include:
+constitutional validity of reorganising the state into two
+ Touts: The Bill provides that every High Court, union territories. It directed the Election Commission
+district judge, sessions judge, district magistrate, to ensure that elections to the J&K legislative assembly
+and revenue officer (not below the rank of a are conducted by September 30, 2024.26 It added that
+district collector) may frame and publish lists of the statehood of J&K be restored as soon as possible.
+touts. Tout refers to a person who: (i) either
+proposes to procure or procures the employment of Standing Committee report on notaries
+a legal practitioner in a legal business in return of
+any payment, or (iii) frequents places such as the Rutvik Upadhyaya (rutvik@prsindia.org)
+precincts of civil or criminal courts, revenue-
+offices, or railway stations to procure such The Standing Committee on Personnel, Public
+employment. Any person whose name is included Grievances, Law and Justice (Chairperson: Mr. Sushil
+in the list of touts may be excluded from the Kumar Modi) submitted its report on the “Appointment
+premises of the Court. of Notaries”.30 A notary is a public official who
+authenticates contracts, deeds, and other documents
+ Preparation of lists: The authorities empowered with a notarial seal. Documents authenticated by a
+to frame and publish the list of touts may order notary have prima facie validity and are presumed
+subordinate courts to hold an inquiry into the genuine. Key observations and recommendations of
+conduct of persons alleged or suspected to be touts. the Committee include:
+Once such a person is proven to be a tout, his name
+may be included in the list of touts. No individual  Review notary fees: The Committee noted that
+will be included in such lists without getting an notaries rely solely on client fees for income. It
+opportunity of showing cause against his inclusion. observed that the prescribed fee is meagre and was
+last updated in 2014. It recommended increasing
+For a PRS summary of the Bill, see here. the fee payable to notaries and linking it with
+inflation. It proposed a revision every five years.
+Supreme Court upholds the abrogation of
+ Appointment of notaries: The Committee noted
+Article 370 of the Constitution
+that the current eligibility requirement of 10 years
+Rutvik Upadhyaya (rutvik@prsindia.org) of practice to become a notary is excessive. It
+recommended reducing it to five years. It
+A five-judge Constitution Bench of the Supreme Court suggested making it mandatory for applicants to
+delivered its judgement on the abrogation of Article have appeared in at least 100 cases. Further,
+370 of the Constitution.26 The Article conferred a notaries are currently appointed through
+special status upon the erstwhile state of Jammu and interviews. It recommended adopting an
+Kashmir (J&K).27 It limited the power of Parliament to examination similar to that of the All-India Bar.
+legislate on matters related to defence, external affairs,
+ Rationalising notary appointments: The
+communications, and central elections for the erstwhile
+Committee noted the need for a more structured
+state of J&K. However, the President could extend
+- 5-
+Monthly Policy Review – December 2023 PRS Legislative Research
+approach in determining the strength of notaries Repo rate kept unchanged at 6.5%
+across states and union territories. The existing
+Pratinav Damani (pratinav@prsindia.org)
+criteria, based on the number of applications, was
+deemed vague and lacking objectivity. The
+The Monetary Policy Committee (MPC) of the Reserve
+Committee recommended evaluation based on
+Bank of India (RBI) retained the policy repo rate (the
+factors such as population, litigation volume,
+rate at which RBI lends money to banks) at 6.5%.35
+economic and commercial activities in that state.
+Other decisions of the Committee are as follows:
+ Renewal of notary certificates: The Committee
+ The standing deposit facility rate (the rate at which
+recommended eliminating the mandatory renewal
+the RBI borrows from banks without giving
+of the certificate of practice every five years. It
+collateral) has been retained at 6.25%.
+suggested allowing notaries to practice until a
+specified age determined by the government.  The marginal standing facility rate (the rate at
+which banks can borrow additional money from
+ Notarising of documents: The Committee noted
+RBI), and the bank rate (rate at which RBI buys
+that notarial work should be modernised and
+bills of exchange) have been retained at 6.75%.
+digitised with notarial records stored and
+maintained in a centralised online database. It The MPC decided to remain focussed on the
+recommended the government to ensure that all withdrawal of accommodation. This is in order to
+public notaries maintain a digital register to keep ensure that inflation progressively aligns with the target
+records of documents notarised by them. of 4%, while supporting growth.
+IRDAI issues draft regulations for insurance
+products
+Finance
+Tushar Chakrabarty (tushar@prsindia.org)
+Bill replacing Provisional Collection of Taxes
+Act passed by Parliament The Insurance Regulatory and Development Authority
+of India (IRDAI) released the draft IRDAI (Insurance
+Pratinav Damani (pratinav@prsindia.org) Products) Regulations, 2023.36 The Draft Regulations
+provide a framework for designing insurance products
+The Provisional Collection of Taxes Bill, 2023, was
+and sets up committees to design the products. It seeks
+passed by Parliament.31 The Bill repeals the
+to repeal the following regulations: (i) the IRDAI
+Provisional Collection of Taxes Act, 1931.32 The Act
+(Micro Insurance) Regulations, 2015, (ii) the IRDAI
+provided for the interim imposition or increase of
+(Health Insurance) Regulations, 2016, and (iii) the
+customs or excise duty. The Bill retains all the
+IRDAI (Unit Linked Insurance Products) Regulations,
+provisions under the Act.
+2019.37,38,39 Key features include:
+The Constitution requires a law for imposition of any
+ Design and pricing: Design and pricing of
+tax. This Act enables excise or customs duty proposed
+insurance products must adhere to certain criteria.
+in a Bill to be imposed before such a Bill is passed.
+These include: (i) ensuring evolving risk coverage
+The tax will be in effect until the Bill is passed, or for a
+needs of customers, (ii) simple-to-understand
+maximum of 75 days after its introduction.
+products, (iii) premium rates not being excessive,
+For a PRS Summary of the Bill, see here. inadequate, or unfairly discriminatory, and (iv)
+factoring in relevant risks while pricing products.
+Bill amending Central Goods and Services Act  Micro-insurance products: Micro-insurance
+passed by Parliament products are designed for low-income groups.
+They offer lower insurance cover along with low
+Pratinav Damani (pratinav@prsindia.org)
+annual premiums. The Draft Regulations specify
+that such products may offer premium payment
+The Central Goods and Services Tax (Second
+based on the needs of the target market. Life,
+Amendment) Bill, 2023 was passed by Parliament.33
+general, or health insurers may tie up to offer
+The Bill amends the Central Goods and Services Tax
+combined micro-insurance products.
+(CGST) Act, 2017.34 The Act provides for the levy and
+collection of CGST on the intra state supply of goods  Product Management Committee (PMC): The
+and services. board of insurers must constitute a Product
+Management Committee (PMC). Responsibilities
+The Bill changes the qualifications required to be
+of the PMC include ensuring: (i) appropriate
+appointed as a judicial member of the GST Appellate
+product design for the target market, (ii) regulatory
+Tribunal. Advocates with at least 10 years of
+compliance, (iii) periodical reviews of product
+experience will be eligible for appointment as judicial
+performance, and (iv) modification or withdrawal
+members of the Tribunal.
+of the product, if required.
+For a PRS Summary of the Bill see here.
+- 6-
+Monthly Policy Review – December 2023 PRS Legislative Research
+ Review of products: All insurance products must disclosures include: (i) changes in the capital
+be reviewed at least once a year by the appointed structure, directors, or auditors, (ii) details of any
+actuary. The review should take into account: (i) defaults or delayed payments on any debt, and (iii)
+reasonable expectations of all stakeholders, (ii) related party transactions. These details have to be
+financial viability of the product, (iii) emerging provided for the current financial year (as on date)
+risk and experience under the product, and (iv) any and the three preceding financial years. It has been
+other relevant factors. The appointed actuary will proposed to allow issuers to provide such details as
+present the results of the review to the PMC along of the latest quarter of the current financial year
+with any recommendations to modify or withdraw instead of as on date of the issue.
+the product.
+RBI issues draft framework for self-regulatory
+Comments are invited by January 3, 2024.
+organisations
+SEBI released amendments to listing Tushar Chakrabarty (tushar@prsindia.org)
+regulations for public feedback
+The Reserve Bank of India (RBI) has released a draft
+Pratinav Damani (pratinav@prsindia.org)
+framework for recognising self-regulatory
+organisations (SROs) of regulated entities.43 RBI noted
+The Securities and Exchange Board of India (SEBI)
+that with the increase in number and scale of regulated
+released a consultation paper on listing regulations for
+entities, a need was felt to develop better industry
+certain instruments.40 Regulations governing the issue
+standards for self-regulation. Entities regulated by the
+of securities include the SEBI (Listing Obligations and
+RBI include banks, non-banking finance companies,
+Disclosure Requirements) Regulations, 2015 and the
+and payment system operators. SROs can improve
+SEBI (Issue and Listing of Non-Convertible Securities)
+effectiveness of regulations through technical expertise
+Regulations, 2021 (NCS Regulations).41,42 These
+and aid in framing regulatory policies. Key features of
+regulations primarily govern the listing of various
+the framework include:
+equity and debt securities. The consultation paper
+proposes amendments to these regulations. Key  Process for recognition: Interested SROs may
+proposals include: apply to RBI for recognition. For this, it must
+meet certain eligibility criteria. These include: (i)
+ Reduction in denomination for issuance of
+being registered as a not-for-profit company, (ii)
+certain instruments: The Regulations require the
+representing the sector and having specified
+minimum denomination for privately placed debt
+membership, and (iii) its directors must have
+securities (securities offered to a select group of
+professional competence, be financially sound, and
+investors) and non-convertible redeemable
+have general reputation of fairness and integrity.
+preference shares (which cannot be converted to
+equity shares) to be at least one lakh rupees. The  Adherence to specified principles: SROs should:
+consultation paper proposes that the minimum (i) derive authority from membership agreements
+denomination be reduced to Rs 10,000. In such to set ethical and governance standards, (ii)
+cases, the issuer will have to appoint a merchant establish objective and consultative processes to
+banker to carry out due diligence of such make rules for conduct of its members, (iii)
+instruments and include them in the placement develop standards for improving compliance
+memorandum. Such instruments must be interest culture, and (iv) have surveillance methods for
+or dividend bearing instruments with a simple effective monitoring of the sector.
+structure (no structured obligations).
+ Responsibilities towards members: The primary
+ Fast-track issues of certain debt securities: responsibility of the SRO towards its members will
+SEBI is considering allowing a fast-track be to promote best business practices. Other
+mechanism for the listing of debt securities. responsibilities include: (i) framing and monitoring
+Eligibility criteria includes: (i) having specified adherence to the code of conduct for its members,
+instruments listed for three consecutive years, (ii) (ii) developing a uniform and non-discriminatory
+debt securities to be issued have a credit rating membership fee structure, (iii) establishing a
+equal to ‘AA-’ or above, and (iii) no regulatory grievance redressal and dispute
+action must be pending against the issuer. Some of resolution/arbitration framework for its members,
+changes proposed for fast-tracking of issue of debt and (iv) promoting knowledge of
+securities include: (i) reducing the time taken for statutory/regulatory provisions.
+listing such securities from six days to three days,
+ Membership criteria: SROs should have a good
+and (ii) reducing the time for comments on public
+mix of members at all levels to represent the sector
+issue of debt securities from seven to two days.
+holistically. Membership will be voluntary. The
+ Disclosure of material events: The NCS minimum prescribed membership must be attained
+Regulations requires certain information to be within two years from the grant of recognition.
+disclosed while issuing instruments. These
+Comments are invited by January 25, 2024.44
+- 7-
+Monthly Policy Review – December 2023 PRS Legislative Research
+RBI issues draft licensing framework for SEBI issues consultation paper on
+authorised persons under FEMA instantaneous settlement of securities
+Tushar Chakrabarty (tushar@prsindia.org) Tushar Chakrabarty (tushar@prsindia.org)
+The Reserve Bank of India (RBI) issued a draft The Securities and Exchange Board of India (SEBI)
+licensing framework for authorised persons under the released a consultation paper on introducing
+Foreign Exchange Management Act (FEMA), 1999.45,46 instantaneous settlements of securities.49 Since January
+Under FEMA, only persons authorised by the RBI can 2023, funds and securities are settled by the day after
+deal in foreign exchange or securities.47 Such persons the order is executed. SEBI has noted that the
+may be designated as authorised dealers, money evolution of payment systems presents opportunities to
+changers, or off-shore banking units. RBI noted that advance the clearing and settlement timelines. Benefits
+with the liberalisation of foreign exchange regulations, associated with instant settlement include: (i) instant
+a majority of transactions can be done without receipt of funds and securities, (ii) better investor
+approaching the RBI. Key proposals include: control over funds and securities, (iii) freeing up of
+capital in securities market, and (iv) enhancement in
+ Forex correspondents: A new category of money
+overall risk management. However, it has also
+changers will be introduced under the revised
+identified certain concerns such as increased cost of
+framework. They will operate through an agency
+trading and possible divergence in price of shares based
+model by becoming forex correspondents of
+on the settlement cycle. SEBI has proposed
+certain categories of authorised dealers. Such
+introducing an instant settlement mechanism for shares
+entities will not be required to seek authorisation
+on an optional basis. This will be implemented in two
+from RBI.
+phases. In the first phase, funds and securities will be
+ Perpetual authorisation: Currently, authorisation settled on the same day. In the second phase,
+for operating as category-II authorised dealers is individual trades will be settled instantaneously.
+initially granted for one year. This can be renewed
+Comments are invited by January 12, 2024.
+for a period of one to five years. Category-II
+authorised dealers can undertake non-trade related
+current account transactions along with the
+sale/purchase of foreign exchange for private and
+Communications
+business travel.48 RBI has proposed to renew the
+existing authorisation of these entities perpetually.
+Pratinav Damani (pratinav@prsindia.org)
+It has also been proposed to allow these entities to
+facilitate trade-related transactions of up to Rs 15 Bill to regulate telecom sector passed by
+lakh per transaction.
+Parliament
+ Foreign banks: Foreign banks are currently
+The Telecommunications Bill, 2023 was passed by
+prohibited from operating as category-I authorised
+Parliament.50 The Bill repeals the Indian Telegraph
+dealers. These dealers can undertake all
+Act, 1885, and the Indian Wireless Telegraphy Act,
+permissible current and capital account
+1933.51,52 The Bill also amends the Telecom
+transactions.48 RBI has proposed to allow foreign
+Regulatory Authority of India Act, 1997.53 Key
+banks to operate as category-I authorised dealers.
+features of the Bill include:
+ Eligibility: Entities seeking to upgrade or renew
+ Authorisation for telecom-related activities:
+an existing authorisation as category-II authorised
+Prior authorisation from the central government
+dealers or seeking fresh authorisation as a
+will be required to: (i) provide telecommunication
+category-III authorised dealers must meet certain
+services, (ii) establish, operate, maintain, or expand
+criteria. Category-III authorised dealers can
+telecommunications networks, or (iii) possess
+undertake foreign exchange transactions incidental
+radio equipment. Existing licences will continue
+to their business.48 The eligibility criteria include:
+to be valid for the period of their grant, or for five
+(i) the entity being registered as a company, (ii) its
+years, where the period has not been specified.
+Memorandum of Association including the foreign
+exchange activity for which authorisation is  Assignment of spectrum: Spectrum will be
+sought, and (iii) complying with minimum net assigned by auction, except for specified uses,
+worth requirements. where it will be allocated on an administrative
+basis. These include purposes such as: (i) national
+Comments are invited by January 31, 2024.
+security and defence, (ii) disaster management, (iii)
+weather forecasting, (iv) transport, (v) satellite
+services such as DTH and satellite telephony, and
+(vi) BSNL, MTNL, and public broadcasting
+services. The central government may re-purpose
+or re-assign any frequency range. The central
+- 8-
+Monthly Policy Review – December 2023 PRS Legislative Research
+government may permit sharing, trading, leasing,  Removal of certain privileges of the central
+and surrender of spectrum. government: The Act provides that wherever the
+central government establishes posts, it will have
+ Powers of interception and search: Messages or
+the exclusive privilege of conveying letters by
+a class of messages between two or more persons
+post, as well as incidental services such as
+may be intercepted, monitored, or blocked on
+receiving, collecting, and delivering letters. The
+certain grounds. Such actions must be necessary
+Bill does not provide for such privileges.
+or expedient in the interest of public safety or
+However, the central government will have the
+public emergency, and must be in the interest of
+exclusive privilege of issuing postage stamps.
+specified grounds which include: (i) security of the
+state, (ii) prevention of incitement of offences, or  Power to intercept shipments: The Act allows
+(iii) public order. An officer authorised by the for the interception of shipments being transmitted
+government may search premises or vehicles for through the post on certain grounds. An
+the possession of an unauthorised telecom network interception may be carried out on the occurrence
+or equipment. of any public emergency, or in the interest of
+public safety or tranquillity. Such interceptions
+For a PRS analysis of the Bill, see here.
+may be carried out by the central government, state
+governments, or any authorised officer.
+Bill to regulate newspapers and periodicals
+passed by Parliament  The Bill provides that the interception of a
+shipment being transmitted through post may be
+The Press and Registration of Periodicals Bill, 2023, carried out on the following grounds: (i) security
+was passed by Parliament.54 The Bill repeals the Press of the state, (ii) friendly relations with foreign
+and Registration of Books Act, 1867.55 Key features of states, (iii) public order, emergency, or public
+the Bill include: safety, or (iv) contravention of the provisions of
+the Bill or any other law. An officer empowered
+ Registration of periodicals: The Act provides for
+by the central government through a notification
+the registration of newspapers, periodicals, and
+may carry out an interception.
+books. It also provides for the cataloguing of
+books. The Bill provides for the registration of  Removal of offences and penalties: The Act
+periodicals, which include any publication prescribed penalties for several offences such as
+containing public news, or comments on public theft, misappropriation, and the destruction of
+news. Periodicals do not include books, or postal articles. The Jan Vishwas (Amendment of
+journals of scientific and academic nature. Provisions) Act, 2023, amended the Indian Post
+Office Act, 1898 to remove all offences and
+ Foreign Periodicals: An exact reproduction of a
+penalties.58 The Bill does not provide for any
+foreign periodical may be printed in India only
+offences or consequences, except one. Amounts
+with the prior approval of the central government.
+not paid or neglected by a user will be recoverable
+The manner of registration of such periodicals will
+as arrears of land revenue.
+be prescribed.
+For a PRS analysis of the Bill, see here.
+ Press Registrar General: The Act provides for
+the central government to appoint a Press Registrar
+who maintains a register of newspapers. The Bill
+provides for the Press Registrar General of India
+Education
+who will issue registration certificates for all
+periodicals. Other functions of the Press Registrar
+Rutvik Upadhyaya (rutvik@prsindia.org)
+General include: (i) maintaining a register of
+periodicals, (ii) making guidelines for the
+Parliament passes Bill to establish a Central
+admissibility of the title of periodicals, (iii)
+University in Telangana
+verifying circulation figures of prescribed
+periodicals, and (iv) revising, suspending, or The Central Universities (Amendment) Bill, 2023 was
+cancelling registration. passed by Parliament.59 The Bill amends the Central
+Universities Act, 2009, which establishes central
+For a PRS summary of the Bill, see here.
+universities for teaching and research in various states.
+Bill regulating the functioning of the Post Central Tribal University in Telangana: The Bill
+Office passed by Parliament establishes a Central Tribal University in Telangana. It
+will be named the ‘Sammakka Sarakka Central Tribal
+The Post Office Bill, 2023 was passed by Parliament.56
+University’. Its territorial jurisdiction will extend to
+The Bill repeals and replaces the Indian Post Office
+Telangana. It will provide avenues of higher education
+Act, 1898.57 The Act provides for matters relating to
+and research facilities primarily for the tribal
+the functioning of the Post Office. Key features of the
+population of India. Note that the Andhra Pradesh
+Bill include:
+Reorganisation Act, 2014 provides that the central
+- 9-
+Monthly Policy Review – December 2023 PRS Legislative Research
+government will establish a Tribal University in the generating interest in space research through
+state of Telangana. internships, workshops and outreach programmes.
+For a PRS summary of the Bill, see here.
+Standing Committee submits report on
+Shipping
+Research Based Education in India
+Tanvi Vipra (tanvi@prsindia.org)
+The Standing Committee on Education, Women,
+Children, Youth and Sports (Chairperson: Mr. Vivek
+Vision document on logistics, infrastructure
+Thakur) submitted its report on the ‘Research Based
+and shipping released for 2047
+Education and Anusandhan Scenario in Sciences and
+Related Fields’.60 The Committee reviewed the state of The Ministry of Ports, Shipping and Waterways
+research in higher education and related fields. Key released the Amrit Kaal Vision 2047 for Logistics,
+recommendations of the Committee include: Infrastructure and Shipping.61 The Document seeks to
+promote maritime governance that ensures coordination
+ Overheads: The Committee observed that the
+between stakeholders, administrative authorities, and
+costs associated with maintaining research
+coastal communities.
+infrastructure, such as laboratories and computers,
+are considerable. It noted that current research It identifies 11 key themes, under which action points
+funds disbursed by the government fall short in have been developed. These include: (i) enhancing
+meeting the actual operating expenses. In light of India’s tonnage, (ii) enhancing efficiency through
+this, the Committee recommended public funding technology and innovation, (iii) developing world class
+agencies allocate additional funds for the ports, (iv) becoming a global player in shipbuilding,
+development and maintenance of research repair and recycling, (v) enhancing modal share of
+infrastructure. It also recommended having a coastal shipping and inland water transport, and (vi)
+structured support scheme for catering to promote ocean, coastal and river cruise sector.
+operational costs of research.
+The Document also lays down strategic aspirations for
+ Knowledge-exchange: The Committee Amrit Kaal Vision 2047. Some are listed below:
+recommended that older: (i) Indian Institutes of
+Table 2: Certain strategic aspirations under the
+Technology (IITs), (ii) National Institutes of
+Amrit Kaal Vision 2047 for Logistics, Infrastructure
+Technology (NITs), and (iii) Indian Institutes of
+and Shipping
+Science Education and Research (IISER), guide
+their newly established counterparts in research. It Current 2047
+Parameter
+also extended this suggestion to reputed and well- status Targets
+established Central Universities that are engaged in Carbon neutral ports 0 14
+research. Such mentorship would involve
+India’s rank of passenger
+knowledge-exchange, resource sharing and 4th 1st
+volume in Asia Pacific
+collaboration on research projects. This
+Global rank in ship recycling 2nd 1st
+collaboration would improve the research
+capabilities and standards of new institutions, as Global rank in ship building 22nd Top 5
+well as the country. Number of cruise terminals 6 25
+ Prime Minister’s Research Fellows: The Number of operational
+22 50+
+Fellowship aims to identify and attract the best waterways
+talent in research in India. It grants a fellowship of Number of trans-shipment hub 1 3
+Rs 70,000 – 80,000 per annum, and provides a
+Number of new major ports 0 2
+research grant of two lakh rupees every year. The
+Ports with just-in-time arrival 0% 100%
+Committee noted that the Fellowship has been
+awarded to nearly 3,700 students, since 2018. It Cargo volume handled by Greater
+109
+recommended significantly increasing the number waterways* than 500
+of fellowships offered and grants disbursed. Overall port handling capacity* 2,500+ 10,000+
+ Space Research: The Committee observed that Note: * refers to million metric tonnes per annum.
+Sources: Ministry of Ports, Shipping and Waterways; PRS.
+investing in space research not only drives
+technological advancements but also aids in
+addressing developmental challenges by improving
+the monitoring of natural resources. It
+recommended: (i) introducing specialised courses
+in space sciences, astrophysics, and related fields,
+(ii) establishing collaboration between universities
+and space research organisations, and (iii)
+- 10-
+Monthly Policy Review – December 2023 PRS Legislative Research
+Health Industry
+Rutvik Upadhyaya (rutvik@prsindia.org) Pratinav Damani (pratinav@prsindia.org)
+Standing Committee submits report on Report on the promotion of EVs released
+Ayushman Bharat
+The Standing Committee on Industry (Chair: Mr.
+The Standing Committee on Health and Family Tiruchi Siva) presented its report on ‘Promotion of
+Welfare (Chair: Mr. Bhubaneswar Kalita) submitted its Electric Vehicles in the Country’.63 Key observations
+report on the ‘Implementation of Ayushman Bharat’.62 and recommendations of the Committee include:
+The Committee has made observations on the
+ FAME Scheme: The Faster Adoption and
+Ayushman Bharat - Pradhan Mantri Jan Aarogya
+Manufacturing of Electric (and Hybrid) Vehicles
+Yojana (AB-PMJAY). The AB-PMJAY aims to
+(FAME) in India was started in 2015. The
+provide health cover of five lakh rupees per family per
+objective of FAME-II is to encourage faster
+year for secondary and tertiary care hospitalisation.
+adoption of electric and hybrid vehicles (EVs) by
+The scheme covers around 11 crore poor and
+offering upfront purchase incentives and
+vulnerable families, based on the Socio-Economic
+establishing charging infrastructure. The
+Caste Census, 2011. Key observations and
+Committee noted that the number of vehicles
+recommendations of the Committee include:
+supported under FAME-II was reduced as
+ Allocation: The Committee recommended compared to the initial targets. The Committee
+increasing the overall health expenditure from the noted that more numbers of EVs need to be
+existing level of 2.1% of the GDP. It also supported. Thus, they recommended extending the
+emphasised on improving the utilisation of Scheme by at least three years and broadening its
+available funds to improve the access and quality scope. It also recommended supporting more four-
+of health infrastructure. wheeler EVs under the scheme with a cap based on
+the cost and battery capacity of the vehicle.
+ The Committee observed that barring 2022-23,
+funds under the AB-PMJAY were under-utilised.  Charging infrastructure: The Committee
+It added that annual allocation of Rs 6,000-7,000 observed that 22,000 charging stations have been
+crore as central share is not sufficient for 33 sanctioned under FAME-II; however, 7,432 have
+States/UTs. It recommended: (i) increasing the been set up. Thus, it was recommended that more
+budget allocation of the scheme, and (ii) charging stations should be set up. It was
+subsuming old schemes in the healthcare sector recommended that the setting up of charging
+into the AB-PMJAY. stations should be incentivised for individual
+investors, women self-help groups and cooperative
+ Beneficiaries: The Committee recommended
+societies by offering an assured return. The
+considering aspects of the Affordable Care Act of
+Committee also recommended the Ministry of
+the US for including beneficiaries in the PMJAY.
+Heavy Industries to conduct a study on the
+These include: (i) including sections of the
+feasibility of battery standardisation and formulate
+population lying above the poverty line, (ii)
+a battery swapping technology policy.
+introducing ‘employer mandate’ to provide health
+insurance for employees and their families, and  Cost of EVs: The Committee noted that the cost
+(iii) subsuming schemes for children and senior of ownership for EVs is still relatively higher as
+citizens into the PMJAY. compared to internal combustion engine vehicles.
+The Committee noted that the Income Tax Act,
+ Empanelment: Under the PMJAY, states/UTs
+1961 allows individuals to claim tax savings on
+can empanel public and private healthcare
+interest paid for a loan to purchase an EV.64
+providers from their own jurisdictions. The
+However, this benefit was limited to loans
+Committee observed that the healthcare providers
+approved until March 31, 2023. The Committee
+empanelled under the scheme were: (i)
+recommended extending this benefit till at least
+disproportionately distributed across states, (ii)
+March 31, 2025. The Committee also observed
+small in capacity with several bigger hospitals not
+that almost half the cost of owning an EV comes
+empanelled under the scheme, and (iii) lacking in a
+from the batteries. It recommended reducing the
+wide range of facilities. The Committee
+GST levied on batteries by the central government.
+recommended mandatorily empanelling hospitals
+that: (i) avail tax benefits, (ii) have received land For a PRS summary of the report, see here.
+grants, or (iii) are affiliated with medical colleges.
+- 11-
+Monthly Policy Review – December 2023 PRS Legislative Research
+Labour Housing and Urban Affairs
+Tanvi Vipra (tanvi@prsindia.org) Rutvik Upadhyaya (rutvik@prsindia.org)
+Standing Committee submits report reviewing Parliament passes Bill extending the validity of
+the national child labour policy the Act protecting unauthorised developments
+The Standing Committee on Labour, Textiles and Skill The National Capital Territory of Delhi Laws (Special
+Development (Chair: Mr. Bhartruhari Mahtab) Provisions) Second (Amendment) Bill, 2023 was
+presented its report on ‘National Policy on Child passed by Parliament.66 The Bill amends National
+Labour – An Assessment’.65 The Committee has made Capital Territory of Delhi Laws (Special Provisions)
+several recommendations to Ministries that are directly Second Act, 2011.67 The Act protects unauthorised
+and indirectly involved in eliminating child labour. development and encroachment by specified persons in
+Key observations and recommendations include: the Union Territory of Delhi from punitive action.
+These include slum dwellers, hawkers, unauthorised
+ Prevalence of child labour: As per the 2011
+colonies, schools, religious and cultural institutions,
+Census, which is the latest available data, there are
+and agricultural godowns. It requires the central
+about one crore working children in the age
+government to take certain measures to address these
+bracket of 5-15 years. The Committee suggested
+issues. These include: (i) finalising norms, policy
+that various Ministries coordinate to conduct
+guidelines, and strategies, and (ii) making orderly
+periodic surveys to estimate the number of child
+arrangements for relocation and rehabilitation.
+labourers. Children typically work in the
+unorganised sector, such as in garages, and The Act was initially valid until December 31, 2014,
+construction sites. Some establishments outsource with subsequent amendments extending it until
+manual work to contractors. In case the contractor December 31, 2023. The Bill further extends the
+hires child labour, the principal employer is not validity until December 31, 2026.
+held accountable. The Committee suggested
+For a PRS Summary of the Bill, see here.
+holding the principal employer responsible.
+ Preventing instances of child labour: The
+Committee highlighted that the Social Justice
+Ministry must play a more significant role in Food and Public Distribution
+eliminating child labour. It noted that economic
+upliftment will ultimately prevent children from Tanvi Vipra (tanvi@prsindia.org)
+being engaged in labour. The Committee has
+made several recommendations to strengthen Cabinet approves mandatory use of jute bags
+existing schemes of the Ministry. The for packaging foodgrains
+recommendations include providing free
+The Cabinet Committee on Economic Affairs has
+competitive exam coaching to marginalised
+approved reservation norms for the mandatory use of
+children and rehabilitating individuals with
+jute in packaging.68 These have been made under the
+substance abuse issues. It also recommended that
+Jute Packaging Materials (Compulsory Use in
+the Housing Ministry ensure that existing legal
+Packaging Commodities) Act, 1987.69 As per the
+benefits reach construction workers so that their
+packaging norms, all foodgrains and 20% sugar must
+children are not forced to work.
+be compulsorily packed in jute bags. These norms will
+ Rescuing child labourers: In the past five years, be applicable for the jute year 2023-24, i.e., from July
+about two lakh children engaged in child labour 2023 to June 2024.
+have been rescued. The Committee observed that,
+in comparison, very few FIRs were registered, and
+very few children were produced before Child
+Welfare Committees (a requirement under the Chemicals and Fertilisers
+Juvenile Justice Act, 2015). It suggested
+Tanvi Vipra (tanvi@prsindia.org)
+penalising police officers for not registering FIRs,
+similar to the Protection of Children from Sexual
+Standing Committee submits report on
+Offences Act, 2012.
+promotion and development of pesticides
+For a PRS Summary of the Report, see here.
+The Standing Committee on Chemicals and Fertilizers
+(Chair: Dr. Shashi Tharoor) presented its report on
+‘Insecticides and Pesticides – Promotion and
+Development including Safe Usage: Licensing Regime
+for Insecticides’.70 Pesticides are broadly of four types:
+insecticides, fungicides, herbicides, and bio-pesticides.
+- 12-
+Monthly Policy Review – December 2023 PRS Legislative Research
+Herbicides kill/control the growth of weeds, and have over the last two years, the budget allocated for
+the largest market share at 44%, followed by fungicides research and development to the Department of
+(27%) and insecticides (22%). Key observations and Defence has been lower than the amount sought.
+recommendations of the Committee include: DRDO’s expenditure as a share of total defence
+expenditure has also continuously decreased. The
+ Appropriate body to administer the law:
+Committee recommended that adequate funds
+Pesticides are regulated under the Insecticides Act,
+should be provided to DRDO for research and
+1968. The Act is administered by the Department
+development. Budgetary grants of DRDO should
+of Agriculture and Farmers Welfare, and is kept
+be enhanced for India to become a global leader in
+outside the purview of the Department of
+armament and weapon systems. It expressed
+Chemicals and Petrochemicals. The Committee
+reservations regarding the utilisation of funds for
+noted that the Chemicals Department plays a
+existing research and development (R&D)
+significant role in regulating pesticides since it is
+activities in DRDO. It noted that while defence
+responsible for taking up matters of the
+PSUs approach DRDO for upgrades, they should
+agrochemicals industry. It recommended that the
+also have in-house centres for R&D.
+Chemicals Department take the matter to an
+appropriate forum to administer provisions related  Delayed projects: The Committee expressed
+to agrochemicals. concern that out of 55 projects, 23 could not be
+completed in time. In the past, the Committee has
+ Balancing overuse of pesticides: The Committee
+also noted that several DRDO projects are affected
+noted the importance of pesticides in preventing
+by time and cost overruns. Certain projects were
+agricultural loss. While the Department has taken
+also closed due to change in qualitative
+measures to promote the use of pesticides, the
+requirements or technological obsolescence. As
+Committee noted that their extensive use can be
+per DRDO, the reasons for closure of projects
+harmful. It can pollute the air, water, soil, and the
+include: (i) unanticipated technical complexities,
+overall ecosystem which can cause serious health
+(ii) technological denials, and (iii) price inflation in
+hazards. The Committee recommended that
+capital equipment. The Committee noted that
+pesticide promotion measures be implemented
+projects have been closed despite them being
+stringently to ensure their balanced growth.
+reviewed at various stages. It recommended
+ Encouraging use of pesticides: Pesticide revisiting all review mechanisms as they may be
+consumption in India is 0.5 kg per hectare, causing delays in some cases. Reviews should
+compared to other countries where it is as high as include technical personnel and standard yardsticks
+17 kg per hectare. This is despite India being the to avoid delays and cost overruns.
+second largest producer of agricultural products.
+ Indigenisation: DRDO takes up projects to
+The Committee noted that this suggests that the
+develop new technology and systems based on
+Indian pesticide market is largely unpenetrated. It
+evolving threat perception, among other inputs.
+suggested that the Department study the
+However, India is still dependent on foreign
+agricultural practices in Japan and China, and take
+countries for military platforms. Given the current
+initiatives to boost the industry. The Department
+rate of indigenisation, India may achieve 80%-90%
+noted that pesticide usage of countries like China
+indigenisation in the next 10 years. The
+and Japan is due to their agricultural practices
+Committee noted that continued dependence on
+being more intensive.
+imported weapon systems may discourage the
+For a PRS Summary of the Report, see here. Make in India initiative. It recommended: (i)
+greater professionalism in defence planning, (ii)
+management of research and development, and (iii)
+prioritisation on self-reliance.
+Defence
+For a PRS summary of the report, see here.
+Tushar Chakrabarty (tushar@prsindia.org)
+Standing Committee submits report on
+External Affairs
+working of DRDO
+The Standing Committee on Defence (Chair: Mr. Jual Committee Report on G-20 released
+Oram) presented its report on ‘A Review of the
+Pratinav Damani (pratinav@prsindia.org)
+Working of the Defence Research and Development
+Organisation (DRDO)’.71 DRDO is involved in
+The Standing Committee on External Affairs (Chair:
+developing indigenous defence systems for the armed
+Mr. P.P. Chaudhary) presented its report on ‘India’s
+forces. Key observations and recommendations of the
+Engagement with G20 Countries’.72 India hosted the
+Committee include:
+18th G-20 Summit on September 9-10, 2023. Key
+ Research budget: The Committee observed that observations and recommendations include:
+- 13-
+Monthly Policy Review – December 2023 PRS Legislative Research
+ Crypto assets framework: The Committee noted agreements and collaborate with these countries
+that most G20 member countries do not have a for India’s energy security.
+comprehensive regulatory framework for crypto
+ Renewable energy: GCC countries want to invest
+assets. The G20 countries have adopted a
+in India in natural gas, green hydrogen, and clean
+synthesis paper by the IMF and Financial Stability
+energy technologies. Indian PSUs have also
+Board on regulatory framework on crypto assets.
+invested in green energy/technologies in GCC
+The Committee urged the government to evaluate
+countries. The Committee recommended that
+recommendations of the paper and bring a
+Indian PSUs may be incentivised to invest in GCC
+comprehensive regulatory framework for crypto
+countries in these sectors. It further noted that
+assets. The Committee also urged the government
+Kuwait and Qatar are yet to join the International
+to introduce a crypto asset reporting framework
+Solar Alliance (ISA). The Committee
+with G20 members. This will ensure that non-
+recommended that efforts should be made to
+financial assets are not used to evade taxes.
+persuade the two countries to soon join the ISA.
+ India-Middle East-Europe Economic Corridor
+For a PRS summary please see here.
+(IMEC): The IMEC is a network aiming to
+connect goods and services between Europe and
+Asia. It was launched during the G20 Summit in
+India. The IMEC envisages a rail corridor, digital
+Petroleum
+and electric connectivity, and pipelines for clean
+hydrogen export. The Committee recommended
+Tushar Chakrabarty (tushar@prsindia.org)
+that the corridor should be made functional as per
+the timelines to facilitate economic integration
+Standing Committee submits report on import
+between Asia, the Arabian Gulf and Europe.
+of crude oil
+ Global Biofuels Alliance: The Global Biofuels
+The Standing Committee on Petroleum and Natural
+Alliance was launched at the sidelines of the G20
+Gas (Chair: Mr. Ramesh Bidhuri) submitted its report
+Summit with the intent to expedite the uptake of
+on ‘Review of Policy on Import of Crude Oil’.74 Key
+biofuels. This is intended to be achieved through:
+recommendations of the Committee include:
+(i) technology advancements, (ii) intensifying
+utilisation of sustainable biofuels, and (iii) setting  Diversification of sources: A majority of India’s
+standards and certifications. The Committee noted hydrocarbon imports are sourced from the Middle
+that the ethanol market is predicted to grow at a East region which is prone to geo-political
+fast pace creating an opportunity for India. It tensions. This can disrupt supply. The Committee
+recommended that the government address any noted that over-dependence on any region for
+challenges that come in the way of the Alliance by crude oil and gas supplies can impact India’s
+constant engagement with the members. energy security. It recommended that the Ministry
+of Petroleum and Natural Gas take steps to
+Standing Committee submits report on India diversify the imports of crude oil and gas.
+and the Gulf Cooperation Council
+ Reducing import dependence: India imported
+Arpita Mallick (arpita@prsindia.org) about 87% of its crude oil consumption in 2022-
+23. The Committee observed that the demand for
+The Standing Committee on External Affairs (Chair: petroleum products is likely to increase in the
+Mr. P.P. Chaudhary) submitted its report on ‘India and future. The government has prepared a roadmap to
+Gulf Cooperation Council (GCC) – Contours of reduce dependence on imports in energy. It
+Cooperation’.73 The GCC organisation comprises of provides for: (i) increasing domestic production,
+six countries (Saudi Arabia, United Arab Emirates, (ii) promotion of bio-fuel and renewable energy,
+Oman, Kuwait, Qatar, and Bahrain). It seeks to (iii) promoting energy efficiency, and (iv)
+achieve coordination and integration in various fields improvement in the refinery process. The
+among its members. Key recommendations and Committee recommended that the Ministry
+observations of the Committee include: promote green hydrogen, electric vehicles, and bio-
+fuels. It recommended that the Ministry set up an
+ Strengthening energy security: The Committee
+interdisciplinary group of experts to design policy
+observed that GCC contributes to 35% of India’s
+measures for reducing demand for fossil fuels.
+oil imports and 70% of gas imports. India is
+executing the second phase of its Strategic  Spot and term contracts: Crude oil contracts are
+Petroleum Reserve (SPR). Several GCC countries done through term contracts and spot tenders.
+have expressed their interest in it. The Committee Term contracts provide energy security as it
+recommended that the government should actively provides for assured volumes over an agreed
+engage with the GCC countries to secure their period (for a year or more). Oil PSUs undertake
+participation in the second phase of the SPR. The spot purchases to meet requirements not covered
+government should also consider signing more under term contracts. Generally, spot tenders tend
+- 14-
+Monthly Policy Review – December 2023 PRS Legislative Research
+to be available at cheaper prices than term The agency must submit a bank guarantee of the
+contracts. The Committee noted that the share of equivalent amount for availing advance.
+spot purchases has increased from 27.6% in 2017-
+18 to 35.1% in 2022-23. It recommended that the Draft Amendments to specify the average sale
+Ministry should conduct a study/audit to determine price of certain strategic minerals, released
+whether purchases in spot tenders have resulted in
+cheaper cost. The Ministry of Mines released Draft Amendments to
+the Minerals (Other than Atomic and Hydro Carbons
+For a PRS summary of the report, see here. Energy Mineral) Concession Rules, 2016 for public
+feedback.78,79 The Rules lay down the processes and
+criteria for acquiring licences and leases. The draft
+Rules have been framed under the Mines and Minerals
+Mines
+(Development and Regulation) Act, 1957.76
+Mandvi Gaur (mandvi@prsindia.org) In October 2023, the 2016 Rules were amended to
+specify the manner of calculation of Average Sale Price
+Scheme for engagement of private agencies for (ASP) for certain critical and strategic minerals.80
+exploration of strategic minerals notified These include such as lithium, platinum, rare earth
+elements, and niobium. The Draft amendments seek to
+The Ministry of Mines notified the scheme for the
+specify the manner of calculation of ASP for certain
+engagement of private agencies for the exploration of
+other critical and strategic minerals. These include
+critical and strategic minerals.75 Critical and strategic
+beryllium, cadmium, gallium, selenium, titanium, and
+minerals have been specified in the Schedule to the
+vanadium. Critical and strategic minerals have been
+Mines and Minerals (Development and Regulation)
+specified in the Schedule to the Act. ASP is a key
+Act, 1957.76 These include lithium, nickel, cobalt,
+parameter for determining auction premium.
+selenium, platinum, and gold. The scheme seeks to
+boost the exploration of such minerals and provide The Draft Amendments provide that the average sale
+funding for exploration operations through the National prices for the specified minerals will be based on the
+Mineral Exploration Trust (NMET). Key features of prices published by the United States Geological
+the scheme include: Survey or other reputable sources. The Indian Bureau
+of Mines will publish the ASP for these minerals. The
+ Process for approval: Interested agencies may
+draft amendments specify multipliers for certain
+select the area for exploration based on geoscience
+minerals to arrive at the final price from the prices of
+data and submit a proposal to the National Mineral
+related compounds. These include tungsten, beryllium,
+Exploration Trust (NMET). Within one month of
+and tantalum.
+receiving the application, NMET will forward the
+proposal to the Geological Survey of India and
+Comments invited on Rules regarding
+concerned state governments for their comments.
+concessions for minerals in offshore areas
+The comments should be provided within a month.
+Once the period for comments is over, NMET The Ministry of Mines released two draft rules: (i) the
+must grant in-principle approval or reject the Offshore Areas Mineral (Auction) Rules, 2023 and (ii)
+applications within 15 days. Upon the in-principle the Offshore Areas Minerals (Existence of Mineral
+approval, the agency must submit a detailed Resources) Rules, 2023. These have been issued under
+proposal for NMET's final sanction. the Offshore Areas Mineral (Development and
+Regulation) Act, 2002.81,82 The Act regulates mining in
+ Terms and conditions regarding mineral
+maritime zones. Key features of the draft Rules are:
+concessions: The approval for exploration will not
+provide any rights for mineral concessions,  Auction for granting concessions: The following
+including a mining lease. However, the agency concessions for minerals in offshore areas will be
+may participate in the auction of mineral granted through a competitive bidding process: (i)
+concessions over the block or a part it has composite licence, which grants rights for
+explored. Any related party to the authorised exploration as well as mining, and (ii) production
+agency participating in the auctions must be lease, for undertaking mining. For auctions of
+declared in advance. these concessions, a reserve price will be specified.
+The reserve price will be in terms of the minimum
+ Advance for exploration projects: NMET will
+percentage of the value of the mineral dispatched.
+fund the projects approved under this scheme as
+The value of the mineral will be equal to the
+per the established norms. It will cover various
+product of minerals dispatched in a month and the
+stages of investigation of these exploration projects
+sale price of the mineral published by the Indian
+such as reconnaissance survey, preliminary
+Bureau of Mines.
+exploration, general exploration, and detailed
+exploration.77 The authorised agency may avail up  Identification of areas for concessions: A
+to 30% of the project cost from NMET as advance. production lease may be granted for an area for
+- 15-
+Monthly Policy Review – December 2023 PRS Legislative Research
+which at least general exploration has been advice or within 15 days overall. The Rules
+completed, and a geological study report has been prohibit export to a country which has not adopted
+prepared. General exploration establishes the main the Convention on International Trade in
+geological features of a deposit. It includes an Endangered Species.
+initial estimate of the size, shape, and structure of
+ Cancellation of permit: The Management
+mineralised zones, and the quantity and grade of
+Authority may cancel a permit on grounds such as:
+the mineral deposit.
+(i) potential commercial use of the specimen, (ii)
+ A composite licence may be granted for an area for inability of the recipient to care for certain species
+which: (i) at least the reconnaissance survey has such as sea turtles, and river dolphins, and (iii) not
+been completed, or mineral potential of the mineral minimising risks while handling living specimens
+block has been identified based on existing such as striped civet, and pigmy hippopotamus.
+geoscience data but resources are yet to
+established, and (ii) a geological study report has
+been prepared. Reconnaissance refers to a
+preliminary survey to locate mineral resources. Consumer Affairs
+Comments are invited until January 25, 2024.
+Mandvi Gaur (mandvi@prsindia.org)
+Standing Committee submits report on
+protection of consumer rights in northeast
+Environment
+The Standing Committee on Consumer Affairs, Food
+Mandvi Gaur (mandvi@prsindia.org) and Public Distribution (Chair: Ms. Locket Chatterjee)
+submitted its report on ‘Initiatives in the North East in
+Wild Life (Protection) International Trade of the Field of Consumer Rights Protection’.85 Key
+Specimen Rules, 2023 notified recommendations of the Committee include:
+The Ministry of Environment, Forest and Climate  Consumer Protection Councils: The Consumer
+Change notified Rules to regulate the international Protection Councils safeguard consumer interests
+trade of certain plant and animal specimens.83 These by monitoring and enforcing consumer protection
+Rules have been made under the Wild Life (Protection) laws, facilitating consumer education, and advising
+Act, 1972.84 The Act prohibits the international trade government on consumer protection issues. The
+of endangered species of wild fauna and flora, except Committee observed that the State and District
+with a valid permit or certificate. The Rules specify the Consumer Protection Councils in the north east are
+conditions for granting such permits. Key features of not functioning as required under the law. They
+the Rules are as follows: have either not been set up or they do not meet
+regularly. It recommended that the central
+ Trading permit: A permit may be granted for
+government ensure their effective establishment
+import, export, or re-export of endangered plant
+and regular functioning.
+and animal specimens. The Management
+Authority established under the Act will be  Consumer Commissions: The central
+responsible for granting these permits. An government is running two schemes to strengthen
+application must be submitted with documents the infrastructure of the Consumer Commissions in
+such as a legal procurement certificate. An export the north-east region. Consumer Commissions
+and re-export permit will be valid for six months have been set up at the district, state, and national
+and an import permit will be valid for 12 months. levels to resolve disputes. The Committee
+observed that in 2022-23, only four northeastern
+ Survival assessment study: Before granting an
+states had sought financial assistance under these
+import permit, the Management Authority must
+schemes. It recommended the Ministry to: (i)
+refer an application to the Scientific Authority for a
+assess the functioning and infrastructure
+survival assessment and to verify whether the
+availability of Consumer Commissions in the north
+recipient is equipped to care for the specimen. The
+east, and (ii) provide necessary central assistance
+Scientific Authority is a research institute notified
+under the schemes.
+by the central government. In case of an export
+permit, a survival assessment may be conducted  Labs for legal metrology: India has six regional
+for specified animals such as Asian elephants, labs for legal metrology. Legal metrology refers to
+Indian python and gibbon if no such study has standards for weights and measures. In the
+been previously conducted. In both cases, the northeast, only Assam has such a lab. Considering
+Scientific Authority must respond with advice
+within 30 days.
+ The Management Authority must accept or reject
+the application within 15 days of receiving the
+- 16-
+Monthly Policy Review – December 2023 PRS Legislative Research
+the geographical size of the northeast, the WDRA for enhanced coordination with state
+Committee recommended establishing more labs. warehousing corporations.
+Standing Committee submits report on the
+functioning of the warehousing authority
+Road Transport and Highways
+The Standing Committee on Consumer Affairs, Food
+and Public Distribution (Chair: Ms. Locket Chatterjee) Tanvi Vipra (tanvi@prsindia.org)
+submitted its report on ‘Functioning of Warehousing
+Development and Regulatory Authority (WDRA)’.86 Rules amended to mandate air-conditioned
+WDRA is a statutory body responsible for the cabins in goods transport vehicles
+regulation and development of warehousing businesses
+The Ministry of Road Transport and Highways
+in the country. Key observations and recommendations
+amended the Central Motor Vehicles Rules, 1989.87,88
+of the Committee include:
+The Rules have been made under the Motor Vehicles
+ Waiver of registration fees: Warehouses that Act, 1988, and provide for testing and approvals of
+intend to issue negotiable warehouse receipts vehicles.89 The Rules add that specified good transport
+(NWR) must be registered with WDRA. NWR vehicles that are manufactured on or after October 2025
+indicate the storage of goods in the warehouse. It must be fitted with air-conditioned cabins. Specified
+allows for the transfer of ownership without having good transport vehicles include those whose weight is
+to deliver goods physically. A fee is applicable for between 3.5 and 12 tonnes. For drive away chassis,
+the registration of warehouses. This fee has been i.e., a vehicle frame that can be driven, the chassis
+waived for warehouses storing only agricultural manufacturer must supply an air conditioning system
+goods until October 2025. In contrast, warehouses kit as per specified standards.
+storing non-agricultural goods, or both agricultural
+and non-agricultural goods, are subject to a
+registration fee ranging between Rs 50,000 and
+one lakh rupees. The Committee recommended
+waiving fees for them to encourage registration.
+ Establishing regional offices: The Committee
+recommended opening regional offices of the
+1 Developments in India’s Balance of Payments during the Second 10 Report No. 248, ‘The Bhartiya Sakshya Bill, 2023’, The Standing
+Quarter (July-September) of 2023-24, Reserve Bank of India, Committee on Home Affairs, Rajya Sabha, November 10, 2023,
+December 26, 2023, https://prsindia.org/files/bills_acts/bills_parliament/2023/SC_Report_
+https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1541BOP2F8D Bharatiya_Sakshya_Bill_2023.pdf
+9332E18B45B7A3CFEA09D087A8C6.PDF. 11 The Jammu and Kashmir Reorganisation (Amendment) Act, 2023,
+2 The Bharatiya Nyaya Sanhita, 2023, https://egazette.gov.in/(S(qhylxpamjdu1qk4giekgb2lq))/ViewPDF.as
+https://egazette.gov.in/(S(etn2xtmrt1tpds5cj4fflzmm))/ViewPDF.asp px.
+x 12 The Jammu and Kashmir Reorganisation Act, 2019,
+The Bharatiya Nagrik Suraksha Sanhita, 2023, https://www.indiacode.nic.in/bitstream/123456789/12030/1/A2019-
+https://egazette.gov.in/(S(etn2xtmrt1tpds5cj4fflzmm))/ViewPDF.asp 34.pdf.
+x 13 The Jammu and Kashmir Reorganisation (Second Amendment)
+4 The Bharatiya Sakshya Adhiniyam, 2023, Bill, 2023,
+https://egazette.gov.in/(S(etn2xtmrt1tpds5cj4fflzmm))/ViewPDF.asp https://prsindia.org/files/bills_acts/bills_parliament/2023/Jammu_and
+x _Kashmir_Reorganisation_(Second_Amendment)_Bill_2023.pdf .
+5 The Indian Penal Code, 1860, 14 The Jammu and Kashmir Reservation (Amendment) Act, 2023,
+https://www.indiacode.nic.in/bitstream/123456789/2263/1/a https://egazette.gov.in/(S(qhylxpamjdu1qk4giekgb2lq))/ViewPDF.as
+A1860-45.pdf px.
+6 The Code of Criminal Procedure, 1973, 15 The Jammu and Kashmir Reservation Act, 2004,
+https://www.indiacode.nic.in/bitstream/123456789/15272/1/the_code https://www.indiacode.nic.in/bitstream/123456789/16529/1/reservati
+_of_criminal_procedure%2C_1973.pdf. on_act%2C_2004.pdf.
+7 The Indian Evidence Act, 1872, 16 The Government of Union Territories Amendment Bill, 2023,
+https://www.indiacode.nic.in/bitstream/123456789/15351/1/iea_1872 https://prsindia.org/files/bills_acts/bills_parliament/2023/Government
+.pdf. _of_Union_Territories_(Amendment)_Bill_2023.pdf
+8 Report No. 248, ‘The Bharatiya Nyaya Sanhita, 2023’, The 17 The Government of Union Territories Act, 1963,
+Standing Committee on Home Affairs, Rajya Sabha, November 10, https://www.indiacode.nic.in/bitstream/123456789/1546/1/A1963-
+2023, 20.pdf
+https://prsindia.org/files/bills_acts/bills_parliament/2023/SC_Report_ 18 The Chief Election Commissioner And Other Election
+Bharatiya_Nyaya_Sanhita_2023.pdf Commissioners (Appointment, Conditions Of Service And Term Of
+9 Report No. 248, ‘The Bharatiya Nagrik Suraksha Sanhita, 2023’, Office) Bill, 2023,
+The Standing Committee on Home Affairs, Rajya Sabha, November https://prsindia.org/files/bills_acts/bills_parliament/2023/Bill_Text_C
+10, 2023, hief_Election_Commissioner_and_other_Election_Commissioners_B
+https://prsindia.org/files/bills_acts/bills_parliament/2023/SC_Report_ ill_2023.pdf.
+Bharatiya_Nagarik_Suraksha_Sanhita_2023.pdf
+- 17-
+Monthly Policy Review – December 2023 PRS Legislative Research
+2023/consultation-paper-on-review-of-provisions-of-ncs-regulations-
+and-lodr-regulations-for-ease-of-doing-business-and-introduction-of-
+19 Amendments to the 2023 Bill,
+fast-track-public-issuance-of-debt-securities_79762.html.
+https://prsindia.org/files/bills_acts/bills_parliament/2023/Amendment
+%20to%20CEC%20Bill%202023.pdf. 41 SEBI (Issue and Listing of Non-Convertible Securities)
+Regulations, 2021, https://www.sebi.gov.in/legal/regulations/jul-
+20 The Chief Election Commission (Conditions of Service of Election
+2023/web-upload-of-the-securities-and-exchange-board-of-india-
+Commissioners and Transaction of Business) Act, 1991,
+issue-and-listing-of-non-convertible-securities-regulations-2021-last-
+https://www.indiacode.nic.in/bitstream/123456789/1965/1/A1991-
+amended-on-july-6-2023-_73664.html.
+11.pdf.
+42 SEBI (Listing Obligations and Disclosure Requirements)
+21 The Repealing and Amending Bill 2022,
+Regulations, 2015, https://www.sebi.gov.in/legal/regulations/oct-
+http://164.100.47.4/BillsTexts/LSBillTexts/Asintroduced/290_2022_
+2023/securities-and-exchange-board-of-india-listing-obligations-and-
+LS_Eng1219202255443PM.pdf.
+disclosure-requirements-regulations-2015-last-amended-on-october-
+22 The Factoring Regulation Act, 2011,, 23-2023-_78921.html.
+https://www.indiacode.nic.in/bitstream/123456789/2116/1/AA2012_
+43 Draft Framework for Comments, Omnibus Framework for
+_12.pdf.
+recognising Self-Regulatory Organisations (SROs) for Regulated
+23 The Advocates (Amendment) Bill, 2023, Entities (REs) of the Reserve Bank of India, Reserve Bank of India,
+https://sansad.in/getFile/BillsTexts/RSBillTexts/PassedRajyaSabha/a December 21, 2023,
+dvocate%20amend-E842023112014AM.pdf?source=legislation. https://rbidocs.rbi.org.in/rdocs/PublicationReport/Pdfs/DRAFTOMNI
+24 The Advocates Act, 1961, BUSSRO7DD12CE1D89C423E9F62BC0422B08401.PDF.
+https://www.indiacode.nic.in/bitstream/123456789/1631/1/A1961_25 44 RBI invites comments on the ‘Draft Omnibus Framework for
+.pdf. recognising Self-Regulatory Organisations for its Regulated Entities’,
+25 The Legal Practitioners Act, 1879, Reserve Bank of India, December 21, 2023,
+https://lddashboard.legislative.gov.in/sites/default/files/A1879- https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1519OMNIBU
+18.pdf. SSRO254DEA40598A429B98F2BFDB8314689B.PDF.
+26 Writ Petition (Civil) No. 1099 of 2019, Supreme Court, December 45 Rationalisation of Licensing Framework for Authorised Persons
+11, 2023, https://main.sci.gov.in/pdf/LU/article_370.pdf. (APs) under Foreign Exchange Management Act (FEMA), 1999,
+27 Article 370, Constitution of India, Reserve Bank of India, December 26, 2023,
+https://lddashboard.legislative.gov.in/sites/default/files/COI...pdf. https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1543FEMAB5
+28 ‘Parliament approves Resolution to abrogate Article 370; paves 69920F99BC416A8CF2EC0CCD369521.PDF.
+way to truly integrate J&K with Indian Union’, Press Information 46 Review of Authorisation Framework under FEMA, Reserve Bank
+Bureau, August 6, 2019, of India, December 26, 2023,
+https://pib.gov.in/pressreleaseshare.aspx?prid=1581391. https://rbidocs.rbi.org.in/rdocs/Content/PDFs/FEMALICENSINGFR
+29 The Jammu and Kashmir Re-organisation Act, 2019, AMEWORK14AEB46A5EB84D6CA0CC9C93C4438774.PDF.
+https://prsindia.org/files/bills_acts/bills_parliament/2019/Jammu%20 47 The Foreign Exchange Management Act, 1999,
+and%20Kashmir%20Reorganisation%20Act,%202019.pdf. https://www.indiacode.nic.in/bitstream/123456789/1988/1/A1999_42
+30 Report No. 140, “Appointment of Notaries”, Standing Committee .pdf.
+on Personnel, Public Grievances, Law and Justice, December 11, 48 Money Changing Activities, Reserve Bank of India, as accessed on
+2023, December 27, 2023,
+https://sansad.in/getFile/rsnew/Committee_site/Committee_File/Repo https://www.rbi.org.in/commonperson/English/Scripts/FAQs.aspx?Id
+rtFile/18/191/140_2023_12_15.pdf?source=rajyasabha. =24.
+31 The Provisional Collection of Taxes Bill, 2023, 49 Consultation paper on ‘Introduction of optional T+0 and optional
+https://sansad.in/getFile/BillsTexts/LSBillTexts/PassedLoksabha/158 Instant Settlement of Trades in addition to T+1 Settlement Cycle in
+_C_2023_LS_Eng12202023101326AM.pdf?source=legislation. Indian Securities Markets', Securities and Exchange Board of India,
+32 The Provisional Collection of Taxes Act, 1931, December 22, 2023, https://www.sebi.gov.in/reports-and-
+https://www.indiacode.nic.in/bitstream/123456789/2392/1/A1931- statistics/reports/dec-2023/consultation-paper-on-introduction-of-
+16.pdf. optional-t-0-and-optional-instant-settlement-of-trades-in-addition-to-
+t-1-settlement-cycle-in-indian-securities-markets-_80204.html.
+33 The Central Goods and Services Tax (Second Amendment) Bill,
+2023, 50 The Telecommunications Bill, 2023,
+https://sansad.in/getFile/BillsTexts/LSBillTexts/PassedLoksabha/159 https://egazette.gov.in/WriteReadData/2023/250880.pdf.
+_C_2023_LS_Eng12202023101349AM.pdf?source=legislation. 51 The Indian Telegraph Act, 1885,
+34 The Central Goods and Services Tax Act, 2017, https://www.indiacode.nic.in/bitstream/123456789/13115/1/indiantel
+https://www.indiacode.nic.in/bitstream/123456789/15689/1/A2017- egraphact_1885.pdf.
+12.pdf. 52 The Indian Wireless Telegraphy Act, 1933,
+35 Resolution of the Monetary Policy Committee (MPC), Monetary https://www.indiacode.nic.in/bitstream/123456789/15410/1/the_india
+Policy Statement, 2023-24, December 8, 2023, n_wireless_telegraphy_act%2C_1933.pdf.
+https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1438ABAF9A 53 The Telecom Regulatory Authority of India Act, 1997,
+A87F6345369F5B387E1749E0F7.PDF. https://www.indiacode.nic.in/bitstream/123456789/1929/1/AA1997_
+36 Exposure Draft Product Regulations 2023, Insurance Regulatory _24tele.pdf.
+and Development Authority of India, December 12, 2023, 54 The Press and Registration of Periodicals Bill, 2023,
+https://irdai.gov.in/web/guest/document- https://sansad.in/getFile/BillsTexts/RSBillTexts/PassedRajyaSabha/P
+detail?documentId=4243364. ress%20&%20registration-
+37 Insurance Regulatory and Development Authority of India (Micro E842023111925AM.pdf?source=legislation.
+Insurance) Regulations, 2015, https://irdai.gov.in/document- 55 The Press and Registration of Books Act, 1867,
+detail?documentId=617801. https://www.indiacode.nic.in/bitstream/123456789/2272/3/AA1867-
+38 Insurance Regulatory and Development Authority of India (Health 25.pdf.
+Insurance) Regulations, 2016, https://irdai.gov.in/document- 56 The Post Office Bill, 2023, December 18, 2023,
+detail?documentId=602887. https://sansad.in/getFile/BillsTexts/RSBillTexts/PassedRajyaSabha/E
+39 Insurance Regulatory and Development Authority of India (Unit V%20Post%20Office%20Bill125202365314PM.pdf?source=legislati
+Linked Insurance Products) Regulations, 2019, on.
+https://irdai.gov.in/document-detail?documentId=604874. 57 The Indian Post Office Act, 1898, March 22, 1898,
+40 Consultation paper on review of provisions of NCS Regulations https://www.indiacode.nic.in/bitstream/123456789/2329/1/A1898-
+and LODR Regulations for ease of doing business and introduction 06.pdf
+of fast track public issuance of debt securities, SEBI, December 9,
+2023, https://www.sebi.gov.in/reports-and-statistics/reports/dec-
+- 18-
+Monthly Policy Review – December 2023 PRS Legislative Research
+74 Report no. 23, Standing Committee on Petroleum and Natural Gas:
+‘Review of Policy on Import of Crude Oil’, Lok Sabha, December
+58 The Jan Vishwas (Amendment of Provisions) Act, 2023, Ministry
+20, 2023,
+of Commerce and Industry, August 11,
+https://sansad.in/getFile/lsscommittee/Petroleum%20&%20Natural%
+2023, https://sansad.in/getFile/BillsTexts/LSBillTexts/PassedBothHo
+20Gas/17_Petroleum_And_Natural_Gas_23.pdf?source=loksabhadoc
+uses/Jan%20vishwas818202331041PM.pdf?source=legislation .
+s.
+59 Central Universities Amendment Bill, 2023, 75 Scheme for engagement of Notified Private Exploration Agencies
+https://prsindia.org/files/bills_acts/bills_parliament/2023/Central_uni
+in Mineral Exploration directly through National Mineral Exploration
+versities_(A)_bill,2023.pdf
+Trust, Ministry of Mines, December 12, 2023,
+60 ‘Research Based Education and Anusandhan Scenario in Sciences https://mines.gov.in/admin/storage/app/uploads/657aacdbd9b691702
+and Related Fields’, Standing Committee on Education, Women, 538459.pdf.
+Children, Youth and Sport, December 12, 2023, 76 The Mines and Minerals (Development and Regulation) Act, 1957,
+https://sansad.in/getFile/rsnew/Committee_site/Committee_File/Repo
+https://ibm.gov.in/writereaddata/files/07102014115602MMDR%20A
+rtFile/16/189/358_2023_12_12.pdf?source=rajyasabha.
+ct%201957_10052012.pdf.
+61 Maritime Amrit Kaal Vision 2047, Ministry of Ports Shipping, and 77 Schedule of Charges for Projects Funded through National Mineral
+Waterways, December 2023,
+Exploration Trust, Ministry of Mines, March 31, 2020,
+https://shipmin.gov.in/sites/default/files/Maritime%20Amrit%20Kaal
+https://nmet.gov.in/upload/uploadfiles/files/Schedule-of-Charges-
+%20Vision%202047%20%28MAKV%202047%29_compressed_0.p
+(SoC)_NMET_Ministry-of-Mines.pdf.
+df.
+78 The Minerals (Other than Atomic and Hydro Carbons Energy
+62 Report no. 151, Standing Committee on Health and Family
+Mineral) Concession (Second Amendment) Rules, 2023, Ministry of
+Welfare: ‘Implementation of Ayushman Bharat’, Rajya Sabha,
+Mines, December 1, 2023,
+December 19, 2023,
+https://mines.gov.in/admin/storage/app/uploads/65698b88419221701
+https://sansad.in/getFile/rsnew/Committee_site/Committee_File/Repo
+415816.pdf.
+rtFile/14/187/151_2023_12_19.pdf?source=rajyasabha
+79 The Minerals (Other than Atomic and Hydro Carbons Energy
+63 Report No. 324, Standing Committee on Industry: ‘Promotion of
+Mineral) Concession Rules, 2016, Ministry of Mines, March 4, 2016,
+Electric Vehicles in the Country’, Rajya Sabha, December 20, 2023,
+https://ibm.gov.in/writereaddata/files/10202016094948MCR_2016_1
+https://sansad.in/getFile/rsnew/Committee_site/Committee_File/Repo
+8092016%20from%20SKS.pdf.
+rtFile/17/190/324_2023_12_14.pdf?source=rajyasabha.
+80 G.S.R. 737(E), ‘The Minerals (Other than Atomic and Hydro
+64 Section 80 (EE)(B), Income Tax Act, 1961,
+Carbons Energy Mineral) Concession (Amendment) Rules, 2023’,
+https://incometaxindia.gov.in/pages/acts/income-tax-act.aspx.
+The Gazette of India, Ministry of Mines, October 12, 2023,
+65 Report No. 52, ‘National Policy on Child Labour – An https://mines.gov.in/admin/storage/app/uploads/652cc16a446b81697
+Assessment’, Standing Committee on Labour Textiles and Skill 431914.pdf.
+Development, Lok Sabha, December 20, 2023,
+81 No. M. VI-1/7/2023-Mines VI, Ministry of Mines, December 26,
+https://sansad.in/getFile/lsscommittee/Labour,%20Textiles%20and%
+2023,
+20Skill%20Development/17_Labour_Textiles_and_Skill_Developme
+https://mines.gov.in/admin/storage/app/uploads/658a8594434501703
+nt_52.pdf?source=loksabhadocs.
+576980.pdf.
+66 The National Capital Territory of Delhi Laws (Special Provisions)
+82 The Offshore Areas Minerals (Development and Regulation) Act,
+Second (Amendment) Bill, 2023,
+2002,
+https://prsindia.org/files/bills_acts/bills_parliament/2023/NCT_of_De
+https://www.indiacode.nic.in/bitstream/123456789/2040/3/A2003-
+lhi_Laws_(Special_Provisions)_Second_(Amendment)_Bill_2023.pd
+17.pdf.
+f
+83 S.O. 5408 (E), Ministry of Environment, Forest and Climate
+67 The National Capital Territory of Delhi Laws (Special Provisions)
+Change, eGazette, December 21, 2023,
+Second Act, 2011,
+https://egazette.gov.in/WriteReadData/2023/250841.pdf.
+https://lddashboard.legislative.gov.in/sites/default/files/A2011-
+20_0.pdf 84 The Wild Life (Protection) Act, 1972, Ministry of Environment,
+Forest and Climate Change,
+68 “Cabinet Committee on Economic Affairs approves reservation
+https://www.indiacode.nic.in/bitstream/123456789/1726/1/a1972-
+norms for Jute Packaging Materials for Jute Year 2023-24 under JPM
+53.pdf.
+Act, 1987”, Cabinet Committee on Economic Affairs, Press
+Information Bureau, December 8, 2023, 85 Report no. 37, Standing Committee on Food, Consumer Affairs
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1984208. and Public Distribution: “Initiatives in the North East in the field of
+Consumer Rights Protection”, December 19, 2023,
+69 The Jute Packaging Materials (Compulsory Use In Packaging
+https://sansad.in/getFile/lsscommittee/Consumer%20Affairs,%20Foo
+Commodities) Act, 1987,
+d%20and%20Public%20Distribution/17_Consumer_Affairs_Food_a
+https://www.indiacode.nic.in/bitstream/123456789/1882/2/A1987-
+nd_Public_Distribution_37.pdf?source=loksabhadocs.
+10.pdf.
+86 Report no. 38, Standing Committee on Consumer Affairs, Food
+70 Report No. 46, ‘Insecticides and Pesticides – Promotion and
+and Public Distribution: ‘Functioning of Warehousing Development
+Development including Safe Usage: Licensing Regime for
+and Regulatory Authority (WDRA)’, Lok Sabha, December 19,
+Insecticides’, Standing Committee on Chemicals and Fertilizers, Lok
+2023,
+Sabha, December 19, 2023,
+https://sansad.in/getFile/lsscommittee/Consumer%20Affairs,%20Foo
+https://sansad.in/getFile/lsscommittee/Chemicals%20&%20Fertilizer
+d%20and%20Public%20Distribution/17_Consumer_Affairs_Food_a
+s/17_Chemicals_And_Fertilizers_46.pdf?source=loksabhadocs.
+nd_Public_Distribution_38.pdf?source=loksabhadocs.
+71 Report no. 42, Standing Committee on Defence: ‘A Review of the
+87 CG-DL-E-09122023-250528, Central Motor Vehicles (Tenth
+Working of the Defence Research and Development Organisation
+Amendment) Rules, 2023,
+(DRDO)’, Lok Sabha, December 20, 2023,
+https://egazette.gov.in/(S(5ustc1n4azfrbln5bpo0q4fe))/ViewPDF.asp
+https://sansad.in/getFile/lsscommittee/Defence/17_Defence_42.pdf?s
+x.
+ource=loksabhadocs.
+88 The Central Motor Vehicles Rules, 1989,
+72 Report No. 27, Standing Committee on External Affairs: ‘India’s
+https://transport.mizoram.gov.in/uploads/attachments/214c153eea339
+Engagement with G20 Countries’, Lok Sabha, December 20, 2023,
+3c0981c3b1d6c5db394/cmvr-1989.pdf
+https://sansad.in/getFile/lsscommittee/External%20Affairs/17_Extern
+al_Affairs_27.pdf?source=loksabhadocs. 89 Motor Vehicles Act, 1988,
+https://www.indiacode.nic.in/bitstream/123456789/9460/1/a1988-
+73 26th Report: ‘India and Gulf Cooperation Council (GCC) –
+59.pdf.
+Contours of Cooperation’, Standing Committee on External Affairs,
+December 12, 2023,
+https://sansad.in/getFile/lsscommittee/External%20Affairs/17_Extern
+al_Affairs_26.pdf?source=loksabhadocs.
+- 19-
+Monthly Policy Review – December 2023 PRS Legislative Research
+DISCLAIMER: This document is being furnished to you for your
+information. You may choose to reproduce or redistribute this
+report for non-commercial purposes in part or in full to any other
+person with due acknowledgement of PRS Legislative Research
+(“PRS”). The opinions expressed herein are entirely those of the
+author(s). PRS makes every effort to use reliable and
+comprehensive information, but PRS does not represent that the
+contents of the report are accurate or complete. PRS is an
+independent, not-for-profit group. This document has been
+prepared without regard to the objectives or opinions of those
+who may receive it.
+- 20-

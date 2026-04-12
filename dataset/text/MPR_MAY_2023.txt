@@ -1,0 +1,934 @@
+Monthly Policy Review
+May 2023
+Highlights of this Issue
+Supreme Court gives control over services in Delhi to Delhi government (p.2)
+The Supreme Court ruled that the legislative and executive power over the officers of IAS and Joint Cadre
+Services in Delhi government shall lie with the Delhi government.
+Ordinance to amend the Government of NCT of Delhi Act promulgated (p.3)
+The Delhi Legislative Assembly will not have the power to legislate on the subject of ‘services’. Transfers and
+postings will be decided by a three-member committee, two of whom are appointed by the central government.
+GDP grew by 6.1% in the fourth quarter of 2022-23 (p.2)
+GDP for 2022-23 is estimated to grow by 7.2% in 2022-23 as compared to 9.1% in 2021-22. This is marginally
+higher than the GDP growth of 7% as estimated in the Second Advance Estimates.
+RBI withdraws Rs 2,000 denomination banknotes from circulation (p.4)
+Rs 2,000 denomination banknotes will continue to be legal tender. People may deposit such banknotes in their
+bank accounts or exchange them into banknotes of other denominations by September 30, 2023.
+Industrial production grew by 4% in the fourth quarter of 2022-23 (p. 2)
+The Index of Industrial Production (IIP) grew by 4% in the fourth quarter, compared to an increase of 1.8% in
+the corresponding quarter of 2021-22. In the third quarter of 2022-23, IIP had increased by 2.8%.
+SC holds that the legislature party acts on the direction of the political party (p.3)
+The Supreme Court gave its verdict over the party split and disqualification of Maharashtra MLAs. It ruled that
+the political party, not the legislature party, appoints the whip and leader of the party in the House.
+Cabinet approves PLI scheme for IT hardware (p.5)
+The Union Cabinet approved PLI Scheme 2.0 for IT hardware. The estimated expenditure under the scheme is
+Rs 17,000 crore over six years, and expected investment is Rs 2,430 crore.
+Accessibility standards for healthcare facilities notified (p.7)
+The standards prescribe requirements for hospitals and other healthcare facilities, for inpatient and outpatient
+facilities and medical equipment.
+CEA notifies National Electricity Plan for 2022-32 (p.6)
+Target capacity addition for 2017-2022 could not be achieved mainly due to the COVID-19 pandemic.
+Additional coal capacity required till 2031-32 may vary from 19,000 MW to 27,000 MW.
+Amendments to Green Energy Open Access Rules notified (p.7)
+The amendments redefine eligibility criteria for consumers eligible for the open access framework and exempts
+offshore wind projects from cross-subsidy and additional surcharge.
+Fertiliser subsidy rates revised: Rs 38,000 crore will be provided for Kharif 2023 (p. 9)
+The Union Budget estimated fertiliser subsidy expenditure at Rs 1,75,100 crore in 2023-24. Cabinet approved
+revised rates will apply between January-March 2023 for Rabi and April-September 2023 for Kharif crops.
+Amendments to Cigarettes and Other Tobacco Products Rules, 2004 notified (p.8)
+The amendments require publishers of curated online streaming content to incorporate anti-tobacco advertising
+in case of content that features consumption of tobacco products.
+June 1, 2023
+PRS Legislative Research ◼ Institute for Policy Research Studies
+3rd Floor, Gandharva Mahavidyalaya ◼ 212, Deen Dayal Upadhyaya Marg ◼ New Delhi – 110002
+Tel: (011) 23234801, 43434035 ◼ www.prsindia.org
+Monthly Policy Review – May 2023 PRS Legislative Research
+Industrial production grew by 4% in the fourth
+Macroeconomic Development
+quarter of 2022-23
+Tushar Chakrabarty (tushar@prsindia.org) The Index of Industrial Production (IIP) grew by 4% in
+the fourth quarter (January-March) of 2022-23,
+GDP grew by 6.1% in fourth quarter of 2022-
+compared to an increase of 1.8% in the corresponding
+23 quarter in 2021-22.3,4 In the third quarter (October-
+December) of 2022-23, IIP had increased by 2.8%.
+Gross Domestic Product (GDP) (at constant 2011-12
+prices) grew by 6.1% in the fourth quarter (January- Mining increased by 6.8% in the fourth quarter of
+March) of 2022-23 as compared to 4% in the 2022-23, as compared to 3.8% in the fourth quarter of
+corresponding quarter of 2021-22.1 2021-22. Manufacturing increased by 3.3% in the
+fourth quarter of 2022-23, while electricity increased
+In the third quarter (October-December) of 2022-23,
+by 6%.
+GDP had increased by 4.5%. GDP for 2022-23 is
+estimated to grow by 7.2% in 2022-23 as compared to Figure 2: Growth in IIP (%, year-on-year)
+9.1% in 2021-22. This is marginally higher than the
+14%
+GDP growth of 7% as estimated in the Second
+12%
+Advance Estimates for 2022-23.2
+10%
+Figure 1: Growth in GDP (%, year-on-year) 8% 6.8% 6.0%
+25% 21.6% 6% 4.0%
+3.3%
+20% 9.1% 13.1% 4%
+15% 4.5%
+10% 3.4% 5.2% 4.0% 6.2% 6.1% 2%
+5% 1.6% 0%
+0% -2%
+-5%
+-4%
+-10% -5.7%
+IIP Mining Mfg Electricity
+-15%
+-20%
+Jan-23 Feb-23 Mar-23 Jan-Mar 23
+-25%
+-30%
+-23.4%
+Note: Figures for March 2023 are quick estimates.
+Q1Q2Q3Q4Q1Q2Q3Q4Q1Q2Q3Q4
+Sources: Ministry of Statistics and Programme Implementation; PRS.
+2020-21 2021-22 2022-23
+Sources: Ministry of Statistics and Programme Implementation; PRS.
+GDP across economic sectors is measured in terms of Home Affairs
+Gross Value Added (GVA). In the fourth quarter of
+2022-23, construction is estimated to grow by 10.4%, Alaya Purewal (alaya@prsindia.org)
+followed by trade at 9.1% and financial, real estate and
+professional services at 7.1%. Supreme Court’s gives control over services in
+Delhi to the Delhi government
+Table 1: Growth in GVA across sectors at constant
+prices (%, year-on-year) On May 11 2023, the Supreme Court gave its verdict
+Q4 Q3 Q4 on the control of the services between the central
+Sector
+2021-22 2022-23 2022-23 government and the Government of the National
+Agriculture 4.1% 4.7% 5.5% Capital Territory of Delhi (GNCTD).5 The question
+Mining 2.3% 4.1% 4.3%
+before the Court was whether the GNCTD (headed by
+Manufacturing 0.6% -1.4% 4.5%
+the Chief Minister) or the Lieutenant Governor (acting
+Electricity 6.7% 8.2% 6.9%
+on behalf of the central government) would have
+Construction 4.9% 8.3% 10.4%
+control over services and civil servants in Delhi. The
+Trade 5.0% 9.6% 9.1%
+Financial Court ruled that GNCTD will have control over civil
+4.6% 5.7% 7.1%
+services services in Delhi, barring the subjects of police, public
+Public order and land, over which the central government has
+5.2% 2.0% 3.1%
+Administration executive competence.
+GVA 3.9% 4.7% 6.5%
+GDP 4.0% 4.5% 6.1% The Court noted that there was no homogeneous class
+Note: GVA is GDP without taxes and subsidies. of union territories with similar governance structures.
+Sources: Ministry of Statistics and Programme Implementation; PRS. By virtue of Article 239AA of the Constitution, Delhi
+has a legislative assembly with the power to legislate
+over subjects in the State List and Concurrent List.6
+Such powers do not extend to subjects related to police,
+public order and land. The executive powers of
+GNCTD are co-extensive with the Assembly’s
+- 2-
+Monthly Policy Review – May 2023 PRS Legislative Research
+legislative powers. According to Entry 41 of the List II discretion are: (i) matters outside the legislative
+of the Seventh Schedule, services are a state subject, competence of the Delhi Legislative Assembly but
+and hence GNCTD will have executive powers over all which have been delegated to the LG, or (ii) where
+civil services, barring the three areas out of their he is required by a law to act in his discretion or
+purview.7 The Court also noted that as per Article exercise any judicial or quasi-judicial functions.
+239AA (3), Parliament has the power to legislate over The Ordinance specifies that in these matters, the
+all matters in the State and Concurrent Lists with LG will act in his sole discretion. It expands the
+respect to GNCTD. discretionary role of the LG by giving him powers
+to approve the recommendations of the Authority,
+Ordinance to amend the Government of NCT or return them for reconsideration. The LG’s
+of Delhi Act promulgated decision will be final in the case of a difference of
+opinion between him and the Authority
+After the Supreme Court judgement on control over
+services in Delhi, the Government of National Capital For a PRS summary of the Ordinance, see here.
+Territory (Amendment) Ordinance, 2023, was
+promulgated on May 19, 2023.8 The Government of
+National Capital Territory of Delhi Act, 1991 provides
+Legislature
+the framework for the functioning of the Legislative
+Assembly and the government of Delhi. 9 Key features
+Alaya Purewal (alaya@prsindia.org)
+include:
+▪ Powers to legislate over services: As per Article Supreme Court holds that the legislature party
+239AA of the Constitution, the Delhi Legislative acts on the direction of political party
+Assembly has powers to make laws on subjects in
+The Supreme Court gave its verdict over the split in a
+the State List and the Concurrent List, barring: (i)
+political party and consequent disqualification of
+police, (ii) public order, and (iii) land. Parliament
+MLAs in Maharashtra.10 The Court was examining
+may also legislate on subjects under the State List
+whether a faction of the legislature party could declare
+with respect to Delhi, and these laws will prevail in
+itself the real political party based on in-house
+case of repugnancy with state laws. The
+majority. Further, if the faction’s rebellion would
+Ordinance specifies that the Delhi Legislative
+result in the disqualification of the concerned MLAs.
+Assembly will not have the power to legislate on
+The Supreme Court ruled that the political party, not
+the subject of ‘services’, which comes under the
+the legislature party, appoints the whip and the leader
+State List. Services include matters related to
+of the party in the House. Therefore, the political party
+appointments and transfers of employees of the
+has the power to issue directions to all party MLAs in
+Delhi government, and vigilance.
+the Assembly, and these directions would be binding.
+▪ National Capital Civil Services Authority: The
+According to the Tenth Schedule, the original political
+Ordinance establishes the National Capital Civil
+party, in relation to the House, refers to the political
+Services Authority to recommend to the Lieutenant
+party to which a member of the legislature party
+Governor of Delhi (LG): (i) transfers and postings,
+originally belongs or was elected as a representative.11
+(ii) matters related to vigilance, (iii) disciplinary
+The Court clarified that the Tenth Schedule, the
+proceedings, and (iv) prosecution sanctions of
+Representation of the People Act, 1951, and the
+Group A of All India Services (except Indian
+Maharashtra Legislative Assembly (Disqualification on
+Police Service), and Delhi, Andaman and Nicobar,
+Ground of Defection) Rules, 1986 all indicate that the
+Lakshadweep, Daman and Diu, and Dadra and
+Nagar Haveli (Civil) Services.
+legislature party acts on the direction of the political
+party.11,12,13 The Court also stated that the direction to
+▪ The Authority will consist of the: (i) Chief vote in a particular manner is issued by the political
+Minister of Delhi as Chairperson, (ii) Principal party, not the legislature party. Further, it ruled that the
+Home Secretary of the Delhi government as Supreme Court cannot ordinarily adjudicate petitions
+Member Secretary, and (iii) Chief Secretary of the for the disqualification of MLAs. Such powers rest
+Delhi government as member. The central with the Speaker.
+government will appoint both the Principal
+Secretary and Chief Secretary. Officers serving in
+connection with the subjects of police, public
+order, and land will not come under the
+Authority’s purview. All decisions of the
+Authority will be based on a majority vote of the
+members present and voting. The quorum for a
+meeting is two people.
+▪ Powers of the Lieutenant Governor: Under the
+Act, matters where the LG may act on his
+- 3-
+Monthly Policy Review – May 2023 PRS Legislative Research
+Finance SEBI releases consultation paper on additional
+disclosures for Foreign Portfolio Investors
+RBI withdraws Rs 2,000 denomination Pratinav Damani (pratinav@prsindia.org)
+banknotes from circulation
+The Securities and Exchange Board of India (SEBI)
+Tushar Chakrabarty (tushar@prsindia.org)
+released a consultation paper on the framework for
+mandating additional disclosures by certain high-risk
+The Reserve Bank of India (RBI) has withdrawn Rs
+Foreign Portfolio Investors (FPIs).20 SEBI noted that
+2,000 denomination banknotes from circulation.14
+certain FPIs with highly concentrated portfolios may
+However, such banknotes will continue to be legal
+have beneficiaries (such as promoters) in
+tender. The Rs 2,000 denomination banknote was
+contravention of norms on Minimum Public
+introduced in November 2016 to expeditiously meet
+Shareholding (MPS) and Foreign Direct Investment.
+currency requirements in the backdrop of withdrawal of
+Currently, the minimum public shareholding in India
+legal tender status of Rs 500 and Rs 1,000
+is 25% of the total equity.21 Specifically, the Foreign
+denomination banknotes. RBI noted that the objective
+Direct Investment Policy of 2017 mandates that
+of introducing the Rs 2,000 banknote was met once
+beneficiaries who are citizens of or located in a
+other denominations became available in adequate
+country sharing a land border with India can only
+quantities. It also observed that the banknote is not
+invest in India through the government route.20 This
+commonly used for transactions. People may deposit
+Policy does not cover FPIs.
+such banknotes in their bank accounts or exchange
+them into banknotes of other denominations at any The key proposals in the consultation paper are.
+bank branch by September 30, 2023. An amount of up
+▪ Categories of FPIs: FPIs will be segregated into
+to Rs 20,000 in Rs 2,000 banknotes can be exchanged
+low, moderate, and high-risk categories. Low risk
+at a time.
+FPIs will include government and government
+related entities such as central banks and sovereign
+Ministry of Finance brings overseas spending
+wealth funds. Medium risk FPIs will include
+through credit cards under liberalised
+pension funds and retail funds with widespread and
+remittance scheme
+dispersed investor base. Funds not defined as low
+or medium risk funds will be designated as high-
+Tushar Chakrabarty (tushar@prsindia.org)
+risk funds.
+The Ministry of Finance notified the Foreign Exchange
+▪ Disclosures: Currently, Beneficial Owners must
+Management (Current Account Transactions)
+be identified under provisions of the SEBI
+(Amendment) Rules, 2023 to amend the Foreign
+(Foreign Portfolio Investors) Regulations, 2019.
+Exchange Management (Current Account Transactions)
+These regulations have been framed in accordance
+Rules, 2000.15,16 The 2000 Rules provide that certain
+with the Prevention of Money Laundering
+transactions in foreign exchange require prior approval (Maintenance of Records) Rules, 2005.22 If an
+of the Reserve Bank of India (RBI). However,
+entity owns (or is entitled to capital or profits) 10%
+individuals can remit up to USD 2,50,000 in a financial
+or more of companies or trusts (15% for
+year under the Liberalised Remittance Scheme (LRS).17
+partnerships), they are considered a Beneficial
+These include transactions for private visits to any Owners.20 Individuals exercising ultimate control
+country, gifts or donations, emigration, and studies
+such as the right to appoint management are also
+abroad. Any remittance above this limit would need
+considered Beneficial Owners. Under the
+the RBI’s approval. Under the 2000 Rules, making
+proposed framework, high risk funds (with more
+payments abroad through international credit cards was
+than 50% of their funds invested in a single
+exempt from the need to secure RBI’s prior approval.
+corporate group) will have to provide complete
+The 2023 Amendment removes this exemption. By ownership details (with granular details down to
+removing the exemption, all credit card transactions individuals) without any thresholds.
+will be included in the LRS limit and will be subject to
+Comments are invited until June 20, 2023.
+a tax collected at source of 20% from July 1, 2023.18
+The Ministry of Finance clarified that spending up to
+SEBI issues consultation paper on review of
+seven lakh rupees in a financial year through
+expense ratios charged by asset management
+international credit and debit cards will not attract any
+companies
+tax collected at source.19
+Tushar Chakrabarty (tushar@prsindia.org)
+The Securities and Exchange Board of India (SEBI)
+issued a consultation paper on review of total expense
+ratio charged by asset management companies
+(AMCs).23 Total expense ratio is charged by AMCs to
+- 4-
+Monthly Policy Review – May 2023 PRS Legislative Research
+investors of mutual funds for managing the fund. ▪ Investigation by SEBI: SEBI can initiate
+Currently, mutual fund schemes are permitted to charge investigation into suspicious trading activity if it
+certain expenses in addition to the total expense ratio. has reasonable grounds to suspect that any person
+These include: (i) brokerage and transaction costs, (ii) or group of connected persons have engaged in
+GST on investment and advisory fees, and (iii) other such activity. The persons charged with such
+additional expenses. These additional expenses were activity will be given an opportunity to provide
+allowed to facilitate the growth of the mutual fund their rebuttal. If SEBI is not satisfied with such
+industry. However, SEBI noted that there is a need to rebuttal, it can take action under SEBI Act, 1992.
+review these charges given the significant growth of the
+Comments are invited until June 2, 2023.
+industry. It has proposed that the total expense ratio
+should include all expenses that could be charged from
+an investor. Investors should not be charged any
+amount over and above the prescribed limit for total
+Urban Development
+expense ratio.
+Comments are invited until June 1, 2023. Omir Kumar (omir@prsindia.org)
+Cabinet approves scheme to make cities climate
+SEBI issues draft regulations for suspicious
+change resilient and promote circular economy
+trading activities in the securities market
+The Union Cabinet approved the ‘City Investments to
+Tushar Chakrabarty (tushar@prsindia.org)
+Innovate, Integrate and Sustain 2.0’ (CITIIS 2.0) for a
+The Securities and Exchange Board of India (SEBI) period of four years (2023-2027).25 The program has
+invited comments on the draft SEBI (Prohibition of been conceived by the Ministry of Housing and Urban
+Suspicious Trading Activities in the Securities Market) Affairs in partnership with: (i) French Development
+Regulations, 2023.24 SEBI observed that technology Agency (AFD), (ii) Kreditanstalt für Wiederaufbau
+has enabled market participants to commit fraudulent (KfW); a German bank, (iii) European Union (EU), and
+activities while concealing the identities and (iv) National Institute of Urban Affairs. The financial
+connections between entities engaged in such activities. outlay for CITIIS 2.0 will include a loan of Rs 1,760
+In such cases, it becomes difficult to collect evidence to crore from AFD and KfW, and a grant of Rs 106 crore
+prove the exchange of unpublished price sensitive from the EU.
+information between the parties. To deal with such
+CITIIS, launched in 2018, is a sub-component of Smart
+cases of unexplained suspicious trading pattern, SEBI Cities Mission in 12 select cities.26 It focused on
+has proposed a new regulatory framework. Key
+building infrastructure related projects in cities,
+features include:
+capacity building with states, and promoting integrated
+▪ Unexplained suspicious trading activities: The urban management at the national level. Key aims of
+draft regulations prohibit any person from CITIIS 2.0 include: (i) providing financial and
+engaging in unexplained suspicious trading technical support in up to 18 smart cities (will be
+activity. Suspicious trading activity includes any selected) for projects related to building climate
+trading activity which exhibits an unusual trading resilience, and circular economy focusing on waste
+pattern in a security or a group of securities. management, (ii) assisting states/ UTs (on demand
+Unusual trading pattern would include repetitive basis) to facilitate climate data driven planning with
+trading pattern by a person or group of connected necessary infrastructure and build capacities of urban
+persons which: (i) involves a substantial change in local bodies, and (iii) assisting the centre, state, and city
+risk taken in one or more securities over short to integrate climate change governance in urban India.
+periods of time, and (ii) delivers abnormal profits CITIIS 2.0 seeks to supplement climate change
+or averts abnormal losses. Such trading pattern commitments of India through National Mission on
+should involve use of material non-public Sustainable Habitat, Atal Mission for Rejuvenation and
+information related to a security. Material non- Urban Transformation 2.0 (AMRUT), Swachh Bharat
+public information includes information about a Mission 2.0 and Smart Cities Mission.
+company/security which was not generally
+available. Once such information became
+generally available, it has a reasonable impact on
+Electronics and IT
+the price of securities of the company.
+Unexplained suspicious trading activity refers to
+Omir Kumar (omir@prsindia.org)
+suspicious trading activity for which no reasonable
+explanation could be provided.
+Cabinet approves PLI scheme for IT Hardware
+▪ Duties of stock exchanges: Stock exchanges and
+The Union Cabinet approved the Production Linked
+other intermediaries must inform SEBI of any
+Incentive (PLI) Scheme 2.0 for IT hardware for a
+suspicious trading activity noticed by them.
+period of six years.27 A PLI provides certain benefits
+- 5-
+Monthly Policy Review – May 2023 PRS Legislative Research
+to selected companies on incremental sale of products providers. It recommended creating a single
+manufactured domestically. window portal for website blocking. The list of
+blocked websites should be sent to the internet
+The scheme will cover manufacturing of laptops,
+service provider via the portal.
+tablets, all-in-one PCs, servers, and ultra small form
+factor devices. The estimated expenditure under the
+scheme is Rs 17,000 crore over six years. The program
+is expected to lead to incremental investment of Rs
+Power
+2,430 crore and creation of 75,000 jobs.
+National Electricity Plan notified for 2022-32
+Omir Kumar (omir@prsindia.org)
+Communications
+The Central Electricity Authority (CEA) notified the
+Omir Kumar (omir@prsindia.org)
+National Electricity Plan (NEP) (Volume-I Generation)
+for 2022-32.30,31 CEA is required to formulate a
+TRAI releases recommendations on ease of
+national electricity plan once in five years under the
+doing business in the telecom and broadcasting
+Electricity Act, 2003.32 The Plan provides a review of
+sector
+the last five years (2017- 22), capacity addition
+The Telecom Regulatory Authority of India (TRAI) requirements for 2022-27, and projections for the
+released ‘Recommendations on Ease of Doing Business period 2027-2032. Key features of the plan are:
+in Telecom and Broadcasting Sector’.28,29 Key
+▪ Current installed capacity: As of March 31,
+recommendations include:
+2022, India’s installed capacity was about four
+▪ Clearances and approvals: TRAI noted that lakh megawatts. Coal, renewable energy sources,
+currently the process of obtaining permissions, and and nuclear constitute 51%, 39%, and 2% of the
+making payments is complex and time consuming. installed capacity, respectively.
+Concerned Ministries should set up a single
+▪ Targets for 2017-22 not met: Target capacity
+window system for all clearances and approvals.
+addition for 2017-2022 could not be achieved
+Each Ministry should specify stage-wise timelines
+mainly due to the COVID-19 pandemic. Under the
+for all the processes in the respective guidelines or
+National Electricity Plan, 2018, the target for
+policies. Each Ministry should set up a standing
+scheduled generation capacity addition from
+Ease of Doing Business committee to review,
+conventional sources (coal, gas, nuclear) was about
+simplify, and update processes in this regard.
+50,000 MW for 2017-22. However, the actual
+▪ Infrastructure and essential services status: capacity added was only about 30,000 MW (59%
+Broadcasting and cable service sector should be of the set target).
+granted ‘infrastructure status’. This will enable the
+▪ Installed capacity from renewable sources: The
+industry to raise capital from non-banking finance
+Plan noted that India has significant potential of
+companies, insurance companies, pension funds
+generation from renewable energy sources.
+and India Infrastructure Financing Company
+Renewable energy is expected to contribute to
+Limited. Laying of submarine cables should be
+about 35% of the energy mix by 2026-27 and rise
+classified as ‘critical and essential services’.
+to 44% by 2031-32. Measures should be taken to
+▪ Testing of telecom products: To avoid attract private sector and more funds should be
+duplication in the testing of telecom products, the allocated to support research and development in
+Department of Telecommunications should the renewable sector.
+constitute a standing committee. The committee
+▪ Required capacity addition: The projected
+should include representation from the Ministry of
+capacity addition requirement during 2027-32 to
+Electronic and Information Technology,
+meet the peak demand for 2031-32 is about three
+Department of Telecommunication (DoT), and
+lakh megawatts.
+Bureau of Indian Standards
+▪ Additional coal capacity: Apart from the under-
+▪ Right of Way: DoT has developed the GatiShakti
+construction coal capacity of about 27,000 MW,
+portal to streamline the process for right of way
+the additional coal capacity required till 2031-32
+approvals. However, there is no provision for
+may vary from 19,000 MW to 27,000 MW.
+local cable operators (LCO) to take such approvals
+from the portal. The portal should incorporate all ▪ Emissions: The average CO 2 emission rate from
+service providers including LCOs. coal-based stations has been declining indicating
+improvement in efficiency of generation from coal-
+▪ Website blocking: TRAI noted that different
+based power plants.
+ways/ portals are being used to send the list of
+websites to be blocked to internet service
+- 6-
+Monthly Policy Review – May 2023 PRS Legislative Research
+Amendments to Green Energy Open Access for cases where construction work has been awarded on
+Rules notified or before June 30, 2025.
+Harshit Padia (harshit@prsindia.org) For energy storage system projects, the complete
+waiver of ISTS charges has been made applicable at the
+The Ministry of Power notified the Electricity user level. Earlier, it was applicable at the project
+(Promoting Renewable Energy Through Green Energy level. The waiver will be available if at least 51% of
+Open Access) (Second Amendment) Rules, 2023.33 the total energy utilised by a user for charging the
+The Rules provide a framework for open access to storage system is renewable energy.
+renewable energy (from sources including solar, wind,
+hydro, and waste-to-energy).34 Open access means Reforms for the electricity sector recommended
+allowing a consumer to purchase electricity from a by a Group constituted by the Ministry of
+distribution company of its choice. Only consumers Power
+with demand or sanctioned load of 100 kilowatt (kW)
+Harshit Padia (harshit@prsindia.org)
+and above are eligible under this framework (except
+captive consumers). The amendment adds such
+The Ministry of Power announced that the group for
+consumers will be required to have the demand or
+‘Development of Electricity Market in India’ (Chair:
+sanctioned load of 100 kW through: (i) a single
+Alok Kumar, Secretary, Ministry of Power), submitted
+connection, or (ii) multiple connections aggregating
+its report. The group was constituted to recommend
+100 kW or more located in the same electricity division
+certain reforms for the development of the electricity
+of a distribution licensee.
+market of India.37 The Ministry noted that the group
+Under the Rules, consumers with access to green has highlighted several issues in the power sector in
+energy (renewable sources) shall pay a cross subsidy India including: (i) dominance of inflexible long-term
+surcharge as per the central government's tariff policy. power purchase agreements, (ii) need for resource
+Cross subsidy refers to a tariff structure where a group adequacy planning in centre and states, (iii) need to
+of consumers pay relatively higher charges to cover the share increasing share of renewables in the overall
+cost of supply to another group of consumers. The energy mix, and (iv) encouraging market participation
+Rules exempt green energy utilised for production of for renewables.
+green hydrogen and green ammonia from cross subsidy
+Key recommendations made by the group include: (i)
+and additional surcharge. The amendment omits this
+setting up a mechanism to monitor adequacy of supply
+and adds that an additional surcharge will not be
+by state utilities, (ii) implementing five-minute based
+applicable to electricity produced and supplied to open
+metering, scheduling, dispatch, and settlement, (iii)
+access consumers from offshore wind projects, which
+introducing a market-based mechanism for secondary
+are commissioned up to 2032.
+reserves. Further, a regional level balancing
+framework for deviation management should be
+ISTS charges waived for offshore wind and
+implemented for reducing deviation penalties for states
+green hydrogen/ammonia projects
+at the inter-state transmission system level. The report
+of the group is not available in the public domain.
+Harshit Padia (harshit@prsindia.org)
+The Ministry of Power notified complete waiver of
+inter-state transmission (ISTS) charges for 25 years for:
+Health and Family Welfare
+(i) offshore wind power projects commissioned on or
+before December 31, 2032, and (ii) green hydrogen and
+Siddharth Mandrekar Rao (siddharth@prsindia.org)
+green ammonia projects commissioned on or before
+December 31, 2032.35 The waiver will be available to
+Accessibility standards for healthcare facilities
+only those green hydrogen and green ammonia projects
+notified
+which use renewable energy, pumped storage, or
+battery storage system. Projects commissioned after The Ministry of Health and Family Welfare notified
+the cut-off date for complete waiver will attract graded accessibility standards for hospitals and other
+charges, ranging from 25% to 100% based on the date healthcare institutions.38 The standards have been
+of commissioning. Earlier, similar waiver was made framed under the Rights of Persons with Disabilities,
+available for solar, wind, hydro-based pump storage Act, 2016.39 Key features of the standards are the
+and battery storage system projects.36 The waiver for following:
+wind power projects was made available for projects
+commissioned on or before June 30, 2025. ▪ Outpatient facilities: The standards specify
+requirements for facilities used for outpatient
+The complete waiver of ISTS charges for Pump services. For example, forms should be made
+Storage Systems (PSP) has been linked to the date of easily available for patients with hearing
+award of project. Earlier, it was linked to the disabilities to request aid in communication, such
+commissioning date. This change will be applicable as a sign language interpreter.
+- 7-
+Monthly Policy Review – May 2023 PRS Legislative Research
+▪ Inpatient facilities: The standards prescribe Draft amendments to New Drugs and Clinical
+requirements for hospital wards, bathrooms, and Trials Rules, 2019, released
+other inpatient facilities. For example, they
+The Ministry of Health and Family Welfare released
+prescribe requirements for the height adjustability
+draft amendments to the New Drugs and Clinical Trials
+of beds in hospital wards. Evacuation facilities for
+Rules, 2019.44 They have been framed under the Drugs
+emergencies should be capable of accommodating
+and Cosmetics Act, 1940.45 The 2019 Rules specify
+patients with all disabilities, including features
+the procedure for conducting clinical trials. Clinical
+such as wheelchair ramps and large signage.
+trials are studies of the efficacy and safety of new drugs
+Bathrooms in hospital wards should be wheelchair
+or research on potential new drugs. The 2019 Rules
+accessible, and equipped with grab bars and lever-
+specify procedural details such as obtaining informed
+based controls for taps and faucets.
+consent of participants and the oversight of trials by an
+▪ Medical equipment: The standards also specify
+ethics committee.
+features necessary to make equipment more
+accessible to patients. For example, patient
+examination rooms must allow clearance for The draft amendments define Clinical Research
+wheelchairs, and other features such as grab bars Organisations to be bodies that conduct some or all
+for support. Floor lifts should be available to help parts of a clinical trial on behalf of a sponsor, which is
+in moving and examining patients with locomotor the entity initiating and managing the trial. The draft
+disabilities. Radiological diagnostic equipment amendments add a chapter pertaining to the functioning
+such as MRI machines should provide clear visual of Clinical Research Organisations. For example, they
+and audio signals to patients. are required to register with the Drugs Controller of
+India, and such registration is valid for five years.
+Clinical Research Organisations are subject to
+Amendments to Cigarettes and Other Tobacco
+inspections, and must maintain records and data
+Products Rules, 2004 notified
+regarding the conduct of trials. The registration can be
+The Ministry of Health and Family Welfare notified cancelled if the Clinical Research Organisation fails to
+amendments to the Cigarettes and Other Tobacco comply with the Act or Rules.
+Products (Prohibition of Advertisement and Regulation
+of Trade and Commerce, Production, Supply and Draft amendments to Cosmetics Rules, 2020,
+Distribution) Rules, 2004.40,41 The 2004 Rules place released
+restrictions on the sale, production, and advertisement
+of tobacco products. For example, they prohibit (i) the The Ministry of Health and Family Welfare invited
+advertisement of tobacco products, and (ii) the sale of comments on draft amendments to the Cosmetics
+tobacco products within 100 yards of an educational Rules, 2020.46 The 2020 Rules specify the procedure
+institution or to a minor.42,43 for obtaining licenses to import or manufacture
+cosmetics, prescribe standards for cosmetics and
+The 2023 amendments require that anti-tobacco procedures for testing and certifying compliance.47
+advertisements be displayed with online curated They have been framed under the Drugs and Cosmetics
+content that features the use of tobacco products.40 Act, 1940.48
+Online curated content refers to any curated audio-
+visual content made available on demand via a Cancellation and suspension of license: Under the
+computer resource, such as OTT content. Anti-tobacco 2020 Rules, State Licensing Authorities are responsible
+advertisements of at least 30 seconds in duration must for granting licenses for manufacturing or distributing
+be displayed at the beginning and in the middle of any cosmetics. The draft amendments add a provision
+programme. Audio-visual disclaimers of the ill-effects enabling the State Licensing Authority to cancel or
+of tobacco consumption must also be displayed at the suspend licenses issued under the rules. This provision
+beginning and in the middle of online content. requires licensees to be given a fair opportunity to
+show cause before cancellation/suspension. Licensees
+Any tobacco use depicted in online content must be whose licenses have been suspended or cancelled may
+accompanied by a static anti-tobacco warning at the appeal this decision within three months, after which it
+bottom of the screen. The content of such warnings will become final.
+shall be provided on the website of the Ministry of
+Health and Family Welfare. Publishers of online Central Cosmetics Laboratory: The 2020 Rules
+content failing to comply with this requirement will be provide for a Central Cosmetics Laboratory to test
+issued a notice to show cause by an inter-ministerial cosmetics suspected to be prohibited under the Act.
+committee. This committee will consist of The draft amendment designates the Central Drugs
+representatives of (i) the Ministry of Health and Family Laboratory as the Central Cosmetics Laboratory.
+Welfare, (ii) the Ministry of Information and
+The draft amendments will be taken into consideration
+Broadcasting and (iii) The Ministry of Electronics and
+on or after June 29, 2023.
+Information Technology.
+- 8-
+Monthly Policy Review – May 2023 PRS Legislative Research
+Civil Aviation Previously, routes were allowed when both the origin
+and destination locations were in priority areas.
+Tanvi Vipra (tanvi@prsindia.org)
+Key features of the UDAN 5.1 include: (i) expansion of
+Draft Aircraft Bill, 2023 released for public operational scope by allowing routes with either the
+feedback source or destination being the priority area location,
+(ii) reduction in helicopter airfare caps by 25%, and
+The Ministry of Civil Aviation released the Draft
+(iii) an increase in viability gap funding caps for single
+Aircraft Bill, 2023 for public consultation.49 The Bill
+and twin-engine helicopters. As per the Ministry,
+seeks to replace the Aircraft Act, 1934.50 As per the
+greater helicopter use will help boost tourism,
+Ministry, the proposed Bill seeks to meet the current
+hospitality, and local economies. As of May 2023, 46
+needs of aviation regulation and specifies provisions in
+helicopter routes have been operationalised under
+a simplified manner. The draft Bill includes identical
+previous rounds of the Scheme.
+provisions with respect to: (i) constituting bodies such
+as the Directorate General of Civil Aviation (DGCA)
+Draft notification released to amend pilot
+and the Bureau of Civil Aviation Security (BCAS), (ii)
+license requirements for defence personnel
+regulating construction of buildings or trees near
+airports, and (iii) emergency powers of the central The Directorate General of Civil Aviation released a
+government to protect public health. draft amendment to Civil Aviation Requirements
+Notification under the Aircraft Rules, 1937.52,53 It
+Key changes proposed in the draft Bill include:
+specifies flight crew standards, training and licensing
+▪ Applicability: Under the Act, the definition of requirements. As per the Aircraft Rules 1937, qualified
+aircraft includes machines supported by pilots from the Indian Air Force, Navy, Army or Coast
+atmospheric reactions in the air. It also includes Guard who possess the necessary flying experience and
+fixed/free balloons, airships, kites, gliders, and competency may be exempted from flying tests
+flying machines. The draft Bill removes fixed/free required for commercial and transport licenses. They
+balloons, airships, kites, gliders, and flying are required to submit documentary evidence
+machines from the definition of aircraft. demonstrating such competency and pass written
+examinations. It also removes the flying experience
+▪ Rule-making powers of central government: In
+exemption. Consequently, defence applicants will be
+addition to the general rule-making powers of the
+required to pass a technical examination and
+central government, the Act empowers the central
+demonstrate their competency on an aircraft or
+government to make rules on specific matters.
+simulator at an approved training organisation.
+These include regulation of airfares, aircraft
+registration, and carriage of substances. The Draft
+Bills seeks to expand these to include: (i) security
+oversight, (ii) scope of oversight functions of the
+Agriculture
+DGCA and BCAS, and (iii) issuance of radio
+telephone operator certificates and aircraft
+maintenance licenses. Tanvi Vipra (tanvi@prsindia.org)
+▪ Appeal against imposition of penalties: Under
+Cabinet approved revision in fertiliser subsidy
+the Act, if any person is aggrieved with the penalty
+imposed by an officer, they may appeal to a The Union Cabinet approved the revision in nutrient
+higher-ranking officer. The Draft Bills provides based fertiliser subsidy rates for Rabi 2022-23 and
+additional levels of appeal in case of dissatisfaction fixed subsidy rates for Kharif 2023.54 Revised rates
+with the order of the appellate officer. The central under the nutrient based subsidy scheme will be
+government shall be the final appellate authority. effective between January 1, 2023 and March 31, 2023
+for Rabi crops and between April 1, 2023 and
+Comments on the Draft Bill are invited until June 30,
+September 30, 2023 for Kharif crops. Subsidy of Rs
+2023.
+38,000 crore will be provided for Kharif 2023. The
+Union Budget 2023 estimated the expenditure on
+UDAN 5.1 for helicopter routes launched
+fertiliser subsidy at Rs 1,75,100 crore in 2023-24.
+The Ministry of Civil Aviation launched round 5.1 of
+the Regional Connectivity Scheme (RCS) – Ude Desh
+ka Aam Nagrik (UDAN).51 The Scheme seeks to
+enhance connectivity to remote areas of the country and
+achieve last mile connectivity through helicopters. The
+Scheme seeks to facilitate regional air connectivity by
+making it affordable. Previous rounds of the Scheme
+provided viability gap funding for airlines and capped
+airfare for flights operating on specified routes.
+- 9-
+Monthly Policy Review – May 2023 PRS Legislative Research
+Food and Public Distribution costs. Implementation of the proposal will begin
+within 45 days of Cabinet approval.
+Tanvi Vipra (tanvi@prsindia.org)
+Cabinet approves constitution of Inter-
+Ministerial Committee for grain storage External Affairs
+The Union Cabinet approved the constitution of an Alaya Purewal (alaya@prsindia.org)
+Inter-Ministerial Committee to facilitate creating the
+World’s Largest Grain Storage Plan in the Cooperative Quad Health Security Partnership announced
+Sector.55 Eight schemes under the Ministry of
+Agriculture and Farmers Welfare, Ministry of The 2023 Quad Leaders’ Summit issued a joint
+Consumer Affairs Food and Public Distribution, and statement launching the Quad Health Security
+Ministry of Food Processing Industries will be Partnership.56 The Quad is a diplomatic network of the
+converged for this purpose. four countries committed to supporting an open, stable,
+and prosperous Indo-Pacific.57 It consists of India, the
+The Committee will address the shortage of agricultural United States of America, Japan, and Australia. The
+storage infrastructure by facilitating the establishment Quad Leaders’ Summit is attended by heads of
+of godowns and processing units at the level of Primary government. The new partnership is an expansion of
+Agriculture Credit Societies (PACS). The Committee the Quad Vaccine Partnership, launched in 2021.58 The
+will be empowered to modify (within approved vaccine partnership planned to enhance equitable
+outlays) guidelines/ implementation methodologies for access to vaccines in the Indo-Pacific region.59 The
+such schemes to create infrastructure at selected viable new partnership will strengthen coordination and
+PACS. PACS will carry out additional activities such collaboration in support of health security in the Indo-
+as functioning as procurement centres for Food Pacific. The partnership plans to implement activities
+Corporation of India or state agencies and serving as to build the region’s capacity to detect and respond to
+fair price shops. outbreaks of epidemic diseases. These activities
+include: (i) disease surveillance, (ii) coordination of
+Decentralised storage capacity at the local level is
+outbreak response, and (iii) developing and supporting
+expected to reduce food grain wastage. Further,
+the health workforce.
+providing options to farmers is expected to prevent
+distress sale of crops, and reduce the transportation
+1 Press Note on Provisional Estimates of National Income 2022-23 8 The Government of National Capital Territory of Delhi
+and Quarterly Estimates of Gross Domestic Product for the Fourth (Amendment) Ordinance 2023, May 19, 2020,
+Quarter (Q4) of 2022-23, National Statistical Office, Ministry of https://egazette.nic.in/WriteReadData/2023/245962.pdf.
+Statistics and Programme Implementation, May 31, 2023, 9 The Government of National Capital Territory of Delhi Act, 1991,
+https://www.mospi.gov.in/sites/default/files/press_release/PressNote https://www.indiacode.nic.in/handle/123456789/1923?sam_handle=1
+Q4_FY2022-23_31may23.pdf. 23456789/1362#:~:text=An%20Act%20to%20supplement%20the,co
+2 “Second Advance Estimates of National Income, 2022-23, nnected%20therewith%20or%20incidental%20thereto.
+Quarterly Estimates of Gross Domestic Product for the Third Quarter 10 Writ Petition (Civil) No. 493 of 2022, Subash Desai v Principle
+(October-December), 2022-23 and First Revised Estimates of Secretary of Governor of Maharashtra, Supreme Court of India, May
+National Income, Consumption Expenditure, Saving and Capital 11, 2023,
+Formation, 2021-22”, Press Information Bureau, Ministry of https://main.sci.gov.in/supremecourt/2022/20234/20234_2022_1_150
+Statistics and Programme Implementation, February 28, 2023, 2_44512_Judgement_11-May-2023.pdf.
+https://pib.gov.in/PressReleasePage.aspx?PRID=1903091.
+11 Tenth Schedule, The Constitution of India,
+3 Quick Estimates of Index of Industrial Production and Use-Based https://www.mea.gov.in/Images/pdf1/S10.pdf.
+Index for the Month of March 2023 (Base 2011-12=100), Ministry of
+12 The Representation of the People Act, 1951,
+Statistics and Programme Implementation, May 12, 2023,
+https://www.indiacode.nic.in/bitstream/123456789/1663/1/A1950-
+https://pib.gov.in/PressReleasePage.aspx?PRID=1923706.
+43.pdf.
+4 Quick Estimates of Index of Industrial Production and Use-Based
+13 The Maharashtra Legislative Assembly (Disqualification on
+Index for the Month of March 2022 (Base 2011-12=100), Ministry of
+Ground of Defection) Rule, 1986.
+Statistics and Programme Implementation, May 12, 2022,
+14 “₹2000 Denomination Banknotes – Withdrawal from Circulation;
+https://static.pib.gov.in/WriteReadData/specificdocs/documents/2022
+Will continue as Legal Tender”, Reserve Bank of India, May 19,
+/may/doc202251255601.pdf.
+2023,
+5 Civil Appeal No 2357 of 2017, Government of NCT of Delhi vs
+https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR257180523AL
+Union of India, Supreme Court, May 11, 2023,
+L%20BANKS64E5FDBEBAE14112A3ACE71F04AE5E2F.PDF.
+https://main.sci.gov.in/supremecourt/2016/29357/29357_2016_1_150
+15 G.S.R. 369(E), Ministry of Finance, May 16, 2023,
+1_44512_Judgement_11-May-2023.pdf.
+https://egazette.nic.in/WriteReadData/2023/245899.pdf.
+6 Article 239AA, The Constitution of India,
+16 Foreign Exchange Management (Current Account Transactions)
+https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8
+Rules, 2000,
+f/uploads/2023/05/2023050195.pdf.
+https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_45_0000
+7 Entry 41, List II, Seventh Schedule, The Constitution of India,
+https://www.mea.gov.in/Images/pdf1/S7.pdf.
+- 10-
+Monthly Policy Review – May 2023 PRS Legislative Research
+32 The Electricity Act, 2003,
+https://www.indiacode.nic.in/handle/123456789/2058?sam_handle=1
+4_199942_1517807323986&type=rule&filename=FEM%20(CAT)%
+23456789/1362.
+20Rules.pdf.
+33 The Electricity (Promoting Renewable Energy Through Green
+17 Liberalised Remittance Scheme, Reserve Bank of India,
+Energy Open Access) (Second Amendment) Rules, 2023, Ministry of
+https://m.rbi.org.in/scripts/FAQView.aspx?Id=115#Q1.
+Power, Mar 23, 2023,
+18 Memorandum Explaining the Provisions in the Finance Bill, 2023, https://egazette.nic.in/WriteReadData/2023/246016.pdf.
+Union Budget 2023-24,
+34 Electricity (Promoting Renewable Energy Through Green Energy
+https://www.indiabudget.gov.in/doc/memo.pdf.
+Open Access) Rules, 2022, Ministry of Power, June 6, 2022,
+19 “Clarification regarding applicability of Tax Collection at Source https://greenopenaccess.in/assets/files/Green%20Energy%20Open%2
+to small Debit/Credit Transactions under LRS”, Press Information 0Access_rules.pdf.
+Bureau, Ministry of Finance, May 19, 2023,
+35 “In a big boost to off-shore wind energy projects, Government
+https://pib.gov.in/PressReleasePage.aspx?PRID=1925592.
+gives complete waiver of ISTS charges for 25 years to projects
+20 Consultation Paper on framework for mandating additional commissioned on or before 31st Dec, 2032”, Press Information
+disclosures from Foreign Portfolio Investors, Securities and Bureau, Ministry of Power, May 29, 2023,
+Exchange Board of India, May 31, 2023, https://pib.gov.in/PressReleasePage.aspx?PRID=1928128.
+https://www.sebi.gov.in/reports-and-statistics/reports/may-
+36 F. No. L-1/250/2019/CERC, The Gazette of India, Central
+2023/consultation-paper-on-framework-for-mandating-additional-
+Electricity Regulatory Commission, February 7, 2023,
+disclosures-from-foreign-portfolio-investors-fpis-that-fulfil-certain-
+https://cercind.gov.in/Regulations/177-GAZ.pdf.
+objective-criteria-to-1-guard-against-possible-circumvention-of-
+minim-_71946.html. 37 “Group constituted by Ministry of Power for Development of
+Electricity Market in India proposes comprehensive solutions to
+21 Securities Contract (Regulation) Rules, 1957, Securities and
+address key issues,” Press Information Bureau, Ministry of Power,
+Exchange Board of India, January 2, 2023,
+May 14, 2023,
+https://www.sebi.gov.in/legal/rules/jan-2023/securities-contracts-
+https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1924032
+regulation-rules-1957-last-amended-on-january-2-2023-_67101.html.
+38 F. No. T.21017/20/2021-NCD.I (NPPCD)/Part, Ministry of Health
+22 PML (Maintenance of Records) Rules, 2005, Financial Intelligence
+and Family Welfare, May 4, 2023,
+Unit, Ministry of Finance, Accessed on May 31, 2023,
+https://egazette.nic.in/WriteReadData/2023/245810.pdf.
+https://fiuindia.gov.in/files/AML_Legislation/notification.html.
+39 The Rights of Persons with Disabilities, Act, 2016,
+23 “Consultation Paper on Review of Total Expense
+https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_right
+Ratio charged by Asset Management Companies s_of_persons_with_disabilities_act%2C_2016.pdf.
+(AMCs) to unitholders of schemes of Mutual Funds to 40 G.S.R. 400(E), Ministry of Health and Family Welfare, May 31,
+facilitate greater transparency and accrual of benefits of 2023, https://egazette.nic.in/WriteReadData/2023/246178.pdf.
+economies of scale to investors”, Securities and 41 The Cigarettes and Other Tobacco Products (Prohibition of
+Advertisement and Regulation of Trade and Commerce, Production,
+Exchange Board of India, May 18, 2023,
+Supply and Distribution) Act, 2003,
+https://www.sebi.gov.in/reports-and-
+https://www.indiacode.nic.in/bitstream/123456789/2053/1/AAA34__
+statistics/reports/may-2023/consultation-paper-on- __2003.pdf
+review-of-total-expense-ratio-charged-by-asset- 42 G.S.R 137, Ministry of Health and Family Welfare, February 25,
+management-companies-amcs-to-unitholders-of- 2004,
+https://upload.indiacode.nic.in/showfile?actid=AC_CEN_12_13_000
+schemes-of-mutual-funds-to-facilitate-greater-
+20_200334_1517807327289&type=rule&filename=GSR%20137%2
+transparency-and-accrual-of-benefits-of-_71394.html.
+0(E)%20Cigarettes%20and%20Other%20Tobacco%20Products%20(
+24 Consultation paper on draft SEBI (Prohibition of Unexplained Prohibition%20of%20Advertisement%20and%20Regulation%20of%
+Suspicious Trading Activities in the Securities Market) Regulations, 20Trade%20and%20Commerce,%20Production,%20Supply%20and
+2023, Securities and Exchange Board of India, May 18, 2023, %20Distribution)%20Rules,%202004.pdf.
+https://www.sebi.gov.in/reports-and-statistics/reports/may- 43 G.S.R 567€, Ministry of Health and Family Welfare, September
+2023/consultation-paper-on-draft-sebi-prohibition-of-unexplained- 01, 2004.
+suspicious-trading-activities-in-the-securities-market-regulations- https://upload.indiacode.nic.in/showfile?actid=AC_CEN_12_13_000
+2023_71385.html. 20_200334_1517807327289&type=rule&filename=11Prohibition_of
+25 “Cabinet approves City Investments to Innovate, Integrate and _Sale_of_Cigarettes_and_Other_Tobacc_sw.pdf.
+Sustain 2.0 (CITIIS 2.0) from 2023 to 2027”, Press Information 44 G.S.R. 364(E), Ministry of Health and Family Welfare, May 11,
+Bureau, Union Cabinet, May 31, 2023, 2023, https://egazette.nic.in/WriteReadData/2023/245863.pdf.
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1928598. 45 The Drugs and Cosmetics Act, 1940,
+26 CITIIS Website, Ministry of Housing and Urban Affairs, as https://www.indiacode.nic.in/bitstream/123456789/15278/1/drug_cos
+accessed on May 31, 2023, https://citiis.niua.in/. meticsa1940-23.pdf .
+27 “Cabinet approves Production Linked Incentive Scheme – 2.0 for 46 G.S.R . 371(E), Ministry of Health and Family Welfare, May 15,
+IT Hardware”, Press Information Bureau, May 17, 2023, 2023, https://egazette.nic.in/WriteReadData/2023/245904.pdf.
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1924766. 47 The Cosmetics Rules, 2020,
+28 “Recommendations on Ease of Doing Business in Telecom and https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WE
+Broadcasting Sector”, The Telecom Regulatory Authority of India, B/elements/download_file_division.jsp?num_id=OTIyNg==.
+May 2, 2023, 48 The Drugs and Cosmetics Act, 1940,
+https://www.trai.gov.in/sites/default/files/Recommendations_020520
+https://www.indiacode.nic.in/bitstream/123456789/15278/1/drug_cos
+23_0.pdf.
+meticsa1940-23.pdf .
+29 “TRAI releases Recommendations on "Ease of Doing Business in 49 Draft Aircraft Bill, 2023 for public consultation, Ministry of Civil
+Telecom and Broadcasting Sector", The Telecom Regulatory of
+Aviation, May 31, 2023,
+India,
+https://www.civilaviation.gov.in/sites/default/files/Draft%20Aircraft
+https://www.trai.gov.in/sites/default/files/PR_No.37of2023.pdf.
+%20Bill%2C%202023%20for%20public%20consultation..pdf.
+30 National Electricity Plan (Volume 1) Generation, Central 50 Aircraft Act, 1934,
+Electricity Authority, May 31, 2023, https://cea.nic.in/wp-
+https://www.indiacode.nic.in/bitstream/123456789/2400/1/AAA1934
+content/uploads/irp/2023/05/NEP_2022_32_FINAL_GAZETTE-
+____22.pdf.
+1.pdf.
+31 “Central Electricity Authority notifies the National Electricity Plan
+for the period of 2022-32”, Ministry of Power, May 31, 2023,
+https://pib.gov.in/PressReleasePage.aspx?PRID=1928750.
+- 11-
+Monthly Policy Review – May 2023 PRS Legislative Research
+57 Quad, Department of Foreign Affairs and Trade, Government of
+Australia, https://www.dfat.gov.au/international-relations/regional-
+51 “Ministry of Civil Aviation launched UDAN 5.1, specifically
+architecture/quad.
+designed for helicopter routes”, Press Information Bureau, Ministry
+of Civil Aviation, May 24, 2023, 58 Quad Framework and Functions, Ministry of External Affairs,
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1926992. November 2022,
+https://mea.gov.in/Portal/ForeignRelation/unclassified_brief_29_11_
+52 Amendment to CAR: ‘Requirements for issue of commercial pilot
+22_Quad_Framework_and_Engagement__AMS_Division.pdf.
+license and airline transport pilot license to defence personnel’, Civil
+Aviation Requirements, Directorate General of Civil Aviation, May 59 “Fact Sheet: Quad Leader’s Summit, The White House,
+18, 2023, https://www.dgca.gov.in/digigov- Government of the United States of America, September 24, 2021,
+portal/Upload?flag=iframeAttachView&attachId=152386795. https://www.whitehouse.gov/briefing-room/statements-
+releases/2021/09/24/fact-sheet-quad-leaders-summit/.
+53 Requirements for issue of commercial pilot license and airline
+transport pilot license to defence personnel, Civil Aviation DISCLAIMER: This document is being furnished to you for your
+Requirements, Directorate General of Civil Aviation, July 1 2019, information. You may choose to reproduce or redistribute this report
+http://164.100.60.133/cars/D7G-G4(IssueII).pdf. for non-commercial purposes in part or in full to any other person
+54 “Cabinet Approves revision in Nutrient Based Subsidy (NBS) rates with due acknowledgement of PRS Legislative Research (“PRS”).
+for RABI Season, 2022-23 (from 01.01.2023 to 31.03.2023) and The opinions expressed herein are entirely those of the author(s).
+fixing of Nutrient Based Subsidy (NBS) rates for KHARIF Season, PRS makes every effort to use reliable and comprehensive
+2023 (from 1.4.2023 to 30.09.2023) on Phosphatic and Potassic information, but PRS does not represent that the contents of the
+(P&K) fertilizers.”, Press Information Bureau, Ministry of Chemicals report are accurate or complete. PRS is an independent, not-for-
+and Fertilisers, May 17, 2023, profit group. This document has been prepared without regard to the
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1924770. objectives or opinions of those who may receive it.
+55 “Cabinet approves Constitution and Empowerment of an Inter-
+Ministerial Committee (IMC) for Facilitation of “World’s Largest
+Grain Storage Plan in Cooperative Sector”, Press Information
+Bureau, Union Cabinet, May 31, 2023,
+https://pib.gov.in/PressReleasePage.aspx?PRID=1928599.
+56 Quad Leaders’ Joint Statement 2023, Ministry of External Affairs,
+May 20, 2023, https://mea.gov.in/bilateral-
+documents.htm?dtl/36571/Quad+Leaders+Joint+Statement.
+- 12-

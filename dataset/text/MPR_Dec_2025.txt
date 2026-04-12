@@ -1,0 +1,1310 @@
+Monthly Policy Review
+December 2025
+Highlights of this Issue
+Winter Session 2025 concludes (p. 2)
+The winter session of Parliament concluded on December 19, 2025. The session had 15 sittings. Nine Bills
+were introduced during this session, out of which seven were passed, and two were referred to Committees.
+Repo rate reduced to 5.25% (p. 2)
+RBI’s Monetary Policy Committee voted to reduce the repo rate from 5.5% to 5.25%. The standing deposit
+facility rate, marginal standing facility rate and bank rate were also reduced by 0.25%.
+Parliament passes a Bill to modify the legal framework for nuclear energy (p. 3)
+The Bill replaces the Atomic Energy Act, 1962 and the Civil Liability for Nuclear Damage Act, 2010. It allows
+private participation in plant operation and fuel handling, and alters the right of recourse against suppliers.
+Parliament passes Viksit Bharat - G RAM G Bill to replace MGNREGA (p. 5)
+The Bill increases right to employment for a rural household from 100 to 125 days. Funding will be shared
+between the Centre and states in 60:40 ratio. States will bear additional expense above a normative allocation.
+Parliament passes a Bill to amend the insurance laws (p. 5)
+The Bill increases FDI limit in Indian insurance companies from 74% to 100%. It lowers net-owned fund
+requirements for foreign re-insurers. It also grants additional powers to IRDAI.
+The Securities Markets Code, 2025 introduced in Lok Sabha (p. 6)
+The Code seeks to consolidate provisions of the SEBI Act, 1992, the Depositories Act, 1996, and the Securities
+Contracts (Regulations) Act, 1956.
+The Viksit Bharat Shiksha Adhishthan Bill, 2025 introduced in Lok Sabha (p. 7)
+The Bill sets up a regulatory body for higher education to replace UGC, AICTE, and NCTE. The new
+regulatory body will not have any powers regarding funding to higher education institutions.
+Select Committee submits report on the IBC (Amendment) Bill, 2025 (p. 7)
+Key recommendations include barring Resolution Professionals from being appointed as liquidators, imposing a
+timeline for appeal disposal by NCLAT, and specifying details for cross-border insolvency.
+Russian President visits India for bilateral talks (p. 8)
+The two countries re-affirmed their support for strengthening the strategic partnership. They agreed to expand
+cooperation in areas such as nuclear energy, space, military, science and technology, and maritime transport.
+India and Oman signed a comprehensive economic partnership agreement (p. 8)
+Oman will offer zero-duty access on over 98% of its tariff lines, covering most Indian exports. India will cut
+tariffs on about 78% of its tariff lines, covering nearly 95% of imports from Oman by value.
+Comments invited on draft Rules under the four Labour Codes (p. 9)
+These Rules specify details such as weekly working hours, detailed procedures for social security benefits,
+manner of calculation of minimum wage and floor wage, and the manner of recognition of trade unions.
+Standing Committees of Parliament submitted reports
+Standing Committees of Parliament submitted various reports. These include working of the Insolvency and
+Bankruptcy Code and Land Acquisition Act, self-sufficiency in fertilisers, and self-reliance in minerals.
+January 2, 2026
+PRS Legislative Research ■ Institute for Policy Research Studies
+3rd Floor, Gandharva Mahavidyalaya ■ 212, Deen Dayal Upadhyaya Marg ■ New Delhi – 110002
+Tel: (011) 23234801, 43434035 ■ www.prsindia.org
+Monthly Policy Review – December 2025 PRS Legislative Research
+Parliament September) of 2025-26, lower than USD 20.9 billion
+(2.2% of GDP) in the corresponding quarter of 2024-
+Ruchira Sakalle (ruchira@prsindia.org) 25.2 In the first quarter (April-June) of 2025-26,
+current account deficit of USD 2.7 billion (0.3% of
+Winter Session 2025 concludes GDP) was recorded. Foreign exchange reserves
+decreased by USD 10.9 billion during the second
+The Winter Session of Parliament was held from
+quarter of 2025-26.
+December 1 to December 19, 2025. During the
+session, nine Bills were introduced. Two of these Bills Table 1: Balance of payments, Q2 2025-26 (USD
+were referred to Committees. These are the Securities billion)
+Markets Code, 2025, and the Viksit Bharat Shiksha Q2 Q1 Q2
+Adhishthan Bill, 2025 (establishes a regulator for 2024-25 2025-26 2025-26
+higher education). a. Exports 100.6 112.7 109.4
+b. Imports 189.2 181.6 196.8
+Seven Bills were passed. These include a Bill to
+modify the legal framework for nuclear energy, and c. Trade balance (a-b) -88.5 -68.9 -87.4
+another Bill to replace the MGNREGS Act. A Bill to d. Net services 44.5 47.9 50.9
+amend insurance laws was also passed. Further, two e. Other transfers 23.2 18.2 24.2
+Bills were passed to raise excise duty on tobacco f. Current account (c+d+e) -20.9 -2.7 -12.3
+products and levy a cess on pan masala. g. Capital account 39.9 8.0 0.6
+h. Errors and omissions -0.4 -0.7 0.8
+The Supplementary Demands for Grants for 2025-26
+i. Change in reserves (f+g+h) 18.6 4.5 -10.9
+was also discussed and passed.
+Sources: RBI; PRS.
+For more details on the legislative business transacted
+during this session, see here. Industrial production grows by 4.3% in the
+second quarter of 2025-26
+For more details on functioning of Parliament during
+the session, see here. Shania Ali (shania@prsindia.org)
+The Index of Industrial Production (IIP) grew by 4.3%
+in the second quarter (July-September) of 2025-26,
+Macroeconomic Development
+higher than the same period in 2024-25 (an increase of
+2.7%).3,4 Note that manufacturing (78%) has the
+RBI reduces repo rate to 5.25% highest weightage in the calculation of the IIP,
+followed by mining (14%) and electricity (8%).
+Shania Ali (shania@prsindia.org)
+Manufacturing increased by 5.1% in the second quarter
+The Reserve Bank of India’s (RBI) Monetary Policy of 2025-26. Electricity registered an increase of 3.7%,
+Committee (MPC) voted to reduce the policy repo rate while mining decreased by 0.5%. In the corresponding
+(the rate at which RBI lends money to banks for short- quarter of 2024-25, mining had decreased by 0.1%.
+term needs) from 5.5% to 5.25%.1 Other decisions of
+Figure 1: Growth in IIP (%, year-on-year)
+the MPC include:
+8%
+ The standing deposit facility rate (the rate at which 5.1%
+6% 4.3%
+RBI borrows from banks without giving collateral) 3.7%
+4%
+has been reduced from 5.25% to 5.0%.
+2%
+ The marginal standing facility rate (rate at which 0%
+banks can borrow additional overnight funds from -2% -0.5%
+RBI) and the bank rate (rate at which RBI lends -4%
+money to commercial banks for the long term) -6%
+have also been reduced from 5.75% to 5.5%. -8%
+IIP Mining Mfg Electricity
+ RBI increased its projection for real GDP growth
+for 2025-26 from 6.8% to 7.3%.
+Jul-25 Aug-25 Sep-25 Jul-Sep 25
+ The MPC decided to continue with its neutral
+Sources: Ministry of Statistics and Programme Implementation; PRS.
+stance.
+Current account deficit at 1.3% of GDP in the Standing Committee submits report on review
+second quarter of 2025-26 of the National Statistical Commission
+Shania Ali (shania@prsindia.org) Vedika Bhanote (vedika@prsindia.org)
+India recorded a current account deficit of USD 12.3 The Standing Committee on Finance (Chair: Mr.
+billion (1.3% of GDP) in the second quarter (July- Bhartruhari Mahtab) presented its report on
+- 2 -
+Monthly Policy Review – December 2025 PRS Legislative Research
+‘Performance Review of National Statistical ranging from Rs 100 crore to Rs 3,000 crore based
+Commission (NSC)’.5 NSC began functioning in July on power capacity.
+2006. Its purpose is to serve as a nodal body for
+ Atomic Energy Regulatory Board: The Bill
+matters related to statistics and statistical systems and
+provides statutory recognition to the Atomic
+ensure co-ordination between ministries and agencies.
+Energy Regulatory Board (AERB). The Board
+Key recommendations of the Committee include: (i)
+will take measures to ensure safe use of radiation
+establishing NSC as an autonomous body for all
+and nuclear energy.
+statistical activities with full statutory backing, (ii)
+developing a national standards framework on data For a PRS summary of the Bill, see here.
+collection, sampling, and reporting protocols applicable
+to both public and private sector, (iii) establishing a The Petroleum and Natural Gas Rules, 2025
+statistical audit function and standardised audit notified
+guidelines, (iv) refining GDP data to capture all
+economic activity, especially within the unorganised Ayush Stephen Toppo (ayush@prsindia.org)
+sector, and (v) pursuing international collaborations for
+joint research initiatives. The Ministry of Petroleum and Natural Gas notified the
+Petroleum and Natural Gas Rules, 2025.9 These Rules
+For a PRS summary of the report, see here. have been notified under the Oilfields (Regulations and
+Development) Act, 1948.10 The Act provides for
+regulation of oilfields and development of mineral oil
+resources. These Rules replace the Petroleum and
+Energy
+Natural Gas Rules, 1959 which specify the manner of
+issuing licences and leases with respect to petroleum
+Parliament passes a Bill to modify the legal and natural gas, and rights and obligations of
+framework for nuclear energy licence/lease holders.11 Key features of the 2025 Rules
+include:
+Ayush Stephen Toppo (ayush@prsindia.org)
+ Petroleum lease: Petroleum lease will be granted
+The Sustainable Harnessing and Advancement of by: (i) the state government for mineral oil
+Nuclear Energy for Transforming India Bill, 2025 was underlying land within its jurisdiction, and (ii) the
+passed by Parliament.6 The Bill replaces the Atomic central government for resources in offshore areas.
+Energy Act, 1962 and the Civil Liability for Nuclear The lease will provide exclusive right to explore,
+Damage Act, 2010.7,8 The 1962 Act provided for the develop, and produce mineral oils. Earlier,
+development and use of atomic energy, and the 2010 separate concessions were issued for exploration
+Act provided a framework for assigning liability and and production. A lease will be valid for a period
+compensation in case of a nuclear incident. Key between four years and 30 years. The lease may
+changes include: be extended till the end of economic life of the
+oilfield, in one or more instalments. The lessee
+ Licence to non-government entities: The 1962 may also undertake activities such as exploration
+Act permitted only central government entities or and generation from renewable energy sources,
+companies to mine atomic minerals or produce and exploration and production of hydrogen in the
+nuclear energy. The Bill empowers the central leased area.
+government to issue licences to Indian private
+companies or their joint ventures with government  Rights with respect to data: All data obtained as
+entities for generating nuclear energy and handling a result of operations will be the property of the
+nuclear fuel. central government. A lessee will have right to use
+data free of cost and retain for its own purposes.
+ Operator’s right of recourse: The 2010 Act gave The central government may disclose data to
+operators a legal right to recover some or all of the public, other than any data held to be proprietary.
+compensation paid. This right could be exercised:
+(i) when such rights are provided in a contract, (ii)  Greenhouse gas emissions: Every lessee must
+where the incident arises due to the supply of monitor and reduce greenhouse gas emissions.
+defective equipment or materials, and (iii) when Lessees may undertake projects for geological
+the incident is caused by a deliberate act with the storage of emissions within the leased area, after
+intent to cause damage. The Bill removes the obtaining authorisation from the central
+ground of supply of defective equipment or government.
+materials.
+ Sharing of infrastructure: Two or more lessees
+ Liability for nuclear damage: The 2010 Act may jointly develop or share infrastructure
+specified a maximum liability of the operator at Rs facilities, as per mutually agreed terms and
+1,500 crore for a nuclear reactor with thermal conditions.
+power capacity of 10 megawatt or above. The Bill
+specifies a tiered structure, with liability limit
+- 3 -
+Monthly Policy Review – December 2025 PRS Legislative Research
+CERC notifies guidelines for virtual power wafers, (iii) reducing delays in land clearances by
+purchase agreements adopting uniform compensation guidelines for right of
+way by states, (iv) a single window clearance
+Ayush Stephen Toppo (ayush@prsindia.org)
+mechanism for easy identification of issues and time-
+bound resolution, and (v) acceleration of solar power
+The Central Electricity Regulatory Commission
+schemes such as PM Surya Ghar Yojana and PM-
+(CERC) notified guidelines for Virtual Power Purchase
+KUSUM.
+Agreements (VPPAs).12 These agreements are
+intended to help designated consumers meet their For a PRS summary of the report, see here.
+Renewable Energy Consumption Obligation (RCO).
+This obligation was introduced through an amendment Estimates Committee submits report on
+to the Energy Conservation Act, 2001 in 2022. It implementation of PM-KUSUM and PM Surya
+requires certain consumers to source a minimum Ghar schemes
+percentage of electricity requirement from non-fossil
+Ayush Stephen Toppo (ayush@prsindia.org)
+sources. Designated consumers include distribution
+companies, open access consumers (who procure
+The Estimates Committee (Chair: Dr. Sanjay Jaiswal)
+electricity directly from generators), and captive users
+presented its report on “Implementation of Pradhan
+(who generate electricity for their own use).
+Mantri Kisan Urjan Suraksha Evam Utthaan
+Currently, RCO may be fulfilled by: (i) utilising Madhabhiyan (PM-KUSUM) and PM Surya Ghar:
+electricity from non-fossil sources, or (ii) purchasing Muft Bijli Yojana”.14 PM-KUSUM aims to promote
+Renewable Energy Certificates (REC) from generators adoption of solar energy in the agricultural sector. PM
+through competitive bidding on power exchanges. Surya Ghar seeks to promote rooftop solar panels
+RECs are issued to generators for supplying electricity among households.
+from renewable sources. A VPPA will provide a third
+In case of PM-KUSUM, the Committee recommended:
+option to fulfil the obligation. A VPPA is a financial
+(i) increasing central financial assistance for
+contract in which electricity is not physically
+decentralised solar power plants to address low uptake,
+exchanged between contracting parties. Key features
+(ii) modifying the scheme to allow higher capacity
+of the guidelines include:
+solar pumps in areas with lower groundwater levels,
+ Design of VPPA: A VPPA will be a bilateral and (iii) adopting agrivoltaics which allows agriculture
+contract between a renewable energy generator and and solar power generation on the same piece of land.
+a designated consumer for at least one year. Under Key recommendations on PM KUSUM include: (i)
+this contract, the generator will earmark RE addressing inter-state disparity in empanelment of
+capacity for that designated consumer. The vendors, and reducing performance bank guarantee
+generator will transfer to the designated consumer amount to support it, (ii) extending coverage to single
+the RECs earned from the sale of electricity up to dwelling units in agricultural fields and beneficiaries of
+the earmarked capacity. RECs for VPPAs may be Pradhan Mantri Awas Yojana, (iii) speedy disposal of
+earned by sale through a power exchange, or other loan applications, and (iv) addressing shortages of
+such modes authorised by CERC. VPPAs will be various components in far-flung areas.
+non-tradeable and non-transferrable.
+For a PRS summary of the report, see here.
+ Payment terms: The generator and the designated
+consumer will decide a mutually agreed price. CAG releases audit report on the Deen Dayal
+Difference between the price realised through sale
+Upadhyaya Gram Jyoti Yojana and
+and the pre-agreed price will be settled bilaterally
+SAUBHAGYA scheme
+in accordance with agreed terms and conditions.
+Vedika Bhanote (vedika@prsindia.org)
+ Dispute settlement: The guidelines specify that a
+dispute will be mutually settled as per the contract.
+The Comptroller and Auditor General of India (CAG)
+released its audit report on ‘Deen Dayal Upadhyaya
+Standing Committee submits report on review
+Gram Jyoti Yojana (DDUGJY) and Pradhan Mantri
+of solar power projects Sahaj Bijli Har Ghar Yojana (SAUBHAGYA)’.15
+Vedika Bhanote (vedika@prsindia.org)
+DDUGJY was launched in 2014 to strengthen rural
+electricity distribution. SAUBHAGYA was launched
+in 2017 to provide last-mile connectivity and electricity
+The Standing Committee on Energy (Chair: Mr.
+to all unelectrified rural households.
+Shrirang Appa Barne) presented its report on
+‘Performance Evaluation of Solar Power Projects in the CAG noted that actual expenditure under both schemes
+Country’.13 Key recommendations include: (i) was lower than the sanctioned expenditure. Under
+providing grants to research institutions to conduct DDUGJY, actual expenditure was Rs 64,495 crore
+solar storage-related R&D for cost reduction, (ii) against a sanction of Rs 75,893 crore. Under
+introducing dedicated production-linked incentive SAUBHAGYA scheme, actual expenditure was Rs
+schemes for manufacturing of polysilicon, ingots, and 9,246 crore against a sanction of Rs 14,082 crore.
+- 4 -
+Monthly Policy Review – December 2025 PRS Legislative Research
+Under DDUGJY, as of March 2022, 7,833 agricultural  Pause on work during agricultural season: The
+feeders were separated against a sanction of 9,019 and Bill empowers the state government to pause work
+cabinet approval for 16,500. Under SAUBHAGYA, under the programme for a period of up to 60 days
+1.52 crore households were electrified against an initial in a financial year during peak agricultural seasons,
+target of three crore households. Under both these including sowing and harvesting. The 2005 Act
+schemes, detailed project reports were prepared without did not contain any such provisions.
+field surveys. It highlighted gaps in quality assurance
+ Technology integration: The Bill provides for
+under the two schemes such as delay in inspections and
+using technologies for monitoring scheme
+resolution of issues identified during inspections.
+implementation. These include: (i) biometric
+Key recommendations include: (i) collecting accurate authentication for transactions, (ii) geospatial
+beneficiary data before launch of a scheme to avoid technology for planning, and (iii) mobile
+gaps in targets and achievement, (ii) ensuring field application based dashboards for real-time tracking
+surveys before preparing detailed project reports to of work under the scheme.
+address variance in execution, (iii) planning fund
+For a PRS summary of the Bill, see here.
+allocations based on verified beneficiary lists, (iv)
+undertaking extra budgetary borrowing only as per
+Standing Committee submits report on
+assessed requirements, and (v) ensuring adherence to
+implementation of land acquisition law
+quality assurance frameworks in future schemes.
+For a PRS summary of the report, see here. The Standing Committee on Rural Development and
+Panchayati Raj (Chair: Mr. Saptagiri Sankar Ulaka)
+presented its report on ‘Right to Fair Compensation and
+Transparency in Land Acquisition, Rehabilitation and
+Rural Development Resettlement Act, 2013 (LARR Act) - Implementation
+and Effectiveness’. The Committee observed
+Vaishali Dhariwal (vaishali@prsindia.org) challenges in implementation in scheduled areas and
+issues related to rehabilitation. It observed that the
+Parliament passes a Bill to replace MGNREGA consent of Gram Sabha is often obtained as a mere
+formality. It recommended making it mandatory across
+The Viksit Bharat—Guarantee for Rozgar and Ajeevika
+all land acquisitions, not just in scheduled areas.
+Mission (Gramin) (VB—G RAM G) Bill, 2025 was
+Taking note of issues in rehabilitation, it recommended
+passed by Parliament.16 The Bill replaces the Mahatma
+that no possession of land should be allowed until the
+Gandhi National Rural Employment Guarantee Act,
+rehabilitation sites are fully functional and service
+2005 (MGNREGA).17 Key features of the Bill include:
+ready. The Committee emphasised aligning LARR Act
+ Increased number of guaranteed days: Under with provisions of the Panchayats (Extension to
+MGNREGA, members of a rural household Scheduled Areas) Act, 1996, and giving recognition to
+seeking unskilled manual work were guaranteed at community forest resource titles under the Forest
+least 100 days of wage employment in a financial Rights Act, 2006 for the compensation process.
+year. The 2025 Bill increases the guarantee to 125
+For a PRS summary of the report, see here.
+days. Under MGNREGA, if a person seeking
+work is not provided employment within 15 days,
+the state government must pay them an
+unemployment allowance. The 2025 law retains
+Finance
+this provision.
+ Fund sharing pattern: The central government The Sabka Bima Sabki Raksha (Amendment of
+covered the entire cost of wages, up to three-
+Insurance Laws) Bill, 2025 passed by Parliament
+fourths the material cost, and a share of the
+administrative cost under MGNREGA. The state Shrusti Singh (shrusti@prsindia.org)
+governments provided one fourth of the material
+cost, rest of the administrative cost, unemployment The Sabka Bima Sabki Raksha (Amendment of
+allowance, and compensation for delay in wage Insurance Laws) Bill was passed by Parliament.18 The
+payment. Under the 2025 Bill, the programme will Bill seeks to amend the Insurance Act, 1938, the Life
+be implemented as a centrally sponsored scheme, Insurance Corporation Act, 1956, and the Insurance
+where the central and state governments will bear Regulatory and Development Authority Act, 1999.
+all costs in a 60:40 ratios for all states and in a Key changes include:
+90:10 ratios for north-eastern and himalayan states.
+ 100% FDI permitted in an Indian Insurance
+The central government will determine state-wise
+Company: The Bill increases the Foreign Direct
+normative allocation for each financial year. The
+Investment (FDI) limit in Indian Insurance
+state governments will bear any excess expenditure
+companies from 74% to 100% of the paid-up
+incurred beyond this allocation.
+equity capital.
+- 5 -
+Monthly Policy Review – December 2025 PRS Legislative Research
+ Net-owned fund requirements for foreign be specified by regulations, including interests of
+reinsurers lowered: The Bill reduces the net- any family member. It also adds that the central
+owned fund requirements for foreign entities government may remove a member who has
+engaged in the re-insurance business from Rs acquired any financial or other interests that is
+5,000 crore to Rs 1,000 crore. likely to prejudice his functions.
+ Minimum paid-up share capital for insurance  Requirement to register: The Bill retains
+co-operative societies: The Bill amends the registration requirement for various entities.
+definition of an insurance co-operative society to Intermediaries such as stock brokers, asset
+remove the requirement of minimum paid-up share management companies, and investment advisors
+capital of Rs 100 crore for life, general, and health must register with SEBI for carrying on investment
+insurance businesses. activity or business. It also mandates registration
+of Market Infrastructure Institutions (MIIs) with
+ Powers of IRDAI: The Bill adds certain powers
+SEBI which include stock exchanges, depositories,
+to IRDAI. It empowers IRDAI to approve the
+and clearing corporations. The Bill empowers
+scheme of arrangement between an insurer and a
+SEBI to require registration of specified classes of
+company not engaged in insurance business. It
+investors. It empowers SEBI to delegate its
+also empowers IRDAI to supersede the Board of
+powers of registration of intermediaries or
+Directors of an insurer where it appoints an
+investors to MIIs. MIIs may also make bye-laws
+Administrator. This may be done if the insurer is
+to minimise market abuse and foster transparency.
+carrying on business prejudicial to the interests of
+its policyholders. IRDAI may specify regulations  Grievance redressal and Ombudsperson: The
+on remuneration, commission, or reward payable Bill empowers SEBI to establish an investor
+to insurance agents or intermediaries, including grievance redressal mechanism and direct service
+limits, manner of payments, and related providers to also constitute grievance redressal
+disclosures. The Bill extends the powers of IRDAI mechanisms. It also empowers SEBI to appoint an
+to inspect and investigate insurance intermediaries. Ombudsperson to redress grievances.
+For a PRS summary of the Bill, see here. For a PRS summary of the Bill, see here.
+The Securities Markets Code, 2025 introduced Parliament passes a Bill to levy a cess on
+in Lok Sabha production of pan masala
+Shrusti Singh (shrusti@prsindia.org) Ayush Stephen Toppo (ayush@prsindia.org)
+The Securities Markets Code, 2025 was introduced in The Health Security se National Security Cess Bill,
+Lok Sabha.19 It seeks to repeal and replace: (i) the 2025 was passed by Parliament.20 The Bill levies a
+Securities Contracts (Regulations) Act, 1956, (ii) the cess on production of pan masala and any other goods
+Securities and Exchange Board of India (SEBI) Act, notified by the central government. The cess will be
+1992, and (iii) the Depositories Act, 1996. The Bill used for expenditure towards public health and national
+seeks to consolidate the provisions of these Acts into a security. It will be calculated per machine installed for
+single Code. It retains most of the provisions. The Bill production or per unit of wholly manual production.
+has been referred to the Standing Committee on
+For a PRS summary of the Bill, see here.
+Finance (Chair: Mr. Bhartruhari Mahtab). Key changes
+under the Bill include:
+Parliament passes a Bill to increase central
+ Composition of SEBI: Currently, SEBI consists excise duty on production of tobacco
+of nine members: (i) the Chairperson, (ii) two
+officials from the Ministry of Finance and Ayush Stephen Toppo (ayush@prsindia.org)
+Corporate Affairs, (iii) one official of RBI, and (iv)
+The Central Excise (Amendment) Bill, 2025 was
+five other members appointed by the central
+passed by Parliament.21 The Bill amends the Central
+government of whom at least three must be whole-
+Excise Act, 1944. The Bill increases central excise
+time members. The Bill increases the number of
+duty on unmanufactured tobacco, manufactured
+other members appointed by the central
+tobacco, tobacco products, and tobacco substitutes.
+government to 11, of whom at least five must be
+whole-time members. For a PRS summary of the Bill, see here.
+ Conflict of interest of a Board Member: Under
+the SEBI Act, a member of SEBI, who is a director The Manipur Goods and Services Tax (Second
+of a company, must disclose any direct or indirect Amendment) Bill, 2025 passed by Parliament
+pecuniary interest in a matter. He must not take
+Shania Ali (shania@prsindia.org)
+part in deliberations or decisions on such matters.
+The Bill expands this restriction to include all
+The Manipur Goods and Services Tax (Second
+members with any direct or indirect interest as may
+Amendment) Bill, 2025 was passed by the
+- 6 -
+Monthly Policy Review – December 2025 PRS Legislative Research
+Parliament.22 The Bill sought to replace the Manipur over resolution for additional fee. It recommended
+Goods and Services Tax (Second Amendment) that an RP shall be ineligible to be appointed as a
+Ordinance, 2025 which was promulgated on October 7, liquidator to eliminate any conflict of interest.
+2025. The Ordinance amended the Manipur Goods and Therefore, the Committee recommended
+Services Tax Act, 2017. The Act provides for levy and appointing a liquidator upon the recommendation
+collection of State GST (SGST) on intra-state supply of of the Insolvency and Bankruptcy Board of India
+goods and services. The Ordinance aligned the (IBBI) to the NCLT.
+Manipur Act with the amendments made to the Central
+ Role of CoC in the liquidation process: The Bill
+Goods and Services Tax Act, 2017 by the Finance Act,
+empowers the CoC to supervise the conduct of the
+2025. Key features include:
+liquidation process. The Committee observed that
+ Issuance of credit notes: A supplier may issue a this provision will ensure that CoC can leverage its
+credit note to the recipient of goods or services if: commercial wisdom to assist the liquidator in
+(i) the taxable value or tax charged in the invoice taking commercial decisions. However, it
+exceeds the taxable value or tax charged, (ii) goods recommended that IBBI should clarify the scope of
+or services have been returned, or (iii) goods or supervision to prevent any conflict with the
+services have been found to be deficient. The statutory duties of the liquidator.
+supplier’s tax liability for sales can accordingly be
+ Voting threshold to initiate a Pre-Packaged
+adjusted, provided the recipient has not availed of
+Insolvency Resolution Process (PPIRP): Under
+input tax credit attributable to that credit note.
+the Bill, the voting threshold for unrelated
+Input tax credit refers to the credit received for tax
+financial creditors to initiate a PPIRP is 66%. The
+paid on purchases (inputs), which can be used to
+Committee recommended reducing this threshold
+reduce GST payable on sales.
+to 51% to expedite the PPIRP. This voting
+ Exemption to certain supply of goods housed in threshold will also apply under the Creditor-
+Special Economic Zones: Schedule III of the Act Initiated Insolvency Resolution Process.
+specifies a list of transactions that are not
+For a PRS Summary of the report, see here.
+considered as supply of goods and services.
+Hence, these are exempt from levy of SGST. The
+Standing Committee submits report on review
+Bill expands the list by adding supply of goods
+of working of IBC and emerging issues
+warehoused in a Special Economic Zone (SEZs) or
+Free Trade Warehousing Zone (FTWZ) to any
+Shrusti Singh (shrusti@prsindia.org)
+person before clearance for exports or to the
+Domestic Tariff Area (DTA). SEZs are special The Standing Committee on Finance (Chair: Mr.
+areas set up by the government where businesses Bhartruhari Mahtab) submitted its report on ‘Review
+get concessions to attract investment and increase of Working of Insolvency and Bankruptcy Code
+exports. FTWZ is a special type of SEZ focused (IBC) and Emerging Issues’. Key recommendations
+on warehousing and logistics. All parts of India of the Committee include: (i) establishing an online
+outside SEZs are referred to as DTA. mechanism to issue “no dues” certificates and
+statutory clearances for debtors, (ii) raising the
+For a PRS summary of the Bill, see here.
+penalty for frivolous applications, (iii) expansion of
+competitive bidding for assets of firms entering the
+Select Committee submits report on the
+resolution process through global outreach, (iv)
+Insolvency and Bankruptcy Code
+introducing an early-stage mediation process as an
+(Amendment) Bill, 2025
+alternative dispute resolution mechanism outside a
+Shrusti Singh (shrusti@prsindia.org) formal court process, and (v) ease the eligibility
+criteria for homebuyers to initiate an insolvency
+The IBC (Amendment) Bill, 2025 was introduced in process.
+Lok Sabha in August 2025. It seeks to amend the
+For a PRS summary of the report, see here.
+Insolvency and Bankruptcy Code, 2016. The Bill was
+referred to a Select Committee of Lok Sabha (Chair:
+Mr. Baijayant Panda). The Committee presented its
+report on December 17, 2025. Key observations and
+Education
+recommendations of the Committee include:
+ Appointment of Liquidator: The Code provides The Viksit Bharat Shiksha Adhishthan Bill,
+for the appointment of a Resolution Professional
+2025 introduced in Lok Sabha
+(RP) as a liquidator by the National Company Law
+Tribunal (NCLT). The Bill amends this to allow Jahanvi Choudhary (jahanvi@prsindia.org)
+the Committee of Creditors (CoC) to appoint an
+RP or any other insolvency professional as a The Viksit Bharat Shiksha Adhishthan (VBSA) Bill,
+liquidator. The Committee observed that the RP 2025 was introduced in Lok Sabha.23 It seeks to
+may have a perverse incentive to favour liquidation establish a regulatory body for higher education. It
+- 7 -
+Monthly Policy Review – December 2025 PRS Legislative Research
+replaces three existing bodies: (i) the University Grants Standing Committee submits report on
+Commission (UGC), (ii) the All-India Council for schemes for education loans
+Technical Education, and (iii) the National Council for
+Navya Sriram (navya@prsindia.org)
+Teacher Education. The Bill has been referred to a
+Joint Parliamentary Committee. Key features of the
+The Standing Committee on Education, Women,
+Bill include:
+Children, Youth and Sports (Chair: Mr. Digvijaya
+ Establishment of VBSA and Councils: The Bill Singh) submitted its report on the “Review of Schemes
+establishes the VBSA as the apex regulatory body for Education Loan and Financial Accessibility in
+for higher education. It also establishes three Higher Education”.25 Key observations and
+separate Councils for regulation, accreditation, and recommendations of the Committee include: (i)
+standard setting. Currently, UGC also allocates addressing high rates of interest, (ii) revising limits for
+grants to higher education institutions (HEIs). collateral-free loans to increase accessibility, (iii)
+Under the Bill, neither the VBSA, nor its Councils exemption from providing CIBIL score to families
+will have any powers regarding funding to HEIs. availing free rations, (iv) increasing moratorium period
+for repayment from one year to two years, and (v)
+ Appointment of members: The Chairperson and
+expanding coverage of institutions under the PM
+members of VBSA will be appointed by the
+Vidyalakshmi Scheme.25 The PM Vidyalakshmi
+President of India, on the recommendation of the
+scheme provides collateral-free education loans with
+central government. The Presidents and full-time
+3% subsidy on interest, for students from families with
+members of the Councils will also be appointed by
+annual income up to eight lakh rupees.26 Currently,
+the President of India, on the recommendation of a
+this scheme is available only to students enrolled in
+search committee.
+specified quality higher education institutions.
+ Penalties on HEIs: Penalties ranging between Rs
+For a PRS summary of the report, see here.
+10 lakh and Rs 70 lakh may be imposed on HEIs
+for contravention of the Act. The Regulatory
+Council may also recommend actions such as: (i)
+withholding grants, (ii) reviewing autonomy, (iii)
+External Affairs
+revoking affiliation, or (iv) winding up.
+For PRS summary of the Bill, see here.
+Russian President visits India for bilateral talks
+Standing Committee submits report on Navya Sriram (navya@prsindia.org)
+autonomous bodies in higher education
+The President of the Russian Federation, Mr. Vladimir
+Jahanvi Choudhary (jahanvi@prsindia.org) Putin, visited India for bilateral talks.27,28 The two
+countries re-affirmed their support for strengthening the
+The Standing Committee on Education, Women,
+strategic partnership. They agreed to expand
+Children, Youth, and Sports (Chair: Mr. Digvijaya
+cooperation in areas such as nuclear energy, space,
+Singh) submitted its report on ‘Review of Autonomous
+military, science and technology, and maritime
+Bodies and Institutions- NTA, NAAC, Draft UGC
+transport. Key agreements signed include: (i) an MoU
+regulations, ICHR, ICPR, ICSSR, IIAS (Shimla) and
+to develop a joint venture in urea manufacturing by
+Auroville Foundation under the Department of Higher
+Indian companies in Russia, (ii) two agreements to
+Education’.24 The Committee highlighted issues in
+establish a framework for migration of skilled workers
+administration of competitive exams such as exam
+from India to Russia, and (iii) a protocol to optimise
+postponement, paper leaks, delayed results, and errors
+customs control procedures. Other agreements relate to
+in papers. It also noted that universities require support
+cooperation in food safety, cooperation in maritime
+in infrastructure, recruitment, and curriculum drafting
+domain, broadcasting, healthcare, and academic
+to implement the National Education Policy, 2020. collaboration.28 Russia also adopted a framework
+Key recommendations of the Committee include: (i) agreement to join the International Big Cat Alliance
+creating a nationwide blacklist of firms that should not (IBCA). IBCA is an India-led global coalition
+be engaged for exam administration, (ii) filling launched in 2023 to conserve the world's seven big cat
+vacancies in leadership positions, and avoiding species. This includes tiger, lion, leopard, snow
+assigning these positions to officials as additional leopard, cheetah, jaguar, and puma.29
+charge for long-term, (iii) re-evaluating reservation for
+the economically weaker section for posts of Professor India and Oman sign Comprehensive
+and Associate Professor, (iv) adopting a binary model Economic Partnership Agreement
+for accreditation of higher education institutions
+Vedika Bhanote (vedika@prsindia.org)
+(accredited or not accredited), instead of a grade-based
+model, and (v) setting up a high-level committee to
+India and Oman signed a Comprehensive Economic
+examine the proliferation of coaching centres.
+Partnership Agreement to strengthen trade and
+For PRS summary of the report, see here. investment ties.30 Oman will offer zero-duty access on
+- 8 -
+Monthly Policy Review – December 2025 PRS Legislative Research
+over 98% of its tariff lines, covering most Indian  Occupational safety, health, and working
+exports. India will cut tariffs on about 78% of its tariff conditions: Weekly working hours in any
+lines, covering nearly 95% of imports from Oman by establishment must not exceed 48 hours. Period of
+value. The agreement also permits 100% foreign direct each workday with intervals and spread overs will be
+investment by Indian companies across major services notified by the central government. Women may be
+sectors in Oman. employed for all types of work during evening and
+night hours subject to specified conditions such as:
+India and New Zealand conclude Free Trade (i) written consent of the employee, (ii) adequate
+Agreement transportation facilities for pickup and drop, and (iii)
+provision of CCTV surveillance. Every employer of
+Vedika Bhanote (vedika@prsindia.org) a factory, dock, mine, building, and other
+construction work must arrange for an annual free
+India and New Zealand announced conclusion of Free
+health check-up for its employees. The draft Rules
+Trade Agreement (FTA).31 The agreement provides for
+also specify manner of: (i) registration, (ii)
+elimination or reduction of tariffs on about 95% of
+maintenance of records, and (iii) constitution of
+New Zealand’s exports to India, with over half of the
+required bodies such as safety committees.
+product lines becoming duty-free from the date of entry
+into force. India will receive duty-free access for all its  Social security: The draft Rules specify
+exports to New Zealand. In addition, New Zealand has procedures for providing benefits such as
+committed to invest USD 20 billion in India over the insurance, provident fund, gratuity, and maternity
+next 15 years. The FTA also creates a new visa benefits. They also specify manner of constituting
+pathway for Indian professionals to allow up to 5,000 various bodies to administer social security
+visas to be issued at any given time, with a maximum schemes. Gig workers are also eligible for social
+stay of three years. security benefits if they have engaged for at least
+90 days with one aggregator, or at least 120 days in
+case of multiple aggregators, in the last financial
+Standing Committee submits report on the
+year. The central government may specify
+Future of India-Bangladesh Relations
+additional eligibility conditions for benefits to gig
+Navya Sriram (navya@prsindia.org) workers.
+ Industrial relations: The draft Rules specify the
+The Standing Committee on External Affairs (Chair:
+manner of recognition of trade unions, constitution
+Dr Shashi Tharoor) published its report on the ‘Future
+of bodies such as works committee, and notice of
+of India-Bangladesh Relations’.32 Key observations
+lock out or strike. Application must be made to the
+and recommendations of the Committee include: (i)
+central government at least 15 days before layoff,
+expediting residual boundary demarcation under the
+60 days before retrenchment, and 90 days before
+Land Boundary Agreement, 2015, (ii) expediting
+closure. They also specify model standing orders
+fencing of 689 km of the unfenced land border, (iii)
+for sectors such as mining, manufacturing, and
+establishing a dedicated bilateral mechanism to monitor
+services.
+the progress of pending immigration cases, and (iv)
+commencing discussions on the Ganga Water Treaty  Wages: These draft Rules provide for the
+(set to expire in 2026) and convening regular meetings following: (i) manner of calculating minimum
+of the Joint Rivers Commission. wage accounting for minimum calorie intake, fuel
+and electricity, house rent, and educational and
+For a PRS summary of the report, see here.
+medical requirements for a family of three
+individuals, (ii) revision of dearness allowance
+twice a year, (iii) number of work hours in a
+normal working day to be specified through a
+Labour and Employment
+general or special order, and (iv) fixing of the floor
+wage by the central government in consultation
+Comments invited on draft Rules under the
+with the Central Advisory Board.
+four Labour Codes
+Comments are invited until January 29, 2026 for the
+Shrusti Singh (shrusti@prsindia.org) draft Rules under Industrial Relations Code, 2020, and
+until February 13, 2026 for other three draft Rules.
+The Ministry of Labour and Employment invited
+comments on the draft central Rules under the CAG releases audit report on the PM Kaushal
+following codes: (i) Occupational Safety, Health, and
+Vikas Yojana
+Working Conditions Code, 2020, (ii) Code on Social
+Security, 2020, (iii) Industrial Relations Code, 2020, Jahanvi Chaudhary (jahanvi@prsindia.org)
+and (iv) Code on Wages, 2019.33, 34,35,36 These four
+codes replace the 29 labour laws. Key features of the The Comptroller and Auditor General of India (CAG)
+draft Rules include: released its audit report on “Skill Development under
+Pradhan Mantri Kaushal Vikas Yojana (PMKVY)’.37
+- 9 -
+Monthly Policy Review – December 2025 PRS Legislative Research
+The scheme was introduced in 2015 to provide this may lead to compliance burdens and delays as
+industry-relevant skill training and certification to generally lifespan of these mines exceeds 30 years.
+youths. The audit report covers the three phases of the It has proposed to extend the period of future
+scheme launched between 2015 and 2022. These leases to 50 years.
+phases had a combined target of providing skill training
+ Relaxing end-use restriction: The MMDR Act
+and certifications to around 1.32 crore candidates.
+permits captive coal and lignite lessees to sell up to
+The CAG highlighted that 41% of the candidates 50% of annual production in the open market after
+certified under the short-term training and special meeting end-use requirements and paying an
+project components of the scheme were placed (23 lakh additional levy. The Ministry noted that unutilised
+out of 56 lakh candidates). It highlighted that selection production in these mines has led to legacy stock
+of job roles without analysis of micro-level skill-gap accumulation. It has proposed to remove 50%
+and market demands were primary reasons for low ceiling and allow sale of legacy mineral stocks.
+placement. It highlighted that state and district plans
+ Inclusion of coal gasification in mining
+for skill development were not prepared in all states.
+operation: Coal gasification converts coal into
+The national plan was also not prepared. It also
+synthetic gas which can be used as a cleaner
+observed that even after completion of three phases of
+energy source compared to coal. It has been
+PMKVY, convergence between efforts of the central
+proposed to add gasification to the definition of
+and state governments was not effective.
+mining to integrate the process within the legal and
+It also highlighted several gaps in implementation and regulatory framework of mineral development.
+monitoring. These include unreliable documents in
+Comments are invited until January 11, 2026.
+support of training and monitoring and delays in
+assessment of post-completion of training. Around
+New window introduced for auction of coal
+20% of the funds allocated to states remained unspent
+linkages in non-regulated sector
+as of March 2024.
+Key recommendations of CAG include: (i) aligning The Ministry of Coal has amended the Non-Regulated
+trainings with skill gaps identified in job roles and Sector (NRS) Linkage Auction Policy, 2016 to
+demand, (ii) preparing a long-term strategic plan to introduce a new auction window, CoalSETU (Coal for
+provide overall direction and continuity, and (iii) Seamless, Efficient and Transparent Utilisation).40 The
+preparing a roadmap for convergence and data NRS Linkage Policy provides for auction-based
+integration for skilling initiatives across the central and allocation of coal linkages to non-regulated industries
+state governments. such as cement, steel, sponge iron, and aluminium.
+The new window allows auction of coal linkages
+For PRS summary of the report, see here. without any specified end-use condition. Traders are
+excluded from participation. Auctions for existing
+specified end-use sub-sectors under the NRS policy
+will continue alongside the new window. Linkages
+Mining
+under this window may be granted for up to 15 years,
+and flexible use across group companies will be
+Vaishali Dhariwal (vaishali@prsindia.org)
+permitted. Coking coal will not be offered under this
+window. Coal India Limited and Singareni Collieries
+Comments invited on draft amendments to the
+Company Limited will be the implementing agencies.
+MMDR Act, 1957
+The Ministry of Coal invited comments on draft Comments invited on the draft Coal Exchange
+amendments to the Mines and Minerals (Development Rules, 2025
+and Regulation) Act, 1957 (MMDR Act).38 The Act
+The Ministry of Coal has invited comments on the
+governs the regulation, development and conservation
+Draft Coal Exchange Rules, 2025.41 The draft Rules
+of minerals in India and the grant of mining rights.39
+have been framed under the Mines and Minerals
+Key changes proposed include:
+(Development and Regulation) Act, 1957. A coal
+ Maximum area under licences: The MMDR Act exchange is a regulated e-marketplace where coal can
+specifies the maximum area that can be acquired be traded as a commodity.
+under mining and prospecting licences. The
+ Regulatory authority: Coal Controller
+Ministry observed that the current area ceilings
+Organisation has been designated as the authority
+restrict development of modern mining projects. It
+to register, regulate, and oversee coal exchanges.
+has invited suggestions for the extension of the
+It will have powers to: (i) grant, renew, and
+area limits in light of the modern mining needs.
+suspend registrations, (ii) approve contracts
+ Period of mining lease: The MMDR Act limits through which coal is brought and sold, (iii) carry
+coal and lignite mining leases to a maximum out market oversight, and (iv) conduct inspections.
+period of 30 years. Renewal can be granted for a
+maximum of 20 years. The Ministry observed that
+- 10 -
+Monthly Policy Review – December 2025 PRS Legislative Research
+ Eligibility: An applicant for setting up a coal minerals such as magnesite, manganese, and rock
+exchange must be a demutualised company phosphate, with domestic demand for them expected to
+(ownership and management is separate from rise. It is also dependent on imports for critical
+trading rights), with a minimum net worth of Rs minerals such as lithium, cobalt, and nickel. Key
+100 crore. The draft Rules also specify recommendations of the Committee include: (i)
+shareholding pattern for equity holders in a coal developing domestic processing and refining capacities
+exchange. No member of a coal exchange can and making them cost-competitive, (ii) seeing up inter-
+hold more than 5% of the share capital, and ministerial group to monitor post-auction progress of
+members together cannot own more than 49% of mineral and critical mineral projects to address delays,
+the share capital. No non-member can hold more (iii) increasing public-private partnerships in the
+than 25% of the share capital. mineral sector.
+ Registration: Registration of a coal exchange will For a PRS summary of the report, see here.
+be granted for 25 years, with provision for renewal
+for a further period of up to 25 years. The
+Authority may revoke registration for violations of
+the rules, reduction in net worth below the Communications
+prescribed threshold, market manipulation, insider
+trading, or failure to comply with directions.
+Comments invited on the draft amendments to
+ Responsibilities of coal exchanges: Coal the Post Office Act, 2023
+exchanges will facilitate contract-based trading of
+Ayush Stephen Toppo (ayush@prsindia.org)
+coal through an electronic trading platform. Price
+discovery on the platform will be done through a
+The Department of Posts released draft amendments to
+double-sided closed bid auction mechanism. To
+the Post Office Act, 2023 for public feedback.44 The
+manage market risk, each coal exchange will
+Act provides the legal framework for the Post Office,
+develop and implement a risk management
+an undertaking of the central government (also known
+framework. It will also constitute a Risk
+as India Post). The draft amendments propose a
+Assessment and Management Committee which
+framework for a digital addressing system called
+will monitor adherence to the framework. The
+DHRUVA. Key features include:
+exchange will also establish a Settlement
+Guarantee Fund to address settlement defaults.  Digital Addressing System: This system will
+Coal exchanges will have to set up surveillance allow users to digitally depict and share their
+systems to detect cartelisation, insider trading, and addresses in a standardised format. Generation,
+market manipulation. use, access, and validation of address information
+will require the user’s consent. The amendments
+Comments are invited until January 18, 2026.
+empower the central government to prescribe
+standards for addressing on items, address
+Standing Committee submits report on
+identifiers, and usage of postcodes.
+clearances for coal projects
+ The central government will appoint a Network
+The Standing Committee on Coal, Mines and Steel Administrator to establish and operate a common
+(Chair: Mr. Anurag Thakur) submitted report on system and set technical and governance standards.
+‘Expediting and Simplifying the Environment and The Administrator will register one or more
+Forest Clearance Process for Coal Mining Projects’.42 entities as Address Service Providers (ASPs).
+Key observations and recommendations of the ASPs will provide services to end-users to generate
+Committee include: (i) reducing the difference in address identifiers. The central government will
+average time taken in granting environment and forest authorise specified persons to operate as
+clearances between public and private sectors, (ii) Authorised Address Validation Agencies. These
+bringing permissions given by mine safety and water agencies can validate address information linked to
+authorities under the single window framework, (iii) an address identifier provided by a user. These
+creating land banks for compensatory afforestation, and include departments of central or state
+(iv) policy simplification and standardisation of governments, statutory bodies, companies
+practices for promoting underground mining. incorporated, and any other notified persons.
+For a PRS summary of the report, see here.  Offences and Penalties: The draft amendments
+penalise undertaking activities without
+Standing Committee submits report on self- authorisation. These include generating address
+reliance in minerals and metals identifiers or validating address information. The
+offences will be punishable with a civil penalty up
+The Standing Committee on Coal, Mines and Steel
+to one crore rupees. Continuing contravention will
+(Chair: Mr. Anurag Thakur) submitted report on ‘Self-
+attract an additional penalty of Rs 10 lakh per day.
+Reliance in Minerals and Metals’.43 The Committee
+Failure to furnish information or submitting false
+noted that India remains dependent on imports for
+information will be punishable with a civil penalty
+- 11 -
+Monthly Policy Review – December 2025 PRS Legislative Research
+up to Rs 10 lakh. Continuing contravention will use without permission amounts to infringement
+attract an additional penalty up to Rs 25,000 per under the Act, unless exempted. However, there is
+day. The central government will appoint no specific exemption for text and data mining or
+adjudicating officers to decide penalties. It will AI training.
+also appoint an appellate authority to hear appeals
+ Review of existing regulatory models: Voluntary
+against the decisions of the adjudicating officers.
+licencing requires AI developers to individually
+seek permission and negotiate licences with each
+Standing Committee submits report on
+copyright owner before using their works for
+mechanism to curb fake news
+training. However, the scale of online content and
+Navya Sriram (navya@prsindia.org) the number of potential rights holders make this
+costly and impractical. A blanket text-and-data
+The Standing Committee on Communications and mining exemption allows AI developers to train on
+Information Technology (Chair: Dr Nishikant Dubey) copyrighted works without obtaining permission,
+submitted its report on the “Review of Mechanism to provided the content is lawfully accessible. While
+Curb Fake News” on September 11, 2025.45 Key this reduces barriers, it leaves creators
+observations and recommendations of the Committee uncompensated. Collective licencing uses a
+include: (i) defining “fake news” under the existing collective organisation to authorise licence works
+regulatory mechanisms for all forms of media, (ii) at lower transaction costs and administer royalties
+constituting an independent body for adjudicating cross to rights holders. However, holding out against
+platform fake news cases and recommending penalties, licencing forces companies to demand high
+(iii) ensuring accountability of editors, publishers, and royalties, which then creates high entry barriers.
+intermediaries, (iv) a self-regulation mechanism for all This model also struggles with multimodal datasets
+broadcasters, and (v) a unified digital portal for by making collective licensing impractical at scale.
+grievance redressal with respect to fake news.45
+ Proposed framework: DPIIT proposed a hybrid
+For a PRS summary of the report, see here. model, where AI systems can train on any lawfully
+accessed copyrighted work, but they must pay for
+it through a mandatory blanket licence. Creators
+are guaranteed payment through a statutory
+Law and Justice remuneration right and cannot withhold the use of
+their work. A body designated by the central
+Vedika Bhanote (vedika@prsindia.org) government will collect payments from AI
+developers for such usage, and distribute them
+Repealing and Amending Bill, 2025 passed by fairly to rights holders.
+Parliament
+Comments are invited by January 7, 2026.
+The Repealing and Amending Bill, 2025 was passed by
+Parliament.46 It repeals 71 laws that are obsolete or
+redundant. It also amends four Acts. It amends the
+General Clauses Act, 1897 and the Code of Civil Shipping
+Procedure, 1908 to update terminologies for registered
+Vaishali Dhariwal (vaishali@prsindia.org)
+posts. The Indian Succession Act, 1925 has been
+amended to remove the requirement to obtain
+Guidelines notified for schemes to promote
+validation of wills by Courts in certain cases. The Bill
+amends the Disaster Management Act, 2005 to rectify a domestic shipbuilding
+drafting error.
+The Ministry of Ports, Shipping and Waterways
+For a PRS summary of the Bill, see here. notified operational guidelines for two shipbuilding
+initiatives: (i) the Shipbuilding Financial Assistance
+Comments invited on working paper on Scheme and (ii) the Shipbuilding Development
+Scheme.48,49,50 Key features of the guidelines include:
+Generative AI and copyright
+ Financial Assistance Scheme: The scheme will
+The Department for Promotion of Industry and Internal
+have a total corpus of Rs 24,736 crore. The
+Trade (DPIIT) has invited comments on a working
+government will provide financial assistance for
+paper on generative AI and copyright.47 The paper
+vessel construction ranging from 15% for small
+assesses the adequacy of the existing regulatory
+vessels to 25% for specialised vessels on value
+framework to protect copyright holders in training AI
+over Rs 100 crore. The scheme will apply to all
+systems. Key observations include:
+vessels whose construction involves at least 30%
+ Review of current framework: The Copyright domestic content, including components and
+Act, 1957 grants copyright owner exclusive rights labour of Indian origin. Certain vessels, including
+over reproduction, storage, adaptation, wooden vessels and those manufactured for
+communication, and issuance of copies. Any such defence, will not be covered under the scheme.
+- 12 -
+Monthly Policy Review – December 2025 PRS Legislative Research
+ Recycling: The scheme also incentivises vessel implementing Zero Liquid Discharge technologies for
+scrapping and recycling. For scrapping vessels, wastewater management, (iii) revising timelines for
+ship owners can collect a credit note worth 40% of future water sharing agreements between states on the
+the fair scrap value. The credit notes can be Yamuna river bank from 30 years to 10 years, (iv) a
+redeemed while paying for vessels constructed at targeted sludge removal plan to rejuvenate Yamuna
+Indian shipyards and registered under the scheme. river floodplains and (v) dedicated healthcare units for
+These credit notes can be redeemed within three diarrhoea treatment and public health campaigns,
+years and they can be transferred or sold. particularly in low income and high-risk areas.52
+ Shipbuilding Development Scheme: The scheme For a PRS summary of the report, see here.
+will have a total budgetary outlay of Rs 19,989
+crore. It will provide incentive for development of
+greenfield shipbuilding clusters and expansion of
+brownfield shipyards. Greenfield clusters will Urban Development
+receive 100% capital support through a 50:50
+centre-state special purpose vehicle. Brownfield Vedika Bhanote (vedika@prsindia.org)
+shipyards on the other hand will receive 25%
+capital assistance for critical infrastructure Standing Committee submits report on review
+expansion and installation of automation systems. of Mission AMRUT
+To promote bankability of these projects, the
+The Standing Committee on Housing and Urban
+scheme also includes a credit risk coverage
+Affairs (Chair: Mr. Magunta Sreenivasulu Reddy)
+framework. Government-backed insurance will be
+presented its report on ‘Review of Atal Mission for
+offered to cover for pre-shipment, post-shipment,
+Rejuvenation and Urban Transformation (AMRUT)
+and vendor default risks.
+with special emphasis on Urban Drinking Water’.53
+AMRUT was launched in June 2015. It was subsumed
+under AMRUT 2.0 in October 2021. AMRUT 2.0
+focuses on improving urban water security,
+Environment
+strengthening urban governance, and building
+institutional and technical capacities. Key observations
+Standing Committee submits report on air and recommendations of the Committee include: (i)
+pollution in Delhi-NCR pursuing enhanced central funding, especially for
+underserved regions, (ii) strengthening inter-agency
+Vaishali Dhariwal (vaishali@prsindia.org)
+coordination, (iii) improving quality of data monitoring
+(iv) formulating a National Urban Aquifer Recharge
+The Standing Committee on Science and Technology,
+Strategy, and (v) improving wastewater reuse.
+Environment, Forests and Climate Change (Chair: Mr.
+Bhubaneswar Kalita) on ‘Air Pollution in Delhi NCR For a PRS summary of the report, see here.
+and steps taken by various agencies for its
+mitigation’.51 Key observations and recommendations
+of the Committee include: (i) upgrading all manual
+monitoring stations and improving geographical Railways
+coverage of monitoring stations, (ii) undertaking
+pollution source apportionment studies at a regular Vaishali Dhariwal (vaishali@prsindia.org)
+interval, (iii) containing vehicular and industrial
+emissions, and pollution from dust and waste burning, Committee submits report on enhancing
+and (iv) addressing shortage of crop residue freight related earning of Indian Railways
+management machines during peak demand.
+The Standing Committee on Railways (Chair: Dr. C.
+For a PRS summary of the report, see here. M. Ramesh) presented its report on ‘Increasing Freight
+Related Earnings of Indian Railways and Development
+Standing Committee submits report on water of Dedicated Freight Corridors’. The Committee noted
+pollution in Delhi NCR that Railways had last revised freight rates in
+November 2018 and rates have remained unchanged
+Navya Sriram (navya@prsindia.org) since then despite rising operational costs. It
+recommended annual comprehensive assessment of
+The Standing Committee on Science and Technology, freight rates, taking into account market demand and
+Environment, Forests and Climate Change (Chair: Mr operational costs. It observed that freight revenue
+Bhubaneswar Kalita) submitted its report on “Water accounts for about 65% of Railways’ earnings. To
+Pollution in Delhi NCR and Steps Taken by Various enhance freight revenue, it recommended: (i)
+Agencies for its Mitigation”.52 Key observations and diversifying commodity basket to include automobiles
+recommendations of the Committee include: (i) and e-commerce goods, instead of keeping it limited to
+improving existing contaminant monitoring and sewage minerals, (ii) building freight terminals for better
+management systems in the Yamuna river, (ii) connectivity, and (iii) ensuring wagon availability and
+- 13 -
+Monthly Policy Review – December 2025 PRS Legislative Research
+encouraging private wagon ownership. It also noted Information Technology
+that Dedicated Freight Corridors offer higher transport
+speed and recommended augmenting existing feeder Niranjana S Menon (niranjana@prsindia.org)
+routes and developing new feeder routes to ensure
+integration of industrial hubs. Standing Committee on Communications
+submits report on the IT Agreement
+For a PRS Summary of the report, see here.
+The Standing Committee on Communications and
+Information Technology (Chair: Dr. Nishikant Dubey)
+presented its report on the ‘Impact of Information
+Health Technology Agreement in the new age’. The
+Committee highlighted challenges faced by India after
+Jahanvi Choudhary (jahanvi@prsindia.org)
+signing the IT Agreement. It observed that signing the
+agreement exposed India’s underdeveloped electronics
+Standing Committee submits report on rise in
+industry to global competition prematurely. It
+prices of medicines highlighted issues such as: (i) India’s dependence on
+imports for electronics and IT products, (ii)
+The Standing Committee on Chemical and Fertilisers
+concentration of economic activities in assembly
+(Chair: Mr. Azad Kirti Jha) submitted its report on
+instead of manufacturing, and (iii) cyber security risks
+‘Price Rise of Medicines in the Pharmaceutical Sector
+caused by lowering trade barriers under the agreement.
+Impacting the Lives of Ordinary Citizens Adversely - A
+Review’.54 Key recommendations of the Committee Key recommendations by the Committee include: (i)
+include: (i) amending the Drugs (Prices Control) Order constituting a High Level Empowered Inter-Ministerial
+(DPCO), 2013 to allow for rationalising trade margin, Committee to examine the impact of the agreement on
+(ii) regulating non-scheduled drugs and fixed dose the Indian IT industry, (ii) enforcing existing provisions
+combinations, and (iii) strengthening regulation of of the Digital Personal Data Protection Act, 2023, and
+online drug platforms. (iii) incentivising e-waste recycling. It also
+recommended raising certain concerns at the World
+For PRS summary of the report, see here.
+Trade Organisation, such as: (i) the inclusion of 5G
+equipment and AI components under the agreement,
+(ii) clearer classification for hybrid digital products,
+and (iii) mechanisms for technology transfer.
+Agriculture
+For a PRS summary of the report, please see here.
+Shrusti Singh (shrusti@prsindia.org)
+Standing Committee submits report on self-
+sufficiency in production of fertilisers Annexure
+The Standing Committee on Chemicals and Fertilisers
+Parliament has re-constituted some of its
+(Chair: Mr. Azad Kirti Jha) presented its report on
+Departmentally Related Standing Committees. The
+‘Self-sufficiency in production of fertilisers with a
+subjects identified for examination for 2025-26 by
+view to curb import of fertilisers – Review of
+some of the Committees are given below. See the
+constraints thereof’. Key recommendations include:
+Monthly Policy Reviews of October 2025 and
+(i) expansion of production capacity through fiscal
+November 2025 for earlier announcements.
+and tax incentives, (ii) development of indigenous
+process technology for setting up fertiliser plants, (iii) Transport, Tourism and Culture
+expediting natural gas extraction projects to reduce
+1 Evaluation of Regional Connectivity (RCS-UDAN) and
+import dependence, (iv) setting up of a task force for
+Expansion of Last-Mile Links
+upgradation, modernisation, and revival of aging urea
+2 Framework for Emerging Aviation Technologies, Drone
+plants, and (v) introducing a production-linked
+economy, Modernization of Airspace Management, and
+incentive scheme for drones used in spraying of nano
+Addressing Critical Supply-Chain Challenges Facing the Indian
+fertilisers.
+Aviation Industry
+For a PRS Summary of the report, see here. 3 India as a Global Hub for Aviation MRO and Aircraft
+Manufacturing
+4 Promotion of aero sports and adventure
+5 Aeromedical infrastructure and health support systems for air
+crew and personnel
+6 Reforming National Museums and Strategy for Repatriation of
+Antiquities.
+7 Functioning of ASI and strengthening Heritage Site
+Management
+- 14 -
+Monthly Policy Review – December 2025 PRS Legislative Research
+8 Port Modernization, Shipbuilding Industry, and Inland 1 Effective Redressal of Grievances by Strengthening the Public
+Waterways. Grievances Redressal System
+9 Development and maintenance of National Highways 2 Implementation of the Citizen's Charter in the Central
+Government
+10 Review of Gati Shakti National Master Plan: Multi- Modal
+Integration of Transport Networks 3 Redressal of Grievances related to Scheduled Castes and
+Scheduled Tribe
+11 A Comprehensive Review of Road Safety including Vision
+Zero, Tyre ratings, Highway Design Standards, Enforcement Department of Legal Affairs
+Strategies, and the World Bank-sponsored Safe Corridor
+1 Review of functioning of Tribunal System in the Country
+Demonstration Project
+2 Creation and Development of Institutional Mechanism to
+12 Evaluating the Need for an Integrated Transport Development
+support the Alternative Dispute Resolution Ecosystem
+Body and Installation of Integrated Transport Management
+Systems (ITMS) in Every State Department of Justice
+13 Holistic Development of India’s Tourism Sector through Formal 1 Appointments in Higher Judiciary
+Skill Development, University-Level Courses and Professional
+2 Review of Judicial Infrastructure
+Training for Guides, Hospitality and Eco- Tourism
+3 Judicial Processes and their reform:
+14 Promotion of Blue Economy Tourism.
+i Court proceedings and Judgements in regional languages; and
+15 Integrating Tourism Infrastructure, Tariff Management, and
+availability of Supreme Court and High Court Judgements in
+Regional Transport Connectivity in National Tourist Spots for
+scheduled languages
+Sustainable Destination Development.
+ii 24 x 7 Virtual Courts and Live streaming of Court Proceedings
+Personnel, Public Grievances, Law and Justice
+iii Code of Conduct for the Judges of Higher Judiciary
+Department of Personnel and Training
+iv Court Manager System for the Management of Courts
+1 Filling up of vacancies in the Central Government
+vi Assessment of Fast-Track Special Courts
+2 Review of the Right to Information Act, 2005, and Working of
+vi Taking up of post-retirement assignments by the Judges
+the Central Information Commission
+3 Effectiveness of Vigilance Administration
+4 Functioning of the Central Administrative Tribunal
+Department of Administrative Reforms and Public Grievances
+1 Monetary Policy Statement, 2025-26, Resolution of the Monetary https://mopng.gov.in/files/Whatsnew/2025-12-19-163402-29rio-
+Policy Committee, December 3 to 5, 2025, Reserve Bank of India, PNG-Rules,-2025.pdf.
+December 5, 2025, 10 The Oilfields (Regulations and Development) Act, 1948,
+https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=6 https://www.indiacode.nic.in/bitstream/123456789/1397/3/A1948-
+1749. 53.pdf.
+2 Developments in India’s Balance of Payments during the Second 11 The Petroleum and Natural Gas Rules, 1959,
+Quarter (July-September) of 2025-26, Reserve Bank of India, https://dghindia.gov.in/assets/downloads/l2.pdf.
+December 1, 2025,
+12 “Guidelines for Virtual Power Purchase Agreements”, Central
+https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=6
+Electricity Regulatory Commission, December 24, 2025,
+1714.
+https://cercind.gov.in/regulations/Guidelines-VPPA.pdf.
+3 “India's Index of industrial production records growth of 0.4% in
+13 Report no. 10, Standing Committee on Energy: ‘Performance
+October 2025”, Press Information Bureau, Ministry of Statistics and
+Evaluation of Solar Power Projects in the Country’, Lok Sabha,
+Programme Implementation, December 1, 2025,
+December 8, 2025,
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2196938&reg
+https://sansad.in/getFile/lsscommittee/Energy/18_Energy_10.pdf?sou
+=3&lang=1.
+rce=loksabhadocs.
+4 “India's Index of Industrial Production recorded growth of 5.2% in
+14, Report No. 7, Estimates Committee: . Implementation of Pradhan
+November 2024”, Press Information Bureau, Ministry of Statistics
+Mantri Kisan Urjan Suraksha Evam Utthaan Madhabhiyan (PM-
+and Programme Implementation, January 10, 2025,
+KUSUM) and PM Surya Ghar: Muft Bijli Yojana, Lok Sabha,
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2091785&reg
+December 4, 2025,
+=3&lang=1.
+https://sansad.in/getFile/lsscommittee/Estimates/18_Estimates_7.pdf?
+5 Report no. 27, Standing Committee on Finance: ‘Performance source=loksabhadocs.
+Review of National Statistical Commission (NSC)’, Lok Sabha,
+15 Report No. 17 of 2025, Performance Audit Report on Deen Dayal
+December 2, 2025,
+Upadhyaya Gram Jyoti Yojana/ Pradhan Mantri Sahaj Bijli Har Ghar
+https://sansad.in/getFile/lsscommittee/Finance/18_Finance_27.pdf?so
+Yojana, Union Government, Ministry of Power, December 18, 2025,
+urce=loksabhadocs.
+https://cag.gov.in/en/audit-report/details/123660.
+6 The Sustainable Harnessing and Advancement of Nuclear Energy
+16 The Viksit Bharat—Guarantee for Rozgar and Ajeevika Mission
+for Transforming India Act, 2025,
+(Gramin) Bill, 2025,
+https://prsindia.org/files/bills_acts/bills_parliament/2025/The_SHAN
+https://prsindia.org/files/bills_acts/bills_parliament/2025/Viksit_Bhar
+TI_Act_2025.pdf.
+at%E2%80%93Guarantee_for_Rozgar_and_Ajeevika_Mission_(Gra
+7 The Atomic Energy Act, 1962, min)_VB%E2%80%93G_RAM_G_Bill,2025.pdf.
+https://www.indiacode.nic.in/bitstream/123456789/1413/1/A1962-
+17 The National Rural Employment Guarantee Act, 2005,
+33.pdf.
+https://www.indiacode.nic.in/bitstream/123456789/6930/1/the_mahat
+8 The Civil Liability for Nuclear Damage Act, 2010, ma_gandhi_national_rural_employment_guarantee_act%2C_2005.pd
+https://www.indiacode.nic.in/bitstream/123456789/2084/5/A2010- f.
+38.pdf.
+18 The Sabka Bima Sabki Raksha (Amendment of Insurance Laws)
+9 G.S.R. 888(E), The Gazette of India, Ministry of Petroleum and Bill, 2025,
+Natural Gas, December 9, 2025,
+- 15 -
+Monthly Policy Review – December 2025 PRS Legislative Research
+December 30, 2025,
+https://egazette.gov.in/WriteReadData/2025/268945.pdf.
+https://prsindia.org/files/bills_acts/bills_parliament/2025/Sabka_Bim
+a_Sabki_Raksha(Amendment_of_Insurance_Laws)Bill,2025.pdf. 35 G.S.R 936(E), Draft Code on Wages (Central) Rules, 2025, The
+Gazette of India, Ministry of Labour and Employment, December 30,
+19 The Securities Markets Code, 2025,
+2025, https://egazette.gov.in/WriteReadData/2025/268946.pdf.
+https://prsindia.org/files/bills_acts/bills_parliament/2025/Securities_
+Markets_Code,2025.pdf. 36 G.S.R. 930(E), Draft Industrial Relations Code (Central) Rules,
+2025, The Gazette of India, Ministry of Labour and Employment,
+20 The Health Security se National Security Cess Act, 2025,
+December 30, 2025,
+https://prsindia.org/files/bills_acts/bills_parliament/2025/Health_Sec
+https://egazette.gov.in/WriteReadData/2025/268942.pdf.
+urity_se_National_Security_Cess_Act_2025.pdf.
+37 Report no. 20 of 2025, Report on Skill Development under Pradhan
+21 The Central Excise (Amendment) Act, 2025,
+Mantri Kaushal Vikas Yojana, Ministry of Skill Development and
+https://prsindia.org/files/bills_acts/bills_parliament/2025/Central_Exc
+Entrepreneurship,
+ise_(A)_Act_2025.pdf.
+https://cag.gov.in/uploads/download_audit_report/2025/Report-No.-
+22 The Manipur Goods and Services Tax (Second Amendment) Bill, 20-of-2025_PA-PMKVY_English-PDF-A-
+2025, https://prsindia.org/billtrack/the-manipur-goods-and-services- 06943abec463479.68516873.pdf.
+tax-second-amendment-bill-2025.
+38 Proposal for amendment of the Mines and Minerals (Development
+23 The Viksit Bharat Shiksha Adhishthan Bill, 2025 and Regulation) Act, 1957, Ministry of Coal, December 12, 2025,
+https://prsindia.org/files/bills_acts/bills_parliament/2025/Viksit_Bhar https://coal.nic.in/sites/default/files/2025-12/12-12-2025ps1-wn.pdf.
+at_Shiksha_Adhishthan_Bill,_2025.pdf.
+39 Mines and Minerals (Development and Regulation) Act, 1957,
+24 Review of Autonomous Bodies and Institutions- NTA, NAAC, https://www.indiacode.nic.in/bitstream/123456789/13122/1/67_of_1
+Draft UGC regulations, ICHR, ICPR, ICSSR, IIAS (Shimla) and 957.pdf.
+Auroville Foundation under the Department of Higher Education,
+40 “Auction of Coal Linkage for Seamless, Efficient & Transparent
+Rajya Sabha, December 08, 2025,
+Utilisation (CoalSETU) by creation of new window named
+https://sansad.in/getFile/rsnew/Committee_site/Committee_File/Repo
+"CoalSETU window" in the NonRegulated Sector (NRS) Linkage
+rtFile/16/214/371_2025_12_12.pdf?source=rajyasabha.
+Policy to utilise coal for any industrial use and export” Ministry of
+25 Report No. 372, Standing Committee on Education, Women, Coal, December 19, 2025,
+Children, Youth and Sports, ‘Review of Schemes for Education https://www.coal.nic.in/sites/default/files/2025-12/19-12-2025-
+Loans and Financial Accessibility in Higher Education’, Rajya bwn.pdf.
+Sabha, December 9, 2025,
+41 Draft Coal Exchange Rules, 2025, Ministry of Coal, December 19,
+https://sansad.in/rs/committees/16?departmentally-related-standing-
+2025, https://www.coal.nic.in/sites/default/files/2025-12/19-12-2025-
+committees.
+a.pdf.
+26 "Cabinet approves PM-Vidyalaxmi scheme to provide financial
+42 Fifteenth Report of the Standing Committee on Coal, Mines and
+support to meritorious students so that financial constraints do not
+Steel on ‘Expediting and Simplifying the Environment and Forest
+prevent any youth of India from pursuing quality higher education",
+Clearance Process for Coal Mining Projects’ December 10, 2025,
+Press Information Bureau, Union Cabinet, November 6, 2024,
+https://sansad.in/getFile/lsscommittee/Coal,%20Mines%20and%20St
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2071131&reg
+eel/18_Coal_Mines_and_Steel_15.pdf?source=loksabhadocs.
+=3&lang=2.
+43 Sixteenth Report of the Standing Committee on Coal, Mines and
+27“Joint Statement following the 23rd India - Russia Annual Summit
+Steel on ‘Self-Reliance in Minerals and Metals’ December 17, 2025,
+(December 05, 2025)”, Press Release, Ministry of External Affairs,
+https://sansad.in/d81922cc-0009-4953-8ee7-07e947670c4b.
+December 5, 2025, https://www.mea.gov.in/bilateral-
+documents.htm?dtl/40410. 44 “Inviting Comments on the proposed draft of the amendments to
+the Post Office Act, 2023”, Department of Posts, December 1,
+28 “List of Outcomes: State Visit of the President of the Russian
+2025,https://www.indiapost.gov.in/api/documents/file/U2FsdGVkX1
+Federation to India (December 04 – 05, 2025)”, Press Release,
+8xSwvvi1EQ-B9oDLv_e_chixfQ0m-
+Ministry of External Affairs, December 5, 2025,
+E1M1FBJ6DxOfTUvhXbSuCvxAFepV5oIXiAv0uT2iUDh1Sfw.
+https://www.mea.gov.in/bilateral-
+documents.htm?dtl/40409/List_of_Outcomes_State_Visit_of_the_Pre 45 Report No. 22, Standing Committee on Communications and
+sident_of_the_Russian_Federation_to_India_December_04__05_202 Information Technology, ‘Review of Mechanism to Curb Fake
+5. News’, Lok Sabha, December 2, 2025,
+https://sansad.in/getFile/lsscommittee/Communications%20and%20I
+29 “Cabinet approves establishment of International Big Cat Alliance
+nformation%20Technology/18_Communications_and_Information_
+(IBCA)", Press Information Bureau, Union Cabinet, February 29,
+Technology_22.pdf?source=loksabhadocs.
+2024,
+https://www.pib.gov.in/PressReleasePavidyage.aspx?PRID=2010122 46 The Repealing and Amending Act, 2025,
+&reg=3&lang=2. https://prsindia.org/files/bills_acts/bills_parliament/2025/Repealing_
+And_Amending_Bill,2025.pdf.
+30“India and Oman sign Comprehensive Economic Partnership
+Agreement (CEPA),” Press Information Bureau, Ministry of 47 “Working Paper on Generative AI and Copyright,” Department for
+Commerce and Industry, December 18, 2025, Promotion of Industry and Internal Trade, Ministry of Commerce and
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2205889&reg Industry, December 8, 2025,
+=3&lang=1. https://www.dpiit.gov.in/static/uploads/2025/12/ff266bbeed10c48e34
+79c941484f3525.pdf.
+31 “India and New Zealand Announce Conclusion of Landmark Free
+Trade Agreement Negotiations,” Press Information Bureau, Ministry 48 Guidelines for Shipbuilding Development Scheme, Ministry of
+of Commerce and Industry, December 18, 2025, Ports, Shipping and Waterways, December 26, 2025,
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2207300&reg https://shipmin.gov.in/sites/default/files/Annexure%202%20Credit%
+=3&lang=2. 20risk%20coverage%20guidelines_0.pdf.
+32 Report No. 9, Standing Committee on External Affairs, ‘Future of 49 Guidelines for Shipbuilding Financial Assistance Scheme, Ministry
+India-Bangladesh Relationship’, Lok Sabha, December 18, 2025, of Ports, Shipping and Waterways, December 26, 2025,
+https://sansad.in/ls/committee/departmentally-related-standing- https://shipmin.gov.in/sites/default/files/Annexure%201%20SBFAS
+committees/11-External%20Affairs- %20guidelines_0.pdf.
+nameH=%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%87 50 Govt notifies guidelines for shipbuilding assistance, development
+%E0%A4%B6%E0%A5%80%20%E0%A4%AE%E0%A4%BE%E0 schemes, Press Information Bureau, December 27, 2025,
+%A4%AE%E0%A4%B2%E0%A5%87. https://www.pib.gov.in/PressReleasePage.aspx?PRID=2209139&reg
+33 G.S.R. 934(E), Draft Occupational Safety, Health and Working =3&lang=1.
+Conditions Code (Central) Rules, 2025, The Gazette of India, 51 Four Hundred First Report of the Department-related
+Ministry of Labour and Employment, December 30, 2025, Parliamentary Standing Committee on Science and Technology,
+https://egazette.gov.in/WriteReadData/2025/268944.pdf. Environment, Forests and Climate Change on Air Pollution in Delhi
+34 G.S.R. 935(E), Draft Social Security Code (Central) Rules, 2025,
+The Gazette of India, Ministry of Labour and Employment,
+- 16 -
+Monthly Policy Review – December 2025 PRS Legislative Research
+0Affairs/18_Housing_and_Urban_Affairs_7.pdf?source=loksabhadoc
+s.
+NCR and steps taken by various agencies for its mitigation,
+December 12, 2025, 54 Price Rise of Medicines in the Pharmaceutical Sector- A Review,
+https://sansad.in/getFile/rsnew/Committee_site/Committee_File/Repo Lok Sabha, December 01, 2025,
+rtFile/19/217/401_2025_12_16.pdf?source=rajyasabha. https://sansad.in/getFile/lsscommittee/Chemicals%20&%20Fertilizer
+s/18_Chemicals_And_Fertilizers_14.pdf?source=loksabhadocs.
+52 Report No. 402, Standing Committee on Science and Technology,
+Environment, Forest and Climate Change, ‘Water Pollution in Delhi DISCLAIMER: This document is being furnished to you for your
+NCR and steps taken by various agencies for its mitigation’, Rajya information. You may choose to reproduce or redistribute this report
+Sabha, December 12, 2025, for non-commercial purposes in part or in full to any other person
+https://sansad.in/rs/committees/19?departmentally-related-standing- with due acknowledgement of PRS Legislative Research (“PRS”).
+committees. The opinions expressed herein are entirely those of the author(s).
+53 Report no. 7, Standing Committee on Housing and Urban Affairs: PRS makes every effort to use reliable and comprehensive
+information, but PRS does not represent that the contents of the
+‘Review of Atal Mission for Rejuvenation and Urban Transformation
+report are accurate or complete. PRS is an independent, not-for-
+(AMRUT) with special emphasis on Urban Drinking Water’, Lok
+profit group. This document has been prepared without regard to the
+Sabha, December 12, 2025,
+objectives or opinions of those who may receive it.
+https://sansad.in/getFile/lsscommittee/Housing%20and%20Urban%2
+- 17 -

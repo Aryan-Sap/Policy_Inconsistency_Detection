@@ -1,0 +1,924 @@
+Monthly Policy Review
+April 2023
+Highlights of this Issue
+Budget Session 2023 of Parliament concludes; three Bills introduced, one passed (p. 2)
+Bills introduced included one to enable joint command of the armed forces and two to amend laws on regulation
+of coastal aquaculture and forest conservation.
+Retail inflation was 6.2% in the fourth quarter of 2022-23 (p. 2)
+CPI inflation was 6.3% in the fourth quarter of 2021-22 while it was 6.1% in the third quarter of 2022-23. Food
+inflation averaged 5.6% in the fourth quarter of 2022-23.
+Rules to regulate fake news and online gaming notified (p. 4)
+Information identified as false by the fact check unit of the government must be removed. Following a petition
+in the Bombay High Court, the government has stated that the fact-check unit will be notified after July 5, 2023.
+Competition (Amendment) Bill, 2022 passed (p. 2)
+The Bill Regulates combinations based on transaction value in addition to assets and turnover. It also
+decriminalises certain offences.
+Draft National Curriculum Framework released for public feedback (p. 3)
+This framework, as per the National Education Policy revises the structure, content, and methods of school
+education, including methods of instruction and assessment.
+Scheme for pooling power from central gencos whose PPAs have expired notified (p. 5)
+The Power Ministry will allocate the pooled in power to willing discoms. Such discoms will have to enter into a
+power purchase agreement of a minimum of five years for procuring power from the common pool.
+Revised domestic gas pricing guidelines approved by Cabinet (p. 6)
+The Cabinet Committee on Economic Affairs approved the revised domestic natural gas pricing guidelines.
+This links the price of natural gas to crude, promising a more stable price regime.
+Draft amendments to Aadhar authentication Rules released (p. 4)
+The Ministry of Electronics and IT released draft amendments to enable Aadhaar authentication by entities other
+than Ministries/ Departments for prescribed purposes such as ensuring good governance.
+Regulations for Surrogacy and Assisted Reproductive Technology notified (p. 7)
+Regulations specify eligibility and other criteria for the use of surrogacy and assisted reproductive technology.
+They allow expanding the list of medical conditions eligible for surrogacy.
+Cabinet approves the National Quantum Mission (p. 8)
+The mission aims to accelerate research and development in Quantum Computing and its allied fields, with an
+outlay of Rs 6,000 crore. Four hubs will be set up to support R&D in verticals of quantum computing.
+Indian Space Policy, 2023 approved (p. 8)
+The Policy will provide a framework for the space sector in India over a decade. A key provision includes the
+ability of non-government entities to undertake end-to-end activities in the space sector.
+Central sector scheme to promote northeastern products launched (p. 9)
+The Scheme seeks to assist tribal craftsmen in increasing their revenue by providing support such as incubation
+and skill development. Rs 143 crore has been allocated towards its implementation.
+May 1, 2023
+PRS Legislative Research ◼ Institute for Policy Research Studies
+3rd Floor, Gandharva Mahavidyalaya ◼ 212, Deen Dayal Upadhyaya Marg ◼ New Delhi – 110002
+Tel: (011) 23234801, 43434035 ◼ www.prsindia.org
+Monthly Policy Review – April 2023 PRS Legislative Research
+Parliament corresponding quarter of 2021-22. Food inflation in
+the third quarter of 2022-23 was 5.3%.
+Niranjana S Menon (niranjana@prsindia.org)
+Wholesale Price Index (WPI) inflation was 3.3% in the
+fourth quarter of 2022-23 which was substantially
+Budget Session 2023 concludes
+lower than 13.9% in the fourth quarter of 2021-22, on
+The Budget Session of Parliament was held from account of a high base.3 In the third quarter of 2022-
+January 31, 2023 to April 6, 2023, with a recess 23, WPI inflation averaged 6.6%.
+between February 14 and March 12.
+Figure 1: Monthly inflation in Q4 of 2022-23 (%
+During this session, Parliament introduced three Bills change, year-on-year)
+and passed one. The Inter-Services Organisations 7% 6.5%6.4%
+(Command, Control and Discipline) Bill, 2023, the 5.7%
+6.0%6.0%
+6%
+Coastal Aquaculture Authority (Amendment) Bill, 4.8% 4.8%
+5%
+2023, and the Forest (Conservation) Amendment Bill, 3.9%
+2023 were introduced and referred to Committees. The 4%
+Competition (Amendment) Bill, 2022 was passed. The 3%
+Session also saw the Budget being approved and the 2% 1.3%
+Finance Bill being passed. 1%
+For more details on the legislative business taken up 0%
+CPI Inflation Food Inflation WPI Inflation
+during the Budget Session 2023, please see here. For
+details on the functioning of Parliament during the
+Jan-23 Feb-23 Mar-23
+session, please see here.
+Sources: MoSPI; Ministry of Commerce and Industry; PRS.
+Macroeconomic Development
+Finance
+Tushar Chakrabarty (tushar@prsindia.org)
+Tushar Chakrabarty (tushar@prsindia.org)
+Repo rate kept unchanged at 6.5%
+Competition (Amendment) Bill, 2022 passed
+The Monetary Policy Committee (MPC) of the Reserve
+The Competition (Amendment) Bill, 2022 was passed
+Bank of India (RBI) retained the policy repo rate (the
+rate at which RBI lends money to banks) at 6.5%.1 by Parliament.4 The Bill had been examined by the
+Standing Committee on Finance which suggested
+Other decisions of the Committee include:
+certain changes.5 Some of these changes were
+▪ Standing deposit facility rate (the rate at which the incorporated into the Bill at the time of passing. The
+RBI borrows from the banks without giving Bill seeks to amend the Competition Act, 2002. The
+collateral) has been retained at 6.25%. Act established the Competition Commission of India
+(CCI) for regulating market competition. Key features
+▪ The marginal standing facility rate (the rate at
+of the Bill include:
+which banks can borrow additional money from
+RBI), and the bank rate (the rate at which RBI buys ▪ Regulation of combinations based on
+bills of exchange) have been retained at 6.75%. transaction value: The Act prohibits any person
+or enterprise from entering into a combination that
+▪ The MPC decided to remain focused on
+may cause an appreciable adverse effect on
+withdrawal of accommodation to ensure that
+competition. Combinations imply mergers,
+inflation progressively aligns with the target, while
+acquisitions, or amalgamation of enterprises. The
+supporting growth.
+prohibition applies to transactions where parties
+involved have: (i) cumulative assets of more than
+Consumer Price Index inflation was 6.2% in
+Rs 1,000 crore, or (ii) cumulative turnover of more
+the fourth quarter of 2022-23
+than Rs 3,000 crore, subject to certain other
+Consumer Price Index (CPI) inflation was 6.2% in the conditions. The Bill expands the definition of
+fourth quarter (January-March) of 2022-23.2 This was combinations to include transactions with a value
+broadly similar to CPI inflation of 6.3% in the above Rs 2,000 crore. The Bill provides that the
+corresponding (fourth) quarter of 2021-22. In the third threshold would apply in cases where any
+quarter (October-December) of 2022-23, CPI inflation enterprise, which is a party to the transaction, has
+was 6.1%. substantial business operations in India.
+Amendments suggested by the Committee add that
+Food inflation averaged 5.6% in the fourth quarter of
+the threshold would apply only when the enterprise
+2022-23 which was lower than 6.3% in the
+being acquired has substantial business operations
+in India.
+- 2-
+Monthly Policy Review – April 2023 PRS Legislative Research
+▪ Time limit for approval of combinations: The RBI releases framework for acceptance of
+Act specifies that any combination shall not come green deposits
+into effect until the CCI has passed an order or 210
+The Reserve Bank of India (RBI) released the
+days have passed from day when an application for
+framework for acceptance of green deposits.8 Green
+approval was filed, whichever is earlier. The Bill
+deposit is an interest-bearing deposit received by RBI
+reduced time limit in the latter case to 150 days.
+regulated entities (such as banks) for a fixed period.
+▪ Anti-competitive agreements: Under the Act, The proceeds of such deposits are allocated for green
+anti-competitive agreements include any finance. Green finance involves investing in
+agreement related to production, supply, storage, activities/projects which contribute to climate risk
+or control of goods or services, which can cause an mitigation, climate adaptation and resilience, and other
+appreciable adverse effect on competition in India. climate-related/environmental objectives. The
+Any agreement between enterprises or persons, framework will come into effect from June 1, 2023.
+engaged in identical or similar businesses, will Key features include:
+have such adverse effect on competition if it meets
+▪ Allocation of proceeds: The use of proceeds
+certain criteria. These include: (i) directly or
+raised through green deposits will be based on
+indirectly determining purchase or sale prices, (ii)
+official Indian green taxonomy. Until such
+controlling production, supply, markets, or
+taxonomy is finalised, regulated entities will be
+provision of services, or (iii) directly or indirectly
+required to allocate proceeds to projects in sectors
+leading to collusive bidding. The Bill provided
+such as: (i) renewable energy, (ii) clean
+that enterprises or persons not engaged in identical
+transportation, (iii) sustainable water and waste
+or similar businesses shall be presumed to be part
+management, (iv) pollution prevention and control,
+of anti-competitive agreements, if they actively
+and (v) sustainable management of living natural
+participate in the furtherance of such agreements.
+resources and land use.
+The amendments modified this to refer to
+enterprises that participate or intend to participate ▪ Third-party verification: The allocation of funds
+in such agreements. raised through green deposits in a financial year
+will be subject to annual independent third-party
+For further details, please see here.
+verification. The verification must cover aspects
+involving: (i) use of proceeds in accordance with
+RBI releases draft circular on penal charges in
+eligible green activities/projects, and (ii) policies
+loan accounts
+and internal controls including project evaluation
+The Reserve Bank of India (RBI) issued a draft circular and management of funds.
+on penal charges in loan accounts.6,7 Penal charges are
+▪ Reporting: A review report must be placed before
+levied by RBI regulated entities (such as banks) in
+the board of directors of regulated entities within
+addition to the applicable interest rate. They are levied
+three months after the end of a financial year. The
+in cases of defaults/non-compliance by the borrower
+review must cover certain details including: (i)
+with the terms on which credit was sanctioned. RBI
+amount raised from green deposits in previous
+noted that penal interest/charges should not be used as
+financial years, (ii) list of green activities/projects
+a revenue enhancement tool over and above the
+where funds were allocated, (iii) amount allocated
+contracted rate of interest. RBI observed divergent
+to eligible green activities/projects, and (iv) copy
+practices among regulated entities with respect to levy
+of third-party verification/assurance report.
+of penal interest/charges.
+In this backdrop, RBI has proposed certain instructions
+to regulate the levy of penal charges. These
+instructions include: (i) penalty shall be treated as a Education
+penal charge instead of penal interest that is added to
+Siddharth Mandrekar Rao (siddharth@prsindia.org)
+the rate of interest, (ii) regulated entities will not
+introduce any additional component to rate of interest
+Draft National Curriculum Framework for
+and will be governed by relevant regulatory
+instructions, (iii) the quantum of penal charges must be School Education released for public feedback
+proportional to the defaults/non-compliance of material
+The Ministry of Education invited comments on a draft
+terms and conditions of loan contract beyond a
+National Curriculum Framework for School Education,
+threshold, and (iv) penal charges on loans sanctioned to
+2023 (NCF).9,10 The National Education Policy, 2020
+individual borrowers shall not be higher than those
+envisages formulating the NCF, to revise curricula and
+applicable to non-individual borrowers.
+pedagogy.11 Key features of the draft NCF are the
+Comments on the draft circular are invited until May following:
+15, 2023.
+▪ Curriculum: The NCF divides the curriculum
+into eight broad areas: (i) language, (ii)
+mathematics, (iii) sciences, (iv) social sciences,
+- 3-
+Monthly Policy Review – April 2023 PRS Legislative Research
+(v) arts, (vi) interdisciplinary areas, (vii) physical with certain requirements. The 2021 Rules
+education, and (viii) vocational education. delineate such requirements. The Amendments
+add that any information about the central
+▪ Stages of education: School education will be
+government’s business may be identified as fake,
+split into four stages covering ages 3-18.
+false or misleading by the fact check unit of the
+Table 1: Stages of education central government. For intermediaries to avail
+Stage Key focus areas Grades safe harbour, this information must be removed.
+Foundational Cognitive and physical 3 years of The factcheck unit will be notified by the Ministry.
+development, pre-school, Following a petition in the Bombay High Court,
+foundational literacy and and grades the government has undertaken that it will not
+numeracy 1 and 2 notify the fact check unit until July 5, 2023.15
+Preparatory Basic subjects such as 3 to 5
+languages, ▪ Online gaming: The Bill defines that online real
+mathematics, arts, money games are those where users deposit money
+physical education, and (cash or kind) with the expectation of winning it
+fluency in literacy and
+back. Such games are permissible if they are
+numeracy
+verified by a gaming self-regulatory body. A self-
+Middle Specialised education in 6 to 8
+regulatory body must be designated by the
+science and humanities
+Ministry and its membership must be
+Secondary Combination of certain 9 to12
+representative of the gaming industry. Criteria for
+essential courses,
+choice-based courses, verifying such games includes not wagering on an
+and vocational outcome and having appropriate age restrictions.
+education
+▪ Requirements by gaming intermediaries:
+Sources: Draft National Curriculum Framework for School
+Education, 2023; PRS. Intermediaries that enable access to online games
+are also required to comply with certain
+▪ Subject-wise learning outcomes, standards, and
+requirements to avail safe harbour. Such
+content: The NCF provides illustrative learning
+intermediaries that provide permissible real money
+outcomes as a basis for standards of achievement,
+games are additionally required to: (i) display a
+for each stage of education. For example, at the
+verification mark received by the regulatory body,
+middle stage, the NCF sets curricular goal of
+(ii) inform users of withdrawal and refund policy
+understanding numbers and sets of numbers. It
+and KYC procedure for identity verification. The
+states that content should allow children to explore
+Amendments empower the central government to
+multiple strategies to solve a problem, and
+require any online gaming intermediary to observe
+encourages problems that have multiple answers.
+additional due diligence obligations.
+Assessment methods include verbal questions and
+question papers. ▪ Surrogate advertisement: To avail safe harbour,
+intermediaries are required to remove
+▪ Learning environment: The NCF specifies
+advertisements/surrogate advertisements of: (i)
+requirements for school infrastructure, such as
+online games that are not permissible, or (ii)
+dedicated libraries suitably organised for children
+intermediaries that offer such games.
+to navigate, and laboratories kept open to children
+throughout school hours. Draft amendments to the Rules were introduced in
+January 2023. For a PRS analysis of the draft Rules
+see here.
+Electronics and IT Comments invited on amendments to Aadhaar
+Authentication for Good Governance Rules,
+Rules notified to regulate fake news and online
+2020
+gaming
+Omir Kumar (omir@prsindia.org)
+Tanvi Vipra (tanvi@prsindia.org)
+The Ministry of Electronics and Information
+The Ministry of Electronics and Information
+Technology released draft amendments to the Aadhaar
+Technology notified amendments to the Information
+Authentication for Good Governance (Social Welfare,
+Technology (Intermediary Guidelines and Digital Innovation, Knowledge) Rules, 2020.16,17 Under the
+Media Ethics Code) Rules, 2021 (IT Rules).12,13 The IT
+Rules, certain entities can apply for seeking permission
+Rules were notified under the Information Technology
+to use Aadhaar authentication for specified purposes
+Act, 2000 (IT Act).14 The amendments regulate false such as good governance and service delivery.18 The
+information and online gaming. Key features include:
+Rules were notified under the Aadhaar (Targeted
+▪ False information: The IT Act provides Delivery Of Financial And Other Subsidies, Benefits
+intermediaries with exemption from liability for And Services) Act, 2016 (Aadhaar Act).19 It provides
+third-party content (safe harbour) if they comply for good governance and targeted delivery of subsidies,
+- 4-
+Monthly Policy Review – April 2023 PRS Legislative Research
+benefits, and services for which expenditure is incurred ▪ Some allied activities to be allowed in certain
+from the Consolidated fund of India. protected areas: The Act prohibits coastal
+aquaculture: (i) within 200 metres from high tide
+Key features of the draft amendments are:
+lines and (ii) in creeks, rivers, and backwaters
+▪ Aadhaar authentication purposes: Under the within Coastal Regulation Zones under the
+Rules, the central government may allow Aadhaar Environment (Protection) Act, 1986. These
+authentication by requesting entities for certain prohibitions do not apply to: (i) coastal aquaculture
+specified purposes such as: (i) usage of digital farms which existed in such areas as on February
+platforms to ensure good governance, (ii) 19, 1991 and (ii) non-commercial and experimental
+enablement of innovation and the spread of farms operated by government research institutes.
+knowledge, and (iii) prevention of dissipation of The Bill replaces this to prohibit coastal
+social welfare benefits. The amendments add that aquaculture activities in: (i) ecologically sensitive
+central government may allow such authentication areas or in geo-morphological features such as
+for ‘promoting ease of living of residents and mountains, valleys, or volcanoes, (ii) no-
+enabling better access to services for them’. development zones in seas and buffer zones in
+creeks, rivers, and backwaters, and (iii) creeks,
+▪ Requesting entities: Under the Aadhaar Act, any
+rivers, and backwaters within Coastal Regulation
+requesting entity (an agency or any person) may be
+Zones. Allied activities are provided certain
+allowed to perform authentication for the specified
+exemptions. For instance: (i) hatcheries, nucleus
+purposes. The Rules provide that the Ministry or
+breeding centres and brood stock multiplication
+Department that wants to use Aadhaar
+centres will be allowed in no-development zones,
+authentication for the specified purposes can
+and (ii) seaweed culture, pen culture, raft culture,
+submit a proposal to the central government. The
+and cage culture activities will be allowed in
+central government refers this proposal to the
+Coastal Regulation Zones. This will apply from
+Unique Identification Authority of India. The
+December 16, 2005.
+amendments adds that such Ministry or
+Department can belong to the central or the state For a PRS summary of the Bill, see here.
+government. It also adds that any other entity
+other than Ministry or the Department can submit a
+proposal for using Aadhaar authentication for
+specified purposes and in the interest of the state. Power
+Comments are invited until May 5, 2023. Harshit Padia (harshit@prsindia.org)
+Scheme notified for pooling power from central
+thermal gencos whose PPAs have expired
+Environment
+The Ministry of Power notified a scheme to pool power
+Tanvi Vipra (tanvi@prsindia.org) from coal and gas-based power generating stations
+(gencos) owned by the central government, whose
+Coastal Aquaculture (Authority) Amendment power purchase agreements (PPAs) have expired.22
+Bill, 2023 introduced in Lok Sabha These plants are older than 25 years. These gencos had
+entered long-term bilateral agreements with distribution
+The Coastal Aquaculture Authority (Amendment) Bill,
+licensees (discoms) to supply power. The scheme
+2023 was introduced in Lok Sabha.20 It amends the
+seeks to create a common pool of the installed capacity
+Coastal Aquaculture Authority Act, 2005.21 The Act
+of all such plants for the purposes of allocation to
+established the Coastal Aquaculture Authority for
+discoms and determining tariff. Capacity of eligible
+regulating coastal aquaculture, which refers to rearing
+gencos will be added to this pool, as and when their
+and cultivation of fish under controlled conditions. Key
+PPAs expire. The Ministry observed that this is to
+features of the Bill include:
+ensure that such freed-up capacity does not remain idle,
+▪ Regulation of allied coastal aquaculture given the continued dependence on conventional power
+activities: The Act regulates coastal aquaculture for meeting peak demand and grid stability. It added
+farms which carry out activities such as culturing of that these plants are capable of operating at high
+shrimp, prawns or any other aquatic life under efficiency with improvements in operation and
+controlled conditions in saline or brackish water. maintenance practices. Also, with their capital
+The Bill adds that any facility that is engaged in expenditure recovered and fully depreciated, these
+coastal aquaculture or any allied activity will be plants can provide power at competitive rates. Key
+regulated as a coastal aquaculture unit. Allied features of the scheme are:
+activities include nucleus breeding centres,
+▪ Procurement from the common pool: The
+hatcheries, brood stock multiplication centres and
+Ministry of Power will allocate the power to
+farms. The Bill provides for the registration and
+discoms based on the requisition received from
+regulation of such units.
+- 5-
+Monthly Policy Review – April 2023 PRS Legislative Research
+them. Discoms will have to enter into a PPA of at against the concerned officers for non-compliance
+least five years for procuring power from the concerning raising bills for subsidy and payment.
+common pool.
+▪ Tariffs: Uniform capacity charges and energy
+charges will be payable for procuring power from
+Petroleum
+the common pool.
+▪ Treatment of unallocated power: Participating Pratinav Damani (pratinav@prsindia.org)
+gencos can sell their share of unallocated power in
+Cabinet approves revised domestic gas pricing
+the common pool through alternate arrangements
+such as power exchanges. Their existing fuel guidelines
+supply agreements can be used for supplying the
+The Cabinet Committee on Economic Affairs approved
+unallocated power through such arrangements.
+the revised domestic natural gas pricing guidelines.28,29
+These guidelines amend the New Domestic Gas Pricing
+Draft Electricity (Amendment) Rules, 2023
+Guidelines, 2014.30 The new guidelines are applicable
+released
+to gas produced from: (i) nomination fields of Oil and
+Natural Gas Corporation/Oil India Limited
+The Ministry of Power invited comments on the Draft
+(ONGC/OIL), (ii) New Exploration Licensing Policy
+Electricity (Amendment) Rules, 2023.23 The Draft
+(NELP) blocks, and (iii) pre-NELP blocks where the
+Rules seek to amend the Electricity Rules, 2005 issued
+Production Sharing Contract (PSC) requires
+under the Electricity Act, 2003.24,25,26,27 The 2005
+government approval for prices.
+Rules specify several requirements regarding the
+operation of various entities in the power system. Key Domestic natural gas prices will now comprise 10% of
+amendments proposed are: the Indian Crude Basket Price. Under the 2014
+Guidelines, domestic natural gas prices were not part of
+▪ Framework for financial stability: The State
+the Indian Crude Basket Price. The Administered Price
+Electricity Regulatory Commissions determine
+Mechanism (APM) price for gas produced by
+loss reduction trajectory for distribution licensees
+ONGC/OIL will be subject to an initial floor and
+while determining tariff. The Draft Rules propose
+ceiling price of $4/Metric Million British Thermal
+to add that this trajectory should be as per the
+Units (MMBTU) and $6.5/MMBTU respectively. The
+trajectory agreed by the state government and
+ceiling shall be maintained for two financial years and
+approved by the central government under any
+then increased by $0.25/MMBTU each year.
+national scheme.
+Gas produced by new wells or well intervention in
+▪ The Draft Rules also add that two-thirds of any
+nomination fields (blocks awarded to ONGC/OIL on a
+additional gains from any deviation from the
+nomination basis) will be allowed to be priced at a 20%
+approved AT&C loss reduction strategy will be
+premium on APM prices where APM prices are subject
+passed on to consumers in tariff, and the rest will
+to floor and ceiling pricing regulations. APM prices
+be retained by the licensee. Half of any additional
+will be calculated as the average of daily prices of the
+losses from any deviation will be borne by the
+India Crude Basket price each month. These prices
+licensee and the rest will be passed on to
+will be declared by the Petroleum Planning and
+consumers. Aggregate Technical and Commercial
+Analysis Cell (PPAC) on a monthly basis.
+(AT&C) loss is the ratio of power for which the
+licensee did not receive any payment to the total Under the 2014 guidelines, prices were determined
+electricity procured. based on volume weighted prices of four gas trading
+hubs: (i) Henry Hub, (ii) Albena, (iii) National
+▪ The Draft Rules require the state commission to
+Balancing Point (UK) and (iv) Russia. As per the
+consider all prudent costs of power procurement
+Ministry, this pricing structure had a significant time
+while determining tariff. All costs incurred
+lag and was highly volatile. The new guidelines link
+towards asset creation for the development and
+gas prices to Indian crude which is more relevant to
+maintenance of the distribution system will be
+India’s consumption basket.
+passed on to the consumers.
+▪ Accounting of subsidy: The 2005 Rules provide
+that accounting of subsidy for retail distribution of
+power will be done by the distribution licensee.
+The draft Rules add that the state commission will
+issue a quarterly report for each distribution
+licensee. This report should provide details on the
+subsidy bill raised, the subsidy paid by the state
+government, and dues. The report should be
+prepared within 45 days from the end of the
+respective quarter. The state commission may act
+- 6-
+Monthly Policy Review – April 2023 PRS Legislative Research
+Health and Family Welfare under the Assisted Reproductive Technology
+(Regulation) Act, 2021.34,35 The 2021 Act provides for
+Siddharth Mandrekar Rao (siddharth@prsindia.org) the regulation of ART services, which it defines as any
+technique that seeks to obtain a pregnancy by handling
+Cabinet approves National Medical Devices the sperm or the oocyte (immature egg cell) outside the
+Policy, 2023 human body and transferring the gamete or embryo into
+a woman’s reproductive system. Examples include
+The Union Cabinet approved the National Medical
+gamete donation and in-vitro fertilisation. The 2023
+Devices Policy, 2023.31 As per the Drugs and
+Regulations specify that the oocyte must be retrieved
+Cosmetics Act, 1940, medical devices include devices
+from the donor with their consent.
+used in the treatment, diagnosis, and prevention of
+disease.32 The 2023 Policy sets a goal for India to The National Board also notified the Surrogacy
+achieve a 10-12% share of the global market for Regulations, 2023 under the Surrogacy (Regulation)
+medical devices, increase the size of the sector from Act, 2021.36,37 The Act regulates surrogacy, defined as
+USD 11 billion to USD 50 billion by 2030, and frames a practice where a woman bears and gives birth to a
+strategies to achieve this target. Key features of this child for an intending couple/woman and agrees to
+Policy include the following: hand over the child to them after the birth. An
+intending couple is one that has a medical indication
+▪ Regulatory streamlining: This includes measures
+necessitating surrogacy.37 An intending woman (Indian
+such as single window clearance for licensing of
+citizen, and a widow or divorcee between the ages of
+medical devices and revising pricing regulations.
+35 to 45 years) can also commission surrogacy.37
+▪ Investment: Private investment in the sector will Under the Act, state and central governments must
+be increased through the schemes such as Make in appoint authorities responsible for issuing an intending
+India, Ayushman Bharat, and Start-up Mission. woman or couple with a certificate of eligibility for
+surrogacy, based on prescribed medical conditions.38
+▪ Infrastructure: The Policy proposes the
+Under the Surrogacy Regulations, 2023, these
+establishment and strengthening of industrial parks
+authorities may also identify medical conditions other
+which develop and produce medical devices.
+than those specified in the Act as being potentially
+These will receive logistical connectivity and
+eligible for surrogacy, and refer these to the National
+support under the National Logistics Policy, 2021.
+Board for approval. The Regulations also specify
+▪ Human resource development: The Policy procedural details, such as quorum and meeting
+proposes to increase the strength of skilled schedules, for the National Board and state boards,
+workforce in this sector through the involvement which review authorities and monitor the
+of the Ministry of Skill Development and implementation of the Act.
+Entrepreneurship. The Policy also aims to support
+The Ministry published draft amendments to the
+the implementation of courses in educational
+Surrogacy (Regulation) Rules, 2022.39 The 2022 Rules
+institutions focusing on the development of
+were notified under the Surrogacy (Regulation) Act,
+medical devices.
+2021.37,40 The Rules specify (i) medical conditions
+▪ Brand positioning and awareness: An Export granting eligibility for surrogacy, (ii) restrictions such
+Promotion Council under Ministry of Chemicals as the number of attempts that a surrogate may
+and Fertilizers will conduct studies of best participate in, and (iii) personnel requirements in
+practices in manufacturing and skill development. surrogacy clinics. The draft amendments define a
+couple of Indian origin as being a couple both wife and
+Cabinet approves establishment of 157 nursing husband are Overseas Citizen of India (OCI)
+cardholders.39 They also clarify references to sections
+colleges
+of the Act.
+The Cabinet Committee on Economic Affairs approved
+The last date for submission of feedback on the draft is
+the establishment of 157 nursing colleges, co-located
+May 11, 2023.39
+with existing medical colleges.33 This is estimated to
+increase the number of annual nursing graduates by
+100 Food Streets to be set up to promote
+15,700.33 The establishment of these colleges is
+hygienic street food
+targeted for completion within two years. The total
+estimated outlay for this initiative is Rs 1,570 crore.33
+The Ministry of Health and Family Welfare and the
+Ministry of Housing and Urban Affairs propose to
+Assisted Reproductive Technology Regulations
+assist states and Union Territories in developing 100
+notified; draft amendments to Surrogacy Rules “food streets” across 100 districts.41 The objective of
+released this scheme is to promote food safety and hygiene in
+street food. States/UTs will receive financial assistance
+The National Assisted Reproductive Technology and
+of up to one crore rupees per food street/district, with
+Surrogacy Board (National Board) notified the Assisted
+total outlay of Rs 100 crore. This assistance will be
+Reproductive Technology (ART) Regulations, 2023,
+provided under the National Health Mission, under
+- 7-
+Monthly Policy Review – April 2023 PRS Legislative Research
+which there is a 60:40 ratio of central and state funding satellite communication services.45 Satellite
+for all states except North-Eastern states, Himachal communication refers to any communication link that
+Pradesh and Uttarakhand, which will be funded in a involves the use of artificial satellites. A variety of
+90:10 ratio.41,42 frequency bands are used for providing satellite
+communication services. These include: (i) 1-2
+Gigahertz (GHz), for mobile satellite services and
+navigation systems, (ii) 2-4 GHz, for mobile satellite
+Telecommunications services, weather forecasting, and air traffic control,
+(iii) 4-8 GHz, for television and radio broadcasting, (iv)
+10-15 GHz, for direct-to-home television broadcasting
+Indian Wireless Telegraphy (Cell Broadcasting
+and satellite internet services, and (v) 17-31 GHz, for
+Service for Disaster Alerts) Rules, 2023 notified
+high-speed broadband.
+Omir Kumar (omir@prsindia.org)
+Key issues on which TRAI has sought views include:
+(i) bands of spectrum and their quantum required to
+The Ministry of Communications notified the Indian
+meet the demand for satellite communication services,
+Wireless Telegraphy (Cell Broadcasting Service for
+(ii) the need for exclusive assignment in higher
+Disaster Alerts) Rules, 2023.43 The Rules have been
+frequency bands and related challenges, (iii) block size,
+notified under the Indian Wireless Telegraphy Act,
+minimum block size, and spectrum cap per bidder in
+1933.44 Key features of the Rules are:
+case of exclusive assignment, (iv) whether trading,
+▪ Obligations on phone manufacturers: Six sharing, and leasing of the spectrum should be
+months after commencement of the Rules, phone permitted and mechanisms for the same, and (v)
+manufacturers before selling or manufacturing provisions for new entrants, who could not acquire
+shall ensure certain facilities in smart phones or spectrum in the auction process.
+feature phones. These include: (i) mandatory
+Comments are invited until May 4, 2023.
+support to receive cell broadcast messages in
+English and Hindi languages, (ii) alert sound,
+vibration, and light duration for at least thirty
+seconds, and (iii) maintaining cell broadcast
+Science and Technology
+messages on the screen until acknowledged by the
+user. Cell broadcast refers to sending messages to
+Harshit Padia (harshit@prsindia.org)
+multiple mobile telephone users in a defined area
+at the same time in a broadcast manner. Further,
+Cabinet approves the National Quantum
+after 12 months of the commencement of the
+Mission
+Rules, all smart phones or feature phones must
+have support to receive cell broadcast messages The Union Cabinet has approved the National Quantum
+and automatically read them out. The messages Mission.46 The mission aims to accelerate research and
+should be read out in Indian accent, in all development in quantum computing technology in
+languages as per the Eighth Schedule to the India. Computers based on this technology can
+Constitution of India, subject to the memory of the perform certain calculations much faster than
+feature phone. conventional computers. The Mission will provide
+support for: (i) development of quantum computers, (ii)
+▪ Cell broadcast in existing smart phones:
+development of communication a navigation services
+Manufacturer of mobile phones and the operating
+leveraging quantum computing technology, and (iii)
+system developer shall explore the possibility of
+design and synthesis of materials for quantum
+providing the facility of receiving cell broadcast
+computers. Four thematic Hubs will be set up in
+messages and automatically reading them out, in
+national R&D institutes to focus on quantum
+all languages as per the Eighth Schedule to the
+computing technologies. The total outlay on the
+Constitution. This will be applicable on smart
+Mission is expected to be Rs 6,003 crores over eight
+phones sold in India within four years prior to the
+years, i.e., between 2023-24 and 2030-31.
+commencement of the Rules. All manufacturers
+and developers shall attempt to fulfil this
+obligation within six months of the
+commencement of the Rules.
+Space
+TRAI seeks views on the assignment of Pratinav Damani (pratinav@prsindia.org)
+spectrum for satellite communication
+Cabinet approves Indian Space Policy, 2023
+Saket Surya (saket@prsindia.org)
+The Union Cabinet approved the Indian Space Policy,
+The Telecom Regulatory Authority of India (TRAI) has 2023.47,48 This policy is expected to provide a
+invited comments on the assignment of spectrum for framework for the space sector in India over the next
+- 8-
+Monthly Policy Review – April 2023 PRS Legislative Research
+decade. The Department of Space shall oversee the will be provided for the tribal products of the north
+implementation of this Policy and be the nodal eastern region through offline and online mode.
+department for the same. Key features of the policy are
+as follows:
+▪ Regulation: The Indian National Space
+Promotion and Authorisation Centre (IN-SPACe) Shipping
+will function as an autonomous government
+organisation with the mandate to promote, hand- Tanvi Vipra (tanvi@prsindia.org)
+hold, guide, and authorise space activities. IN-
+Draft Sagarmala Innovation and Startup
+SPACe will periodically issue guidelines and
+procedures for the same. It will be a single Policy released
+window agency for authorisation of space activities
+The Ministry of Ports, Shipping and Waterways
+by government and non-government entities.
+released a draft of the Sagarmala Innovation and
+Authorisations that can be accorded by IN-SPACe
+Startup Policy.50 The Policy seeks to develop an
+include: (i) establishment and operations of space
+ecosystem to support maritime startups to: (i)
+objects, (ii) launch and operation of space vehicles,
+encourage technological self-sufficiency in the sector,
+(iii) establishment and operation of launch pads,
+(ii) make the industry competitive, and (iii) provide
+and (iv) planned re-entry of space objects with or
+employment. Key features of the Policy are as follows:
+without recovery.
+▪ Maritime Innovation Hubs: These hubs will be
+▪ Non-Government Entities: These entities will be
+established with facilities for incubators,
+able to undertake end-to-end activities in the space
+accelerators, fabrication space for prototypes, and
+sector by establishing and operating: (i) space
+rental co-working spaces. Initially, the National
+objects, (ii) ground-based assets, and (iii) related
+Technology Centre for Ports, Waterways and
+services such as communications, remote sensing,
+Coasts (IIT Madras) will develop the first such
+and navigation.
+hub. These hubs are expected to come up in other
+▪ ISRO: The Indian Space and Research educational institutes in the near future. They are
+Organisation (ISRO) shall focus on the research required to attract investment in addition to the
+and development of new space technologies and financial assistance offered in the Policy.
+applications. It shall also share technologies,
+▪ Funding Support: Annual financial support for
+products, processes, and best practices with non-
+startups will be decided by an Apex Committee
+government entities. Data from the remote sensing
+and will be subject to revisions. Funding will be
+satellites of ISRO will be made accessible on a free
+available in various forms such as: (i) seed fund
+and open basis for Ground Sampling Distance of
+scheme – up to Rs 50 lakh to create a minimum
+five metres or more. ISRO will work to
+viable product/service, and (ii) tech pilot grant – up
+demonstrate human spaceflight capability and
+to Rs 100 lakh for commercialisation of
+develop a long-term roadmap for sustained human
+proprietary technology. The Policy also specifies
+presence in space.
+the eligibility criteria and the selection procedure
+for startups.
+▪ Startup Monitoring and Evaluation Group:
+Tribal Affairs Each hub will be governed by the Startup
+Monitoring and Evaluation Group which will be
+Tanvi Vipra (tanvi@prsindia.org) responsible for operationalising the startup policy,
+driving necessary approvals, setting up evaluation
+Central sector scheme for promoting north criteria for startups, and suggest policy
+eastern products launched interventions to the Ministry.
+The Ministry of Tribal Affairs launched a central sector ▪ Apex Committee: A Committee will be formed
+scheme __ Marketing and Logistics Development for which will provide guidance and approval to the
+Promotion of Tribal Products from North-Eastern programme. The Committee will review the
+Region.49 The scheme seeks to assist tribal craftsmen progress made by hubs of various institutes. The
+in increasing their revenue. Rs 143 crore has been Committee may also specify the eligibility and
+allocated for the implementation of the scheme. The evaluation criteria for startups. It will have ten
+scheme will provide incubation support, skill members, chaired by the Secretary of the Ministry.
+development, sourcing and procurement support,
+▪ Sagarmala Startup Portal: The Ministry must
+marketing, transportation, and publicity for products
+develop and implement a portal which will act as a
+created by tribal craftsmen. It also seeks to empanel
+single window solution for all startup related
+tribal artisans/producers by organising tribal artisan
+activities. These include publishing problem
+melas. National and international marketing linkages
+- 9-
+Monthly Policy Review – April 2023 PRS Legislative Research
+statements, application processes, and also
+knowledge resources.
+Home Affairs
+Siddharth Mandrekar Rao (siddharth@prsindia.org)
+Ceasefire agreements with Nagaland groups
+extended for one year
+Ceasefire agreements are currently in place between the
+Government of India and the National Socialist Council
+of Nagaland/NK (NSCN/NK), National Socialist
+Council of Nagaland/ Reformation (NSCN/R) and
+National Socialist Council of Nagaland/K-Khango
+(NSCN/K-Khango).51 They have been extended for
+one year, from April 28, 2023, to April 27, 2024.51
+1 Resolution of the Monetary Policy Committee (MPC), Reserve 13 The Information Technology (Intermediary Guidelines and Digital
+Bank of India, April 6, 2023, Media Ethics Code) Rules, 2021, Ministry of Electronics and
+https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR22B2D43114F Information Technology,
+3D24927ADCBA9B82B16387E.PDF. https://prsindia.org/files/bills_acts/bills_parliament/2021/Intermediar
+2 Consumer Price Index Numbers on Base 2012=100 for Rural, y_Guidelines_and_Digital_Media_Ethics_Code_Rules-2021.pdf.
+Urban and Combined for the Month of March 2023, Ministry of 14 Information Technology Act, 2000,
+Statistics and Programme Implementation, April 12, 2023, https://www.indiacode.nic.in/bitstream/123456789/1999/1/a2000-
+https://www.mospi.gov.in/sites/default/files/press_release/CPI_PR_1 21.pdf.
+2apr23.pdf. 15 Order, Kunal Kamra versus Union of India, Bombay High Court,
+3 “Annual rate of inflation based on all India Wholesale Price Index WP(L) 9792 of 2023, April 27, 2023,
+(WPI) is 3.85% (Provisional) for the month of February, 2023 (over https://bombayhighcourt.nic.in/generatenewauth.php?bhcpar=cGF0a
+February, 2022) against 4.73% in January, 2023”, Press Information D0uL3dyaXRlcmVhZGRhdGEvZGF0YS9vcmlnaW5hbC8yMDIzLy
+Bureau, Ministry of Commerce and Industry, March 14, 2023, ZmbmFtZT1GMjU2MDAwMDk3OTIyMDIzXzQucGRmJnNtZmxh
+https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1906661#:~:t Zz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0yOC8wNC8yMDIzJnN
+ext=The%20rate%20of%20inflation%20based,2.76%25%20in%20Fe wYXNzcGhyYXNlPTAxMDUyMzEzNTI1OCZuY2l0YXRpb249Jn
+bruary%2C%202023. NtY2l0YXRpb249JmRpZ2NlcnRmbGc9WQ==.
+4 The Competition (Amendment) Bill, 2022, Lok Sabha, 16 Draft Aadhaar Authentication for Good Governance (Social
+http://164.100.47.4/BillsTexts/LSBillTexts/Asintroduced/185_2022_ Welfare, Innovation, Knowledge) Amendment Rules, 2023, Ministry
+LS_Eng.pdf. of Electronics and Information Technology,
+5 Report No. 52, ‘The Competition (Amendment) Bill, 2022, https://www.meity.gov.in/writereaddata/files/Draft%20notification%
+Standing Committee on Finance 2022-23, Lok Sabha. 20for%20amendment%20to%20Aadhaar%20Authentication%20for
+%20Good%20Governance%20Rules%202020%20%28Public%20Co
+6 Fair Lending Practices, Reserve Bank of India, April 12, 2023,
+nsulation%29.pdf.
+https://rbidocs.rbi.org.in/rdocs/Content/PDFs/DRAFTCIRCULARFA
+IRLENDINGPRACTICE823CD342BD35488D88FDB167581EAA2 17 “Government invites feedback on amendments to the Aadhaar
+3.PDF. Authentication for Good Governance Rules, 2020 to enable
+performance of Aadhaar authentication by entities other than
+7 RBI releases Draft Circular on Fair Lending Practice - Penal
+Ministries and Departments of the Central Government and State
+Charges in Loan Accounts, Reserve Bank of India, April 12, 2023,
+Governments for prescribed purposes”, Ministry of Electronics and
+https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR5647AFA1999
+Information Technology, April 2023,
+E8142DB8FC7C7416347DDDD.PDF.
+https://www.meity.gov.in/writereaddata/files/Public%20Notice_Meit
+8 Framework for acceptance of Green Deposits, Reserve Bank of
+Y%20Website.pdf.
+India, April 11, 2023,
+18 The Aadhaar Authentication for Good Governance (Social
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRCULARGREE
+Welfare, Innovation, Knowledge) Rules, 2020,
+NDEPOSITS55FFC86E3BD94C4A8BFF8946C6C282EA.PDF.
+https://www.meity.gov.in/writereaddata/files/AAGG%20Rules%20w
+9 “Ministry of Education invites suggestions on Draft National
+ith%20proposed%20amendment%20text%20in%20color.pdf.
+Curriculum Framework for School Education”, Press Information
+19 The Aadhaar (Targeted Delivery of Financial and Other Subsidies,
+Bureau, Ministry of Education, April 6, 2023,
+Benefits and Services) Act, 2016,
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1914366.
+https://uidai.gov.in/images/Aadhaar_Act_2016_as_amended.pdf.
+10 “National Curriculum Framework for School Education 2023”,
+20 Coastal Aquaculture Authority (Amendment) Bill, 2023, as
+National Steering Committee for National Curriculum Frameworks,
+introduced in Lok Sabha, April 5, 2023,
+https://ncf.ncert.gov.in/webadmin/assets/b27f04eb-65af-467f-af12-
+https://sansad.in/getFile/BillsTexts/LSBillTexts/Asintroduced/81_20
+105275251546.
+23_LS_ENG45202321701PM.pdf?source=legislation.
+11 National Education Policy, 2020,
+21 Coastal Aquaculture Authority Act, 2005,
+https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Fina
+https://caa.gov.in/uploaded/doc/Act-English.pdf.
+l_English_0.pdf.
+22“Scheme for Pooling of Tariff of those plants
+12, CG-DL-E-06042023-244980, Information Technology
+(Intermediary Guidelines and Digital Media Ethics Code) whose PPAs have expired.”, Press Information Bureau, Ministry of
+Amendment Rules, 2023, Ministry of Electronics and Information Power, April 20, 2023
+Technology, April 6, 2023, https://powermin.gov.in/sites/default/files/webform/notices/Scheme_
+https://egazette.nic.in/WriteReadData/2023/244980.pdf.
+- 10-
+Monthly Policy Review – April 2023 PRS Legislative Research
+Press Information Bureau, Ministry of Health and Family Welfare,
+for_Pooling_of_Tariff_of_those_plants_whose_PPAs_have_expired. April 20, 2023,
+pdf. https://www.pib.gov.in/PressReleasePage.aspx?PRID=1918262.
+23 Draft Electricity (Amendment) Rules, 2023, Ministry of 42 Chapter 2, “Annual Report 2015-2016”, Ministry of Health and
+Family Welfare,
+Power, April 20, 2023,
+https://main.mohfw.gov.in/sites/default/files/5698753214563256657
+https://powermin.gov.in/sites/default/files/webform/notices/Seek
+8.pdf.
+ing_comments_on_Draft_Electricity_amendment_rules.pdf.
+43 Indian Wireless Telegraphy (Cell Broadcasting Service for Disaster
+24 The Electricity Rules, 2005, https://cea.nic.in/wp- Alerts) Rules, 2023, Ministry of Communications, April 6, 2023,
+content/uploads/legal_affairs/2020/09/Electricity-rules- https://egazette.nic.in/WriteReadData/2023/245068.pdf.
+2005.pdf. 44 The Indian Wireless Telegraphy Act, 1933,
+25 The Electricity (Amendment) Rules, 2020, https://www.indiacode.nic.in/bitstream/123456789/2396/1/A1933-
+https://egazette.nic.in/WriteReadData/2020/224061.pdf. 17.pdf.
+26 The Electricity (Amendment) Rules, 2022, 45 “Consultation Paper on Assignment of Spectrum for Space-based
+Communication Services”, Telecom Regulatory Authority of India,
+http://www.forumofregulators.gov.in/Data/Reports/Electricity-
+(Amendment)-Rules-2022.pdf. April 6, 2023,
+https://www.trai.gov.in/sites/default/files/CP_06042023.pdf.
+27 The Electricity Act, 2003, https://cercind.gov.in/Act-with-
+46 “Cabinet approves National Quantum Mission to scale-up
+amendment.pdf.
+scientific &amp; industrial R&D for quantum technologies,” Press
+28 “Cabinet approves revised domestic gas pricing guidelines.”, Press
+Information Bureau, Department of Science and Technology, April
+Information Bureau, April 6, 2023,
+20, 2023, .
+https://pib.gov.in/PressReleasePage.aspx?PRID=1914450.
+https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1917888
+29 Review of New Domestic Gas Pricing Guidelines, 2014, eGazette,
+47 “Union govt approves Indian Space Policy 2023 to enhance role of
+Ministry of Petroleum and Natural Gas, April 7, 2023,
+https://egazette.nic.in/WriteReadData/2023/245017.pdf. Department of Space, boost ISRO's activities.”. News Service
+Division, All India Radio, April 7, 2023,
+30 New Domestic Gas Pricing Guidelines, 2014, Ministry of
+https://newsonair.gov.in/News?title=Union-govt-approves-Indian-
+Petroleum and Natural Gas, October 25, 2014,
+Space-Policy-2023-to-enhance-role-of-Department-of-Space%2C-
+http://petroleum.nic.in/sites/default/files/1NewNaturalGasPricingGui
+boost-ISRO%26%2339%3Bs-activities&id=458949.
+delines.pdf.
+48 Indian Space Policy 2023, Indian Space Research Organization, as
+31 “Cabinet approves the Policy for the Medical Devices Sector”,
+accessed on April 27, 2023,
+Press Information Bureau, Ministry of Chemicals and Fertilizers,
+https://www.isro.gov.in/media_isro/pdf/IndianSpacePolicy2023.pdf.
+April 26, 2023,
+49 “Shri Arjun Munda Union Minister of Tribal Affairs launches
+https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1919984.
+Central Sector Scheme “Marketing and Logistics Development for
+32 The Drugs and Cosmetics Act, 1940,
+Promotion of Tribal Products from North Eastern Region (PTP-
+https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-
+NER)” in Manipur today”, Press Information Bureau, Ministry of
+documents/acts_rules/2016DrugsandCosmeticsAct1940Rules1945.pd
+Tribal Affairs, April 18, 2023,
+f.
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1917747.
+33 Cabinet approves establishment of 157 new nursing colleges at a
+50 Draft Sagarmala Innovation and Startup Policy, Ministry of Ports,
+cost of Rs. 1570 crores in co-location with existing medical
+Shipping and Waterways, April 10, 2023,
+colleges”, Press Information Bureau, Ministry of Health and Family
+https://shipmin.gov.in/sites/default/files/Draft%20Sagarmala%20lnno
+Welfare, April 26, 2023,
+vation%20and%20Startup%20Policy.pdf.
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1919987.
+51 “Ceasefire Agreements with National Socialist Council of
+34 G.S.R. 269(E), Ministry of Health and Family Welfare, April 5,
+Nagaland/NK, National Socialist Council of Nagaland/ Reformation
+2023, https://egazette.nic.in/WriteReadData/2023/244935.pdf.
+and National Socialist Council of Nagaland/K-Khango extended”,
+35 The Assisted Reproductive Technology (Regulation) Act, 2021, Press Information Bureau, Ministry of Home Affairs, April 6, 2023,
+https://prsindia.org/files/bills_acts/bills_parliament/2020/The%20Ass https://www.pib.gov.in/PressReleasePage.aspx?PRID=1914388.
+isted%20Reproductive%20Technology%20(Regulation)%20Act,%20
+2021.pdf. DISCLAIMER: This document is being furnished to you for your
+36 G.S.R. 270(E), Ministry of Health and Family Welfare, April 5, information. You may choose to reproduce or redistribute this
+2023, https://egazette.nic.in/WriteReadData/2023/244934.pdf. report for non-commercial purposes in part or in full to any other
+person with due acknowledgement of PRS Legislative Research
+37 The Surrogacy (Regulation) Act, 2021,
+(“PRS”). The opinions expressed herein are entirely those of the
+https://egazette.nic.in/WriteReadData/2021/232118.pdf.
+author(s). PRS makes every effort to use reliable and
+38 Section 4 (iii) (a) (I), The Surrogacy (Regulation) Act, 2021, comprehensive information, but PRS does not represent that the
+https://egazette.nic.in/WriteReadData/2021/232118.pdf. contents of the report are accurate or complete. PRS is an
+39 G.S.R. 280(E), Ministry of Health and Family Welfare, April 5, independent, not-for-profit group. This document has been
+2023, https://egazette.nic.in/WriteReadData/2023/245091.pdf. prepared without regard to the objectives or opinions of those
+40 G.S.R. 460(E), Ministry of Health and Family Welfare, June 21, who may receive it
+2022, https://egazette.nic.in/WriteReadData/2022/236719.pdf.
+41 “Ministry of Health proposes operationalizing of 100 Food Streets
+across the country to promote hygienic and safe food practices”,
+- 11-

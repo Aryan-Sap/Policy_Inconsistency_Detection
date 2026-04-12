@@ -1,0 +1,855 @@
+Monthly Policy Review
+June 2023
+Highlights of this Issue
+Current account deficit at 0.2% of GDP in the fourth quarter of 2022-23 (p. 2)
+India recorded a current account deficit of USD 1.3 billion (0.2% of GDP) in the fourth quarter (January-March)
+of 2022-23, significantly lower than USD 13.4 billion (1.6% of GDP) in the corresponding quarter of 2021-22.
+Repo rate kept unchanged at 6.5% (p. 2)
+The Monetary Policy Committee of the Reserve Bank of India retained the policy repo rate (the rate at which
+RBI lends money to banks) at 6.5%. Other policy rates also remain unchanged.
+Cabinet approves third revival package for BSNL (p. 2)
+The package provides for allotment of 4G and 5G spectrum to BSNL through equity infusion. The total
+projected outlay is Rs 89,047 crore.
+Cabinet approves subsidies for fertilisers (p. 3)
+Cabinet has approved the extension of the subsidy for urea fertilisers until 2024-25. Sulphur-coated urea will be
+introduced in the country. A new scheme for promoting organic fertilisers has also been approved.
+FRP for the 2023-24 sugar season approved at Rs 315 per quintal (p. 3)
+For the basic recovery rate of 10.25%, the Fair and Renumative Price (FRP) for sugarcane for the 2023-24 sugar
+season has been set at Rs 315 per quintal, an increase of about 3% over the previous season.
+MSP for Kharif crops enhanced for the 2023-24 marketing season (p. 3)
+The Cabinet has approved an increase in MSP for Kharif crops for the 2023-24 marketing season (ranging
+between 5%-10%). The MSP for paddy has been increased by 7%.
+Time-of-day tariff mandated for retail consumers (p. 4)
+The Ministry of Power has amended the Electricity (Rights of Consumers) Rules, 2020. It introduces the time-
+of-day tariff for retail consumers (except for agricultural consumers) in a phased manner.
+The UGC (Institutions deemed to be Universities) Regulations, 2023 notified (p. 8)
+The 2023 Regulations supersede the UGC (Institutions Deemed to be Universities) Regulations, 2019. They
+specify the eligibility criteria for the deemed university status.
+Changes to Liberalised Remittance Scheme put on hold (p. 7)
+In May 2023, the Ministry of Finance had decided to consider international credit card transactions under the
+limits of liberalised remittance scheme. It has decided to put the implementation of this measure on hold.
+Ministry of Power notifies Carbon Credit Trading Scheme (p. 4)
+Under the scheme certain entities shall comply with emission standards notified by Ministry of Environment.
+Entities failing to meet their targets can trade in carbon credits to meet emission targets.
+Comments invited on draft Green Credit Programme Implementation Rules, 2023 (p. 7)
+The Programme seeks to create a market mechanism to create green credits for environment friendly actions.
+Such actions include tree plantation and waste management.
+The Law Commission invites comments on the Uniform Civil Code (p. 7)
+The 22nd Law Commission has invited comments on the Uniform Civil Code from recognised religious
+organisations as well as the public at large.
+July 3, 2023
+PRS Legislative Research ◼ Institute for Policy Research Studies
+3rd Floor, Gandharva Mahavidyalaya ◼ 212, Deen Dayal Upadhyaya Marg ◼ New Delhi – 110002
+Tel: (011) 23234801, 43434035 ◼ www.prsindia.org
+Monthly Policy Review – June 2023 PRS Legislative Research
+Macroeconomic Development Foreign exchange reserves increased by USD 5.6
+billion in the fourth quarter of 2022-23 as compared to
+Tushar Chakrabarty (tushar@prsindia.org) a decrease of USD 16 billion in the corresponding
+quarter of 2021-22.
+Repo rate kept unchanged at 6.5%
+The Monetary Policy Committee (MPC) of the Reserve
+Bank of India (RBI) retained the policy repo rate (the
+rate at which RBI lends money to banks) at 6.5%.1 Electronics and IT
+Other decisions of the Committee include:
+Omir Kumar (omir@prsindia.org)
+▪ Standing deposit facility rate (the rate at which the
+RBI borrows from banks without giving collateral) Cabinet approves third revival package for
+has been retained at 6.25%.
+BSNL
+▪ The marginal standing facility (the rate at which
+The Union Cabinet approved a revival package for
+banks can borrow additional money from RBI),
+BSNL involving an outlay of Rs 89,047 crore.3 The
+and the bank rate (the rate at which RBI buys bills
+package provides for allotment of 4G/5G spectrum for
+of exchange) have been retained at 6.75%.
+BSNL through equity infusion. It seeks to enable
+The MPC decided to remain focused on the withdrawal BSNL to provide: (i) 4G and 5G services across India,
+of accommodation. This is expected to ensure that (ii) 4G coverage in rural and uncovered villages, (iii)
+inflation progressively aligns with the target of 4%, fixed wireless access, and (iv) services/spectrum for the
+while supporting growth. captive non-public network (networks for private use).
+The authorised capital of BSNL will be increased from
+Current account deficit at 0.2% of GDP in the Rs 1,50,000 crore to Rs. 2,10,000 crore. Authorised
+fourth quarter of 2022-23 capital refers to the maximum amount of share capital a
+company is allowed to issue to its shareholders. This is
+India recorded a current account deficit of USD 1.3 the third such revival package in recent years.
+billion (0.2% of GDP) in the fourth quarter (January-
+In 2019, a package worth Rs 69,000 crore was
+March) of 2022-23, significantly lower than USD 13.4
+approved by the Cabinet. This provided for: (i) in-
+billion (1.6% of GDP) in the corresponding quarter of
+principle merger of BSNL and MTNL, (ii) capital
+2021-22.2 The decrease was driven by an increase in
+infusion for allotment of 4G spectrum, and (iii) costs
+net services exports from USD 28.3 billion to USD
+towards voluntary retirement scheme.4 This was
+39.1 billion. In the third quarter (October-December)
+followed by another package worth Rs 1.64 lakh crore
+of 2022-23, current account deficit was USD 16.8
+in 2022.3 The second package provided for: (i)
+billion (2% of GDP). The decrease in current account
+allocation of spectrum for ongoing and 4G services, (ii)
+deficit in the fourth quarter of 2022-23 as compared to
+settlement of statutory dues worth Rs 33,404 crore by
+the third quarter of 2022-23 has been on account of
+conversion into equity, and (iii) financial support for
+decrease in trade deficit.
+capital expenditure.5
+The capital account registered a net inflow of USD 6.5
+billion in the fourth quarter of 2022-23 as compared to Guidelines on information security
+a net outflow of USD 1.7 billion in the fourth quarter of
+practices for government entities issued
+2021-22. In the third quarter of 2022-23, the capital
+account registered a net inflow of USD 28.9 billion. The Indian Computer Emergency Response Team
+(CERT-In) issued “Guidelines on Information Security
+Table 1: Balance of payments, Q4 2022-23 (USD
+Practices” under the Information Technology Act, 2000
+billion)
+for government entities.6,7 Under the Act, CERT-In has
+Q4 Q3 Q4 been established as the national agency for cyber
+2021-22 2022-23 2022-23 security incidents by the central government.8 It is
+responsible for handling cyber security incidents and
+Imports 172.5 176.9 168.4
+issuing guidelines relating to security practices,
+Exports 118.0 105.6 115.8
+prevention, and reporting of such incidents. These
+Net Services 28.3 38.7 39.1
+Guidelines will be applicable to all ministries,
+Other transfers 12.8 15.8 12.2 departments, public sector enterprises, and other
+Current account -13.4 -16.8 -1.3 government agencies. Key features of the Guidelines
+Capital account -1.7 28.9 6.5 are as follows:
+Errors and omissions -0.9 -1 0.4 ▪ Policy measures: Organisations should formulate
+Change in reserves -16 11.1 5.6 a cyber security policy and nominate a Chief
+Note: Negative figures indicate a deficit. Information Security Officer for IT security. The
+Sources: RBI; PRS.
+Officer should have a dedicated cyber security
+team. Internal and external audits should be
+- 2-
+Monthly Policy Review – June 2023 PRS Legislative Research
+conducted for information and communications to 195 lakh metric tonnes of conventional urea.
+technology infrastructure. Periodic security audit Nano fertilisers (such as nano urea) involve higher
+and risk assessment should be undertaken. An nutrient use efficiency and cost less to farmers.
+incident management plan should be put in place Sulphur-coated urea (Urea Gold) will be
+to prevent and effectively respond to cybersecurity introduced in the country. It is considered more
+incidents. The organisation must report each economical and efficient than the currently used
+cybersecurity incident to CERT-In within six hours neem-coated urea. It is also expected to address
+of discovering the incident. the deficiency of sulphur in the soil.
+▪ Data Security: Organisations should take certain ▪ Promotion of organic fertilisers: The Cabinet
+measures to ensure data security. These include: also approved a scheme for the marketing of
+(i) identifying personal data and sensitive data, and organic fertilisers. This includes fermented
+encrypting it, (ii) deploying tools to detect data organic manure and phosphate-rich organic
+breaches, (iii) conducting third party assessment to manure. Market development assistance of Rs
+monitor data breaches, and (iv) implementing a 1,500 per metric tonne will be provided. The total
+data backup policy. Third-party access to expected outlay on the scheme is Rs 1,452 crore.
+information should be restricted and should only The scheme is expected to address the challenges
+be done after signing a non-disclosure agreement of managing crop residue, stubble burning, and
+with the third party. providing additional sources of income to farmers.
+▪ Network and infrastructure: A firewall should
+Sugarcane prices approved for sugar season
+be deployed to create a buffer zone between the
+2023-24
+internet, untrusted networks, and networks used by
+businesses. Network parameters should be The Cabinet Committee on Economic Affairs approved
+managed by controlled access to ports, protocols, the Fair and Remunerative Price (FRP) for sugarcane
+and applications filtering traffic. Further, network for the sugar season (October-September) 2023-24 at
+intrusion and prevention systems should be Rs 315 per quintal.11 This is an increase of about 3%
+deployed. Malicious internet protocols and over the FRP for the 2022-23 sugar season (Rs 305 per
+domains identified and shared by CERT-In and quintal). FRP is the minimum price at which sugar
+security agencies should be monitored/blocked. mills can purchase sugarcane from farmers.
+The FRP varies based on the recovery rate. The
+recovery rate refers to the amount of sugar recovered
+Agriculture from the cane. FRP of Rs 315 per quintal will be
+payable for the basic recovery rate of 10.25%. A
+Tanvi Vipra (tanvi@prsindia.org) premium/discount of Rs 3.07 per quintal will be paid
+for every 0.1% increase/decrease in the recovery rate
+Cabinet approves subsidies for fertilisers from the threshold of 10.25%. For a recovery rate of
+less than 9.5%, farmers will get a minimum assured
+The Cabinet Committee on Economic Affairs approved
+price of Rs 292 per quintal.
+several schemes aimed at providing subsidised
+fertilisers for farmers.9 These are expected to
+Minimum Support Prices for Kharif crops
+encourage the judicious use of fertilisers, reduce input
+approved
+costs for farmers, and, also promote organic farming.
+Key highlights of the schemes are: The Cabinet Committee on Economic Affairs approved
+an increase in the minimum support price (MSP) for
+▪ Urea subsidy scheme: Fertilisers such as urea and
+mandated kharif crops for the marketing season 2023-
+nitrogen are subsidised for the use of farmers.
+24 (October to September) (See Table 2).12 The MSP
+Cabinet has approved the extension of the urea
+for paddy has been increased by 7%. Crops such as
+subsidy until 2024-25. This will require an
+moong, sesamum, and long-staple cotton have seen the
+expenditure of Rs 3.68 lakh crore over three years
+highest increase in MSP (10% each). MSP refers to the
+(2022-23 to 2024-25). Farmers will continue to
+assured price at which crops are procured from farmers
+receive urea at Rs 242 per bag of 45 kg (excluding
+by the central government.13
+taxes). The central government expects that the
+continuation of the scheme will maximise
+indigenous production of urea. In the Union
+Budget, the central government had estimated to
+spend Rs 1.31 lakh crore on urea subsidy in 2023-
+24, 24% of which is to be spent towards imports.10
+▪ Further, eight nano-urea plants will be
+commissioned by 2025-26. The plants will have a
+production capacity of 44 crore bottles, equivalent
+- 3-
+Monthly Policy Review – June 2023 PRS Legislative Research
+Table 2: Minimum Support Price for Kharif crops ▪ Floor for time-of-day tariffs: Time-of-day tariffs
+2023-24 (in Rs per quintal) will apply to the energy charges. Energy charges
+MSP MSP are payable based on the total energy consumed in
+Crops % change
+2022-23 2023-24 a billing cycle. The time-of-day tariff must not be
+Moong 7,755 8,558 10% less than: (i) 1.2 times the normal tariff for
+industrial and commercial consumers, and (ii) 1.1
+Sesamum 7,830 8,635 10%
+times for other consumers. During solar hours, the
+Cotton (long
+6,380 7,020 10% tariff should be less than the normal tariff by at
+staple)
+least 20%. Peak hours must not be longer than
+Groundnut 5,850 6,377 9%
+solar hours.
+Cotton (medium
+6,080 6,620 9%
+staple) ▪ Treatment of the sanctioned load for billing
+Jowar - Maldandi 2,990 3,225 8% purposes: The 2020 Rules mandate the
+Jowar - hybrid 2,970 3,180 7% installation of meters. The amendments specify
+that on the installation of a smart meter, no penalty
+Paddy - common 2,040 2,183 7%
+will be levied in case the actual recorded maximum
+Ragi 3,578 3,846 7%
+demand is more than the sanctioned load. For
+Maize 1,962 2,090 7% billing, the actual recorded maximum demand will
+Soybean (yellow) 4,300 4,600 7% be treated as the sanctioned load. A higher
+sanctioned load may attract a higher tariff slab.
+Bajra 2,350 2,500 6%
+Tur/Arhar 6,600 7,000 6% ▪ Revision of the sanctioned load: If the monthly
+maximum demand exceeds the sanctioned load at
+Sunflower seed 6,400 6,760 6%
+least three times in a financial year, the sanctioned
+Nigerseed 7,287 7,734 6%
+load will be revised by the distribution company.
+Urad 6,600 6,950 5% The new sanctioned load will be the lowest of the
+Sources: Ministry of Agriculture and Farmers Welfare, PRS. monthly maximum demand. Accordingly, the
+distribution company may revise the sanctioned
+load down if the maximum load decreases.
+Power The Carbon Credit Trading Scheme, 2023
+notified
+Electricity (Rights of Consumers) Amendment
+Omir Kumar (omir@prsindia.org)
+Rules, 2023 notified
+Harshit Padia (harshit@prsindia.org) The Ministry of Power notified the Carbon Credit
+Trading Scheme, 2023 under the Energy Conservation
+The Ministry of Power issued the Electricity (Rights of Act, 2001.16,17 Carbon credit refers to a value assigned
+Consumers) Amendment Rules, 2023.14 The Rules to achieve reduction of greenhouse gas emissions.
+specify the rights and obligations of electricity
+▪ Issuance of carbon credits: The Ministry of
+consumers. These pertain to subjects such as standards
+Power will notify entities obligated to comply with
+of service, metering, and payment of bills. The
+the trading scheme, based on recommendations of
+amended Rules mandate the introduction of time-of-
+the Bureau of Energy Efficiency (BEE). The
+day tariffs, i.e., tariffs that vary based on the time of
+Ministry of Environment, Forest, and Climate
+day).15 It also provides a mechanism for the calculation
+Change will notify the emission intensity target for
+of bills in case of demand exceeding the sanctioned
+obligated entities, upon the recommendation of the
+load.15 Sanctioned load is the maximum power a
+Ministry of Power. Emission intensity is the total
+distributor has agreed to supply to the consumer.
+amount of greenhouse gas emissions emitted for
+▪ Time-of-day tariff to be mandatory: The every unit of GDP. Obligated entities will earn
+amendments mandate introduction of time-of-day carbon credit certificate if they surpass the target
+tariffs for retail consumers except for agricultural assigned to them. The certificate will be issued by
+consumers. Time-of-day tariff implies that tariffs BEE. Obligated entities unable to achieve their
+during a single day might be different at different target, will be required to meet the shortfall by
+points in time. For example, tariffs may be higher purchasing carbon credit certificate. Non-
+during peak hours and lower during solar hours obligated entities may also register under the
+(when solar energy can be harnessed). This will be scheme and comply voluntarily.
+effective from: (i) April 1, 2024, for industrial and
+▪ Trading of carbon credits: Carbon credit
+commercial consumers with maximum demand of
+certificates will be traded on power exchanges
+up to 10 kilowatts, and (ii) April 1, 2025, for other
+registered with the Central Electricity Regulatory
+consumers. For consumers with smart meters, it
+Commission (CERC) for this purpose. CERC will
+will be applicable immediately.
+also regulate the carbon credit trading activities.
+- 4-
+Monthly Policy Review – June 2023 PRS Legislative Research
+The Grid Controller of India Limited (GCIL) will recommended share may be altered by the State
+be the registry for the scheme. It will: (i) Electricity Regulatory Commissions.
+undertake registration of obligated or non-
+▪ Further, each discom will undertake a Resource
+obligated entities, and (ii) maintain record of
+Adequacy Plan for a 10-year horizon. This plan
+transactions and share them with power exchanges
+will be vetted by the CEA and must be approved
+and BEE.
+by the State Electricity Regulatory Commission.
+▪ Administrative mechanism: The central
+▪ Short-term plans on resource adequacy: The
+government will constitute a National Steering
+National Load Dispatch Centre (NLDC) will
+Committee, which will be responsible for the
+publish a yearly short-term National Resource
+governance and oversight of the overall carbon
+Adequacy Plan. This will provide for parameters
+market. The Committee will be chaired by the
+such as demand forecasts, planned maintenance
+Power Secretary, and will have representation from
+schedules, station-wise historic outage rates, and
+several ministries including Environment and
+decommissioning of generators. The State Load
+Steel, and government entities including BEE and
+Dispatch Centers will create a yearly plan for
+GCIL. Key functions of the Committee include
+short-term distribution resource adequacy based on
+giving recommendations on certain matters to the
+the national level plan developed by NLDC.
+BEE: (i) formulation of procedures, rules, and
+regulations for the carbon market, (ii) formulation
+CEA fast tracks approval mechanism for
+of targets and issuance of carbon credit certificate.
+pumped storage projects
+BEE will administer the scheme. Its functions
+include: (i) identifying sectors and potential for
+Harshit Padia (harshit@prsindia.org)
+reduction of emissions, (ii) developing trajectories
+and targets for reduction, and (iii) issuing carbon The Central Electricity Authority (CEA) modified the
+credit certificates. process for concurrence on the Detailed Project Report
+(DPR) of pumped storage projects.19 Concurrence is
+Ministry of Power notified guidelines for required from several authorities including CEA, the
+resource adequacy planning Central Water Commission and the Geological Survey
+of India. Pumped storage projects pump water up a
+Harshit Padia (harshit@prsindia.org)
+reservoir when surplus electricity is available. This
+stored water is then used to generate power in case of a
+Ministry of Power issued guidelines on resource
+deficit. Key changes include:
+adequacy planning for the electricity sector, in
+consultation with the Central Electricity Authority ▪ Single window for clearances: The CEA has
+(CEA).18 Resource adequacy planning determines the established a single window to obtain clearance for
+best mix of optimal capacity to meet electricity demand a pumped storage project. The Central Water
+reliably 24x7, at the lowest cost possible. Key features Commission and the Geological Survey of India
+of the guidelines are: will nominate officers to look into corresponding
+aspects of projects and accelerate clearances.
+▪ Long-term national plan on resource adequacy:
+The CEA will publish a long-term National ▪ Shorter timeline for concurrence: The number
+Resource Adequacy Plan. This plan will of days for getting concurrence on the DPR has
+determine the optimal capacity requirement at the been revised down from 90 days to 50 days for
+national level to ensure reliable supply. It will pumped storage projects: (i) whose tariff has been
+specify state-wise contribution towards the determined through competitive bidding, (ii) which
+national peak. Further, the plan will provide for an are bundled with the renewable energy generation
+optimal generation mix for 10 years. This is to projects, or (iii) which are being developed for
+ensure there are resources available to meet captive purposes. For other pumped storage
+national level system requirements at least cost. projects, the timeline has been reduced from 125
+This plan will be updated annually. days to 90 days.
+▪ Resource adequacy planning by discoms: Based ▪ Environmental clearances: Pumped storage
+on the share in the national peak electricity demand projects on existing reservoirs will not require
+capacities will have to be planned. Each Environmental Impact Assessment.
+distribution licensee (discom) will be required to Environmental Impact Assessment refers to the
+contract capacities to meet its share of national study to predict the effect of a proposed
+peak demand or higher. Only resources with long- project/activity on the environment.20
+term, medium-term, and short-term contracts will
+be considered for this purpose. Power procured
+through power exchanges will not be considered
+under resource adequacy planning. The share of
+long-term contracts will be 75-80% and that of
+medium-term contracts will be 10-20%. The
+- 5-
+Monthly Policy Review – June 2023 PRS Legislative Research
+Finance disclose events or information whose value or
+expected impact in terms of value exceeds the
+Tushar Chakrabarty (tushar@prsindia.org) lowest of the following:
+(i) 2% of turnover,
+RBI releases framework for compromise
+settlement and technical write-offs (ii) 2% of net worth, or;
+The Reserve Bank of India (RBI) released a framework (iii) 5% of the average of profit or loss after tax as
+for compromise settlements and technical write-offs.21 per the last three consolidated financial statements.
+Compromise settlement refers to an arrangement to
+In addition, details of cyber security incidents and
+fully settle the claims of a regulated entity (such as
+data breaches must be disclosed in a quarterly
+banks) against a borrower in cash. This may involve
+compliance report.
+writing off a certain percentage of the dues of the
+borrower. Compromise settlements will be categorised ▪ Timeline for disclosure of material events: The
+as loan restructuring. Technical write-offs involve 2015 Regulations provided that listed companies
+writing-off non-performing assets (loans) from the must disclose certain events to stock exchanges
+books of the regulated entity without any waiver of within 24 hours. The amended regulations provide
+claims against the borrower. Key features include: that stock exchanges must be informed of all
+material information within: (i) 12 hours of the
+▪ Policy for settlements: Regulated entities must
+occurrence of the event if it is emanating from
+have a board-approved policy for undertaking
+within the company, or (ii) 24 hours from the
+compromise settlements and technical write-offs.
+occurrence of the event in other cases. Material
+The policy should provide for the process to be
+information arising from decisions taken at board
+followed for such settlements. In case of
+meetings must be communicated within 30
+compromise settlements, the policy should provide
+minutes of the conclusion of the meeting.
+for the permissible level of write-off while arriving
+at the settlement amount. ▪ Disclosure of reported information: The 2015
+Regulations provide that listed companies may
+▪ Cooling period: In case of borrowers involved in
+confirm or deny any reported event or information
+compromise settlements, there must be a cooling
+to stock exchanges. Starting October 1st, 2023, the
+period before the regulated entities can provide
+top 100 listed entities must confirm or deny any
+fresh loans. For loans other than farm credit, this
+material event or information in mainstream media
+cooling period should be of at least 12 months.
+within 24 hours. From April 1, 2024, this would
+For technical write-offs, the cooling period would
+apply to the top 250 listed entities. Such entities
+be as per the board-approved policies of the
+will be determined based on their market
+regulated entities.
+capitalisation. Mainstream media refers to
+▪ Fraud accounts: Regulated entities may newspapers and news channels.
+undertake compromise settlements or technical
+write-offs in respect of accounts categorised as SEBI reduces the timeline for listing shares
+fraud or wilful defaulters. This would not affect
+The Securities and Exchange Board of India (SEBI) has
+the criminal proceedings that are underway against
+reduced the timeline for the listing of shares.24 Shares
+the debtors.
+offered through an initial public offering (IPO) will be
+listed three days after the closing of the IPO as against
+SEBI amends listing and disclosure regulations
+the current timeline of six days. IPO is the selling of
+The Securities and Exchange Board of India (SEBI) shares of a company to the public for the first time.
+notified the SEBI (Listing Obligations and Disclosure The revised timeline will be optional for all IPOs
+Requirements) (Second Amendment) Regulations, opening from September 1, 2023. It will be made
+2023.22 This amends the SEBI (Listing Obligations mandatory from December 1, 2023.
+and Disclosure Requirements) Regulations, 2015.23
+The Regulations provides the framework for disclosure SEBI mandates additional disclosures for
+of certain information by listed entities. Key features foreign portfolio investors
+of the amendments include:
+The Securities and Exchange Board of India (SEBI) has
+▪ Filling key vacancies: Any vacancy in the office mandated foreign portfolio investors (FPIs) to provide
+of key managerial personnel (such as chief certain additional disclosures.24 These disclosures have
+executive officer, managing director, and whole- to be made by FPIs who: (i) hold more than 50% of
+time director) must be filled by the listed entity their Indian equity investments in a single corporate
+within three months. group, or (ii) hold more than Rs 25,000 crore equity
+investment in the Indian markets individually or with
+▪ Disclosure of material events: The amendment
+their investor group. Additional disclosures include
+specifies thresholds for disclosure of material
+details of ownership, control, and economic interest.
+events by listed entities. Listed entities must
+- 6-
+Monthly Policy Review – June 2023 PRS Legislative Research
+Entities exempt from providing disclosures include Home Affairs
+government and related investors, pension funds, and
+corporate entities that meet certain conditions. Alaya Purewal (alaya@prsindia.org)
+Ministry of Finance puts proposed changes to Central government constitutes peace
+liberalised remittance scheme on hold committee in Manipur
+The Ministry of Finance has withheld certain changes The central government has constituted a Peace
+regarding tax collected at source (TCS) under the Committee in Manipur, in response to ongoing
+liberalised remittance scheme (LRS).25 Under LRS, violence.30 On May 3, 2023, an ethnic clash erupted
+individuals can remit up to USD 2,50,000 in a financial between the Meitei people (the majority community in
+year.26 Any remittance above this limit would need the the Imphal Valley) and certain other communities,
+RBI’s approval. Earlier, making payments abroad including Kuki and Zo, from the surrounding hills.31,32
+through international credit cards was not included The mandate of the Committee is to facilitate the
+under the LRS limit. In May 2023, the Ministry of peace-making process and negotiations between
+Finance removed this exemption. The Ministry has conflicting parties/ethnic groups. The Committee
+now decided to put this decision on hold. comprises: (i) the Governor of Manipur as the
+Chairperson, (ii) the Chief Minister of Manipur, (iii)
+Further, the Finance Act 2023 had increased the rate of
+specified ministers of the state government, (iv)
+TCS levied on remittance under LRS from 5% to
+MPs/MLAs/leaders from different political parties, (v)
+20%.25 It also removed the threshold of seven lakh
+representatives of different ethnic groups, and (vi)
+rupees for the levy of TCS on LRS transactions. These
+former civil servants.
+changes were to be effective from July 1, 2023. The
+Ministry has decided that the increased TCS rates will
+be applicable from October 1, 2023. The earlier
+threshold of seven lakh rupees for the levy of TCS on Law and Justice
+LRS transactions will also be retained. For remittances
+beyond this threshold, the rates of TCS will be: (i) Alaya Purewal (alaya@prsindia.org)
+0.5% for education loans, (ii) 5% for education/medical
+treatments, and (ii) 20% for all other purposes. 22nd Law Commission invites comments on the
+Uniform Civil Code
+The 22nd Law Commission has invited comments on
+Commerce the Uniform Civil Code.33 Views have been sought
+from recognised religious organisations as well as the
+Tushar Chakrabarty (tushar@prsindia.org) public at large. The uniform civil code refers to the
+forumulation and implemention of personal laws that
+Export policy for civilian use drones liberalised would apply to all Indian citizens, irrespective of
+religion. Such personal laws cover marriage, divorce,
+The Directorate General of Foreign Trade has
+adoption, inheritance, and succession.34,35
+liberalised the policy for the export of
+drones/unmanned aerial vehicles (UAVs) meant for Comments are invited until July 14, 2023.
+civilian use.27,28 Earlier export of all drones/UAVs
+were regulated as per the Special Chemicals Organisms
+Materials, Equipment, and Technology (SCOMET) list.
+This applies to items which have both civilian and Environment
+military applications. Export of items under the list
+Omir Kumar (omir@prsindia.org)
+requires authorisation unless its export is prohibited or
+allowed without authorisation.29 With the liberalised
+Comments invited on the draft Green Credit
+policy, drones/UAVs with a range of up to 25 km with
+a payload of up to 25 kg may be exported under the Programme Implementation Rules, 2023
+general authorisation for the export of drones. These
+The Ministry of Environment, Forest and Climate
+should also not fall under certain specified categories.
+Change invited comments on the draft Green Credit
+This may be done with a one-time general license
+Programme Implementation Rules, 2023.36 The
+which is valid for three years.
+Programme seeks to create a market mechanism to
+incentivise environment-friendly actions. Green credits
+will be awarded for such actions, which may
+subsequently be traded. The Programme will be
+launched in a phased manner. It will be based on
+voluntary participation. In the initial phase, two to
+three activities from certain sectors will be included.
+These sectors include: (i) tree plantation, (ii) waste
+- 7-
+Monthly Policy Review – June 2023 PRS Legislative Research
+management, (iii) sustainable building and couple where both the husband and the wife are the
+infrastructure, and (iv) air pollution. In the subsequent holders of Overseas Citizens of India card.
+phases, the central government may add more sectors.
+Key features of the draft Rules include:
+▪ Methodology: Thresholds and benchmarks will be
+Education
+developed for each activity for the issuance of
+green credits. The value of green credit will be
+Siddharth Mandrekar Rao (siddharth@prsindia.org)
+based on factors quantifying the environmental
+impact of the activities. Such factors include The UGC (Institutions deemed to be
+resource requirements, scale, and scope.
+Universities) Regulations, 2023 notified
+▪ Steering Committee: The Committee will be
+The University Grants Commission (UGC) released the
+responsible for the governance of the Programme.
+UGC (Institutions deemed to be Universities)
+It will consist of members from certain Ministries,
+Regulations, 2023.40 These regulations provide for
+domain experts, industry associations, and other
+establishing educational institutions as deemed to be
+relevant stakeholders. Key functions of the
+universities under the University Grants Commission
+Committee include: (i) granting approvals for
+Act, 1956.41 The 2023 Regulations supersede the UGC
+implementation of the programme, and (ii) making
+(Institutions Deemed to be Universities) Regulations,
+recommendations to the government relating to
+2019.42 Key features of the 2023 regulations include:
+matters such as activities and sectors to be included
+in the Programme. ▪ Eligibility criteria: To be deemed to be a
+university, the institution must meet certain
+▪ Implementing agency: The Indian Council of
+eligibility criteria. These include having: (i) at
+Forestry Research and Education will implement
+least five departments, (ii) accreditation from the
+the programme. It will develop guidelines,
+National Assessment and Accreditation Council
+processes, and procedures for the award and the
+(NAAC), (iii) a student-teacher ratio equal to or
+trading of green credits. It will create a green
+below 1:20, and (iv) a top 50 rank in the National
+credit registry containing all information relating to
+Institute Ranking Framework (NIRF) in at least
+the issuance, transfer, and acquisition of green
+one subject. These criteria will not apply to
+credits. It will also accredit entities as Accredited
+certain institutions classified as ‘distinctive
+Green Credit Verifiers to conduct verification for
+category’ institutions. These are institutions which
+the grant of green credits.
+fulfil other criteria, such as addressing strategic
+Comments are invited until August 25, 2023. needs or preserving Indian cultural heritage. The
+2023 Regulations also allow cluster institutions to
+be deemed to be a university. These are groups of
+institutions that have at least five departments.
+Health and Family Welfare
+▪ Systems of governance: Institutions deemed to be
+universities must be governed by an apex body, the
+Rutvik Upadhyaya (rutvik@prsindia.org)
+Executive Council. This will consist of: (i) the
+Vice-Chancellor (VC), (ii) two Deans of Faculties,
+Amendments to the Surrogacy (Regulation)
+(iii) two teachers other than the Deans, (iv) up to
+Rules, 2022 notified
+four nominees of the sponsoring body, and (v) a
+The Ministry of Health and Family Welfare notified UGC or state government or central government
+amendments to the Surrogacy (Regulation) Rules, representative. The Council’s powers include: (i)
+2022.37,38 These Rules have been issued under the creating and making appointments to academic
+Surrogacy (Regulation) Act, 2021.39 The Act regulates posts, (ii) making rules, and (iii) enforcing rules
+surrogacy. Surrogacy is defined as a practice where a against employees.
+woman bears and gives birth to a child for an intending
+▪ The institution will also have an Academic Council
+couple or woman, and agrees to hand over the child
+which will supervise and make rules regarding
+after birth.
+academic matters such as admissions and
+The Act provides that surrogacy will be available to examinations. It can also make recommendations
+only those couples who have a medical condition which regarding the creation and abolition of
+makes them dependent on surrogacy for becoming departments, and teaching posts. Its other powers
+parents. It also provides that a couple of Indian origin include prescribing courses for degrees or
+or a woman willing to avail surrogacy must obtain a diplomas. Its members include the VC, Deans of
+recommendation from the National Assisted faculties, up to 20 teachers, and six experts.
+Reproductive Technology Board to be eligible for
+▪ Admission: Admission must be based on an
+surrogacy. Both the concerned Act and existing Rules
+entrance exam or a manner specified in the
+did not define a “couple of Indian origin”. The 2023
+institution’s prospectus. The entrance exams must
+amendment defines a couple of Indian origin to be a
+- 8-
+Monthly Policy Review – June 2023 PRS Legislative Research
+be conducted by the institution or a Government subject to certain conditions. Other entities may
+Testing Agency. Institutions must have either apply directly or utilise sandboxing facilities
+reservation policies as per the Constitution of India of the licensed service providers. Following are
+and central laws. key eligibility criteria for applicants: (i) the entity
+should be a company incorporated and registered
+Madhyamik and Uchchatar Shiksha Kosh
+in India, (ii) the product/service to be tested should
+operationalised be innovative, (iii) the necessity of testing in a
+regulatory sandbox must be established, (iv)
+The Ministry of Education notified the setting up of the
+limited offline testing must have been completed
+Madhyamik and Uchchtar Shiksha Kosh (MUSK).43
+before the application, and (v) the entity should
+MUSK is a fund to receive funds collected via the 4%
+have a mechanism to protect consumer interests
+Health and Education Cess on income tax. Of the 4%
+and minimise harm. Any liability arising out of
+cess, 1% will be earmarked for MUSK.43 These funds
+the testing process will be borne by the applicant.
+will be utilised for Secondary and Higher Education. It
+is a non-lapsable reserve fund. 44 ▪ Permission to conduct testing: The Department
+of Telecommunication (DoT) or TRAI will grant
+The Ministry has established accounting procedures
+permission for using the regulatory sandbox for a
+and the manner of making account entries.43 For
+period of up to 12 months. They will have the
+example, shortfalls in transfers to MUSK in a given
+right to waive/ modify the conditions for testing on
+financial year must be addressed in Detailed Demands
+a case-to-case basis.
+for Grants for the subsequent year. Funds allocated to
+MUSK are apportioned between the Department of ▪ Oversight: DoT/TRAI or any other authorised
+School Education and Literacy and the Department of entity will oversee the regulatory sandbox process.
+Higher Education in a 40:60 ratio, respectively.43 The The body will establish a monitoring and
+Ministry has also specified schemes and bodies for evaluation framework to assess the performance of
+which MUSK funds are to be utilised. These include each sandbox test and provide recommendations.
+Samagra Shiksha Abhiyan, and the National Means-
+Comments are invited until July 17, 2023.
+cum-Merit Scholarship Scheme.
+Consumer Affairs
+Communications
+Tanvi Vipra (tanvi@prsindia.org)
+Omir Kumar (omir@prsindia.org)
+Rules for direct selling entities amended
+TRAI invites comments on the draft
+framework for encouraging technologies The Ministry of Consumer Affairs notified
+through regulatory sandboxes amendments to the Consumer Protection (Direct
+Selling) Rules, 2021.46,47 The Rules have been notified
+The Telecom Regulatory Authority of India (TRAI)
+under the Consumer Protection Act, 2019.48 The Act
+released the draft framework for ‘Encouraging
+defines direct selling as the sale/marketing of goods
+Innovative Technologies, Services, Use Cases, and
+carried out through direct sellers. Direct selling is not
+Business Models through Regulatory Sandbox in
+done through a permanent retail location and also does
+Digital Communication Sector’.45 TRAI observed that
+not include pyramid schemes. The Rules specify the
+there is a need to provide a test environment for new or
+obligations and duties of direct selling entities.
+existing technologies. Such test environments are
+The amendments narrow the definition of a direct
+referred to as Regulatory Sandboxes. These enable live
+selling entity. A direct selling entity is now defined as
+testing of various services and products and the
+an entity that sells goods through a network of direct
+collection of evidence on the benefits and risks
+sellers formed by the entity. This network of direct
+associated with new technologies. They allow
+sellers must sell goods for the sole purpose of receiving
+companies to test their products without complying
+consideration. Earlier, a direct selling entity was
+with certain regulatory requirements. Such frameworks
+defined as an entity which sells through direct sellers.
+exist in several countries including the UK, Singapore,
+and Australia. Key features of the draft framework are
+as follows:
+▪ Eligibility: All licensed service providers will be
+eligible for testing in the regulatory sandbox,
+1 Resolution of the Monetary Policy Committee (MPC), June 6-8, 2 Developments in India’s Balance of Payments during the Fourth
+2023, Monetary Policy Statement 2023-24, June 8, 2023, Quarter (January-March) of 2022-23, Reserve Bank of India, June
+https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR3643DFF6F8A 27, 2023,
+3AE3429A826A641E1DF57844.PDF.
+- 9-
+Monthly Policy Review – June 2023 PRS Legislative Research
+exchange-board-of-india-listing-obligations-and-disclosure-
+requirements-second-amendment-regulations-2023_72609.html.
+https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR483BOP57A61
+2895C0F4E22A6D66A53ED7894CA.PDF. 23 Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 2015,
+3 “Union Cabinet approves allotment of 4G/5G Spectrum to BSNL”,
+https://www.sebi.gov.in/legal/regulations/feb-2023/securities-and-
+Press Information Bureau, Union Cabinet, June 7, 2023,
+exchange-board-of-india-listing-obligations-and-disclosure-
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1930442.
+requirements-regulations-2015-last-amended-on-february-07-2023-
+4 “Union Cabinet approves revival plan of BSNL and MTNL and in- _69224.html.
+principle merger of the two”, Press Information Bureau, Union
+24 SEBI Board Meeting, Securities and Exchange Board of India,
+Cabinet, October 23, 2019,
+June 28, 2023, https://www.sebi.gov.in/media/press-releases/jun-
+https://pib.gov.in/PressReleasePage.aspx?PRID=1588848.
+2023/sebi-board-meeting_73278.html.
+5 “Cabinet approves revival package of BSNL amounting to Rs 1.64
+25 “Important changes w.r.t Liberalised Remittance Scheme (LRS)
+Lakh Cr.”, Press Information Bureau, Union Cabinet,
+and Tax Collected at Source (TCS)”, Press Information Bureau,
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1845422.
+Ministry of Finance, June 28, 2023,
+6 “CERT-In issues “Guidelines on Information Security Practices” for https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1936105.
+Government Entities for Safe & Trusted Internet“, Press Information
+26 Liberalised Remittance Scheme, Reserve Bank of India,
+Bureau, Ministry of Electronics and Information Technology, June
+https://m.rbi.org.in/scripts/FAQView.aspx?Id=115#Q1.
+30, 2023, https://pib.gov.in/PressReleasePage.aspx?PRID=1936470.
+27 “DGFT liberalizes and simplifies the policy for export of
+7 Guidelines on Information Security Practices for Government
+Drones/Unmanned Aerial Vehicles (UAVs) for civilian end uses
+Entities, Indian Computer Emergency Response Team (CERT-In)
+from India”, Press Information Bureau, Ministry of Commerce and
+Ministry of Electronics and Information Technology,
+Industry, June 23, 2023,
+https://www.cert-in.org.in/PDF/guidelinesgovtentities.pdf.
+https://pib.gov.in/PressReleasePage.aspx?PRID=1934862.
+8 The Information Technology Act, 2000,
+28 Notification No. 14/2023, Directorate General of Foreign Trade,
+https://www.indiacode.nic.in/bitstream/123456789/13116/1/it_act_20
+Ministry of Commerce and Industry, June 23, 2023,
+00_updated.pdf.
+https://content.dgft.gov.in/Website/dgftprod/24ea669e-2e1a-4f53-
+9 “Unique Package for farmers announced”. Cabinet Committee on b9d3-20f0dc1f60a6/Notification%20No.%2014%20English.pdf.
+Economic Affairs, Press Information Bureau, June 28, 2023,
+29 Appendix 3, List of SCOMET Items, Directorate General of
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1935893.
+Foreign Trade, https://content.dgft.gov.in/Website/append3_0.pdf.
+10 Notes on Demands for Grants, 2023-24, Ministry of Chemicals and
+30 “Government of India constitutes Peace Committee in
+Fertilisers, Union Budget of India,
+Manipurunder the Chairpersonship of Governor Manipur, Press
+https://www.indiabudget.gov.in/doc/eb/sbe6.pdf.
+Information Bureau, Ministry of Home Affairs, June 10, 2023,
+11 “Government approves Fair and Remunerative Price of sugarcane https://www.pib.gov.in/PressReleasePage.aspx?PRID=1931248.
+payable by Sugar Mills to sugarcane farmers for sugar season 2023-
+31 “Manipur violence explained: History of suspicion between ethnic
+24”, Cabinet Committee on Economic Affairs, Press Information
+groups escalates violence”, The Economic Times, May 09, 2023,
+Bureau, June 28, 2023,
+https://economictimes.indiatimes.com/news/how-to/manipur-
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1935899.
+violence-explained-what-is-reason-behind-manipur-
+12 “Union Cabinet approves Minimum Support Prices (MSP) for riots/articleshow/100037069.cms?from=mdr.
+Kharif Crops for Marketing Season 2023-24”, Press Information
+32 “Behind the violence in Manipur: Longstanding tensions between
+Bureau, Ministry of Agriculture and Farmers Welfare, June 7, 2023,
+hill and valley people, the Meitei demand for ST status, and a recent
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1930443.
+HC order, The Indian Express, May 05, 2023,
+13 National Food Security Act, 2013, https://indianexpress.com/article/explained/manipur-clashes-meitei-
+https://www.indiacode.nic.in/bitstream/123456789/2113/1/201320.pd scheduled-tribe-explained-8591158/.
+f.
+33 Uniform Civil Code, Law Commission, June 14, 2023,
+14 The Electricity (Rights of Consumers) Rules, 2020, Ministry of https://cdnbbsr.s3waas.gov.in/s3ca0daec69b5adc880fb464895726dbd
+Power, https://static.pib.gov.in/WriteReadData/userfiles/final%20- f/uploads/2023/06/2023061446.pdf.
+%20Copy%202.pdf.
+34 Consultation Paper on reform of family law, Law Commission,
+15 The Electricity (Rights of Consumers) Amendment Rules, 2023, August 31, 2018,
+Ministry of Power, https://cdnbbsr.s3waas.gov.in/s3ca0daec69b5adc880fb464895726dbd
+https://powermin.gov.in/sites/default/files/webform/notices/30_d_Ele f/uploads/2022/09/2022092674.pdf.
+ctricity_Rhts_of_Consumers_Amendment_Rules_2023..pdf.
+35 Civil Appeal No. 7378 of 2010, Jose Paulo Coutinho v. Maria
+16 Carbon Credit Trading Scheme, 2023, Ministry of Power, June 28, Luiza Valentina Pereira & Anr, Supreme Court, September 13, 2019,
+2023, https://egazette.gov.in/WriteReadData/2023/246859.pdf. https://main.sci.gov.in/supremecourt/2008/32704/32704_2008_13_15
+17 The Energy Conservation Act, 2001, 01_16758_Judgement_13-Sep-2019.pdf.
+https://www.indiacode.nic.in/bitstream/123456789/2003/1/a2001- 36 Draft Green Credit Programme Implementation Rules, 2023,
+52.pdf. Ministry of Environment, Forest and Climate Change, June 26, 2023,
+18 F. No. 09/01/2021-RCM, “Guidelines for Resource Adequacy https://egazette.gov.in/WriteReadData/2023/246825.pdf.
+Planning Framework for India”, Ministry of Power, June 28, 2023, 37 Surrogacy (Regulation) Rules,
+https://static.pib.gov.in/WriteReadData/specificdocs/documents/2023 2022,https://www.wbhealth.gov.in/other_files/All_Forms_of_Surrog
+/jun/doc2023628218801.pdf. acy_DRAFT_Rules_March,_2022.pdf.
+38 Surrogacy (Regulation) Amendment Rules, 2023,
+19 “Speeding up Hydro Power: Central Electricity Authority Fast-
+https://egazette.gov.in/WriteReadData/2023/246400.pdf.
+tracks Approval Mechanism for Pumped Storage Projects”, Press
+Information Bureau, June 8, 2023, 39 Surrogacy (Regulation) Act, 2021
+https://pib.gov.in/PressReleasePage.aspx?PRID=1930831. https://dhr.gov.in/sites/default/files/Surrogacy%20Regulation%20AC
+T%202021.pdf.
+20 “Understanding EIA, Centre for Science and Environment,
+https://www.cseindia.org/understanding-eia-383. 40 University Grants Commission (Institutions deemed to be
+Universities) Regulations, 2023,
+21 Framework for Compromise Settlements and Technical Write-offs,
+https://www.ugc.gov.in/pdfnews/2998278_University-Grants-
+Reserve Bank of India, June 8, 2023,
+Commission-(Institutions-deemed-to-be-Universities)-Regulations,-
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FRAMEWORKCO
+2023.pdf.
+MPROMISE97202CBAA1374268BA9AAA616D239890.PDF.
+41 Section 3, The University Grants Commission
+22 Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) (Second Amendment) Regulations, 2023,
+https://www.sebi.gov.in/legal/regulations/jun-2023/securities-and-
+- 10-
+Monthly Policy Review – June 2023 PRS Legislative Research
+47 CG-DL-E-28122021-232214, Consumer Protection (Direct
+Selling) Rules, 2021, Ministry of Consumer Affairs, Food and Public
+Act,1956,https://www.indiacode.nic.in/bitstream/123456789/1627/1/
+Distribution, June 28, 2021,
+195603.pdf.
+https://consumeraffairs.nic.in/sites/default/files/232214.pdf.
+42 The University Grants Commission [Institutions Deemed to be
+48 The Consumer Protection Act, 2019,
+Universities] Regulations, 2019,
+https://www.indiacode.nic.in/bitstream/123456789/15256/1/a2019-
+https://www.ugc.gov.in/pdfnews/1295001_DEB-Regulation-
+35.pdf.
+2019.pdf.
+43 S.O. 2428(E), Ministry of Education, June 2, 2023, DISCLAIMER: This document is being furnished to you for your
+https://egazette.gov.in/WriteReadData/2023/246295.pdf. information. You may choose to reproduce or redistribute this
+44 “Cabinet approves creation of a single non-lapsable corpus fund for report for non-commercial purposes in part or in full to any other
+Secondary and Higher education from the proceeds of Cess for person with due acknowledgement of PRS Legislative Research
+Secondary and Higher Education levied under Section 136 of Finance (“PRS”). The opinions expressed herein are entirely those of the
+Act, 2007”, Press Information Bureau, Cabinet, August 16, 2017, author(s). PRS makes every effort to use reliable and
+https://pib.gov.in/PressReleasePage.aspx?PRID=1499914. comprehensive information, but PRS does not represent that the
+contents of the report are accurate or complete. PRS is an
+45 “Consultation Paper on Encouraging Innovative Technologies,
+independent, not-for-profit group. This document has been
+Services, Use Cases, and Business Models through Regulatory
+prepared without regard to the objectives or opinions of those who
+Sandbox in Digital Communication Sector”, Telecom Regulatory
+may receive it.
+Authority of India, June 19, 2023,
+https://www.trai.gov.in/sites/default/files/CP_19062023.pdf.
+46 CG-DL-E-21062023-246732, Consumer Protection (Direct
+Selling) (Amendment) Rules, 2023, Ministry of Consumer Affairs,
+Food and Public Distribution, June 21, 2023,
+https://egazette.gov.in/WriteReadData/2023/246732.pdf.
+- 11-

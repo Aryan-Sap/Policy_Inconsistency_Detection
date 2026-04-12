@@ -1,0 +1,652 @@
+Monthly Policy Review
+June 2025
+Highlights of this Issue
+Repo rate cut from 6% to 5.5% (p. 2)
+The standing deposit facility rate has been decreased from 5.75% to 5.25%. The Monetary Policy Committee
+also decided to change its stance from accommodative to neutral.
+Population census to be conducted in two phases (p. 2)
+The census will also include enumeration of castes. The reference date for the census will be March 1, 2027.
+For Ladakh and snow-bound areas of certain states, the reference date will be October 1, 2026.
+Current account surplus of 1.3% of GDP recorded in fourth quarter of 2024-25 (p. 2)
+Current account surplus was driven by an increase in net services exports and other transfers. In comparison, in
+the corresponding quarter of 2023-24, a surplus of 0.5% of GDP was recorded.
+Amendments to Special Economic Zones Rules, 2006 notified (p. 2)
+Amendments provide for lowering of land area requirement for manufacturing of semiconductor and electronic
+components, and simplifies land-related legal compliances for certain cases.
+Guidelines notified for the scheme to promote manufacturing of EV passenger cars (p. 3)
+Manufacturers must meet revenue, investment, and indigenisation targets to be eligible. They may import
+completely built units of EV passenger cars at a reduced custom duty rate of 15% for five years.
+National Critical Mineral Mission notified (p. 4)
+The Mission aims to secure and strengthen India’s critical mineral supply chain by ensuring mineral availability
+domestically and from abroad. The Mission will run for seven years till 2030-31.
+NHAI released strategy for asset monetisation (p. 5)
+NHAI will roll out asset bundles for monetisation as per a fixed annual calendar along with plans for future
+monetisation pipeline. It will standardise all processes and contractual documents related to monetisation.
+Comments invited on the draft amendments to the telecom cyber security rules (p. 6)
+Certain entities may be required to share data relating to the use of telecommunication identifiers with the
+government for cyber security purposes.
+Model Rules for regulating agroforestry released (p. 6)
+The Rules suggest a regulatory framework for agroforestry for adoption by states and union territories. They
+specify the procedure for registration of entities engaged in agroforestry and issuing permits for felling trees.
+July 1, 2025
+PRS Legislative Research ■ Institute for Policy Research Studies
+3rd Floor, Gandharva Mahavidyalaya ■ 212, Deen Dayal Upadhyaya Marg ■ New Delhi – 110002
+Tel: (011) 23234801, 43434035 ■ www.prsindia.org
+Monthly Policy Review – June 2025 PRS Legislative Research
+Macroeconomic Development Home Affairs
+Shrusti Singh (shrusti@prsindia.org) Shirin Pajnoo (shirin@prsindia.org)
+Repo rate cut from 6% to 5.5% Population census to be conducted in two
+phases
+The Reserve Bank of India’s Monetary Policy
+Committee (MPC) cut the policy repo rate (the rate at The Population Census-2027 will be conducted in two
+which RBI lends money to banks) from 6% to 5.5%.1 phases along with enumeration of castes.3 The
+Other decisions of the MPC include: reference date for the census will be March 1, 2027.
+For Ladakh and snow-bound areas of Jammu and
+▪ The standing deposit facility rate (the rate at which
+Kashmir, Uttarakhand, and Himachal Pradesh, the
+RBI borrows from banks without giving collateral)
+reference date will be October 1, 2026.3 Reference
+has been decreased from 5.75% to 5.25%.
+date refers to the specific date and time on which a set
+▪ The marginal standing facility rate (rate at which of particulars are collected.4
+banks can borrow additional money from RBI) and
+the bank rate (rate at which RBI buys bills of
+exchange) have been reduced from 6.25% to 5.75%.
+Commerce and Industry
+The MPC also decided to change its stance from
+accommodative to neutral. The Committee’s decisions
+Shrusti Singh (shrusti@prsindia.org)
+are expected to keep inflation in line with the target of
+4% while supporting growth.
+Amendments to Special Economic Zones Rules
+notified
+India records current account surplus of 1.3%
+of GDP in fourth quarter of 2024-25 The Ministry of Commerce and Industry has notified
+amendments to the Special Economic Zones (SEZ)
+India recorded a current account surplus of USD 13.5 Rules, 2006.5 Key amendments include:
+billion (1.3% of GDP) in the fourth quarter (January-
+March) of 2024-25, as compared to a surplus of USD ▪ Land norms for SEZs: The SEZ Rules, 2006
+4.6 billion (0.5% of GDP) in the corresponding quarter require an SEZ for sectors other than Information
+of 2023-24.2 This was driven by an increase in net Technology (IT) or IT enabled services to have
+services exports from USD 42.7 billion to USD 53.3 contiguous land area of at least 50 hectares.6 The
+billion and other transfers from USD 13.9 billion to Rules do not prescribe any minimum land area
+USD 19.6 billion. In the third quarter (October- requirement for SEZs for IT or IT enabled
+December) of 2024-25, current account deficit was services. For SEZs manufacturing semiconductors
+USD 11.3 billion (1.1% of GDP). or electric components, the amendments reduce the
+requirement to at least 10 hectares.
+Table 1: Balance of payments (USD billion)
+▪ Legal Compliance for SEZ Development: The
+Q4 Q3 Q4
+2023-24 2024-25 2024-25 Rules require a developer to furnish a certificate
+a. Exports 121.6 109.8 116.3 from the state government proving possession and
+irrevocable rights to develop the area as SEZ. It
+b. Imports 173.6 189.1 175.8
+must also certify that the area is encumbrance-free.
+c. Trade balance (a-b) -52.0 -79.3 -59.5
+The amendments allow relaxing the condition
+d. Net services 42.7 51.2 53.3
+regarding encumbrance-free area. This will apply
+e. Other transfers 13.9 16.7 19.6 in cases where the area is mortgaged or leased to
+f. Current account (c+d+e) 4.6 -11.3 13.5 the central or state government.
+g. Capital account 25.5 -26.6 -5.6
+▪ The Rules provide for setting up of units for
+h. Errors and omissions 0.6 0.3 0.9 provision of manufacturing services to overseas
+i. Change in reserves (f+g+h) 30.8 -37.7 8.8 entities. Earlier, these units were allowed to either
+Sources: RBI: PRS. export finished goods directly out of the country or
+supply of finished goods to a warehouse
+The capital account registered a net outflow of USD 5.6
+maintained by the overseas entity. The
+billion in the fourth quarter of 2024-25 as compared to
+amendments change this to also provide for
+a net inflow of USD 25.5 billion in the fourth quarter of
+transfer of goods to a Domestic Tariff Area on the
+2023-24. In the third quarter of 2024-25, net outflow
+payment of applicable duties. A Domestic Tariff
+from the capital account was USD 26.6 billion.
+Area includes all areas in India excluding Special
+Foreign exchange reserves increased by USD 8.8 billion Economic Zones.7
+in the fourth quarter of 2024-25, lower than USD 30.8
+billion in the corresponding quarter of 2023-24. In the
+third quarter of 2024-25, foreign exchange reserves
+decreased by USD 37.7 billion.
+- 2 -
+Monthly Policy Review – June 2025 PRS Legislative Research
+Guidelines for the scheme to promote RBI issues directions for lending against gold
+manufacturing of electric passenger cars and silver collateral
+The Ministry of Heavy Industries notified guidelines The RBI issued the RBI (Lending Against Gold and
+for the scheme to promote manufacturing of electric Silver Collateral) Directions, 2025.13 Entities regulated
+passenger cars in India.8,9 To be eligible under the by RBI are permitted to lend against collateral security
+scheme, a company must: (i) have minimum global of gold jewellery, ornaments, and coins for short-term
+revenue of Rs 10,000 crore, (ii) make a minimum financing needs of borrowers. The 2025 Directions
+investment of Rs 4,150 crore in India during a three- seek to streamline the framework for extending such
+year window, and (iii) achieve domestic value addition loans. These Directions repeal multiple circulars issued
+of 25% in three years, and 50% in five years. The by RBI over the years. Key features include:
+scheme also seeks to encourage investment in charging
+▪ Conditions for extending loans: The credit
+infrastructure and in-house engineering research and
+policy of a lender must provide for factors such as:
+development. Key features of the guidelines include:
+(i) single borrower limits for loans against eligible
+▪ Custom duty benefits: Approved manufacturers collateral, (ii) valuation standards, and (iii)
+under the scheme will be allowed to import standards of gold and silver purity. Detailed credit
+completely built units of electric passenger cars at assessment and assessment of a borrower’s
+a reduced customs duty rate of 15% for five years. repayment capacity must be done for loans
+The maximum number of units imported shall be exceeding Rs 2.5 lakh.
+limited such that the total duty foregone does not
+▪ Restrictions on loans: Lenders must not engage
+exceed the manufacturer's committed investment
+in certain practices while lending against gold and
+or Rs 6,484 crore, whichever is lower. Applicants
+silver collateral. These include: (i) giving loans
+will be required to submit an annual import
+against collateral which is not in the form of
+application detailing their import plans for the next
+jewellery, ornaments, or coins, (ii) extending loans
+one year. They are also required to submit a bank
+where ownership of the collateral is doubtful, and
+guarantee of Rs 4,150 crore. Any violation of
+(iii) providing consumption loans with tenor
+scheme conditions will result in an automatic
+exceeding 12 months if they are bullet repayment
+invocation of the bank guarantee.
+loans (principal and interest paid at maturity).
+▪ Project Monitoring Agency: The Ministry will
+▪ Loan to value (LTV) ratio: The LTV ratio
+appoint a Project Monitoring Agency (PMA) to
+measures the ratio of outstanding loan amount to
+assess progress made by manufacturers and
+the value of the pledged collateral on a particular
+conduct periodic reviews. The manufacturers will
+day. The Directions provide for different
+be required to submit quarterly review report to the
+maximum LTV ratio based on loan amount per
+PMA within 30 days of the end of each quarter.
+borrower. The ratio must be maintained on an
+The report must contain the progress made in
+ongoing basis throughout the loan’s tenure.
+setting up of manufacturing units during the
+scheme duration. Table 2: Loan to Value Ratio
+Loan amount per
+Maximum LTV ratio
+borrower
+Up to Rs 2.5 lakh 85%
+Finance More than Rs 2.5 lakh and 80%
+up to Rs 5 lakh
+Shrusti Singh (shrusti@prsindia.org) More than Rs 5 lakh 75%
+Sources: RBI; PRS.
+RBI reduces priority sector lending threshold
+SEBI approves various decisions at board
+for small finance banks
+meeting
+The Reserve Bank of India (RBI) reduced the priority
+sector lending norms for small finance banks.10 Under SEBI approved various decisions at its meeting.14 Key
+priority sector lending, banks must provide a certain decisions include:
+percentage of loans to sectors such as agriculture,
+▪ Merchant bankers and debenture trustees:
+education, and housing.11 Small finance banks provide
+Merchant bankers manage listing of securities for
+banking services to unserved and underserved sections
+companies. Debenture trustees protect the interests
+such as small business units and small and marginal
+of debenture holders of a company. SEBI has
+farmers.12 Earlier, small finance banks had to extend
+specified that they may undertake activities not
+75% of its adjusted net bank credit to priority sectors.
+regulated by SEBI if: (i) those activities are
+RBI has now reduced this to 60% of adjusted net bank
+regulated by any other financial sector regulator or
+credit or credit equivalent of off-balance sheet
+(ii) they are fee-based activities related to the
+exposures, whichever is higher.
+financial services sector. SEBI noted that both
+merchant bankers and debenture trustees undertake
+certain activities which are not regulated by SEBI.
+- 3 -
+Monthly Policy Review – June 2025 PRS Legislative Research
+▪ Infrastructure investment trusts (InvIT): SEBI Mining
+approved reduction in minimum lot size for private
+placement of InvITs in the primary market. InvITs Vaishali Dhariwal (vaishali@prsindia.org)
+allow investors to pool funds and invest in
+infrastructure assets. Securities are issued for the National Critical Mineral Mission notified
+first time in primary markets and subsequently
+The Ministry of Mines notified the National Critical
+traded in the secondary market. Earlier, the
+Mineral Mission to be set up for seven years till 2030-
+minimum allotment lot in the primary market for
+31.16 The Mission aims to secure and strengthen
+privately placed InvITs was one crore rupees or Rs
+India’s critical mineral supply chain by ensuring
+25 crore depending upon the asset mix. This has
+availability domestically and from abroad. It concerns
+now been reduced to Rs 25 lakh irrespective of the
+24 critical minerals including lithium, cobalt, graphite,
+asset mix, in line with the minimum lot size in the
+nickel, and phosphate. The Mission has a proposed
+secondary market.
+expenditure of Rs 16,300 crore, with an expected
+▪ Angel funds: Angel funds raise capital from additional investment of Rs 18,000 crore from
+investors and invest in start-ups. SEBI noted that public sector undertakings. Key initiatives include:
+only those investors who have adequate risk
+▪ Increasing domestic supply: To increase
+capability, should invest in unlisted startups
+domestic supply of critical minerals, the
+through angel funds. Currently, there is no
+government will start 1,200 exploration projects
+verification whether an investor qualifies as an
+and auction more than 100 mineral blocks. The
+angel investor. The Board has now approved that
+Mission will encourage exploration of mineral
+angel investors will now need to be accredited
+blocks in offshore areas. The government will
+investors. Such investors must undergo
+create a fast-track regulatory approval process for
+independent verification.
+mineral exploration and mining projects. The
+Mission will also promote mineral recovery from
+RBI issues directions for project finance
+mine waste such as red mud and fly ash. The
+The Reserve Bank of India (RBI) issued the RBI government will establish critical mineral
+(Project Finance) Directions, 2025.15 Project finance is processing parks and will introduce a scheme to
+a method of funding a project where revenue generated utilise existing industrial parks for this purpose.
+by the project serves as security for the loan. The
+▪ Acquiring assets abroad and promoting trade:
+revenue from the project is also used to repay the loan.
+The Mission will support exploration of mineral
+The Directions will be applicable from October 1,
+assets abroad through the Geological Survey of
+2025. It repeals several instructions/guidelines issued
+India. The government will encourage central
+by RBI. Key features include:
+public sector undertakings to acquire critical
+▪ Applicability: These Directions will apply to mineral assets abroad through public and private
+those loans where: (i) at least 51% of the sector partnerships. The government will also
+repayment is to be made from the cash flows provide subsidies to private companies to acquire
+generated by the project being financed and (ii) all assets and set up operations. The government will
+lenders have a common agreement with the debtor. aim to enter critical mineral partnership
+agreements with resource rich countries. It will
+▪ Conditions for sanctioning loans: All projects
+harmonise tariff structures through bilateral free
+financed by a lender must meet certain conditions.
+trade agreements. Further, based on the
+These include: (i) original date of commencement
+requirements, it will remove import duties on
+of commercial operations (DCCO) documented
+critical minerals and materials for recycling.
+before fund disbursal, (ii) inclusion of project
+specific disbursement schedule against stage of ▪ Encouraging critical mineral recycling: The
+completion in the loan agreements, (iii) post government will formulate specific guidelines for
+DCCO repayment schedule designed as per initial recycling of critical minerals. It will introduce an
+cash flows, and (iv) individual lenders must have incentive scheme for setting up mineral recycling
+an exposure of at least 10% for under-construction clusters. The scheme will set medium and long-
+projects with loan amount up to Rs 1,500 crore. term targets for production of recycled minerals
+and will incentivise industries accordingly. The
+▪ Availability of land: A lender must ensure
+government will also form a Recycling Advisory
+availability of sufficient land/right of way for all
+Group to assess mineral presence and suggest
+projects before disbursing funds. For
+measures for recovery.
+infrastructure projects under public private
+partnership model at least 50% of the available ▪ Research and capacity building: To promote
+land must be available while for other projects the research and innovation, the government will
+threshold is higher at 75%. For transmission line support patent filing procedures and improve
+projects, minimum availability of land will be coordination among research institutions. Centres
+decided by the lender. of excellence on critical minerals and skill
+development centres will be established.
+- 4 -
+Monthly Policy Review – June 2025 PRS Legislative Research
+Transport guidelines will also apply to all projects sanctioned in
+earlier years. Key features include:
+Atri Prasad Rout (atri@prsindia.org)
+▪ Disbursement of financial assistance: The earlier
+guidelines mandated the manufacturing plant to
+NHAI released strategy for asset monetisation
+achieve at least 50% of its rated generation capacity
+National Highway Authority of India (NHAI) released to receive any central financial assistance. The new
+a strategy for asset monetisation for the roads sector.17 guidelines provide for disbursement of the
+The strategy aims to use proceeds from monetisation of assistance in two stages. Half of the total assistance
+current infrastructure assets to finance future projects. will be provided upon: (i) receiving the consent of
+The strategy primarily concerns monetisation through the State Pollution Control Board to operate and (ii)
+toll-operate-transfer (ToT) and Infrastructure submission of a bank guarantee. The remaining
+Investment Trust (InvIT) models. Under ToT, assistance will be released if it crosses the threshold
+investors pay a lump sum amount to NHAI in exchange of 50% of its rated capacity, on pro-rated basis.
+for toll collection rights. InvITs allow investors to pool
+▪ Joint inspections: The revised guidelines
+money together and receive toll revenue as return. Key
+introduce joint inspections for ascertaining
+features of the strategy include:
+performance by the National Institute of Bio-
+▪ Identification of assets for monetisation: NHAI Energy along with one of: (i) the State Nodal
+will create an asset register with information on Agency, (ii) Biogas Technology Development
+highway assets with high monetisation potential. Centre, or (iii) any MNRE- empanelled body.
+These assets should be operational for at least one
+year and have significant toll revenue to sustain Guidelines on biomass programme revised
+positive cashflow. Assets will be categorised
+The Ministry of New and Renewable Energy (MNRE)
+based on the current revenue and future revenue
+has notified revised guidelines on the Biomass
+growth potential. They will also be bundled
+programme.21,22 The programme was approved in
+together for auction to balance risk and returns.
+November 2022.23 It aims to support establishment of
+▪ Enhancing transparency in the process: NHAI biomass briquette or pellet manufacturing plants and
+will standardise all processes and contractual biomass (non-bagasse) based projects. Key changes
+documents related to the monetisation process. To include:
+help investors in planning, asset bundles will be
+▪ Eligibility criteria: For receiving central financial
+rolled out periodically as per fixed annual
+assistance, the revised guidelines replace the
+calendars. At the time of these roll outs, NHAI
+requirement for having a minimum two-year sale
+will also disclose future monetisation pipeline.
+contract with a general sale agreement. Further,
+Assumptions used by NHAI for calculation of
+for release of the assistance, the requirement for
+reserve value of assets will be shared with potential
+submitting environment impact assessment
+investors. NHAI will also establish key
+clearance has been removed.
+performance indicators and conduct reviews and
+risk monitoring. ▪ Amount of assistance: The revised guidelines
+provide that the amount of assistance will be
+▪ Promoting market development: To reach a
+decided on a pro-rated basis for capacity utilisation
+wider set of investors, NHAI will launch public
+between 50% and 80%
+InvITs, which will cater to retail investors. It will
+offer multiple ToT asset bundles of different sizes
+Comments invited on draft amendments to
+to cater to a wider category of investors. It will
+develop targeted outreach programmes to engage energy storage system regulations
+stakeholders and attract institutional investors.
+The Ministry of Power has invited comments on the
+draft Electricity (Amendment) Rules, 2025.24,25 The
+2005 Rules provide for the regulation of energy storage
+system (ESS).26 ESS refers to system that store
+Power
+electricity from a renewable energy source that can be
+used later.27
+Ayush Stephen Toppo (ayush@prsindia.org)
+The 2005 Rules allow certain entities to develop, own,
+Guidelines on waste-to-energy projects revised lease, or operate ESS. These include: (i) electricity
+generation companies, (ii) transmission/distribution
+The Ministry of New and Renewable Energy (MNRE)
+licensee, and (iii) an independent energy storage
+has notified revised guidelines for waste-to-energy
+service provider. The draft amendments add end-use
+projects.18,19 The guidelines were last updated in
+consumers to this list, clarifying that they may also
+2022.20 The scheme aims to promote generation of
+develop, own, lease, or operate ESS.
+power, biogas, BioCNG, producer gas or syngas from
+urban, industrial, and agricultural wastes. The revised Comments are invited until July 10, 2025.
+- 5 -
+Monthly Policy Review – June 2025 PRS Legislative Research
+Comments invited on draft amendments to government or any authorised agency may seek
+power market regulations traffic data or any other specified data from a
+telecommunication entity. The government and its
+The Central Electricity Regulatory Commission has
+agencies may collect this data for the purposes of
+invited comments on the draft Central Electricity
+protecting and ensuring telecom cyber security. A
+Regulatory Commission (Power Markets) (First
+telecommunication entity includes telecom
+Amendment) Regulations, 2025.28 It seeks to amend
+network operators and telecom service providers.
+the Central Electricity Regulatory Commission (Power
+Market) Regulations, 2021.29 These Regulations The draft Rules add that data related to use of
+provide a framework for contracts traded on power telecommunication identifiers may also be sought
+exchanges and over the counter (OTC) market. Key from a “Telecommunication Identifier User Entity”
+features include: (TIUE) for such purposes. The Draft Rules define
+TIUE as a person which uses telecommunication
+▪ OTC contracts: The 2021 Regulations provide
+identifiers for identification of its customers, users,
+for delivery-based contracts in the OTC market.
+or for provisioning or delivery services. TIUE will
+The draft amendments seek to expand the contracts
+not include persons holding licence or
+offered in the OTC market to include: (i) capacity
+authorisation for operating telecom network or
+contracts, (ii) renewable energy certificates, (iii)
+providing telecom services. Telecommunication
+virtual power purchase agreements (VPPAs), and
+identifiers refer to unique identifiers assigned to
+(iv) battery energy storage system contracts.
+users, telecom equipment, or network elements.
+VPPAs are OTC contracts between designated
+consumers and a renewable energy generator. Other Obligations of TIUE include: (i) providing
+Designated consumers include distribution the required data through digital means to enable
+companies, open access consumers (who procure its processing and storage, and (ii) suspending use
+electricity directly from generators), and captive of specified telecommunication identifiers upon a
+users (who generate electricity for own use). government order.
+According to the contract, the designated consumer
+▪ Mobile number validation platform: The draft
+pays a mutually agreed price to the generator to get
+amendments require the central government to
+renewable energy certificates. The generator sells
+establish a mobile number validation (MNV)
+electricity through power exchanges or other
+platform. A TIUE may place a request on the
+authorised modes to earn these certificates.
+platform for validating the mobile numbers
+▪ Regulation of OTC platforms: The draft specified by their customers. This may be done
+increases the minimum net worth for registration voluntarily or upon receiving directions from the
+of an OTC platform from one crore rupees to Rs central or the state governments.
+35 crore. Entities that are already registered must
+▪ Database of tampered or restricted IMEI
+comply with the revised minimum net worth
+numbers: The draft amendments add that a
+condition within one year. It also proposes to
+centralised database will be maintained to track
+increase the registration period of OTC platforms
+tampered or restricted International Mobile
+from 5 years to 10 years. The draft allows CERC
+Equipment Identity (IMEI) numbers. IMEI
+to conduct inspection, inquiries, or audit of any
+number is a unique 15-digit number given to every
+OTC platform.
+mobile device. Persons engaged in sale and
+Comments are invited until July 14, 2025. purchase of used telecom equipment with IMEI
+numbers must ensure that it is not tampered or
+restricted by verifying it with this database.
+Comments are invited until July 24, 2025.
+Communications
+Ayush Stephen Toppo (ayush@prsindia.org)
+Environment
+Comments invited on draft amendments to
+telecom cyber security rules Atri Prasad Rout (atri@prsindia.org)
+The Department of Telecommunications has invited
+Model Rules to regulate felling of trees for
+comments on the draft Telecommunications (Telecom
+Cyber Security) Amendment Rules 2025.30 It seeks to agroforestry released
+amend the Telecommunications (Telecom Cyber
+Ministry of Environment, Forest, and Climate Change
+Security) Rules, 2024.31 The 2024 Rules provide for
+released model Rules for felling of trees in agricultural
+protection of telecom cyber security. Key features of lands for states and union territories.32 The Rules
+the draft amendments include:
+provide a regulatory framework for registration of
+▪ Collection of data for cyber security purposes: agroforestry lands and management of tree harvesting
+The 2024 Rules provide that the central and transport. Key features of the model Rules include:
+- 6 -
+Monthly Policy Review – June 2025 PRS Legislative Research
+▪ Registration of entities engaged in agroforestry: Nationally Determined Contributions, the revised
+Any individual or organisation practicing Mission along with other government programmes
+agroforestry must register on the National Timber will aim to achieve afforestation or restoration of
+Management System (NTMS). They must submit 24 million hectare of forest land. It will also aim
+information on land ownership and location of the to create an additional carbon sink of 2.5 to 3
+agricultural land. They must also provide details billion tonnes of CO2 equivalent by 2030.
+about the plantation such as: (i) species-wise
+▪ Sub-missions: Earlier, the Mission had five sub-
+number of saplings planted, (ii) year and month of
+missions. Under the revised structure, the
+plantation, (iii) average height of seedlings, (iv)
+objectives and activities under them have been
+circumference of the tree trunk at a height of
+streamlined into three sub-missions. These will
+1.37m above ground level, and (v) geotagged
+focus on: (i) enhancing quality of forest cover, (ii)
+photographs of each tree.
+increasing forest and tree cover, and (iii) enhancing
+▪ Role of the State Level Committee (SLC): In the incomes and livelihood options for forest-
+model Rules, the SLC created under the Wood- dependent communities.
+Based Industries (Establishment and Regulation)
+▪ Focus on micro-ecosystems: The revised Mission
+Guidelines, 2016, has been given additional
+will adopt an ecosystem approach to afforestation
+responsibilities. It will advise the state
+and restoration, considering land, water, and
+government on promotion of agroforestry and
+organisms. It will focus on the smallest units of
+increasing timber production. It will also promote
+landscape through micro-ecosystems and make the
+production of plant material through modern
+restoration activities region and site-specific.
+nurseries and use of technology in tracing timbers
+and related products. ▪ Monitoring and evaluation: Under the revised
+structure, evaluation will be carried out at multiple
+▪ Permission for tree felling: For a land with more
+levels. The National Mission Directorate will
+than ten trees, the plantation owner must submit an
+analyse satellite imagery and geographic
+online application on NTMS for felling trees. A
+information. The National Afforestation
+verifying agency empanelled by SLC will issue
+Dashboard will capture data on plantation and
+felling permits after conducting a field visit. For a
+regeneration activities undertaken across different
+land with less than ten trees, the owner must
+programmes. The further levels of monitoring will
+upload pictures of the trees on the NTMS portal
+include: (i) on ground self-monitoring by
+and intimate the date of felling. They must also
+implementing agencies, (ii) social audits by Gram
+upload pictures of tree stumps after felling. The
+Sabhas, (iii) remote-sensing based monitoring by
+verifying agency will also be responsible for
+the Forest Survey of India, and (iv) independent
+verifying applications for transit of timber. The
+evaluation by third-party agencies.
+Divisional Forest Officers will monitor functioning
+of the verifying agencies and submit a quarterly
+report on them to the SLC.
+External Affairs
+Revisions to the National Mission for Green
+India notified Shrusti Singh (shrusti@prsindia.org)
+Ministry of Environment, Forest, and Climate Change
+Prime Minister visits Croatia for bilateral talks
+released the revised mission document on the National
+Mission on Green India.33,34 The Mission was launched The Prime Minister Mr. Narendra Modi visited Croatia
+in 2011 to protect and improve quality the country’s for bilateral talks.35 In the joint statement released on
+forest and tree cover. The revisions seek to align goals the occasion, memorandum of understanding were
+under the Mission with India’s updated commitments signed for cooperation in the areas of agriculture,
+under the international climate change agreements. science and technology, and culture. India and Croatia
+agreed to expand cooperation in ports and shipping
+▪ Forest cover and carbon sink creation: The
+domain, and improve connectivity through the India-
+Mission started with the objective of increasing
+Middle East Europe Economic Corridor (IMEC)
+and improving quality of forest cover over 10
+Initiative. IMEC was announced during the G-20
+million hectare of land. It also aimed to create
+summit in 2023 for multi-modal connectivity between
+annual carbon sink capacity of 50 to 60 million
+India and Europe through the Middle East.
+tonne. In line with India’s commitments under its
+1 Resolution of the Monetary Policy Committee, June 4 to 6, 2025, https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR61165BB61630
+Monetary Policy Statement 2025-26, Reserve Bank of India, June 6, 589420E879BEB0112B8C128.PDF.
+2025, 3 “Population Census-2027 to be conducted in two phases along with
+https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR4894AE68CD2 enumeration of castes”, Press Information Bureau, Ministry of Home
+090049E59CE684ED07792E4E.PDF. Affairs, June 4, 2025,
+2 Developments in India’s Balance of Payments during the Fourth https://www.pib.gov.in/PressReleasePage.aspx?PRID=2133845.
+Quarter (January-March) of 2024-25, Reserve Bank of India, June
+27, 2025,
+- 7 -
+Monthly Policy Review – June 2025 PRS Legislative Research
+22 Revision in guidelines for the biomass programme under the
+umbrella scheme of national biodiversity programme for duration of
+4 Census, Census division, Directorate of Census Operations,
+FY 2021-22 to 2025-26 (Phase I), Ministry of New and Renewable
+Maharashtra, Ministry of Home Affairs,
+Energy, June 27, 2025,
+https://maharashtra.census.gov.in/censusdivision.html.
+https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749
+5 Notification No. G.S.R. 364(E), Ministry of Commerce and
+f3/uploads/2025/06/20250627973214006.pdf
+Industry, June 3, 2025,
+23 Scheme to Support Promotion of Manufacturing of Briquettes &
+https://egazette.gov.in/WriteReadData/2025/263574.pdf.
+Pellets and Biomass (Non-Bagasse) Based Cogeneration in
+6 The Special Economic Zones Rules, 2006, Amended upto February
+Industries in the Country, Ministry of New and Renewable Energy,
+2020,
+November 2, 2022,
+https://sezindia.gov.in/sites/default/files/sez_rules_amendments/SEZ
+%20Rules-EPCES%20Book-rotated_1_11zon%20%283%29.pdf. https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749
+f3/uploads/2022/12/2022123069.pdf.
+7 Special Economic Zones Act, 2005, amended upto February 2020,
+https://sezindia.gov.in/sites/default/files/Act%20Book.pdf. 24 Draft Central Electricity Regulatory Commission (Power Market)
+(First Amendment) Regulations, Ministry of Power, June 11, 2025,
+8 Notification No. S.O. 2450(E), Guidelines for the Scheme to
+Promote Manufacturing of Electric Passenger Cars in India https://powermin.gov.in/sites/default/files/webform/notices/Stakehol
+(SPMEPCI), Gazette of India, Ministry of Heavy Industries, June 2, der_consultaion_for_proposed_in_Rule18.pdf.
+2025, 25 Electricity Rules, 2005, Ministry of Power, June 8, 2005,
+https://egazette.gov.in/(S(o3qq4mtpvmd3jn0gifimck2s))/ViewPDF.as https://cea.nic.in/wp-
+px. content/uploads/legal_affairs/2020/09/Electricity-rules-2005.pdf.
+9 Notification No. S.O. 1363(E), Scheme to Promote Manufacturing 26 Electricity (Amendment) Rules, 2022, Ministry of Power,
+of Electric Passenger Cars in India, Gazette of India, Ministry of December 9, 2022,
+Heavy Industries, March 15, 2024, https://powermin.gov.in/sites/default/files/uploads/15_d_Electricity_
+https://heavyindustries.gov.in/sites/default/files/2024- Amendment_Rules_2022.pdf.
+04/gazette_notification_15.03.2024.pdf. 27 “National Framework for Promoting Energy Storage Systems will
+10 Review of Priority Sector Lending norms - Small Finance Banks, encourage an ecosystem for development of Energy Storage, which
+Reserve Bank of India, June 20, 2025, will ensure affordable and clean electricity for everyone: Union
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/61NTFBC6FB2CC Power and New & Renewable Energy Minister”, Press Information
+7AA4E048E0C7C5A44641939.PDF. Bureau, Ministry of Power, December 7, 2023,
+11 Reserve Bank of India (Priority Sector Lending – Targets and https://www.pib.gov.in/PressReleasePage.aspx?PRID=1983650#:~:te
+Classification) Directions, 2025, Reserve Bank of India, March 24, xt=of%20425.5%20GW.-
+2025, ,India's%20energy%20mix%20is%20set%20to%20undergo%20a%2
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/128MD66C4DDCB 0transition%20from,(Release%20ID:%201983650).
+167C4DC9A5BD913570CB3D47.PDF. 28 Draft Central Electricity Regulatory Commission (Power Market)
+12 Guidelines for ‘on tap’ Licensing of Small Finance Banks in the (First Amendment) Regulations, Ministry of Power, June 17, 2025,
+Private Sector, Reserve Bank of India, December 5, 2019, https://www.cercind.gov.in/2025/draft_reg/DN_PMR_Amendment.p
+https://rbidocs.rbi.org.in/rdocs/Content/PDFs/SFB05122019_FL3EC df.
+4152CCF764BCBA2072CADC84906F7.PDF. 29 Central Electricity Regulatory Commission (Power Market)
+13 Reserve Bank of India (Lending Against Gold and Silver Regulations, 2021, Ministry of Power, February 15, 2021,
+Collateral) Directions, 2025, Reserve Bank of India, June 6, 2025, https://thc.nic.in/Central%20Governmental%20Regulations/Central%
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/47NTEBC6E8C94 20Electricity%20Regulatory%20Commission%20(Power%20Market
+DFB432797365CA984734797.PDF. )%20Regulations,%202021.pdf.
+14 SEBI Board Meeting, Securities and Exchange Board of India, 30 Draft Telecommunication (Telecom Cyber Security) Amendment
+June 18, 2025, https://www.sebi.gov.in/media-and- Rules, June, 24, 2025,
+notifications/press-releases/jun-2025/sebi-board- https://dot.gov.in/sites/default/files/Gazette%20Notification%20Draft
+meeting_94657.html. %20Telecom%20Cyber%20Security%20Amendment%20Rules.pdf.
+15 Reserve Bank of India (Project Finance) Directions, 2025, June 19, 31 Telecommunication (Telecom Cyber Security) Rules, August 28,
+2025, 2024,
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT59345BFF7593 https://dot.gov.in/sites/default/files/Gazette%20Notification%20of%2
+E047D587358A7A802B0F4A.PDF. 0Telecommunications%20%28Telecom%20Cyber%20Security%29
+16 Notification F. No. 28/15/2024-CMM-Part(1), The Gazette of %20Rules%2C%202024.pdf.
+India, Ministry of Mines, June 24, 2025, 32 Model Rules for Felling of Trees in Agricultural Land, 2025,
+https://egazette.gov.in/WriteReadData/2025/264204.pdf Ministry of Environment, Forests and Climate Change, June 29,
+17 Asset Monetisation Strategy for Roads Sector, National Highways 2025,
+Authority of India, Ministry of Road Transport and Highways, https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025
+https://nhai.gov.in/nhai/sites/default/files/mix_file/Asset- /jun/doc2025629578501.pdf.
+Monetization_Strategy_Document.pdf. 33 National Mission for Green India, Revised Document, Ministry of
+18 “MNRE notifies revised guidelines for Waste-to-Energy Projects to Environment and Climate Change, June 2025,
+enhance performance monitoring and speedier CFA Disbursal”, Press https://moef.gov.in/uploads/2017/08/Revised%20Mission%20Docum
+Information Bureau, Ministry of New and Renewable Energy, June ent.pdf.
+28, 2025, 34 National Mission for Green India, Ministry of Environment,
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2140328. Forests and Climate Change,
+19 Revision in waste-to-energy guidelines dated 02.11.2022, https://moef.gov.in/uploads/2017/08/GIM_Mission-Document-1.pdf.
+28.02.2020, 30.07.2018, Ministry of New and Renewable Energy, 35 India-Croatia Leaders’ Statement, June 18, 2025, Ministry of
+June 27, 2025, External Affairs, https://www.mea.gov.in/bilateral-
+https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749 documents.htm?dtl/39698.
+f3/uploads/2025/06/202506271427833060.pdf DISCLAIMER: This document is being furnished to you for your
+20 Programme on Energy from Urban, Industrial and Agricultural information. You may choose to reproduce or redistribute this report
+Wastes/Residues, Ministry of New and Renewable Energy, for non-commercial purposes in part or in full to any other person
+November 2, 2022, with due acknowledgement of PRS Legislative Research (“PRS”).
+https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749 The opinions expressed herein are entirely those of the author(s).
+f3/uploads/2022/12/2022122763-1.pdf. PRS makes every effort to use reliable and comprehensive
+21 “MNRE notifies key revisions in Biomass Programme information, but PRS does not represent that the contents of the
+Guidelines”, Press Information Bureau, Ministry of Commerce and report are accurate or complete. PRS is an independent, not-for-
+Industry, June 28, 2025, profit group. This document has been prepared without regard to the
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2140327 objectives or opinions of those who may receive it.
+- 8 -

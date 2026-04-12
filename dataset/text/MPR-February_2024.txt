@@ -1,0 +1,1695 @@
+Monthly Policy Review
+February 2024
+Highlights of this Issue
+17th Lok Sabha concludes with passing of the Interim Union Budget (p. 2)
+In this term, Parliament had 274 sittings and passed 221 Bills. Four Bills will lapse and 20 Bills remain pending in
+Rajya Sabha.
+Supreme Court declares electoral bonds unconstitutional (p. 3)
+It directed SBI to submit details of electoral bonds purchased since April 2019 to the Election Commission. The
+Commission must make these details public by March 13, 2024.
+Interim Budget 2024-25 passed (p. 2)
+Total expenditure is estimated at Rs 47.65 lakh crore in 2024-25, an increase of 6.1% over revised estimates for 2023-
+24. Fiscal deficit in 2024-25 is estimated at 5.1% of GDP, lower than revised estimates for 2023-24 (5.8% of GDP).
+Parliament passes five seven Bills
+These include Bills to prohibit usage of unfair means in public examination, extend OBC reservations to local bodies
+in Jammu and Kashmir, and modify lists of Scheduled Castes and Tribes for Odisha and Andhra Pradesh.
+GDP grew by 8.4% in third quarter of 2023-24 (p. 2)
+In the third quarter of 2022-23, GDP had grown by 4.3%. As per the Second Advance Estimate, GDP is estimated to
+grow by 7.6% in 2023-24.
+Cabinet approves several schemes
+These include the scheme to provide for rooftop solar to households, and the scheme to support small fisheries
+enterprises. It also approved the amendments to FDI norms for the space sector.
+IT Rules amended to require Home Secretary to delete interception records (p. 11)
+The 2009 Rules require the security agency to destroy all records pertaining to interception every six months, unless
+likely to be required. The amended Rules require the Home Secretary to also destroy such records at their end.
+Surrogacy Rules amended to allow intending couple to use donor gametes (p. 12)
+The amendment also mandates that at least one gamete should belong to the intending couple. The norm for single
+women (widowed/ divorced) to use their own eggs for surrogacy remains unchanged.
+Electricity (Rights of Consumers) Rules amended (p. 14)
+Owners residing in apartments/societies may choose between a single connection for the premises or individual
+connections. Solar rooftop systems upto 10 kw have been exempted from technical feasibility study.
+Standing Committees submit reports on various subjects
+These include reports on MGNREGA, Smart Cities Mission, national highways, medical education, legal education,
+maximising exports, digital payments and online security, and Yamuna River cleaning projects.
+Law Commission publishes reports on various subjects (p. 4)
+These reports recommend retaining criminal defamation, clarifying several provisions in the Epidemic Diseases Act,
+1897, and providing for compulsory registration of NRI marriages.
+Draft Rules on Offshore Areas Mineral Trust released for public feedback (p. 18)
+The draft Rules provide for setting up the Trust in accordance with the Offshore Areas Mineral (Development and
+Regulation) Amendment Act, 2023.
+March 1, 2024
+PRS Legislative Research ◼ Institute for Policy Research Studies
+3rd Floor, Gandharva Mahavidyalaya ◼ 212, Deen Dayal Upadhyaya Marg ◼ New Delhi – 110002
+Tel: (011) 23234801, 43434035 ◼ www.prsindia.org
+Monthly Policy Review – February 2024 PRS Legislative Research
+Parliament Awas Yojana. Also, rooftop solarisation of one
+crore houses will be taken up.
+Niranjana S Menon (niranjana@prsindia.org)
+▪ Private entities will be provided long term loans at
+low or nil interest rates to scale up research and
+17th Lok Sabha concludes
+innovation. The loans will be provided through a
+The last session of the 17th Lok Sabha (Budget Session corpus (set up by the government) of one lakh
+2024) was held from January 31, 2024 to February 10, crore rupees.
+2024 (nine sitting days). The session was scheduled to
+Table 1: Interim Union Budget 2024-25 highlights
+end on February 9, 2024, but was extended by one day.
+(in Rs crore)
+During the term of the 17th Lok Sabha, Parliament %
+passed 221 Bills (of which 42 were for approving the Actuals RE 23-24 BE 24-25 change
+22-23 RE to
+budgets). Key Bills passed include the Women’s
+BE
+Reservation Bill, 2023, the J&K Reorganisation Bill, Total
+41,93,157 44,90,486 47,65,768 6.1%
+2019, Labour Codes, and the Digital Personal Data Expenditure
+Protection Bill, 2023. Three Bills replacing the IPC Total receipts
+(excluding 24,55,402 27,55,713 30,80,274 11.8%
+1860, the CrPC, 1973, and the Indian Evidence Act,
+borrowings)
+1872, were also passed. At the end of the 17th Lok
+Revenue Deficit 10,69,926 8,40,527 6,53,383 -22.3%
+Sabha, four Bills will lapse, and 20 will remain pending
+% of GDP 3.9% 2.8% 2% -
+in Rajya Sabha.
+Fiscal Deficit 17,37,755 17,34,773 16,85,494 -2.8%
+% of GDP 6.4% 5.8% 5.1% -
+For details of the functioning of Parliament during the
+Note: RE is revised estimates, BE is Budget Estimates
+term of the 17th Lok Sabha, please see here. For data
+Source: Interim Union Budget documents 2024-25; PRS.
+on the participation of Members, see here. For more
+For a PRS analysis of the Interim Union Budget 2024-
+details on the legislative business transacted during this
+25, see here.
+period, see here.
+Macroeconomic Development
+Interim Union Budget 2024-25
+Tushar Chakrabarty (tushar@prsindia.org)
+Pratinav Damani (pratinav@prsindia.org)
+GDP grew by 8.4% in third quarter of 2023-24
+Interim Union Budget 2024-25 presented
+Gross Domestic Product (GDP) (at constant 2011-12
+The Finance Minister, Ms Nirmala Sitharaman
+presented the 2024-25 Interim Union Budget.1 Key prices) grew by 8.4% in the third quarter (October-
+December) of 2023-24. 2 In the corresponding quarter
+highlights of the Budget include:
+of 2022-23, it grew by 4.3%.3 In the second quarter
+▪ Expenditure: The government has proposed to (July-September) of 2023-24, GDP grew by 8.1%.
+spend Rs 47,65,768 crore in 2024-25, which is an
+According to the Second Advance Estimates, GDP is
+increase of 6.1% over the revised estimates of
+estimated to grow by 7.6% for the year 2023-24, higher
+2023-24 (Rs 44,90,486 crore).
+than the growth rate of 7.3% as per the First Advance
+▪ Receipts: The receipts (other than borrowings) in Estimate released in January 2024.4 Separately, the
+2024-25 are expected to be Rs 30,80,274 crore, Ministry of Statistics and Programme Implementation
+which is an increase of 11.8% over the revised has decided to discontinue the release of third revised
+estimates of 2023-24 (Rs 27,55,713 crore). estimates of GDP figures from 2021-22 onwards.5
+▪ GDP growth: The nominal GDP growth rate has GDP across economic sectors is measured in terms of
+been estimated at 10.5% in 2024-25 (i.e. not Gross Value Added (GVA). In the third quarter of
+adjusted for inflation). 2023-24, manufacturing is estimated to increase by
+11.6%, followed by construction at 9.5%. Agriculture
+▪ Deficits: In 2024-25, the fiscal deficit is targeted
+is estimated to contract by 0.8% in the same period.
+at 5.1% of GDP, lower than the revised estimates
+Note that while the GVA in third quarter of 2023-24
+of 5.8% of GDP in 2023-24. Revenue deficit in
+grew at 6.5%, GDP growth is estimated to be higher at
+2024-25 is targeted at 2% of GDP, which is lower
+8.4%. This could be due to the 32% growth in net
+than the revised estimates of 2.8% of GDP in
+taxes (difference between taxes and subsidies) which is
+2023-24.
+added to the GVA to arrive at GDP figures.
+▪ Tax proposals: No changes in direct and indirect
+taxes have been proposed
+▪ Policy proposals: An additional two crore houses
+will be built over the next five years under the PM
+- 2-
+Monthly Policy Review – February 2024 PRS Legislative Research
+Figure 1: Growth in GDP (%, year-on-year) Industrial production grew by 5.8% in third
+quarter of 2023-24
+14% 12.8%
+12% The Index of Industrial Production (IIP) grew by 5.8%
+in the third quarter (October-December) of 2023-24,
+10%
+8.2% 8.1% 8.4% compared to an increase of 2.8% in the same period in
+8% 2022-23.8,9 Mining increased by 8.2% in the third
+6.2%
+5.5% quarter of 2023-24, higher than an increase of 7.6% in
+6%
+4.3% the corresponding period of 2022-23. Manufacturing
+4% increased by 5% while electricity increased by 9% in
+the third quarter of 2023-24.
+2%
+0% Figure 2: Growth in IIP (%, year-on-year)
+Q1 Q2 Q3 Q4 Q1 Q2 Q3
+25%
+2022-23 2023-24
+20%
+Sources: Ministry of Statistics and Programme Implementation; PRS.
+15%
+Table 2: Growth in GVA across sectors (%, year-
+on-year) 10% 8.2% 9.0%
+Sector Q3 Q2 Q3 5.8% 5.0%
+2022-23 2023-24 2023-24 5%
+Agriculture 5.2% 1.6% -0.8%
+0%
+Mining 1.4% 11.1% 7.5%
+IIP Mining Mfg Electricity
+Manufacturing -4.8% 14.4% 11.6%
+Oct-23 Nov-23 Dec-23 Oct-Dec 23
+Electricity 8.7% 10.5% 9.0%
+Construction 9.5% 13.5% 9.5% Sources: Ministry of Statistics and Programme Implementation; PRS.
+Trade 9.2% 4.5% 6.7%
+Financial Services 7.7% 6.2% 7.0%
+Public Services 3.5% 7.7% 7.5% Law and Justice
+GVA 4.8% 7.7% 6.5%
+Rutvik Upadhyaya (rutvik@prsindia.org)
+GDP 4.3% 8.1% 8.4%
+Note: GVA is GDP without net taxes on products. Supreme Court struck down the electoral
+Sources: Ministry of Statistics and Programme Implementation; PRS.
+bonds scheme
+Repo rate kept unchanged at 6.5% A five-judge bench held the electoral bonds scheme to
+be unconstitutional.10 The scheme was introduced
+The Monetary Policy Committee (MPC) of the Reserve
+through the Finance Act, 2017.11 An electoral bond is
+Bank of India kept the policy repo rate (the rate at
+an instrument that can be used to make donations to a
+which RBI lends money to banks) unchanged at 6.5%.6
+political party.12 Any Indian citizen or a company is
+The repo rate has been unchanged since February 2023
+eligible to buy an electoral bond.12 These do not carry
+when it was increased from 6.25% to 6.5%.7 Other
+the name of the purchaser. Political parties are also not
+decisions of the Committee include:
+required to publicly disclose donations received via
+▪ The standing deposit facility rate (the rate at which electoral bonds. The Finance Act, 2017 also amended
+RBI borrows from banks without giving collateral) the Companies Act, 2013 to remove the ceiling on the
+has been retained at 6.25%. amount of contributions companies can make to
+political parties. It also removed the requirement for
+▪ The marginal standing facility rate (the rate at
+companies to disclose the name of the parties to which
+which banks can borrow additional money from
+contributions have been made.
+RBI) and the bank rate (rate at which RBI buys
+bills of exchange) have been retained at 6.75%. The Court examined two questions: (i) whether
+unlimited corporate funding to political parties was
+The MPC decided to remain focused on withdrawal of
+violative of free and fair elections, and (ii) whether the
+accommodation. This is expected to ensure that
+right of political parties to keep voluntary contributions
+inflation progressively aligns with the target of 4%,
+undisclosed supersedes voters’ right to information to
+while supporting growth.
+know about the same.10 The Court held that electoral
+bonds violate the voter’s right to information under
+Article 19(1)(a) (right to free speech expression). It
+also held that allowing unlimited corporate
+- 3-
+Monthly Policy Review – February 2024 PRS Legislative Research
+contributions to political parties is arbitrary and For a PRS Summary of the Bill, see here.
+violates article 14 (right to equality before law).10
+Parliament passes Bill modifying the list of
+The Supreme Court also directed the State Bank of
+Scheduled Castes and Tribes in Odisha and
+India (SBI) to stop issuing electoral bonds.10 SBI has
+Andhra Pradesh
+also been directed to submit the details of political
+parties which have received contributions through these
+The Constitution (Scheduled Castes and Scheduled
+bonds since 12 April, 2019.10 SBI must disclose the
+Tribes) Orders (Amendment) Bill, 2024 and The
+details of each electoral bond encashed by political
+Constitution (Scheduled Tribes) Order (Amendment)
+parties to the Election Commission of India (ECI) by
+Bill, 2024 were passed in Parliament.14,15 The Bills
+March 6, 2024. The ECI must publish this information
+amend the Constitution (Scheduled Castes) Order, 1950
+on its website by March 13, 2024.
+and the Constitution (Scheduled Tribes) Order, 1950 in
+relation to Odisha and Andhra Pradesh.
+Parliament passes Bill amending local bodies
+Scheduled Tribes in Odisha: The Bill adds following
+laws of Jammu and Kashmir
+communities to the list of Scheduled Tribes in Odisha:
+The Jammu and Kashmir Local Bodies Laws (i) Muka Dora, Mooka Dora, Nuka Dora, Nooka Dora
+(Amendment) Bill, 2024 was passed by Parliament .13 (for districts of Koraput, Nowrangapur, Rayagada, and
+The Bill amends three laws applicable to local bodies Malkangiri), and (ii) Konda Reddy, Konda Reddi.
+in the UT of Jammu and Kashmir (J&K). These are: (i)
+Scheduled Tribes in Andhra Pradesh: The Bill adds
+the J&K Panchayati Raj Act, 1989, (ii) the J&K
+the following to the list of Scheduled Tribes in Andhra
+Municipal Act, 2000 and (iii) the J&K Municipal
+Pradesh: (i) Bondo Porja, (ii) Khond Porja, and (iii)
+Corporation Act, 2000. Key features include:
+Konda Savaras.
+▪ Reservations for Other Backward Classes
+For a PRS Summary of the two Bills, see here and here.
+(OBCs): Under the three Acts, seats in certain
+institutions in J&K are reserved for Scheduled
+Law Commission submits report on various
+Castes (SCs) and Scheduled Tribes (STs). The
+institutions are: (i) panchayats, (ii) municipalities, subjects
+(iii) municipal corporations, (iv) block
+The Law Commission of India submitted its reports on:
+development councils and (v) district development
+(i) ‘The Law on Criminal Defamation’, (ii) ‘A
+councils. The reserved seats are proportional to
+Comprehensive Review of the Epidemic Diseases Act,
+the population of these groups in the area covered
+1897’, and (iii) ‘Law on Matrimonial Issues relating to
+by the respective institution. One-third of such
+Non-resident Indians and Overseas citizens of
+seats are reserved for women. The Bill extends
+India’.16,17,18 Key observations and recommendations
+reservation to OBCs as well. OBCs are groups
+of the Commission include:
+notified as weak and under-privileged by the
+Government of the union territory of J&K. ▪ Criminal Defamation: The Commission noted
+that right to reputation is an integral part of an
+▪ Mandate of the State Election Commission:
+individual’s right to life and liberty. It cannot be
+Currently, under the J&K Panchayati Raj Act,
+jeopardised by the right to freedom of expression.
+1989, the State Election Commission in J&K
+Thus, criminal defamation is a protection that can
+prepares the electoral rolls and conducts elections
+be availed upon damage to one’s reputation, and
+for panchayats, block development councils and
+should be read harmoniously with the right to
+district development councils. These
+freedom of speech. The Commission
+responsibilities are discharged by the Chief
+recommended retaining criminal defamation within
+Electoral Officer in the case of municipalities and
+the criminal laws of the country.
+municipal corporations. The Bill designates the
+election-related responsibilities of these ▪ Epidemic Diseases Act: The Commission
+institutions to the State Election Commission. observed several shortcomings in the Epidemic
+Diseases Act, 1897. These include: (i) absence of
+▪ Removal of State Election Commissioner: The
+a definition of epidemic, (ii) no differentiation
+J&K Panchayati Raj Act, 1989 states that the State
+between an outbreak, epidemic and pandemic, (iii)
+Election Commissioner can only be removed from
+lack of guidelines for isolation, quarantine, and
+his office through an order passed by the
+disease surveillance, and (iv) unclear distribution
+Lieutenant Governor. Grounds for dismissal
+of powers between the centre, state, and local
+include misbehaviour or incapacity proved by an
+bodies to regulate epidemics.
+inquiry led by a sitting or retired High Court judge.
+The Bill amends this to provide that a State ▪ The Commission recommended definitions of
+Election Commissioner can only be removed in the outbreak, epidemic, and pandemic. It
+same manner and on the same grounds as a High differentiated the three based on geographical
+Court judge. spread of disease and abnormality of transmission.
+The Commission also recommended that states
+- 4-
+Monthly Policy Review – February 2024 PRS Legislative Research
+should be primarily responsible for prevention and Department of Justice to consider enhancing the
+management of epidemics, since public health and allocation of funds to such states.
+sanitation is a state subject under the Constitution.
+▪ High Court for Nagaland: The Committee noted
+However, both centre and states should frame laws
+that states like Tripura, Meghalaya, and Manipur,
+on prevention of infectious diseases as it falls
+which came under the jurisdiction of the Gauhati
+under the Concurrent List. It recommended that
+High Court till 1971, now have their own High
+the central government should frame an Epidemic
+Courts. However, Nagaland is still under the
+Plan for dealing with outbreaks, epidemics, or
+jurisdiction of the Gauhati High Court. The
+pandemics across the country. States can make
+Committee found merit in the demand for a
+specific regulations with local authorities.
+separate High Court for Nagaland and
+▪ Matrimonial Issues related to NRIs and OCIs: recommended the Ministry of Law and Justice to
+The Commission raised the issue of Non- coordinate with the Ministry of Home Affairs to
+residential Indian (NRI) husbands deserting their address this demand.
+Indian wives. It noted that the NRI Bill, 2019 did
+not contain a comprehensive definition of an NRI. Standing Committee submits report on
+Moreover, laws on marriage in India neither strengthening legal education
+provide information on NRI spouses and neither
+contain provisions to issue summons to them. The The Standing Committee on Personnel, Public
+Committee recommended defining an NRI as an Grievances, Law and Justice (Chair: Mr. Sushil Kumar
+Indian citizen residing abroad for any purpose, Modi) submitted its report on the ‘Strengthening Legal
+save tourism. It recommended compulsory Education in View of Emerging Challenges before the
+registration of marriages of NRIs and OCIs. It also Legal Profession’.20 According to the Advocates Act,
+recommended adding certain provisions such as 1961, the Bar Council of India is responsible for: (i)
+divorce and child maintenance under the NRI Bill, regulating standards of legal education, (ii) recognising
+2019. It also recommended amending the 2019 universities that offer degrees in law, and (iii)
+Bill to mandate the NRI defaulter to appear in inspecting these universities for their compliance with
+Court in matrimonial matters. set standards. Key observations and recommendations
+of the Committee are as follows:
+Standing Committee submits report on judicial ▪ Powers of the Bar Council of India (BCI): The
+infrastructure in North-East India Committee noted that the Advocates Act, 1961
+was passed with a narrow view of producing
+The Standing Committee on Personnel, Public
+lawyers for courts. It opined that legal education
+Grievances, Law and Justice (Chair: Mr Sushil Kumar
+should impart skills required for legal practice
+Modi) submitted its report on ‘Judicial Infrastructure in
+beyond courtrooms. The Committee
+the North-Eastern States of India’.19 Since 1993-94, a
+recommended that BCI’s powers should be limited
+centrally sponsored scheme (CSS) is being
+to regulating basic eligibility for practicing at the
+implemented for developing infrastructure facilities for
+bar. Regulation of legal education beyond this
+subordinate judiciary. For North-Eastern states,
+should be entrusted with an independent authority.
+alongwith Uttarakhand and Himachal Pradesh, the
+It suggested that a National Council for Legal
+centre bears 90% of the contribution under the scheme.
+Education and Research be established under the
+Key observations and recommendations of the
+proposed Higher Education Commission of India.
+Committee include:
+▪ The Committee noted that inefficiency and
+▪ Criteria for the release of funds: New guidelines
+inadequacy of the inspection process by the BCI
+for the release of funds under the CSS include
+has led to the recognition of substandard law
+utilising at least 75% of the disbursed funds before
+colleges. It highlighted that while recognising new
+further instalments are given. The Committee
+colleges, due consideration should be given to
+observed that no funds were released to Mizoram,
+quality over quantity. It recommended taking
+Nagaland and Tripura in 2022-23, due to their
+effective measures to curb the growth in
+failure in complying with revised norms. It noted
+substandard law colleges.
+that north-eastern states face several geographical
+and infrastructural challenges that make movement ▪ Uniform curriculum: The Committee noted that
+of material difficult. They also face delays in differences in the curriculum between law colleges
+receiving project proposals and utilisation and universities leads to unevenness. These
+certificates. The Committee recommended for differences arise out of law colleges and
+such reasons to be considered while prescribing the universities adopting the curriculum of affiliating
+criteria for the release of funds. It also universities, and deviating from that prescribed by
+recommended the existing criteria be relaxed. the BCI. The Committee recommended redefining
+the role of the BCI and ensuring that the BCI sets a
+▪ The Committee also noted that some north-eastern
+uniform curriculum for undergraduate courses in
+states are unable to contribute 10% of the project
+law colleges and universities. For post-graduate
+funds from their end. It recommended the
+- 5-
+Monthly Policy Review – February 2024 PRS Legislative Research
+education, a uniform curriculum should be set by Education
+the proposed independent authority.
+Parliament passes Bill prohibiting the use of
+For a PRS Summary of the report, see here.
+unfair means in public examinations
+Rutvik Upadhyaya (rutvik@prsindia.org)
+Environment The Public Examinations (Prevention of Unfair Means)
+Bill, 2024 was passed by Parliament.23 The Bill seeks
+Tanvi Vipra (tanvi@prsindia.org)
+to prevent use of unfair means in public examinations.
+Public examinations refer to examinations conducted
+Water (Prevention and Control of Pollution)
+by authorities specified under the Schedule to the Bill,
+Amendment Bill, 2024 passed by Parliament or notified by the central government. These include:
+(i) Union Public Service Commission, (ii) Staff
+Parliament passed the Water (Prevention and Control of
+Selection Commission, (iii) Railway Recruitment
+Pollution) Amendment Bill, 2024.21 It amends the
+Board, (iv) National Testing Agency, (v) Institute of
+Water (Prevention and Control of Pollution) Act,
+Banking Personnel Selection, and (vi) Departments of
+1974.22 The Act establishes the central and state
+the central government and their attached offices for
+pollution control boards (CPCB and SPCBs) to prevent
+recruitment. Key features of the Bill include:
+and control water pollution. The Bill decriminalises
+several violations, and instead imposes penalties. It will ▪ Offences in relation to public examinations:
+initially apply to Himachal Pradesh, Rajasthan, and the The Bill defines several offences in relation to
+union territories. Other states may pass resolutions to public examinations. It prohibits collusion or
+extend its applicability to their states. conspiracy to facilitate indulgence in any unfair
+means. It specifies unfair means to include: (i)
+▪ Consent exemptions for establishing industries:
+unauthorised access or leakage of question paper
+As per the Act, prior consent of the SPCB is
+or answer key, (ii) assisting a candidate during a
+required for establishing any industry or treatment
+public examination, (iii) tampering with computer
+plant, which is likely to discharge sewage into a
+network or resources, (iv) tampering with
+water body, sewer, or land. The Bill specifies that
+documents for shortlisting or finalising of merit list
+the central government, in consultation with the
+or rank, and (v) conducting fake examination,
+CPCB, may exempt certain categories of industrial
+issuing fake admit cards or offer letters to cheat,
+plants from obtaining such consent. The Bill also
+for monetary gain. It also prohibits: (i) disclosing
+adds that the central government may issue
+exam-related confidential information before time,
+guidelines for the grant, refusal, or cancellation of
+and (ii) unauthorised people from entering exam
+consent granted by the SPCB.
+centres to create disruptions. Above offences will
+▪ Under the Act, establishing and operating an be punishable with imprisonment between three
+industry without obtaining such consent from the and five years, and a fine up to Rs 10 lakh.
+SPCB is punishable with imprisonment up to six
+▪ Responsibilities of service providers: In the
+years and fine. The Bill retains this. It also
+event of violation of provisions of the Bill, service
+penalises tampering with monitoring devices used
+providers must report to the police and the
+in determining whether any industry or treatment
+concerned examination authority. A service
+plant can be set up. The penalty will be between Rs
+provider is an organisation that provides computer
+10,000 and Rs 15 lakh.
+resources or any other support to a public
+▪ Discharge of polluting matter: Under the Act, the examination authority. Failure to report such
+SPCB may issue directions to immediately restrain incidents will be an offence. In case, the service
+any activity which is leading to discharge of provider themselves commit an offence, the
+noxious or polluting matter in water bodies. The examination authority must report it to the police.
+Act also prohibits violation of standards (laid down An offence by a service provider will be
+by SPCB) regarding polluting matter in water punishable with a fine of up to one crore rupees.
+bodies or on land, barring some exemptions. Proportionate cost of examination will also be
+Exemptions include depositing non-polluting recovered from such a service provider. Further,
+materials on the bank of a stream for reclaiming they will also be barred from conducting public
+land. Violation of these provisions is punishable examinations for four years.
+with an imprisonment term between one and a half
+For a PRS summary of the Bill, see here.
+years and six years, and a fine. The Bill removes
+the punishment and instead, imposes a penalty
+between Rs 10,000 and Rs 15 lakh.
+For a PRS Summary of the Bill, see here.
+- 6-
+Monthly Policy Review – February 2024 PRS Legislative Research
+UGC releases guidelines on internship for ▪ Misleading ads: An advertisement will be
+undergraduate students considered misleading if it: (i) conceals important
+information which can influence a consumer’s
+Rutvik Upadhyaya (rutvik@prsindia.org)
+decision to choose their services, such as duration
+or cost of the course, (ii) makes false claims
+The University Grants Commission (UGC) released the
+regarding success rates or rankings of students in a
+‘Guidelines for Internship/Research Internship for
+competitive exam, (iii) falsely represents that
+Undergraduate Students’.24 The guidelines broadly
+students’ success is solely attributable to the
+categorise internships into two kinds: (i) internships to
+coaching, or (iv) creates a false sense of urgency or
+enhance employability, and (ii) internships to develop
+fear of missing out that may heighten anxiety
+research aptitude. Some key features of the guidelines
+among students or parents.
+are as follows:
+▪ Obligations: Every person engaged in coaching
+▪ Responsibilities of officers at the HEI: The
+will have certain obligations. These include
+guidelines require Higher Education Institutions
+disclosing the rank and course duration of each
+(HEIs) to designate a: (i) nodal officer, (ii)
+successful candidate, putting prominent
+internship supervisor and (iii) mentor. HEIs
+disclaimers in ads, accurately representing
+include colleges and universities recognised by the
+available facilities and resources, and avoiding
+UGC. Different internship-related responsibilities
+cherry picking of exceptional cases to create a
+are assigned to each official. A nodal officer is
+skewed impression of success.
+expected to (i) identify areas for internships, (ii)
+reach out to various organisations for opportunities ▪ Prohibited activities: Persons engaged in
+and (iii) sign agreements to facilitate internships. coaching must not use details of successful
+An internship supervisor is expected to monitor candidates without their express consent. They
+activities of students at the internship. A mentor is must also not: (i) use fake reviews or make false
+expected to guide the students throughout the claims such as 100% selection or 100% job
+internship and validate their performance. guaranteed, (iii) lead consumers to believe that
+enrolment will guarantee a rank, job, admission
+▪ Process: Every HEI is expected to set up an
+etc, or (iv) mislead or make exaggerated claims
+internship portal that registers organisations,
+about faculty credentials.
+experts, and faculty. Students may apply for
+internships through the portal. HEIs must provide Comments are invited until March 16, 2024.
+for digital or group internships for students who
+fail to obtain an internship in the physical mode.
+On the completion of the internship, students will
+Commerce
+be evaluated on their performance by their
+internship supervisor.
+Tushar Chakrabarty (tushar@prsindia.org)
+▪ Credits: HEIs can mandate minimum two to four
+internship credits for a three or four-year Cabinet approved amendments to FDI policy
+undergraduate course with Honours. Internships for space sector
+should be conducted in the fourth semester for a
+duration of 60-120 hours. The Union Cabinet approved amendments to the
+foreign direct investment (FDI) policy for the space
+▪ For a four-year undergraduate degree with honours sector.27 Under the existing policy, 100% FDI is
+and research, HEIs must provide for a mandatory
+allowed for establishment and operation of satellites
+dissertation or research project of 12 credits. This under the government approval route.28 As per the
+must be placed in the eighth semester and involve
+amended policy, up to 74% FDI will be allowed for
+360 hours of work.
+satellite manufacturing and operation, satellite data
+products, ground segment and user segment under the
+Comments invited on guidelines for prevention automatic route. FDI beyond 74% will be subject to
+of misleading coaching ads government approval. FDI up to 49% under the
+automatic route will be allowed for launch vehicles and
+Tanvi Vipra (tanvi@prsindia.org)
+spaceports, beyond which it will be subject to
+government approval. 100% FDI under the automatic
+The Central Consumer Protection Authority released
+route has been allowed for manufacturing of
+draft Guidelines for Prevention of Misleading
+components and systems/sub-systems for satellites.
+Advertisement in Coaching Sector.25 The Guidelines
+have been issued under the Consumer Protection Act,
+Standing Committee submits report on
+2019.26 Coaching refers to tuition, instructions,
+strategy to maximise exports and minimise
+academic support, or guidance provided by any person.
+The Guidelines apply to all advertisements. Key imports
+features of the Guidelines are:
+The Standing Committee on Commerce (Chair: Dr.
+- 7-
+Monthly Policy Review – February 2024 PRS Legislative Research
+Abhishek Manu Singhvi) submitted its report on supersede multiple regulations dealing with subjects
+‘Comprehensive Strategy to Map Major Products and such as insurance premiums, issuance of insurance
+Countries to Maximise Exports and Minimise policies, and protection of policyholders’ interests. The
+Imports’.29 Key observations and recommendations of regulations will apply to all insurers and distributors,
+the Committee include: barring entities offering reinsurance. Key features are
+as follows:
+▪ Import of petroleum products: One-third of
+India’s total imports comprise crude petroleum, ▪ Free look period: Policyholders of life and
+coal, coke, and other petroleum products. The individual health insurance policies must be
+Committee noted the need to enhance their provided with a 30-day free look period from the
+domestic production by incentivising exploration date of receiving the policy document. If the
+and extraction of hydrocarbons from fossil fuels. policyholder disagrees with any conditions of the
+Shift from traditional fuel-based vehicles to policy within this period, he may choose the cancel
+electric vehicles is also essential to reduce imports the policy. On cancellation, the premium paid
+of petroleum products. must be refunded to the policyholder. Currently, a
+free look period of 15 days is allowed for physical
+▪ Engineering exports: India’s engineering exports
+policies and 30 days for electronic policies and
+account for over 25% of total merchandise exports.
+those obtained through distance mode.31
+In 2022-23, India exported engineering goods
+worth USD 107 billion. The Committee noted that ▪ Issuance of insurance policies: All insurers must
+tariff and non-tariff barriers imposed by the USA have a policy for issuing insurance policies in
+and the European Union (EU) can hinder the electronic form. It should cover: (i) measures to
+growth of India’s engineering exports. This safeguard data privacy, (ii) framework on data
+includes the Carbon Border Adjustment security, and (iii) continuous review and
+Mechanism (CBAM) imposed by the EU which upgradation of cyber security safeguards.
+can led to additional import duties on various
+▪ Principles for serving policyholders: Insurers
+products such as fertiliser, aluminium, and cement.
+must follow certain principles for servicing
+The Committee noted that Indian manufacturers in
+policyholders. These include: (i) providing
+the MSME sector may not have the financial
+policyholders with necessary information about
+resources needed to counter the CBAM. The
+various services, (ii) delivering services within a
+Committee recommended the government to seek
+reasonable time, and (iii) not pressuring
+an extension on the application of CBAM on the
+policyholders to change products or providers.
+MSME sector by at least three years.
+Comments are invited by March 4, 2024.
+▪ Remission of Duties or Taxes on Export
+Products (RoDTEP) Scheme: The RoDTEP
+SEBI issues consultation paper on timelines for
+scheme is being implemented from January 2021
+disclosures by foreign portfolio investors
+for duty remission on exports. It reimburses taxes,
+duties, and levies which are not covered by any
+The Securities and Exchange Board of India (SEBI)
+other refund mechanism. The Committee noted
+issued a consultation paper on relaxation of timelines
+that the low rate of remission provided under the
+for certain disclosures by foreign portfolio investors
+scheme makes Indian exports uncompetitive. It (FPIs).32 Currently, FPIs are required to disclose
+recommended that the RoDTEP Committee
+certain material changes within seven working days.
+examining the rates for various sectors should give
+These include changes in ownership or control,
+its report expeditiously. The Committee also
+findings of investigations by overseas regulators, and if
+recommended increasing the number of products
+any previously disclosed information is found to be
+covered by the scheme.
+false or misleading. SEBI has proposed to categorise
+For a PRS summary of the report, see here. material changes into: (i) type I changes such as
+acquisition/merger/demerger, change in regulatory
+status, and restructuring of the FPI’s legal form, and (ii)
+type II changes which would cover all changes not
+Finance categorised as type I. Type I material changes must be
+disclosed by the FPIs within seven working days. Type
+Tushar Chakrabarty (tushar@prsindia.org) II material changes must be disclosed within 30 days.
+SEBI releases consultation paper on ease of
+IRDAI issues draft regulations for protection of
+doing business for mutual funds
+interest of policyholders
+The Securities and Exchange Board of India (SEBI)
+The Insurance Regulatory and Development Authority
+issued a consultation paper on ease of doing business
+of India (IRDAI) issued the draft IRDAI (Protection of
+for mutual funds.33 Mutual funds pool money from
+Policyholders’ Interests and Allied Matters of Insurers)
+investors to invest in financial instruments. Key
+Regulations, 2024.30 The draft regulations propose to
+proposals include:
+- 8-
+Monthly Policy Review – February 2024 PRS Legislative Research
+▪ Appointment of fund manager: Currently, disclosures must be provided as part of the
+dedicated fund managers must be appointed for financial results.
+commodity-based funds and for funds making
+Comments are invited by April 30, 2024.35
+overseas investments. A SEBI working group has
+observed that dedicated funds managers lead to
+Standing Committee submits report on
+additional costs. Moreover, fund management
+insurance sector
+companies already hire sectoral research analysts.
+The working group has proposed that appointment
+The Standing Committee on Finance (Chair: Mr. Jayant
+of dedicated funds mangers may be made optional
+Sinha) submitted its report on ‘Performance Review
+for commodity and overseas investment. and Regulation of Insurance Sector’.36 Key
+However, the asset management company must
+observations and recommendations of the Committee
+ensure that that fund manager appointed has the
+are as follows:
+required expertise for investment in commodities
+and overseas securities. ▪ Insurance coverage: In 2021-22, insurance
+penetration (percentage of insurance premium to
+▪ Nomination for mutual fund units: Single and
+GDP) in India was 4.2% as compared to the global
+joint mutual fund unit holders must either provide
+average of 7%. Similarly, India’s insurance
+a nominee or opt out of nomination by June 30,
+density (ratio of premium to population) was USD
+2024. The working group noted that for jointly
+91, lower than the global average of USD 874.
+held mutual fund units, the surviving holder takes
+The Committee noted that there is a need to create
+precedence over the nominee. It has proposed to
+mass awareness about the benefits of insurance
+make nomination optional for jointly held units.
+protection and diverse insurance products.
+Comments are invited by March 15, 2024.
+▪ Composite license for insurance business: The
+Insurance Act, 1938 and the regulations of the
+RBI releases draft disclosure framework for Insurance Regulatory Development Authority of
+climate related financial risks India (IRDAI) do not allow composite licensing to
+provide life, general, or health insurance under one
+The Reserve Bank of India (RBI) released the draft
+entity. The Committee noted that providing
+disclosure framework for climate related financial
+composite licenses can reduce costs and
+risks.34 It would apply to RBI regulated entities such as
+compliances of insurers. It can also allow
+banks, all-India financial institutions (such as
+customers to access all-in-one insurance from a
+NABARD and National Housing Bank), and non-
+single insurance provider. The Committee
+banking financial companies. RBI noted that given the
+recommended introducing a provision for
+increasing importance of climate-related financial risks,
+composite licensing of insurance companies and
+there is a need for their structured disclosure. Climate-
+make related amendments in the legislation.
+related financial risks include potential risks from
+climate change or efforts to mitigate climate change. ▪ Settlement of claims: Some private companies
+Key features include: are offering heavy discounts on premiums due to
+competition in the sector. As the premium
+▪ Thematic pillars of disclosure: The framework
+collected by companies falls short, they resort to
+identifies four thematic pillars of disclosure: (i)
+repudiation/delay in payment of large claims. The
+governance, (ii) strategy, (iii) risk management,
+Committee recommended that such cases should
+and (iv) metrics and targets. The governance
+be deterred by levying heavy penalties. Any new
+disclosures should include processes, controls, and
+legislation being considered by the government
+procedures for identifying and managing climate-
+should also seek to address this issue.
+related financial risks and opportunities. Strategy
+disclosures include: (i) impact of climate-related For a PRS summary of the report, see here.
+risks and opportunities on the business and (ii)
+resilience of the entity after considering various
+climate scenarios. Risk management disclosures
+include processes used to manage climate-related Agriculture
+risks. The disclosures for metrics and targets
+should include progress towards climate-related Tanvi Vipra (tanvi@prsindia.org)
+targets set by the entity such as financing for
+climate-related risks. Central sector scheme for fisheries approved
+▪ Timeline: All regulated entities, barring certain The Union Cabinet approved the Pradhan Mantri
+urban cooperative banks, must provide disclosures Matsya Kisan Samridhi Sah-Yojana (PM-MKSSY).37
+related to governance, strategy, and risk It is sub-scheme under the central sector scheme PM
+management from 2025-26 onwards and for Matsya Sampada Yojana. The new scheme seeks to
+metrics and targets from 2027-28 onwards. The formalise the fisheries sector and support small and
+micro fisheries enterprises. Key components of the
+- 9-
+Monthly Policy Review – February 2024 PRS Legislative Research
+scheme include: employs about 28 million people directly. The
+Committee noted the growth potential of the
+▪ Formalising unorganised fisheries sector: The
+sector, and its possible contributions to
+new scheme seeks to gradually formalise the
+government revenue. The sector grew by 9%
+sector, through self-registration of fishers, fish
+during 2015-16 and 2020-21 (at constant prices).
+farmers, and other supportive workers. The
+Fish is a cheap source of protein, and has potential
+registration will be done on a digital platform,
+to contribute to food security as well. Under
+which will also be used for disbursing financial
+PMMSY, the central government has set a
+incentives, and for carrying out training.
+production target of 22 million metric tonnes of
+▪ Encouraging adoption of aquaculture fish by 2025. Currently, the Indian Council of
+insurance: An insurance product that covers at Agricultural Research (ICAR) carries out national
+least one lakh hectares of aquaculture farms will be fishery research. The Committee suggested that
+created. A one-time incentive of up to one lakh given the importance of the sector, a separate
+rupees against purchase of insurance will be research council should be constituted.
+provided to small farmers.
+For a PRS Summary of the report, see here.
+▪ Improving efficiency of value chains: Efficiency
+of value chain is sought to be improved through Standing Committee submits report on climate
+performance grants. This is expected to incentivise resilient farming
+microenterprises to reengage in production,
+The Standing Committee on Agriculture, Animal
+creation and maintenance of jobs. For the general
+Husbandry and Food Processing (Chair: Mr. P.C.
+category, the performance grant will not exceed
+Gaddigoudar) presented its report on ‘Promotion of
+25% of the total investment or Rs 35 lakh,
+Climate Resilient Farming’.39 Climate change harms
+whichever is lower.
+crop yields and agricultural productivity. Its impact
+▪ Adopting product safety and quality system: can be mitigated if institutional and policy support is
+Micro and small enterprises will be incentivised to provided for adapting to the changes. Key observations
+adopt safety and quality assurance systems in and recommendations of the Committee include:
+marketing fish and fishery products. Similar
+▪ Crop diversification: Diversification of crops
+performance grants will be provided for adopting
+enables agricultural ecosystems to adapt to climate
+these standards.
+change. However, the Committee observed that
+The Scheme will have an estimated outlay of Rs 6,000 current policies and development interventions
+crore over four years until 2026-27. 50% of the cost of offer inadequate assistance to diversify crops. In
+the scheme is being anticipated as investment from addition to mitigating the effects of climate
+beneficiaries and private sector. change, crop diversity also helps in ensuring food
+security, enhancing soil fertility, controlling pests,
+Standing Committee submits report on and bringing yield stability. The Committee
+employment and revenue earning potential of suggested that the Ministry of Agriculture and
+fisheries Farmers Welfare provide all possible assistance to
+farmers to achieve this.
+The Standing Committee on Fisheries, Animal
+Husbandry and Dairying (Chair: Mr. P.C. ▪ Water conservation: Management of water
+Gaddigoudar) presented its report on ‘Employment resources is a key feature of sustainable
+Generation and Revenue Earning Potential of Fisheries agriculture. The Committee noted that irrigation
+Sector’.38 Key findings and recommendations of the infrastructure needs to be upgraded, especially in
+Committee are as follows: north-western India. It is the country’s food basket
+and is prone to climate-induced droughts. The
+▪ Employment generation in fisheries: Jobs in the
+Committee also noted that drip irrigation is
+fisheries sector range from production and sale of
+currently only adopted for high-value horticultural
+inputs, fishing, fish-farming, processing, to
+crops. It suggested that the government take a
+marketing and distribution. These may be
+nuanced stance on electricity subsidy meant for
+informal small scale or highly organised and
+drawing groundwater. The Committee noted that
+industrial operations. The Department of Fisheries
+it is a major contributor towards declining
+seeks to generate 55 lakh jobs by 2024-25 under
+groundwater levels. It suggested using algorithms
+PM Matsya Sampada Yojana (PMMSY). The
+that optimise irrigation schedules, and minimise
+Committee recommended that to generate
+environmental impact.
+employment opportunities, investments in areas
+such as exports, post-harvest processing, and ▪ Potential impact and mitigation measures:
+import substitution should be increased. Developing countries are more vulnerable to
+climate risks since they rely on agriculture. This is
+▪ Fisheries industry: Fisheries contribute 6.7% to
+because they lack necessary technologies and
+gross value added of the agriculture sector and
+finances for risk management. Without mitigation
+- 10-
+Monthly Policy Review – February 2024 PRS Legislative Research
+and adaption measures, poor farmers may remain and Farmers’ Rights Authority, to encourage
+trapped in a cycle of low income, high debt, and private participation in their development.
+poverty. These effects can be mitigated through
+For a PRS Summary of the report, see here.
+integrated approaches such as technological
+advancements and data sciences. The Committee
+suggested that the National Innovations in Climate
+Resilient Agriculture (NICRA) Scheme should be
+Information Technology
+implemented in all risk vulnerable villages to
+protect farmers from climate and meteorological
+Pratinav Damani (pratinav@prsindia.org)
+incidents. NICRA (2011) aims to promote climate
+resilient agricultural technologies in vulnerable Home secretary required to destroy records of
+areas of the country.
+interception under IT Amendment Rules
+For a PRS summary of the report, see here
+The Ministry of Electronics and Information
+Technology notified the Information Technology
+Standing Committee submits report on
+(Procedure and Safeguards for Interception, Monitoring
+development of cotton sector
+and Decryption of Information) Amendment Rules,
+2024.41 The principal Rules were notified in 2009.42
+The Standing Committee on Labour, Textiles and Skill
+The Rules have been issued under Information
+Development (Chair: Mr. Bhartruhari Mahtab)
+Technology Act, 2000, which allow for the
+presented its report on ‘Development of Cotton
+Sector’.40 Key observations and recommendations of interception, monitoring and decryption of data under
+specified grounds.43
+the Committee include:
+As per the 2009 Rules, the security agency must
+▪ Low productivity of cotton: Cotton productivity
+destroy all records pertaining to the interception,
+in India is about 447 kg per hectare, significantly
+monitoring and decryption of data every six months.
+lower than other cotton producing countries such
+Records pertaining to directions for such actions must
+as Brazil (1,830 kg/hectare) and the USA (1,065
+also be destroyed. These records must be destroyed
+kg/hectare). The Committee identified several
+unless required or likely to be required. The
+factors that lead to sub-optimal production. About
+amendment adds that the competent authority (under
+67% of Indian cotton is dependent on rainfall,
+the Rules) must also destroy such records. The
+which makes it vulnerable to frequent weather
+competent authority is the: (i) Secretary in the Ministry
+changes. In areas where the crop is irrigated,
+of Home Affairs (in case of the Central Government)
+irrigation depends on the release of the canal
+and (ii) Secretary in charge of the Home Department
+water, and not as per crop needs. The Committee
+(in case of a state government or union territory).
+suggested taking sustainable steps to bring more
+These authorities sanction the action of interception,
+cotton cultivation area under irrigation, and that
+monitoring, or decryption on behalf of the government.
+irrigation must gradually be made demand driven.
+▪ The Committee noted that the low productivity Standing Committee submits report on digital
+issue is exacerbated as cotton is grown
+payments and online security
+continuously without crop rotation or residue
+management. This causes soil health deterioration. The Standing Committee on Communications and
+It recommended that newer farming techniques be Information Technology (Chair: Mr. Prataprao Jadhav)
+developed, campaigns for crop health and pest presented its report on ‘Digital Payment and Online
+eradication be conducted, and demonstration of Security Measures for Data Protection’.44 Key
+best practices be held. observations and recommendations of the Committee
+are as follows:
+▪ Outdated seed varieties resulting in low
+productivity: The Committee also noted that the ▪ Increase in online financial frauds: The
+seed technology in use is outdated, and that there is Committee noted that there has been a significant
+an urgent need for new variety of seeds. Countries increase in the number of cases and amount of
+with high cotton yield such as Mexico have money lost in cybercrime. The number of
+completely adopted genetically modified seeds cybercrime complaints rose from 9.7 lakh in 2022
+with Bt+ herbicide tolerant traits. It recommended to 11.5 lakh in 2023. Financial frauds are about
+that the Ministry augment the development of early 60% of the total complaints. Financial frauds
+maturing and hybrid seeds that suit Indian needs. worth Rs 5,574 crore were reported between
+The Central Institute for Cotton Research, Nagpur January and October 2023, significantly higher
+has suggested that early maturing Bt and non-Bt than 2022 (Rs 2,296 crore in full year). Types of
+varieties can be used in 20% of the cotton area financial frauds include customer care number
+where long duration Bt hybrid seeds are used. The frauds, KYC-based frauds, and Aadhaar enabled
+Committee noted that these seed varieties will need Payment Systems (AePS) based frauds.
+to be protected by the Protection of Plant Varieties
+- 11-
+Monthly Policy Review – February 2024 PRS Legislative Research
+▪ The Committee observed that a multipronged Standing Committee submits report on Quality
+approach is needed, which involves all concerned of Medical Education in India
+Ministries, in preventing cyber-crime. It
+Rutvik Upadhyaya (rutvik@prsindia.org)
+recommended the Ministry of Home Affairs to
+constitute a nodal agency which houses
+The Standing Committee on Health and Family
+representatives of all the agencies involved.
+Welfare (Chair: Mr. Bhubaneswar Kalita) submitted its
+▪ AePS-based crimes: An AePS facilitates report on the ‘Quality of Medical Education in India’.50
+customers to carry out transactions from their Key observations and recommendations of the
+Aadhaar-linked accounts using biometric Committee include:
+authentication. The Committee noted that frauds
+▪ Limited seats: The Committee observed a
+using AePS were increasing. The Ministry of
+significant gap between medical aspirants and
+Home Affairs submitted that dummy or rubber
+availability of seats. At the undergraduate (UG)
+fingers were being used to falsify biometric
+level, it observed that close to one lakh MBBS
+authentication using Aadhaar.
+seats were available for over 20 lakh students who
+▪ Recovery of money: The Committee noted that appeared for the National Eligibility-cum Entrance
+the amount of money recovered and returned to Test (NEET) in 2023-24. At the post-graduate
+customers was very low (10.4% between 2021 and (PG) level, around 68,000 seats were available for
+2022). It also noted that the method for filing over two lakh aspirants. To ensure greater
+complaints was complex and there was a high availability of seats, the Committee recommended:
+turnaround time to resolve the complaint. It (i) continuing the initiative to establish medical
+recommended that the Ministry of Home Affairs colleges attached to district or referral hospitals,
+streamline the process of returning the amounts (ii) offering online and distance learning to
+frozen to the victims. increase student intake without overburdening
+physical infrastructure, (iii) permitting new
+For a PRS Summary of the report, see here.
+medical colleges to increase annual intake upto
+250 seats, and (iv) encouraging private investment
+in medical education.
+Health ▪ Uneven distribution of medical colleges: The
+Committee observed a vast imbalance in the
+Surrogacy rules amended to allow an intending
+distribution of medical colleges across states. It
+couple to use donor gametes observed that Bihar-Maharashtra, and Rajasthan-
+Tamil Nadu are almost equally populated, yet have
+Rutvik Upadhyaya (rutvik@prsindia.org)
+vastly different availability of medical colleges.
+Existing guidelines stipulate minimum bed
+The Ministry of Health and Family Welfare released
+the Surrogacy (Regulation) Amendment Rules, 2024.45 capacities for teaching hospitals, depending upon
+their academic intake. An average bed occupancy
+These amend the Surrogacy (Regulation) Rules, 2022,
+issued under the Surrogacy (Regulation) Act, 2021.46 rate of 80% is also mandated. The Committee
+recommended revising such uniform criteria and to
+The Act regulates the practice and process of surrogacy
+in India.47 formulate region-specific norm norms.
+▪ Cost of medical education: The Committee
+The 2022 Rules prohibited the use of donor gametes for
+observed that cost of medical education in India
+surrogacy (male gametes are sperm; female gametes
+are eggs or oocytes).48 A single woman (widow/ ranged from Rs 60 lakh to one crore rupees, and
+has increased over time. It recommended
+divorcee) must use her own eggs to avail surrogacy. In
+measures such as providing need-based
+October 2023, the Supreme Court permitted using
+scholarships to students and tax concessions to
+donor eggs when the woman is unable to produce her
+own eggs.49 organisations running medical colleges. To reduce
+functioning costs, the Committee recommended
+The 2024 amendment allows donor gametes to be used collaboration between private medical colleges and
+in surrogacy under certain conditions. It states that district hospitals. It also recommended subsidising
+permission for donor gametes will only be granted if: laboratory equipment or machines in private
+(i) either the intending husband or wife has a medical medical colleges.
+condition necessitating surrogacy, and (ii) the child
+For a PRS summary of the report, see here.
+born through surrogacy has at least one gamete from
+the intending couple.45 The medical condition will be
+certified by the District Medical Board. The condition
+for single women remains unchanged.
+- 12-
+Monthly Policy Review – February 2024 PRS Legislative Research
+Standing Committee submits report on Standing Committee submits report on
+promotion of medical device industry National Ayush Mission
+Tanvi Vipra (tanvi@prsindia.org) Rutvik Upadhyaya (rutvik@prsindia.org)
+The Standing Committee on Chemicals and Fertilisers The Standing Committee on Health and Family
+(Chair: Dr Shashi Tharoor) presented its report on Welfare (Chair: Mr. Bhubaneswar Kalita) submitted its
+‘Promotion of Medical Device Industry’.51 Key report on the ‘Review of National Ayush Mission’.52
+observations and recommendations of the Committee The National Ayush Mission was launched in 2014 to
+are as follows: promote accessibility to ayurveda, yoga, unani, sidhha,
+and homeopathy (Ayush). The Mission focuses on
+▪ Impediments to growth of medical device
+promoting and improving research, education, quality
+industry: Domestic manufacturing of medical
+of drugs, and infrastructure related to Ayush. Key
+devices is currently limited to low-end to
+observations and recommendations of the Committee
+moderate-end medical devices such as
+are as follows:
+consumables, disposables, and implants. 70% of
+high-end devices such as electronic equipment, ▪ Implementation of the Mission: The Committee
+advance surgical instruments, and diagnostic noted that about 69% of integrated Ayush
+products are imported. Issues that impede growth Hospitals approved under the Mission are still
+of the sector include: (i) low investment in research under construction. Moreover, only 65% of Ayush
+and development, (ii) fewer tax concessions and Health and Wellness centres have been established.
+inverted duty structure (higher tax on raw material The Committee recommended extending the
+than on the finished good) for domestic Mission by five years beyond 2024-25. It also
+manufacturers, (iii) low capital investment, (iv) recommended that Sowa-Rigpa, a traditional
+lack of skilled manpower, (v) limited price and system of medicine prevalent in the Himalayan
+quality regulation, and (vi) fewer trained regions, should be included in the Mission.
+healthcare professionals. The Committee noted
+▪ Reasons for delays: Delays in the implementation
+that initiatives taken by the Pharmaceuticals
+of the Mission are primarily being caused due to:
+Department since 2015 are yet to materialise. This
+(i) late allocation of funds, (ii) overlapping
+includes incentives such as interest subsidy,
+functions between administrative entities, and (iii)
+concessional power, and price controls for devices
+delays in submitting utilisation certificates. In
+like surgical instruments.
+order to address these challenges, the Committee
+▪ Import dependence: The domestic medical recommended reducing the number of budget line
+devices sector is expected to be worth USD 50 items in state action plans and clearly
+billion by 2030. However, currently 80% of our differentiating roles between different entities.
+domestic sales constitute imported medical The Committee also recommended: (i) training
+devices. Import of high-end devices has risen existing staff in managing projects effectively, (ii)
+between 2019-20 and 2022-23, despite production creating specific action plans for Ayush Health and
+linked incentives being in place. The Committee Wellness Centres, (iii) financial incentives to states
+recommended formulating an inter-ministerial and for better implementation, and (iv) streamlining
+inter-governmental strategy to offer domestic administrative processes through technology.
+manufacturers competitive advantage.
+For a PRS summary of the report, see here.
+▪ Medical devices parks: Under the Promotion of
+Medical Devices Parks Scheme, four medical
+device parks are to be established in four states.
+These parks will have common testing facilities Energy
+and labs. Of the Rs 120 crore allocated in the first
+phase (2022-23), only Rs 89 lakh has been spent so Cabinet approves a scheme to provide for
+far. The Committee suggested that there needs to rooftop solar in one crore households
+be regular progress monitoring with state agencies.
+Arpita Mallick (arpita@prsindia.org)
+It also recommended expanding the scheme to
+other states.
+The Union Cabinet approved the PM-Surya Ghar: Muft
+For a PRS summary of the report, see here. Bijli Yojana.53 The scheme aims to provide for
+installation of rooftop solar systems in one crore
+households. The scheme will provide financial
+assistance worth 60% of the system cost for
+installations up to 2-kilowatt (kW) capacity. In
+addition, 40% of additional system cost will be
+provided for capacity between 2 kW and 3 kW. For
+installing rooftop solar systems up to 3 kW capacity,
+- 13-
+Monthly Policy Review – February 2024 PRS Legislative Research
+households will also be eligible for collateral-free loans fewer as may be specified by the State
+at interest rate of around 7%. The total outlay under Commission. The amended Rules remove the
+the scheme is estimated to be Rs 75,021 crore. discretion of the State Commission. Hence, the
+complaints must be addressed within 30 days. The
+Table 3: Estimated financial assistance under the
+amended Rules also add that in case of a complaint
+scheme (in rupees)
+regarding the meter reading varying from actual
+Installed Capacity Financial Assistance
+electricity consumption, an additional meter must
+▪ 1 kW 30,000 be installed within five days. The additional meter
+must be installed for at least three months.
+▪ 2 kW 60,000
+▪ 3 kW or higher 78,000
+Draft Regulations to determine tariff for
+Source: Press Information Bureau; PRS.
+renewable energy released
+A 3 kW rooftop solar system is expected to generate
+Tanvi Vipra (tanvi@prsindia.org)
+more than 300 units per month on an average for a
+household. The households will be allowed to sell
+The Central Electricity Regulation Commission
+surplus power to distribution companies in their area.
+released draft regulations to determine tariff of power
+from renewable energy (RE) sources.56 The
+Amendment to Electricity (Rights of
+Regulations will come in force on April 1, 2024 (unless
+Consumers) Rules, 2020 notified
+reviewed or extended), and will be remain in force until
+Pratinav Damani (pratinav@prsindia.org) March 31, 2027. Key features include:
+▪ Tariff types: There will be a generic tariff for RE
+The Ministry of Power notified the Electricity (Rights
+projects such as small hydro, non-fossil fuels-
+of Consumers) Amendment Rules, 2024.54 The Rules
+based co-generation, biogas based, and municipal
+amend the Electricity (Rights of Consumers) Rules,
+solid waste-based power projects. The generic
+2020, which specify the rights and obligations of
+tariff will be determined by CERC annually.
+electricity consumers.55 Key features of the amended
+CERC will determine a project specific tariff for
+rules include:
+projects such as solar PV, floating solar projects
+▪ Choice to opt for a single connection for a and wind power projects.
+building: The amended Rules add that owners
+▪ Tariff structure: For projects that have a fuel cost
+residing in apartments/flats/colonies may choose
+component, a two-component tariff with a fixed
+between individual connections for each owner or
+cost and a fuel cost will be determined.
+a single connection for the entire premises. If
+more than 50% owners opt for an individual ▪ Over-generation: In case an RE project generates
+connection, then all owners will be provided with more energy than the plant load factor, the project
+an individual connection. may sell the excess energy to any entity. The
+beneficiary shall have the first right of refusal. In
+▪ In case of a single connection for a building or
+case the beneficiary purchases the excess energy,
+society, the Resident Welfare Association will be
+the tariff will be equal to the tariff applicable for
+responsible for metering, billing, and collection
+that year.
+from individual owners. The Resident Welfare
+Association must operate on a no-profit, no-loss
+basis. Discoms may provide a separate connection
+for charging electric vehicles. Consumer Affairs
+▪ Rooftop solar systems: Earlier, the Rules
+Tanvi Vipra (tanvi@prsindia.org)
+required that a technical feasibility study must be
+conducted within 21 days or fewer as may be
+Draft greenwashing guidelines released for
+specified by the State Commission. The amended
+public comments
+Rules instead mandate that the study must be
+completed within 15 days. Amended Rules also
+The Central Consumer Protection Authority issued
+add that failure to intimate the results to the
+Draft Guidelines for Prevention and Regulation of
+applicant will deem the project feasible. Solar
+Greenwashing under the Consumer Protection Act,
+systems up to 10 kW capacity will be exempted 2019.57 Greenwashing refers to the use of misleading
+from a technical feasibility study. For such solar
+words or imagery that emphasise positive
+systems (below 10 kW), the entire cost of
+environmental aspects while downplaying or
+upgradation of distribution infrastructure is to be
+concealing harmful attributes. Key features of the draft
+borne by the discom.
+Guidelines include:
+▪ Protocol for meter related complaints: The
+▪ Greenwashing to be prohibited: The Guidelines
+2020 Rules provided that discoms must test a
+prohibit engaging in greenwashing for advertising
+meter within 30 days of receiving a complaint, or
+or communication. It will apply to all
+- 14-
+Monthly Policy Review – February 2024 PRS Legislative Research
+advertisements, service providers, product sellers, ▪ Approving authority for content: The draft
+advertisers, endorsers, or advertising agencies. Rules add that the approving authority for
+However, the prohibition will not apply to certification will be different based on the type and
+advertisements or communication that is general length of the content. For instance, long theatrical
+(not specific to a product or service). releases (more than 72 minutes) will be approved
+by the Chairperson of the Board, whereas the
+▪ Substantiation of environmental claims:
+dubbed version of the same will be approved by
+Generic terms such as clean, green, eco-friendly,
+the concerned Regional Officer. Currently, the
+cruelty free, and carbon-neutral will not be used
+Board has nine regional offices.62
+without adequate qualifiers and substantiation,
+while making any environmental claims. ▪ Representation of women in Board: The 1983
+Technical terms should be explained in a Rules state that the central government may take
+consumer-friendly language that clarifies its steps to ensure the representation of women in the
+meaning or implications. Board and advisory panels. Advisory panels are
+constituted at a regional level for the examination
+▪ Disclosures: All environmental claims must be
+of films. The draft Rules specify that one-third of
+accurate and disclose all material information.
+the members of the Board and advisory panels
+Research data must not be cherry picked while
+must be women. Also, women should preferably
+making disclosures. It should be clarified whether
+comprise half of the Board and advisory panels.
+an environmental claim refers to a good (or part of
+it), a manufacturing process, packaging, or service. ▪ Invitation of experts for certification: The draft
+Claims comparing goods or services must be based Rules allow the Regional Officer to invite one or
+on verifiable data, which is disclosed to more subject or language experts in the field of
+consumers. Specific environmental claims such as film for the examination of a film. If the experts
+carbon neutral, non-toxic, and renewable, should are not invited for the initial screening, the content
+be supported by credible certification, scientific may be re-screened for the experts, without any
+evidence, or third-party verification. cost to the applicant.
+▪ Claims regarding the future: Aspirational or Comments are invited until March 1, 2024.
+futuristic environmental claims may only be made
+when clear and actionable plans have been Standing Committee submits report on
+developed. These plans must detail how these
+regulation of cable television in India
+objectives will be achieved.
+The Standing Committee on Communications and
+Comments are invited until March 21, 2024.
+Information Technology (Chair: Mr. Prataprao Jadhav)
+presented its report on ‘Regulation of Cable Television
+in India’.63 Key observations and recommendations of
+the Committee include:
+Information and Broadcasting
+▪ Regulation of cable television: Cable TV is
+Pratinav Damani (pratinav@prsindia.org) primarily regulated by the Cable Television
+Networks (Regulation) Act, 1995. However, there
+Comments invited on the Draft Cinematograph are multiple regulators which have issued their
+Certification Rules own rules and guidelines on various aspects. This
+has led to a disparity of content across platforms.
+The Ministry of Information and Broadcasting invited
+The Telecom Regulatory Authority of India, the
+comments on the draft of the Cinematograph
+Department of Telecommunications and the
+(Certification) Rules, 2024.58 The draft Rules seek to
+Ministry of Information and Broadcasting (MIB),
+replace the Cinematograph (Certification) Rules,
+all regulate different aspects of cable television.
+1983.59 The Rules have been framed under the
+Cinematograph Act, 1952.60 The Act provides for ▪ Services such as Over The Top (OTT) platforms
+certification of films and matters related to the Central are not regulated under this Act, but by Rules
+Board of Film Certification. Draft Rules retain most of issued by the Ministry of Electronics and
+the provisions under 1983 Rules. Key changes include: Information Technology. The Committee
+observed that the cable TV industry needs to be
+▪ UA certification: The Cinematograph
+regulated by a comprehensive Act. The MIB
+(Amendment) Act, 2023 introduced markers
+informed the Committee that a draft Broadcasting
+indicating age appropriateness for UA
+Services (Regulation) Bill, 2023 had been released
+certification.61 These are: (i) UA 7+, (ii) UA13+,
+in the public domain for comments from
+and (iii) UA 16+. These allow for unrestricted
+stakeholders. The draft Bill seeks to regulate cable
+public exhibition, subject to guidance of parents,
+television and OTT platforms.
+for children below the specified age threshold.
+The draft Rules seek to give effect to these changes
+in the Act.
+- 15-
+Monthly Policy Review – February 2024 PRS Legislative Research
+▪ Constraints and challenges faced by the timelines and milestones for such projects, as well
+Ministry: Challenges faced by the MIB include: as activities undertaken during the year.
+(i) under-reporting of subscribers by cable
+Comments are invited until March 23, 2024.
+operators, (ii) absence of an oversight mechanism
+at the ground level, and (iii) the absence of a
+central database of Local Cable Operators (LCO).
+LCOs currently have to register with the head post
+Transport
+office of their area. The Committee recommended
+the MIB to work with the Ministry of Electronics
+Tanvi Vipra (tanvi@prsindia.org)
+and Information Technology to develop a
+comprehensive digital solution to address under- Comments invited on Rules regarding LPG
+reporting of cable TV subscribers and the absence
+fitting in vehicles
+of an oversight mechanism. It also recommended
+that the MIB to take initiatives to be the registering The Ministry of Road Transport and Highways invited
+authority for LCOs. comments on the Draft Central Motor Vehicles
+(Amendment) Rules, 2024.67 The draft Rules amend
+For a PRS Summary of the report, see here.
+the Central Motor Vehicles Rules 1989, issued under
+the Motor Vehicles Act, 1988.68,69 The Rules provide
+mass emission standards for LPG driven vehicles. Key
+features of the draft Rules are as follows:
+Mines
+▪ Eligibility of vehicles for fitting LPG kits:
+Pratinav Damani (pratinav@prsindia.org) Under the 1989 Rules, certified LPG kits can be
+installed in vehicles with a specified engine
+Comments invited on draft Rules on Offshore capacity. This includes an engine capacity up to
+Areas Mineral Trust 1,500 cc (with a 7% variation), and an engine
+capacity greater than 1,500 cc (with a 5%
+The Ministry of Mines has invited comments on the
+variation). The Draft Rules extend this to include
+draft Offshore Areas Mineral Trust Rules, 2024.64 The
+vehicles whose engine capacity ranges from less
+Rules have been issued under the Offshore Areas
+than 1200 cc to more than 2,501 cc. It also adds
+Mineral (Development and Regulation) Act, 2002.65
+that mass emission and CO emission tests be
+The Act regulates mining in the maritime zones of 2
+carried out before fitting the LPG kits.
+India. The Act was amended in 2023, to provide for
+constitution of the Offshore Areas Mineral Trust.66 ▪ Validity of approval extended: Under the 1989
+Key functions of the Trust are: (i) promoting research Rules, vehicles fitted with LPG kits are approved
+on offshore areas and mitigation of any adverse for three years. The approval can be renewed
+impacts, (ii) providing relief on the occurrence of a every three years. The Draft Rules propose to
+natural disaster in the offshore area, and (iii) funding extend the approval and renewal period to six
+institutions, startups and MSMEs for special projects years. The Draft Rules also list certain tests
+related to offshore mining of minerals. The draft Rules required before renewing an LPG certificate.
+provide for the matters related to the Trust. Key
+Comments are invited until March 22, 2024.
+features of the draft Rules include:
+▪ Governance of the Trust: The Trust will be Standing Committee submits report on
+governed by a Governing Body. An Executive operation and maintenance of national
+Committee will be responsible for administration,
+highways
+management, and supervision of the trust. The
+central government will notify the composition of The Standing Committee on Transport, Tourism and
+both the bodies. Culture (Chair: Mr. V. Vijayasai Reddy) presented its
+report on ‘Operation and Maintenance of National
+▪ Fund under the Trust: An Offshore Areas
+Highways and Management of Toll Plazas’. Key
+Mineral Trust Fund will be set up and will be
+recommendations of the Committee include:
+managed by the Executive Committee. The fund
+will be non-lapsable and non-interest-bearing. ▪ Delay in construction and inadequate funds for
+Holders of a production lease for offshore mines maintenance: National Highway network
+must pay a sum equal to 10% of the royalty increased by 54,858 km between 2014 and 2023.
+payable to the central government to this Fund. The Committee observed that the completion of
+hundreds of highways is running behind schedule,
+▪ Annual plan: An annual plan must be tabled
+and recommended expediting the construction
+before the Governing Body by the Secretary of the
+process. In 2023-24, the Ministry was allocated Rs
+Executive Committee every financial year. The
+2,600 crore for maintaining highways, which was
+plan must contain details of projects proposed to
+1% of the Ministry’s total budget. The Committee
+be undertaken during the year. It must also contain
+noted that given the vast length of highways, this
+- 16-
+Monthly Policy Review – February 2024 PRS Legislative Research
+amount is miniscule. It noted that several The Committee recommended that the
+committees including the NITI Aayog have infrastructure status as given to shipyards should
+suggested prioritising the maintenance of existing be extended to all ships and vessels. It also
+roads over constructing new national highways. recommended: (i) incentivising domestic
+production of specialised steels and (ii)
+▪ Slow progress in monetisation: The Ministry
+establishing a Maritime Development Fund for
+targets to raise Rs 45,000 crore under the toll-
+access to working capital and long-term finance.
+operate-transfer (TOT) (Rs 30,000 crore) and
+Infrastructure Investment Trusts (Rs 15,000 crore) For a summary of the report, please see here.
+(InvIT) models. The Committee noted that in the
+past two years, only 15% of the targets have been
+met. It recommended that the pace of monetisation
+should be increased to cope with NHAI’s rising Housing and Urban Affairs
+debt. In the current model, risks of traffic and toll
+collection are passed on to the private Arpita Mallick (arpita@prsindia.org)
+concessionaire which has resulted in dwindling
+Standing Committee submits report on Smart
+interest. The Committee noted that hybrid
+structures where the traffic risk is shared by the Cities
+authorities and the assured minimum payments are
+The Standing Committee on Housing and Urban
+made to concessionaires could alleviate some of
+Affairs (Chair: Mr Rajiv Ranjan) submitted its report
+the existing challenges.
+on “Smart Cities Mission: An Evaluation”.71 The
+For a PRS Summary of the report, see here Smart Cities Mission (SCM) was launched in 2015 to
+provide infrastructure, and a clean and sustainable
+Standing Committee submits report on status environment to citizens. Observations and
+of ship building industries recommendations of the Committee include:
+▪ Special Purpose Vehicles (SPVs): The Smart
+Arpita Mallick (arpita@prsindia.org)
+Cities mission is implemented by SPVs which are
+The Standing Committee on Transport, Tourism and equally owned by Urban Local Bodies (ULBs) and
+Culture (Chair: Mr V. Vijayasai Reddy) submitted its states. The board of directors of SPVs include
+report on ‘Status of Ship Building, Ship Repair and central and state government representatives and
+Ship breaking industries in the Country’70 Key chief executive officers (CEOs). The Committee
+recommendations include: noted that the frequent transfer of CEOs and lack
+of clear guidelines is one of the major challenges
+▪ Financial Assistance Policy: Under an initial faced by SPVs. It recommended: (i) appointing
+financial assistance policy shipbuilders were dedicated CEOs with a minimum fixed tenure, (ii)
+provided 30% additional assistance on building ensuring representation of experts and concerned
+merchant vessels longer than 80 meters for the stakeholders in SPVs, and (iii) utilising an SPV’s
+domestic market. For export orders, ships of all existing expertise in future projects.
+types and capacities were eligible for the subsidy.
+A new financial assistance scheme was introduced ▪ Public Private Partnerships: 21% of the smart
+for both state-owned and private shipyards, cities’ total funding was targeted to be raised via
+extending support for ships regardless of size. public-private partnerships (PPP). However, the
+Under this policy, financial assistance equivalent Committee noted that among the projects
+to 20% of the contract price, fair price or actual sanctioned, only 6% of the funding is through PPP.
+payments received, whichever is the least, will be Half of the smart cities could not take any project
+offered. The Committee noted that only 6-7% of under the PPP model. The Committee
+the Rs 4,000 crore corpus created for the policy has recommended that the government should analyse
+been utilised. It recommended evaluating reasons the reasons behind low private investments and
+for poor scheme utilization, and whether factors take remedial steps towards the same.
+such as high material imports for shipbuilding and
+▪ Digital infrastructure protection: There are
+low automation are affecting the competitiveness
+various digital infrastructure platforms under SCM
+of Indian shipyards.
+which generate and use large volumes of data. The
+▪ Development of shipbuilding industry: The Committee recommended formulating a
+share of India in global shipbuilding industry is mechanism to protect digital infrastructure from
+around 1%-2% due to high cost of shipbuilding. cyber threats and maintain data privacy. It also
+The Rangarajan Commission had recommended highlighted the need for the maintenance of digital
+classification of ships and other vessels as and physical assets. It recommended building
+infrastructure. Currently, shipyards have been comprehensive operation and maintenance
+granted the infrastructure status which would strategies to increase lifetime utility and ensure
+provide access to long term funding at lower rates. timely upgradation of assets under the mission.
+- 17-
+Monthly Policy Review – February 2024 PRS Legislative Research
+For a PRS summary of the report, see here. Labour
+Tanvi Vipra (tanvi@prsindia.org)
+Rural Development Medical insurance approved for certain retired
+persons
+Arpita Mallick (arpita@prsindia.org)
+The Employees’ State Insurance Corporation (ESIC)
+Standing Committee submits report on approved the decision to extend medical benefits to
+functioning of MGNREGA certain retired persons. Currently, only those persons
+whose wages are below Rs 30,000 per month, are
+The Standing Committee on Rural Development and covered. Benefits will also be extend to those persons
+Panchayati Raj (Chair: Ms. Kanimozhi Karunanidhi) whose wages are above this threshold.73 To be eligible,
+submitted its report on “Rural Employment through the worker must have been under insurable
+Mahatma Gandhi National Rural Employment employment for at least five years before their
+Guarantee Act (MGNREGA) - An Insight into Wage superannuation or voluntary retirement.
+Rates and Other Matters relating thereto”.72 Key
+recommendations of the Committee include:
+▪ Revision of wage rates: Wage rates under
+Water Resources
+MGNREGA are notified using Consumer Price
+Index for Agricultural Labour with 2010-11 as the
+Arpita Mallick (arpita@prsindia.org)
+base year. These rates are revised every year. The
+Committee noted that using 2010-11 as the base
+Standing Committee submits report on review
+year is not coherent with the present inflation and
+of Yamuna River cleaning projects in Delhi
+cost of living. Wages in Madhya Pradesh and
+Chhattisgarh are Rs 221, and Rs 228 in Bihar and The Standing Committee on Water Resources (Chair:
+Jharkhand. A central government Committee on Mr Parbatbhai Savabhai Patel) submitted its report on
+minimum wages had recommended the wages “Review of Upper Yamuna River Cleaning Projects up
+under MGNREGA to be Rs 375 a day. to Delhi and Riverbed Management in Delhi”.74 Key
+Accordingly, the Committee recommended recommendations of the Committee include:
+revising the wage rates.
+▪ Groundwater extraction: The Committee noted
+▪ Delay in payments: According to MGNREGA, that water yielded from production wells in
+payment of wages should be done within fifteen Yamuna is supplied for irrigation, domestic and
+days of closure of muster rolls. The Committee industrial purposes. The Delhi Jal Board has
+observed delay in release of wages and material installed 130 production wells in Yamuna
+components. They recommended DoRD to (i) floodplains which yield 196 Megalitres per day
+streamline the payment process, and (ii) use (MLD) water. There is still scope for withdrawal
+physical pay slips for technologically backward of additional 190 MLD of water. This demand
+beneficiaries of the scheme. increases during non-monsoon seasons and
+pumping of groundwater by borewells leads to
+▪ Gaps in budgetary allocation: The Committee
+drying of the river course. The Committee
+noted that the budgetary allocation to MGNREGA
+recommended that the agricultural sector adopt
+Scheme was Rs 60,000 crore against the proposed
+micro and drip irrigation techniques, and practice
+demand of Rs 98,000 crore in 2023-24. In 2022-
+water budgeting and watershed management.
+23, the revised estimate for the scheme was Rs
+89,400 crore. The Committee noted that reduced ▪ Water Quality: The Committee noted that
+budgeted allocation can negatively affect timely between 2021 and 2023, out of 33 monitored
+release of wages and materials. It recommended locations, the water quality in 23 locations did not
+the Department of Rural Development (DoRD) to comply with the Primary Water Quality Criteria
+seek funding in line with previous years’ for Outdoor Bathing (PWQC). The level of
+expenditures. dissolved oxygen, which is prescribed to be greater
+than 5 mg/l for life sustenance, was found to be
+For a PRS summary of the report, see here.
+virtually non-existent in Delhi.
+▪ Riverbed Pollution: The Committee observed a
+rise in cases of debris dumping in Yamuna from
+one in 2018 to 610 in 2021. High levels of metals
+such as lead, copper and zinc were found in
+various sludge samples collected from Yamuna
+which is a severe health hazard. The Committee
+recommended that: (i) the Department prepare
+- 18-
+Monthly Policy Review – February 2024 PRS Legislative Research
+rules regarding dumping of debris, (ii) controlled For a summary of the report, please see here.
+dredging be explored to remove debris and heavy
+metals from the bottom of the riverbed, and (iii) a
+system for proper disposal of heavy metal polluted
+sludge be framed.
+1 Interim Union Budget 2024-25, https://www.indiabudget.gov.in/. https://prsindia.org/files/bills_acts/bills_parliament/2024/Constitution
+_(Scheduled_Tribes)_Order_(Amendment)_Bill,_2024.pdf
+2 Press Note on Second Advance Estimates of National Income 2023-
+24, Quarterly Estimates of Gross Domestic Product for the Third 16 ‘The Law on Criminal Defamation’, Law Commission of India,
+Quarter (October-December) of 2023-24 and First Revised Estimates January 31, 2024,
+of National Income, Consumption Expenditure, Saving and Capital https://cdnbbsr.s3waas.gov.in/s3ca0daec69b5adc880fb464895726dbd
+Formation for 2022-23, National Statistical Office, Ministry of f/uploads/2024/02/202402021139959703.pdf.
+Statistics and Programme Implementation, February 29, 2024, 17 A Comprehensive Review of the Epidemic Diseases Act, 1897’,
+https://www.mospi.gov.in/sites/default/files/press_release/PressNote Law Commission of India, February 7, 2024,
+GDP29022024.pdf. https://cdnbbsr.s3waas.gov.in/s3ca0daec69b5adc880fb464895726dbd
+3 Press Note on Second Advance Estimates of National Income 2023- f/uploads/2024/02/20240212724768593.pdf.
+24, Quarterly Estimates of Gross Domestic Product for the Third 18 ‘Law on Matrimonial Issues relating to Non-resident Indians and
+Quarter (October-December) of 2023-24 and First Revised Estimates Overseas citizens of India’, Law Commission of India, February 15,
+of National Income, Consumption Expenditure, Saving and Capital 2024,
+Formation for 2022-23, National Statistical Office, Ministry of https://cdnbbsr.s3waas.gov.in/s3ca0daec69b5adc880fb464895726dbd
+Statistics and Programme Implementation, February 29, 2024, f/uploads/2024/02/20240216739162193.pdf.
+https://www.mospi.gov.in/sites/default/files/press_release/PressNote 19 Report no. 141, ‘Judicial Infrastructure in the North Eastern States
+GDP29022024.pdf. of India’, Standing Committee on Personnel, Grievances, Law and
+4 Press Note on First Advance Estimates of National Income 2023- Justice, February 7, 2024,
+24, National Statistical Office, Ministry of Statistics and Programme https://sansad.in/getFile/rsnew/Committee_site/Committee_File/Repo
+Implementation, January 5, 2024, rtFile/18/191/141_2024_2_12.pdf?source=rajyasabha
+https://www.mospi.gov.in/sites/default/files/press_release/PressNote 20 Report no. 142, ‘Strengthening Legal Education in View of
+FAE2023-24N.pdf. Emerging Challenges before the Legal Profession’, Standing
+5 Notification, Central Statistical Office, Ministry of Statistics and Committee on Personnel, Public Grievances, Law and Justice,
+Programme Implementation, February 28, 2024, February 7, 2024,
+https://www.mospi.gov.in/sites/default/files/announcements/Notificat https://sansad.in/getFile/rsnew/Committee_site/Committee_File/Repo
+ion_English_Signed.pdf?download=1. rtFile/18/191/142_2024_2_12.pdf?source=rajyasabha
+6 Monetary Policy Statement, 2023-24, Resolution of the Monetary 21 Water (Prevention and Control of Pollution) Amendment Bill,
+Policy Committee (MPC) February 6 to 8, 2024, Reserve Bank of 2024,
+India, February 8, 2024, https://prsindia.org/files/bills_acts/bills_parliament/2024/Water_(Pre
+https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1826MPCRES vention_and_Control_of_Pollution)_Bill,_2024.pdf.
+OLUTIONFEBRUARY2024632329A8D39644F28C5EA782119B99 22 Water (Prevention and Control of Pollution) Act, 1974,
+C3.PDF. https://www.indiacode.nic.in/bitstream/123456789/15429/1/the_wate
+7 Monetary Policy Statement, 2022-23 Resolution of the Monetary r_%28prevention_and_control_of_pollution%29_act%2C_1974.pdf.
+Policy Committee (MPC) February 6-8, 2023, Reserve Bank of India, 23 The Public Examinations (Prevention of Unfair Means) Act,
+February 8, 2023, 2024,https://prsindia.org/files/bills_acts/bills_parliament/2024/The_P
+https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1680701A840E ublic_Examinations_(Prevention_of_Unfair_Means)_Act,_2024.pdf
+83084999813D1AA1F86CA151.PDF.
+24 ‘Guidelines for Internship/Research Internship for Undergraduate
+8 Quick Estimates of Index of Industrial Production and Use-Based Students’, University Grants Commission, February 2, 2024,
+Index for The Month of December 2023, Ministry of Statistics and https://www.ugc.gov.in/pdfnews/2051511_Internship-Research-
+Programme Implementation, February 12, 2024, Internship-Guidelines.pdf
+https://www.mospi.gov.in/sites/default/files/press_release/IIP_PR_12
+25 Draft Guidelines for Prevention of Misleading Advertisements in
+feb24.pdf.
+Coaching, 2024, Central Consumer Protection Authority, February
+9 “Quick Estimates of Index of Industrial Production and Use-Based 16, 2024, https://consumeraffairs.nic.in/sites/default/files/file-
+Index for the Month of December, 2022 (Base 2011-12=100), Press uploads/latestnews/Public%20Comments%20Letter%202.pdf.
+Information Bureau, Ministry of Statistics and Programme
+26 The Consumer Protection Act, 2019,
+Implementation, February 10, 2023,
+https://www.indiacode.nic.in/bitstream/123456789/15256/1/a2019-
+https://pib.gov.in/PressReleasePage.aspx?PRID=1897995.
+35.pdf.
+10 Writ Petition No. 880 of 2017, Association of Democratic Reforms
+27 “Cabinet approves amendment in the Foreign Direct Investment
+& Anr, vs. Union of India, Supreme Court,
+(FDI) policy on Space Sector”, Press Information Bureau, Ministry of
+https://main.sci.gov.in/supremecourt/2017/27935/27935_2017_1_150
+Commerce and Industry, February 21, 2024,
+1_50573_Judgement_15-Feb-2024.pdf
+https://pib.gov.in/PressReleasePage.aspx?PRID=2007876.
+11 The Finance Act, 2017,
+28 Consolidated FDI Policy, Ministry of Commerce and Industry,
+https://egazette.gov.in/WriteReadData/2017/175141.pdf
+https://dpiit.gov.in/sites/default/files/FDI-PolicyCircular-2020-
+12 S.O. 29 (E), Gazette of India, Ministry of Finance, January 2, 2018, 29October2020_0.pdf.
+http://egazette.nic.in/WriteReadData/2018/181434.pdf.
+29 187th Report, ‘Comprehensive Strategy to Map Major Products and
+13 Jammu and Kashmir Local Bodies Laws (Amendment) Act, 2024, Countries to Maximise Exports and Minimise Imports’, Standing
+https://prsindia.org/files/bills_acts/bills_parliament/2024/The_Jammu Committee on Commerce, February 8, 2024,
+_and_Kashmir_Local_Bodies_Laws_(Amendment)_Act,_2024.pdf https://sansad.in/getFile/rsnew/Committee_site/Committee_File/Repo
+14 The Constitution (Scheduled Castes and Scheduled Tribes) Order rtFile/13/186/187_2024_2_13.pdf?source=rajyasabha.
+(Amendment) Bill, 2024, 30 Exposure Draft of Insurance Regulatory and Development
+https://prsindia.org/files/bills_acts/bills_parliament/2024/Constitution Authority of India (Protection of Policyholders’ Interests and Allied
+_(Scheduled_Castes_and_Scheduled_Tribes)_Orders_(Amendment)_ Matters of Insurers) Regulations, 2024, Insurance Regulatory and
+Bill,_2024.pdf Development Authority of India, February 14, 2024,
+15 The Constitution (Scheduled Tribes) Order (Amendment Bill, https://irdai.gov.in/web/guest/document-
+2024, detail?documentId=4416546.
+- 19-
+Monthly Policy Review – February 2024 PRS Legislative Research
+nformation%20Technology/17_Communications_and_Information_
+Technology_54.pdf?source=loksabhadocs.
+31 Insurance Regulatory and Development Authority of India
+(Protection of Policyholders’ Interests) Regulations, 2017, Insurance 45 Surrogacy (Regulation) Amendment Rules, 2024, Ministry of
+Regulatory and Development Authority of India, June 22, 2017, Health and Family Welfare, February 21, 2024,
+https://irdai.gov.in/document-detail?documentId=385593. https://egazette.gov.in/WriteReadData/2024/252270.pdf.
+32 “Consultation Paper on Relaxation in Timelines for Disclosure of 46 G.S.R 460(E), Ministry of Health and Family Welfare, June 21,
+Material Changes by Foreign Portfolio Investors”, Securities and 2022,
+Exchange Board of India, February 7, 2024, https://upload.indiacode.nic.in/showfile?actid=AC_CEN_12_72_000
+https://www.sebi.gov.in/reports-and-statistics/reports/feb- 02_202147_1643711958603&type=rule&filename=surrogacy_rules.
+2024/consultation-paper-on-relaxation-in-timelines-for-disclosure-of- pdf.
+material-changes-by-foreign-portfolio-investors_81211.html. 47 The Surrogacy (Regulation) Act, 2021,
+33 Consultation Paper on Ease of Doing Business Initiatives for https://www.indiacode.nic.in/bitstream/123456789/17046/1/A2021-
+Mutual Funds, Securities and Exchange Board of India, February 23, 47.pdf.
+2024, https://www.sebi.gov.in/reports-and-statistics/reports/feb- 48 G.S.R.179(E)., Ministry of Health and Family Welfare, March 14,
+2024/consultation-paper-on-ease-of-doing-business-initiatives-for- 2023,
+mutual-funds_81722.html. https://upload.indiacode.nic.in/showfile?actid=AC_CEN_12_72_000
+34 Draft Disclosure framework on Climate-related Financial Risks, 02_202147_1643711958603&type=rule&filename=the_surrogacy_a
+2024, Reserve Bank of India, February 28, 2024, mendment_rule,_2023.pdf
+https://rbidocs.rbi.org.in/rdocs/Content/PDFs/DRAFTDISCLOSURE 49 Writ Petition (Civil) no. 830/2023, ABC vs. Union of India,
+CLIMATERELATEDFINANCIALRISKS20249FBE3A566E7F487 Supreme Court, October 18, 2023,
+EBF9974642E6CCDB1.PDF. https://main.sci.gov.in/supremecourt/2022/26590/26590_2022_15_50
+35 RBI invites comments on the “Draft Disclosure framework on _47762_Order_18-Oct-2023.pdf .
+Climate-related Financial Risks, 2024”, Reserve Bank of India, 50 Report No. 157, 'Quality of Medical Education in India', Standing
+February 28, 2024, Committee on Health and Family Welfare, Rajya Sabha, February 9,
+https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1958DRAFTC 2024,
+LIMATERELATEDFINANCIALRISKS20249B1140EC054244DB8 https://sansad.in/getFile/rsnew/Committee_site/Committee_File/Repo
+BD2D5655BB39988.PDF. rtFile/14/187/157_2024_2_19.pdf?source=rajyasabha
+36 Report No. 66, ‘Performance Review and Regulation of Insurance 51 Report No. 50, ‘Promotion of Medical Device Industry’, Standing
+Sector’, Standing Committee on Finance, February 6, 2024, Committee on Chemicals and Fertilizers, Lok Sabha, February 8,
+https://sansad.in/getFile/lsscommittee/Finance/17_Finance_66.pdf?so 2024,
+urce=loksabhadocs. https://sansad.in/getFile/lsscommittee/Chemicals%20&%20Fertilizer
+37 “Cabinet approves "Pradhan Mantri Matsya Kisan Samridhi Sah- s/17_Chemicals_And_Fertilizers_50.pdf?source=loksabhadocs.
+Yojana (PM-MKSSY)”, Ministry of Agriculture and Farmers’ 52 Report No. 156, 'Review of National AYUSH Mission', Standing
+Welfare, Press Information Bureau, February 8, 2024, Committee on Health and Family Welfare, Rajya Sabha, February 7,
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2004216. 2024,
+38 Report No. 70, ‘Employment and Revenue Earning Potential of https://sansad.in/getFile/rsnew/Committee_site/Committee_File/Repo
+Fisheries Sector’, Standing Committee on Agriculture, Animal rtFile/14/187/156_2024_2_19.pdf?source=rajyasabha
+Husbandry, and Food Processing, Lok Sabha, February 7, 2024, 53 “Cabinet approves PM-Surya Ghar: Muft Bijli Yojana for installing
+https://sansad.in/getFile/lsscommittee/Agriculture,%20Animal%20H rooftop solar in one crore households”, Press Information Bureau,
+usbandry%20and%20Food%20Processing/17_Agriculture_Animal_ Cabinet, February 29, 2024,
+Husbandry_and_Food_Processing_70.pdf?source=loksabhadocs. https://pib.gov.in/PressReleseDetailm.aspx?PRID=2010130.
+39 Report No. 68, ‘Promotion of Climate Resilient Farming’, Standing 54 The Electricity (Rights of Consumers) Amendment Rules, 2024,
+Committee on Agriculture, Animal Husbandry, and Food Processing, Ministry of Power, February 22, 2024,
+Lok Sabha, February 7, 2024, https://powermin.gov.in/sites/default/files/webform/notices/Electricit
+https://sansad.in/getFile/lsscommittee/Agriculture,%20Animal%20H y_Rights_of_Consumers_Amendment_Rules_2024.pdf.
+usbandry%20and%20Food%20Processing/17_Agriculture_Animal_ 55 The Electricity (Rights of Consumers) Rules, 2020, Ministry of
+Husbandry_and_Food_Processing_68.pdf?source=loksabhadocs. Power, December 31, 2020,
+40 Report No. 55, ‘Development of Cotton Sector’, Standing https://powermin.gov.in/sites/default/files/uploads/Consumers_Rules
+Committee on Labour, Textiles and Skill Development, Lok Sabha, _2020.pdf.
+February 7, 2024, 56 Draft Central Electricity Regulatory Commission (Terms and
+https://sansad.in/getFile/lsscommittee/Labour,%20Textiles%20and% Conditions for Tariff determination from Renewable Energy Sources)
+20Skill%20Development/17_Labour_Textiles_and_Skill_Developme Regulations, 2024, Central Electricity Regulatory Commission,
+nt_55.pdf?source=loksabhadocs. https://cercind.gov.in/2024/draft_reg/DN170224.pdf.
+41 Information Technology (Procedure and Safeguards for 57 Draft Guidelines for Prevention and Regulation of Greenwashing,
+Interception, Monitoring and Decryption of Information) Amendment 2024, Central Consumer Protection Authority, February 20, 2024,
+Rules, 2024, Ministry of Electronics and Information Technology, https://consumeraffairs.nic.in/sites/default/files/file-
+February 26, 2024, uploads/latestnews/Draft%20Guidline%20with%20approval.pdf.
+https://egazette.gov.in/WriteReadData/2024/252374.pdf. 58 Draft Cinematograph (Certification) Rules, 2024, Ministry of
+42 Information Technology (Procedure and Safeguards for Information and Broadcasting, February 9, 2024,
+Interception, Monitoring and Decryption of Information) Rules, https://mib.gov.in/sites/default/files/Ministry%20of%20Information
+2009, Ministry of Electronics and Information Technology, October %20and%20Broadcasting%20invites%20commentssuggestions%20o
+27, 2009, n%20the%20Draft%20Cinematograph%20%28Certification%29%20
+https://www.meity.gov.in/writereaddata/files/Information%20Techno Rules%2C%202024%20proposed%20to%20be%20notified%20to%2
+logy%20%28Procedure%20and%20Safeguards%20for%20Intercepti 0carry%20out%20the%20provisions%20of%20the%20Cinematograp
+on%2C%20Monitoring%20and%20Decryption%20of%20Informatio h%20%28Amendment%29%20Act%2C%202023.pdf.
+n%29%20Rules%2C%202009.pdf. 59 The Cinematograph (Certification) Rules, 1983, Ministry of
+43 The Information Technology Act, 2000, Information and Broadcasting, May 9, 1983,
+https://www.indiacode.nic.in/bitstream/123456789/1999/1/A2000- https://upload.indiacode.nic.in/showfile?actid=AC_CEN_29_41_000
+21%20%281%29.pdf. 11_195237_1517807328551&type=rule&filename=Cinematograph%
+44 Report No. 54, ‘Digital Payment and Online Security Measures for 20Certification%20Rules%201983.pdf.
+Data Protection’, Standing Committee on Communications and 60 The Cinematograph Act, 1952,
+Information Technology, Lok Sabha, February 8, 2024, https://www.indiacode.nic.in/bitstream/123456789/2170/5/a1952-
+https://sansad.in/getFile/lsscommittee/Communications%20and%20I 37.pdf.
+- 20-
+Monthly Policy Review – February 2024 PRS Legislative Research
+71 Report no. 21, ‘Smart Cities Mission: An evaluation’, Standing
+Committee on Housing and Urban Affairs,
+61 The Cinematograph (Amendment) Act, 2023,
+https://sansad.in/getFile/lsscommittee/Housing%20and%20Urban%2
+https://egazette.gov.in/WriteReadData/2023/247867.pdf.
+0Affairs/17_Housing_and_Urban_Affairs_21.pdf?source=loksabhad
+62 Website of the Central Board of Film Certification as accessed on ocs.
+March 1, 2024, https://www.cbfcindia.gov.in/cbfcAdmin/about.php.
+72 Report no. 37, “Rural Employment through Mahatma Gandhi
+63 Report No. 56, ‘Regulation of Cable Television in India’, Standing National Rural Employment Guarantee Act (MGNREGA)- An
+Committee on Communications and Information Technology, Lok insight into wage rates and other matters relating thereto”, Standing
+Sabha, February 8, 2024, Committee on Rural Development and Panchayati Raj,
+https://sansad.in/getFile/lsscommittee/Communications%20and%20I https://sansad.in/getFile/lsscommittee/Rural%20Development%20an
+nformation%20Technology/17_Communications_and_Information_ d%20Panchayati%20Raj/17_Rural_Development_and_Panchayati_R
+Technology_56.pdf?source=loksabhadocs. aj_37.pdf?source=loksabhadocs.
+64 Draft Offshore Areas Mineral Trust Rules, 2024, Ministry of 73 “Medical Benefits to be extended to superannuated Insured Persons
+Mines, February 22, 2024, with relaxed norms”, Ministry of Labour and Employment, Press
+https://mines.gov.in/admin/storage/app/uploads/65d80a8820ab01708 Information Bureau, February 10, 2024,
+657288.pdf. https://www.pib.gov.in/PressReleasePage.aspx?PRID=2004774.
+65 The Offshore Areas Mineral (Development and Regulation) Act, 74 Report no. 27, ‘Review of Upper Yamuna River Cleaning Projects
+2002, up to Delhi and Riverbed Management in Delhi’, Standing
+https://www.indiacode.nic.in/bitstream/123456789/2040/3/A2003- Committee on Water Resources, February 6, 2024,
+17.pdf. https://sansad.in/getFile/lsscommittee/Water
+66 The Offshore Areas Mineral (Development and Regulation) Resources/17_Water_Resources_27.pdf?source=loksabhadocs.
+Amendment Act, 2023,
+https://egazette.gov.in/WriteReadData/2023/248041.pdf.
+DISCLAIMER: This document is being furnished to you for your
+67 GSR 126(E), Draft Central Motor Vehicles Amendment Rules, information. You may choose to reproduce or redistribute this
+2024, Ministry of Road Transport and Highways, February 22, 2024, report for non-commercial purposes in part or in full to any other
+https://egazette.gov.in/(S(0mnp3mo5odh5fj0xugg4dqhf))/ViewPDF.a person with due acknowledgement of PRS Legislative Research
+spx. (“PRS”). The opinions expressed herein are entirely those of the
+68 The Central Motor Vehicles Rules, 1989, author(s). PRS makes every effort to use reliable and
+https://upload.indiacode.nic.in/showfile?actid=AC_CG_61_1084_00 comprehensive information, but PRS does not represent that the
+001_00001_1554966634246&type=rule&filename=the_central_moto contents of the report are accurate or complete. PRS is an
+r_vehicles_rules,_1989.pdf#page=22&zoom=100,0,0. independent, not-for-profit group. This document has been
+69 The Motor Vehicles Act, 1988, prepared without regard to the objectives or opinions of those
+https://indiacode.nic.in/bitstream/123456789/1798/1/A1988-59.pdf. who may receive it.
+70 Report no. 368, “Status of Ship Building, Ship Repair and Ship
+breaking industries in the Country”, Standing Committee on
+Transport, Tourism and Culture, February 8, 2024,
+https://sansad.in/getFile/rsnew/Committee_site/Committee_File/Repo
+rtFile/20/193/368_2024_2_14.pdf?source=rajyasabha.
+- 21-

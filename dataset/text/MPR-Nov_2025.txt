@@ -1,0 +1,932 @@
+Monthly Policy Review
+November 2025
+Highlights of this Issue
+GDP grows at 8.2% in second quarter of 2025-26 (p. 2)
+Financial, real estate and professional services sector registered the highest growth in the second quarter of
+2025-26 (10.2%), followed by public services (9.7%), and manufacturing (9.1%).
+The four Labour Codes brought into effect (p. 2)
+The Ministry of Labour and Employment issued notifications to bring the four Labour Codes into effect. The
+Rules to implement these codes are expected to be notified in a few months.
+Quality Control Orders suspended or withdrawn in multiple sectors (p. 2)
+These changes have been brought across multiple sectors, covering electrical equipment, metals, steel, and key
+chemical inputs.
+The Digital Personal Data Protection Rules, 2025 notified (p. 3)
+The Rules specify manner of adherence to data fiduciary obligations and exercise of rights by data principals.
+They also specify details with regard to the constitution and functioning of the Data Protection Board.
+Cabinet approves the Export Promotion Mission (p. 4)
+The mission aims to support MSMEs to boost exports. It will provide for affordable trade finance and building
+capacity. The expected outlay under the scheme is Rs 25,060 crore over five years.
+Cabinet approves a scheme to promote manufacturing of rare earth magnets (p. 4)
+The scheme aims to create 6,000 metric tons per annum of rare earth permanent magnets manufacturing
+capacity in India. A total outlay of Rs 7,280 crore is estimated over a period of seven years.
+Supreme Court delivers opinion on the presidential reference (p. 6)
+The reference raised 14 questions, primarily related to the Court’s authority with regard to the assent to Bills by
+the President and Governors. The Court opined that the judiciary cannot prescribe timelines for assent to Bills.
+Supreme Court strikes down certain provisions of the Tribunal Reforms Act, 2021 (p. 6)
+These include provisions relating to eligibility for appointments of the Chairperson and members of Tribunals,
+manner of appointment, and the length of tenure.
+Comments invited on the Draft Seeds Bill, 2025 (p. 6)
+The Bill seeks to replace the Seeds Act, 1966. It mandates registration of seeds varieties and provides for
+regulation of trade in seeds. It also mandates adoption of seeds traceability norms.
+Standing Committees of Parliament have identified issues to examine (p. 8)
+Topics include review of Samagra Shiksha Abhiyan, affordability and accessibility of healthcare facilities,
+ensuring safety in Indian Rail operations, and review of self-reliance and modernisation of defence PSUs.
+December 1, 2025
+PRS Legislative Research ■ Institute for Policy Research Studies
+3rd Floor, Gandharva Mahavidyalaya ■ 212, Deen Dayal Upadhyaya Marg ■ New Delhi – 110002
+Tel: (011) 23234801, 43434035 ■ www.prsindia.org
+Monthly Policy Review – November 2025 PRS Legislative Research
+Parliament GDP across economic sectors is measured in terms of
+Gross Value Added (GVA). Financial, real estate and
+Atri Prasad Rout (atri@prsindia.org) professional services sector registered the highest
+growth in the second quarter of 2025-26 (10.2%),
+Winter Session 2025 begins followed by public services sector (9.7%), and
+manufacturing (9.1%).
+The Winter Session of Parliament is scheduled to
+commence on December 1, 2025. The session is Table 1: Growth in GVA across sectors in the
+scheduled to be held till December 19, 2025, with a second quarter of 2025-26, (in %, year-on-year)
+total of 15 sittings. Quarter 2
+Sector
+Ten Bills are listed for introduction in this session. 2023-24 2024-25 2025-26
+These include: (i) the Securities Markets Code Bill,
+Agriculture 3.7% 4.1% 3.5%
+2025, (ii) the Insurance Laws (Amendment) Bill, 2025,
+Mining 4.1% -0.4% 0.0%
+(iii) the Higher Education Commission of India Bill,
+2025, (iv) the Atomic Energy Bill, 2025, and (v) the Manufacturing 17.0% 2.2% 9.1%
+National Highways (Amendment) Bill, 2025. A Electricity 11.7% 3.0% 4.4%
+Constitutional Amendment Bill to treat Chandigarh as
+Construction 14.6% 8.4% 7.2%
+other Union Territories without legislatures has also
+been listed for introduction. Another Bill seeks to Trade 5.4% 6.1% 7.4%
+repeal about 120 obsolete laws. Financial Services 8.3% 7.2% 10.2%
+Two pending Bills are listed for consideration and Public Services 8.9% 8.9% 9.7%
+passing: (i) the Insolvency and Bankruptcy Code GVA 9.2% 5.8% 8.1%
+(Amendment) Bill, 2025, and (ii) the Jan Vishwas
+GDP 9.3% 5.6% 8.2%
+(Amendment of Provisions)) Bill, 2025. These Bills
+Sources: Ministry of Statistics and Programme Implementation; PRS.
+were introduced during the Monsoon Session, and are
+being examined by Select Committees of Lok Sabha.
+Quality Control Orders suspended or
+The first batch of supplementary demands for 2025-26
+withdrawn in multiple sectors
+will also be presented and voted upon.
+Vaishali Dhariwal (vaishali@prsindia.org)
+For more details on the legislative agenda for the
+Winter Session, please see here.
+Several ministries have withdrawn or suspended
+enforcement of Quality Control Orders (QCOs). These
+orders require products to conform to specified
+standards to ensure quality and safety. Changes affect
+Macroeconomic Development
+sectors such as electricity, metals, steel, chemicals, and
+textiles. Enforcement of QCOs for several electrical
+GDP grows at 8.2% in the second quarter of
+equipment has been deferred, except for those already
+2025-26 implemented.2 The Ministry of Mines has withdrawn
+Shania Ali (shania@prsindia.org)
+QCOs on products such as Aluminium and Aluminium
+Alloy, Copper, Nickel, Tin Ingot, Refined Nickel,
+Refined Zinc, and Primary Lead. 3,4,5,6,7,8,9 The Ministry
+Gross Domestic Product (GDP) (at constant prices)
+of Steel has suspended enforcement of 55 QCOs for
+grew at 8.2% in the second quarter (July-September) of
+specified steel products.10 The Department of
+2025-26, over the corresponding period in 2024-25.1 In
+Chemicals and Petrochemicals has rescinded 14 QCOs
+the second quarter of 2024-25, GDP had grown by
+for chemicals including Pyridine, Beta Picoline,
+5.6%. In the first quarter (April-June) of 2025-26,
+Ethylene Glycol, and 100% Polyester spun grey and
+GDP is estimated to grow at 7.8%.
+white yarn.11
+Figure 1: GDP growth at constant 2011-12 prices (in
+percentage, year-on-year)
+12%
+10% 9.7% 9.3% 9.5% Labour and Employment
+8.4% 8.2%
+7.8%
+7.4%
+8% 6.5% 6.4% Vaishali Dhariwal (vaishali@prsindia.org)
+5.6%
+6%
+The four Labour Codes brought into effect
+4%
+The Ministry of Labour and Employment has issued
+2%
+notifications to bring four Labour Codes into effect: (i)
+0% Code on Wages, 2019, (ii) Industrial Relations Code,
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2
+2020, (iii) Code on Social Security, 2020, and (iv)
+2023-24 2024-25 2025-26 Occupational Safety, Health and Working Conditions
+Sources: Ministry of Statistics and Programme Implementation; PRS. Code, 2020.12 These replace 29 labour laws including
+- 2 -
+Monthly Policy Review – November 2025 PRS Legislative Research
+the Factories Act, 1948, the Minimum Wages Act, fracturing, acidizing, tanker operations must be
+1948, the Trade Unions Act, 1926, the Industrial conducted under authorised supervision with
+Disputes Act, 1947, and the Payment of Gratuity Act, mandatory pre-testing, exclusion zones, and
+1972. For a PRS brief on the changes, see here. As per specialised equipment.
+news reports, the Labour Secretary has stated that the
+ Environmental safeguards: The regulations
+draft Rules under these four Codes will be re-released
+prohibit the discharge of untreated fluids into water
+for public consultation.13 The implementation of the
+bodies and require flare systems to have
+four Codes will begin once the Rules are finalised.13
+continuous ignition. Mines must install continuous
+hydrocarbon gas detection and alarm systems in
+A special-window enrolment scheme launched
+process areas and compressor houses.
+to regularise past non-compliance with EPF
+Comments are invited by January 10, 2026.
+The Ministry of Labour and Employment has launched
+the Employees’ Enrolment Scheme, 2025.14 The
+scheme provides a special window to extend
+Employees' Provident Fund (EPF) coverage to eligible Information Technology
+workers who were not previously enrolled between
+July 2017 and October 2025. It applies across sectors Ayush Stephen Toppo (ayush@prsindia.org)
+and aims to broaden social security coverage and
+regularise past non-compliance. The Digital Personal Data Protection Rules,
+2025 notified
+Employers may voluntarily enrol eligible employees.
+The employee’s EPF share will be waived for the The Ministry of Electronics and Information
+period between July 2017 and October 2025. However, technology has notified the Digital Personal Data
+the employers must remit their own share along with Protection Rules, 2025.17 These Rules have been
+interest, administrative charges, and a fixed penalty of issued under the Digital Personal Data Protection Act,
+Rs 100. Employers already under inquiry for past non- 2023.18 The Rules prescribe different timelines for
+compliance will also be eligible, with damages limited various provisions. For instance, the Rules with respect
+to Rs 100. No suo-moto action will be taken by EPFO to the Data Protection Board will be effective
+for the period covered. The scheme will be operational immediately. Data processing-related obligations of
+from November 1, 2025 to April 30, 2026. data fiduciaries will be effective 18 months after
+publication. Key features of the Rules include:
+Draft oil mines safety regulations released for
+ General data processing obligations: The Act
+public consultation
+requires data fiduciaries to issue a notice before
+The Ministry of Labour and Employment has invited processing personal data, enable withdrawal of
+comments on the draft Regulations on occupational consent, report data breaches, and erase data when
+safety, health and working conditions in oil mines.15 it is no longer needed, unless required by law. It
+The draft Regulations have been framed under the also requires Significant Data Fiduciaries to
+Occupational Safety, Health, and Working Conditions undergo audits to check compliance with the Act.
+Code, 2020.16 Key features include: A data fiduciary is an entity that collects and
+processes personal data. 19 The Rules specify that
+ Administrative requirements: The owner, agent
+the notice given by data fiduciaries to concerned
+or manager of the mines must give at least 30
+individuals must itemise data collected, explain the
+days’ notice before abandonment, closure,
+purpose of collection, and the process for
+discontinuance, or reopening. Notice is also
+withdrawing consent. Certain data fiduciaries
+required for change in ownership. The regulations
+(such as large e-commerce companies) must notify
+specify qualifications for various appointments,
+individuals before erasing their data. The audits
+including managers and competent persons.
+for Significant Data Fiduciaries must be conducted
+ Duties of management: Owners must maintain a every 12 months.
+Safety Management Plan, covering hazard
+ Processing of children’s data: Data fiduciaries
+identification, risk assessment, control measures,
+must use appropriate measures to get verifiable
+and periodic review. Contractors are made
+consent from the child’s parent before data
+responsible for ensuring training, providing
+processing. The Rules specify that the parent must
+information about hazards, and maintaining
+be an adult and it may be verified using: (i) reliable
+equipment integrity.
+identity details available with the fiduciary, (ii)
+ Risk management: Owners must prepare site- voluntarily provided information, or (iii) a digital
+specific Emergency Response Plans for token issued from an authorised entity. Healthcare
+operational, industrial, and natural disasters. professionals, educational institutions, and
+Certain high-risk hazards such as fire, explosion, childcare providers are exempted from consent
+blowouts, and toxic gas require specific hazard requirements for specific purposes.
+management plans. Hazardous operations such as
+- 3 -
+Monthly Policy Review – November 2025 PRS Legislative Research
+ Data Protection Board: The Act establishes a Comments invited on draft guidelines for use of
+Board to perform certain functions such as Geographical Indication logo
+registration of consent managers, conducting
+The Department of Promotion of Industry and Internal
+inquiries, and taking actions to protect individuals.
+Trade has invited comments on draft guidelines for use
+The Rules specify that members of the Board will
+of Geographical Indication (GI) logo.22 A GI is an
+be appointed on the recommendations of a search-
+indication that includes registered name or any sign
+cum-selection committee. The Rules also specify
+which identifies goods that come from a particular
+terms and conditions of service of the members of
+place and have special qualities or reputation because
+the Board.
+of that geographical location. The guidelines are issued
+under the Geographical Indications of Goods
+(Registration and Protection) Act, 1999.23 The
+Commerce and Industry guidelines specify that GI name or logo may not be
+used when the goods do not meet specified production
+Jahanvi Choudhary (jahanvi@prsindia.org) standards, or are presented in a misleading manner.
+The GI logo must also not be used on processed
+Cabinet approves the Export Promotion products made using GI goods as raw material.
+Mission
+Comments are invited until December 18, 2025.
+The Union Cabinet has approved the Export Promotion
+Mission (EPM) announced in the 2025-26 Union India and Israel signs terms of reference for a
+Budget.20 The mission seeks to strengthen India’s free trade agreement
+export competitiveness, particularly for MSMEs, first-
+India and Israel signed terms of reference to initiate
+time exporters, and labour-intensive sectors. Key
+negotiations of Free Trade Agreement (FTA).24 The
+sectors to prioritised under the Mission include: (i)
+terms of reference lay down the scope and procedure
+textiles, (ii) leather, (iii) gems and jewellery, (iv)
+for the FTA. According to the government, the
+engineering goods, and (v) marine products. It will
+proposed agreements are expected to: (i) expand
+involve a total estimated outlay of Rs 25,060 crore
+market access for goods, (ii) facilitate investment, and
+between 2025-26 and 2030-31. It will have two sub-
+(iii) promote trade in both goods and services.
+schemes:
+ Niryat Protsahan: It aims to improve access to
+affordable trade finance for MSMEs through a
+range of instruments such as: (i) subsidising Finance
+interest, (ii) invoice financing, (iii) collateral
+guarantees, (iv) credit cards for e-commerce Shania Ali (shania@prsindia.org)
+exporters, and (v) credit enhancement support for
+diversification into new markets. RBI announces relief measures for exporters
+ Niryat Disha: It seeks to strengthen exporters’ The Reserve Bank of India (RBI) announced measures
+market readiness through non-financial support to mitigate the impact on exports given the global
+such as: (i) assistance for international branding, headwinds. 25 These measures shall come into force
+(ii) export warehousing and logistics, (iii) export immediately. They include:
+quality and compliance support, (iv) inland
+ Extension of time limits: The Foreign Exchange
+transport reimbursements, and (v) trade analytics
+Management (Export of Goods & Services)
+and capacity building initiatives.
+Regulations, 2015 have been amended for the
+following: (i) to extend the period for realisation
+Cabinet approves scheme to promote
+and repatriation of export proceeds from nine
+manufacturing of rare earth magnets months to 15 months from the date of export, and
+(ii) to increase the period for shipment of goods
+The Union Cabinet approved a scheme to promote
+against advance payment from one year to three
+manufacturing of sintered Rare Earth Permanent
+years from the date of receipt of advance payment
+Magnets (REPM).21 The scheme seeks to create 6,000
+or as per agreement, whichever is later.26
+metric tons per annum of REPM manufacturing
+capacity in India by supporting integrated facilities that  Easing the burden of debt servicing: RBI has
+process rare earth oxides into finished REPM. Some of announced the Reserve Bank of India (Trade
+the uses of REPM includes: (i) electric vehicles, (ii) Relief Measures) Directions, 2025 for borrowers
+renewable energy, (iii) electronics, (iv) aerospace, and engaged in exports of certain commodities.27
+(v) defence application. The total outlay for this These include fish, textile, precious or semi-
+scheme is Rs 7,280 crore. The scheme will run for precious jewellery, and leather-based goods.
+seven years, including a two-year gestation period. Eligible borrowers must have an outstanding
+export credit facility as of August 31, 2025 and
+must not have defaulted on those facilities. Such
+- 4 -
+Monthly Policy Review – November 2025 PRS Legislative Research
+borrowers will be eligible for a moratorium on all Supreme Court struck down certain provisions
+debt payments due between September 1, 2025 and of the Tribunal Reforms Act, 2021
+December 31, 2025. Moratorium refers to a
+The Supreme Court struck down certain provisions of
+temporary pause in payments. In case of working
+the Tribunal Reforms Act, 2021.30 The Act specifies
+capital loan, lenders may increase the maximum
+the manner of appointments and terms and conditions
+amount the borrower can draw. Working capital
+of service of members of the Tribunals. The Court
+refers to the amount needed by a business to run its
+observed that these provisions were re-enacted from the
+day-to-day operations. For pre-shipment and post-
+Tribunal Reforms (Rationalisation and Conditions of
+shipment export related loans disbursed till March
+Service) Ordinance, 2021, and were previously struck
+31, 2026, lenders may give exporters up to 450
+down in July 2021. These relate to eligibility for
+days to use and repay the loan. Further, for credit
+appointments, process of selection and appointment,
+availed till August 31, 2025, if the exporter is
+and the length of tenure. The Court held these
+unable to ship the goods, lenders may allow the
+provisions to be undermining judicial independence
+loan to be repaid from other sources such as selling
+and separation of powers.
+goods domestically or by using proceeds from a
+different export order. It also directed the central government to establish a
+National Tribunals Commission within four months as
+per the principles laid down by the Court. These
+include independence from executive control,
+Law and Justice
+professional expertise, transparent processes, and
+oversight mechanism to reinforce public confidence.
+Jahanvi Choudhary (jahanvi@prsindia.org)
+Supreme Court delivered opinion on the
+Presidential Reference regarding the
+Environment
+Governor’s powers on assent to Bills
+Vaishali Dhariwal (vaishali@prsindia.org)
+A five-judge bench of the Supreme Court delivered its
+opinion on the 16th Presidential Reference made by the
+Supreme Court upheld validity of retrospective
+President of India in May 2025.28 The reference raised
+Environmental Clearances
+14 questions, primarily related to the Court’s authority
+with regard to the assent to Bills by the President and Hearing a review petition on an earlier ruling, the
+Governors. The reference followed a Supreme Court Supreme Court held that retrospective Environmental
+judgement in April 2025. In this judgement, the Court Clearance (EC) can be granted in exceptional
+had held that the Constitution does not permit the circumstances.31 Further, it held that the Environment
+Governor to withhold assent indefinitely.29 The Court Protection Act, 1986 does not prohibit it in exceptional
+had prescribed certain timelines for Governors to cases. These clearances are issued under the
+follow with regard to giving assent or returning the Bill Environment Protection Act, 1986, and Environmental
+for re-consideration, or referring the Bill to the Impact Assessment (EIA) Notification, 2006.32,33 EIA
+President. It had declared certain Bills pending with provides that certain projects or activities will require
+the Governor in Tamil Nadu as deemed to be assented. prior EC from the concerned regulatory authorities at
+the central, state, or district level.
+In response to the President’s reference, the Court
+opined that under Article 200 of the Constitution, the In March 2017, the Union Ministry of Environment,
+Governor has three options with regard to a Bill: (i) Forest, and Climate Change issued a notification to
+give assent, (ii) reserve the Bill for consideration of the provide retrospective clearance for projects or activities
+President, and (iii) withhold assent and return the Bill that had started work on site, expanded the production
+to the Legislature with comments (for Bills other than beyond the limit of the EC, or changed production mix
+Money Bills). For discharge of functions under Article without obtaining EC. In May 2025, the Supreme
+200, the Governor is not bound by the advice of the Court ruled that the concept of granting retrospective
+Council of Ministers. These functions are also not EC under the 2017 notification was illegal.34 The
+justiciable, which means they are not subjected to Court had held that the grant of retrospective EC is
+judicial reviews. Only in circumstances of prolonged against the environmental laws and the EIA
+inaction, the Court may issue limited directions to the Notification.
+Governor to discharge his functions. It also opined that
+The Supreme Court has now recalled this ruling and
+in the absence of constitutionally prescribed time
+held the 2017 notification to be valid. It further
+limits, it would not be appropriate for the Court to
+clarified that 2017 notification can be applied only for
+judicially prescribe timelines. Further, it stated that the
+violations existing as on March 14, 2017.
+Constitution does not allow for the concept of ‘deemed
+assent’. It stated that another constitutional authority
+cannot supplant the Governor’s legislative role under
+Article 200.
+- 5 -
+Monthly Policy Review – November 2025 PRS Legislative Research
+Agriculture Steel
+Atri Prasad Rout (atri@prsindia.org) Vaishali Dhariwal (vaishali@prsindia.org)
+Comments invited on the Draft Seeds Bill 2025 The third round of PLI scheme for speciality
+steel launched
+The Ministry of Agriculture and Farmers Welfare
+invited comments on the Draft Seeds Bill, 2025.35 The The Ministry of Steel has launched the third round of
+Bill intends to replace the Seeds Act, 1966.36,37 It aims the Production Linked Incentive Scheme for Speciality
+to curb the sale of spurious and poor-quality seeds, Steel.38 Specialty Steel is a finished steel that is
+liberalise imports, protect farmers' rights, and promote enhanced through processes like coating, plating, or
+ease of doing business. Key features include: heat treatment.39 It is used in sectors that require
+specialised properties, such as defence, space, and
+ Central Seed Committee: The central
+power. The scheme aims to boost domestic production
+government will constitute a Central Seed
+and reduce import dependence. The third round of the
+Committee (CSC). The CSC will consist of a
+scheme has a total estimated outlay of Rs 6,322 crore
+chairperson and 27 members. The CSC will advise
+and targets an additional 26 million tonnes of speciality
+the central and state governments on standards for
+steel capacity.
+seed registration, certification, and testing. The
+central government, on CSC’s recommendation, The scheme will cover 22 product sub-categories,
+will notify the minimum limits of seed including strategic steel grades and coated or wire
+germination, genetic purity, health, and the Indian products. Only companies registered in India and
+Minimum Seed Certification Standards. engaged in end-to-end manufacturing of the products
+are eligible. Incentives will range from 4% to 15% of
+ Registration of seed varieties: Registration will
+incremental sales, depending on the product category.
+be mandatory for sale of any seed of any variety,
+Benefits will be available for up to five years, starting
+with exception of farmers’ varieties and those
+2025-26.
+meant for export. The CSC will constitute a
+registration sub-committee. This sub-committee
+will make recommendations to CSC on registration
+of seed varieties. State Seed Committees will
+Defence
+advise the registration sub-committee on
+registration of state seed varieties. The central
+Shania Ali (shania@prsindia.org)
+government will appoint an official from the
+Ministry of Agriculture as the Registrar, who will
+DRDO and DGA sign agreement for
+manage the National Register on Seed Varieties.
+cooperation
+Varieties notified under the 1966 Act will be
+deemed registered. The CSC will have the power The Defence Research and Development Organisation
+to suspend or revoke registration. Decisions of the (DRDO) and the Directorate General of Armaments
+CSC and orders of the Registration Sub-committee (DGA), France signed an agreement for further
+can be appealed at the CSC. collaboration in defence research and development.40
+The agreement provides a formal framework for joint
+ Regulation of seed trade: Seed producers, seed
+research and training programmes, testing activities,
+processing units, seed dealers, distributors, and
+and exchange of information to enhance research and
+plant nurseries must register with the state
+development in defence. Further, transfer of
+government. All participants in the seed trade will
+equipment, know-how and technologies will be
+adopt seed traceability norms. All seed containers
+available to both the countries in areas such as
+will have necessary details and a QR Code
+aeronautical platforms, unmanned vehicles, cyber
+generated through a Centralised Seed Traceability
+security, and advanced sensors.
+Portal. The central government will establish a
+Central Accreditation System for companies
+operating in multiple states. These accredited
+companies will be deemed to be registered across
+Power
+states. The central government will be empowered
+to regulate the sale price of seeds in situations of
+Ayush Stephen Toppo (ayush@prsindia.org)
+scarcity and abnormal price rise.
+Comments are invited until December 11, 2025. Policy regarding co-firing of biomass in coal-
+based plants
+The Ministry of Power has released a revised policy
+regarding use of biomass pellets in coals based thermal
+plants for co-firing.41 Co-firing is the simultaneous
+combustion of two or more different fuels in the same
+- 6 -
+Monthly Policy Review – November 2025 PRS Legislative Research
+power plant to produce energy. Key features of the Review of current practices and policies to popularize
+policy include: 11 library access for school students and literate adults
+ Inclusion of MSW-based torrefied charcoal: Review and reforms required in the Right of Children to
+12 Free and Compulsory Education (RTE) Act, 2009
+Earlier policies mandated co-firing of biomass
+pellets made primarily from agro-residue.42,43 The Review of the functioning and performance of National
+13 Council of Educational Research and Training (NCERT)
+new policy explicitly adds torrefied charcoal
+produced from municipal solid waste (MSW) as an Review of Department’s efforts to promote education of
+eligible fuel for co-firing in coal-based thermal 14 linguistic and religious minorities
+power plants. Torrefied charcoal is produced by Department of Higher Education
+heating a biomass such as MSW in low-oxygen
+Review of the proliferation of coaching centres to support
+environment.
+students in competitive examinations, social issues
+1 arising from it, and existing legislation on the matter
+ Differentiated targets for NCR plants: The new
+policy introduces region-specific mandates from Integration of vocational education in higher education
+2 curricula.
+financial year 2025-26. Plants in the National
+Capital Region (NCR) must use a 5% blend of Review of efforts to support mental health for students in
+biomass pellets plus an additional 2% blend of 3 higher education
+biomass pellets and/or MSW-based torrefied Review the progress of the implementation of the National
+charcoal (by weight). Plants outside NCR must 4 Education Policy (NEP), 2020
+co-fire at least 5% biomass pellets and/or MSW- Review of Department’s efforts to promote Indian
+based torrefied charcoal. 5 languages in higher education and research
+ Use of crop residue: For plants in NCR and Review of Department’s efforts to promote Gandhian
+adjoining areas, at least 50% of the raw material 6 thought and values in higher education
+used in biomass pellets must now be rice paddy or Review of Department’s efforts to promote higher
+crop residue sourced from the NCR and adjoining 7 education among students from religious minorities
+districts. This sourcing requirement was not Review of Department’s efforts to create a Higher
+present in earlier policies. 8 Education Council of India (HECI)
+Review of the functioning of Central Government funded
+9 and supported institutions of higher education
+Review of implementation of reservations for
+Annexure SC/ST/OBC/EWS communities in student and faculty
+positions in Central Government funded and supported
+Parliament has constituted some of its Departmentally 10 institutions of higher education
+Related Standing Committees. The subjects identified Review of HEFA and UGC’s role in supporting institutions
+for examination for 2025-26 by the Committees are 11 of higher education financially
+given below. Review of professional development and placement
+opportunities at Central Government funded and
+Education, Women, Children, Youth and Sports
+12 supported institutions of higher Education
+Ministry of Education Impact of Artificial Intelligence (AI) and leverage of
+Department of School Education and Literacy 13 emerging technology on education and students
+1 Review of Samagra Shiksha and PM POSHAN Scheme Study of Indological academic traditions and its impact on
+14 current education system.
+Review of the need for and feasibility of expanding
+Kendriya Vidyalayas (KVs) and Jawahar Navodaya Ministry of Women and Child Development
+2 Vidyalayas (JNVs) Review of the implementation of Beti Bachao, Beti
+3 Review of PM Schools for Rising India (PM-SHRI) 1 Padhao
+Review of the implementation of the National Education 2 Review of Saksham Anganwadi and Poshan 2.0 Scheme
+4 Policy, 2020, in school education 3 Review of PM CARES schemes for children
+Review of grants given to schools by the Union 4 Review of efforts to prevent and address child abuse
+5 Government and the utilisation of such rants by schools
+5 Review of Mission Shakti and Mission Vatsalya
+Review of efforts to support continuous assessment, at
+Review of functioning and performance of autonomous
+6 the school level and at the board-level, in schooling
+6 bodies of the Ministry of Women and Child Development
+Review of guidelines followed for recognition of private
+Sexual Harassment of Women at Workplace (Prevention,
+7 schools by government authorities in each state
+Prohibition, and Redressal) Act, 2013: Implementation in
+Review of steps taken and schemes in implementation for 7 the Public and Private Sector, including informal jobs
+8 the education of children with disabilities (CwD)
+Review of efforts to support women and children’s mental
+Review of efforts to universalize Early Childhood Care 8 health and well-being
+9 and Education
+Review of Poshan Bhi Padhai Bhi and other schemes to
+Review of current practices and policies regarding school 9 universalize Early Childhood Care and Education
+10 closures
+- 7 -
+Monthly Policy Review – November 2025 PRS Legislative Research
+Ministry of Youth Affairs and Sports Organizational structure, Mandate and Functional
+proficiency of Regulatory Institutions under Ministry of
+Department of Youth Affairs
+11 Health and Family Welfare
+1 Department of Youth Affairs
+Ministry of Ayush
+2 Review of National Youth Policy, 2021: Status and vision
+Prevention, Diagnosis & Treatment and Management of
+Review of trends in drug and alcohol use among youth 1 Life style diseases through the Ayush System
+3 and measures to stop proliferation
+Propagation and Popularization of Treatment under
+Review of National Service Scheme and its functioning 2 AYUSH
+4 and financing
+Commerce
+Review of Nehru Yuva Kendra Sangathan and its
+Ministry of Commerce and Industry
+5 functioning
+Review of efforts to improve technology and internet Department of Commerce
+6 access for youth 1 Evaluation of India - US Trade Relations
+Review of National programme for youth and adolescent 2 Functioning of MPEDA & APEDA
+7 development
+Evaluation of the Policy, Regulatory, Operational
+8 Review of training and skill development for jobs Framework, and Impact of Special Economic Zones
+Review of performance and functioning of the Rajiv 3 (SEZs)
+Gandhi National Institute of Youth Development Comprehensive Review of Foreign Trade Agreements &
+9 (RGNIYD) 4 Bilateral Agreements
+Department of Sports Issue of Compliance of Law of the Land in Government
+5 Procurement through e-market place/GeM Portal
+Review of mechanism to ensure safety and security of
+1 women in sports 6 Department for Promotion of Industry and Internal Trade
+Review of management and governance in National 7 Doing Business in India: The Way Forward
+2 Sports Federations (NSFs)
+8 Issues and Challenges of India’s FDI Policy
+Review of efforts for the promotion of Rural and
+Future outlook and Growth opportunities in Cement
+3 Indigenous Sports and Rural Sports Development
+9 Industry
+Review of efforts to encourage private companies to
+Issue of licenses for establishment of industries for
+invest in development of sports infrastructure and
+10 production of civil aircraft
+facilities, including through Corporate Social
+4 Responsibility (CSR) Evaluation of the IIFT, NID and Footwear Design and
+11 Development Institute
+Evaluation of current mechanisms to add sports as a
+5 regular part of school learning Implementation of PM Gati Shakti: Masterplan for
+12 multimodal connectivity
+Review of efforts to host the Commonwealth Games 2030
+6 and the Olympics Games 2036 in India Railways
+Health and Family Welfare Ministry of Railways
+Ministry of Health and Family Welfare 1 Ensuring safety in Indian Rail operations
+Affordability and Accessibility of Healthcare Facilities in 2 Optimum utilisation of Railway land
+1 Public and Private Sector Status and financing of various expansion and
+Working of AIIMS, New Delhi and Problems Faced by 3 upgradation related projects of Indian Railways
+2 patients in availing healthcare & treatment Role of Railway PSUs in growth and expansion of Indian
+Implementation of Ayushman Bharat with focus on 4 Railways
+3 geriatric care and Ayushman Arogya Mandir 5 Improvement of public facilities at Railway Stations
+4 A Study of Vector-borne Diseases in the North-East India 6 Human resource management in Indian Railways
+Management of Human Organs & Tissues 7 Upgradation of tracks and signalling in Indian Railways
+5 Transplantation and related Legislative framework
+Increasing freight related earnings of Indian Railways and
+Prevalence of Chronic Kidney Disease in India- 8 development of Dedicated Freight Corridors
+6 Prevention, Diagnosis, Treatment and Management
+9 Passenger Reservation System in Indian Railways
+Shortage of teaching faculty in allied education:
+10 Evaluation of on-board services in Indian Railways
+7 Challenges in Medical education
+Expansion of Rail Network in North East and Union
+Latest interventions in Affordable Cancer Care with
+11 Territories
+8 proven outcomes
+Performance of Production Units and Railway Workshops
+Global Health Research and Foreign collaboration in
+12 of Indian Railways
+9 diagnosis treatment and palliative care in major diseases
+13 Promotion of Railway based tourism
+Accessibility and Affordability of Medical Education
+facilities in India- Foreign collaboration and Global 14 High Speed Rail network in India
+10 Comparative Standard & Perspective
+- 8 -
+Monthly Policy Review – November 2025 PRS Legislative Research
+Role of Indian Railways in development of multi-modal Agriculture, Animal Husbandry and Food Processing
+logistic parks and their integration with road and port
+Ministry of Agriculture and Farmers Welfare
+15 network
+Department of Agriculture and Farmers Welfare (DA&FW)
+Making Indian Railways self-reliant through innovation
+16 and promotion of indigenous sources Implementation of PM-KISAN and Crop Insurance:
+Evaluation of Direct Benefit Transfer Efficiency, Coverage
+Elimination of Manned Level Crossings on Indian Rail
+1 Gaps and Grievance Redressal
+17 Network
+Digitization of Agriculture: Impact of Digital Agriculture
+18 Diversification of Freight Basket of Indian Railways
+2 Mission, Remote Sensing, AI and IOT in Crop Planning
+Upgradation and Modernisation of Indian Railways'
+Promotion of Natural and Regenerative Farming:
+19 Rolling Stock
+Assessing Outcomes of Schemes Promoting
+20 Sub-urban and Metro Train Services of Indian Railways. 3 Organic/Natural Farming
+PPP initiatives in Indian Railways for infrastructure Revisiting APMC and E-NAM Integration: Status and
+21 augmentation 4 Gaps in Agricultural Marketing Reforms
+22 Energy efficiency in Indian railways Soil Health and Input Subsidies: Rationalization of
+Defence 5 Fertilizer Subsidies and Soil Nutrient Balance
+Ministry of Defence Food Security and Nutrition – Linkages Between
+6 Production, Processing and Nutritional Outcomes
+Review of Sainik Schools, Rashtriya Indian Military
+AI and Data Governance in Agriculture- Ensuring Farmer
+1 College (RIMC) and Rashtriya Military Schools
+7 Data Protection and Transparency in Digital Platforms
+Review of working of Border Roads Organization (BRO)
+Agri-Credit and Indebtedness: Effectiveness of KCC
+in creating infrastructure in strategic locations and border
+(Kisan Credit Card) and Institutional Credit Access for
+2 areas
+8 Small/Marginal Farmers
+A review of resettlement policies, healthcare facilities and
+Agriculture Labour Welfare: Inclusion of Agriculture
+3 avenues for Ex- Servicemen (ESM)
+Labourers in Welfare Schemes; Social Security, Health
+Review of Self-reliance and Modernization of Defence 9 and Insurance Coverage
+4 Public Sector Undertakings (DPSUs)
+Performance Review of Per Drop More Crop (PDMC), a
+Review of Corporate Social Responsibility (CSR) component of Rastriya Krishi Vikas Yojna (RKVY) -
+initiatives by DPSUs and its utilization for welfare of 10 Prospects & Challenges
+Defence personnel/Ex- Servicemen (ESM)/Next of Kin
+11 Unlocking the Potential of India’s Agri-Value Chains
+5 (NoK)
+Performance Review of National Beekeeping & Honey
+Role of Indian Air Force in ensuring defence of the
+12 Mission
+6 Country
+Bio Fuelling the Future: “Role of Farmers in Shaping the
+7 Role of Indian Army in ensuring defence of the Country
+13 Renewable Energy Transition in the Country
+Role of Indian Navy in ensuring Maritime Security of the
+14 Promotion of Farm Mechanisation in the Country.
+8 Country
+Impact of Climate Change on Agriculture and Allied
+Review of working of Indian Coast Guard in ensuring
+15 Sector.
+9 Coastal Security in the Country
+Production and Availability of Certified Seeds in the
+Role of Armed Forces Medical Services in providing
+16 Country
+adequate healthcare facilities to the Armed Forces
+personnel including personnel deployed in difficult and Production and Availability of Oil Seeds and Pulses in the
+10 far-flung border areas 17 Country
+Assessment of Indigenisation of Defence Production both National Mission on Agricultural Extension and
+by way of Public and Private Sector including major 18 Technology
+11 Research Initiatives towards achieving `Atmanirbharta’
+Incentivization for Mechanization and Adoption of Modern
+Status of upgradation of various programmes and 19 Techniques in Agriculture Sector
+projects of Defence Research and Development
+Effect of Use of Chemical Fertilizers and Pesticides on
+12 Organisation (DRDO)
+Environment and Human Health – Ways to Rationalize
+Consolidation of defence lands by Defence Estates 20 their Usage
+13 Organisation and working of Cantonment Boards
+Role of Farmers and Government in Management of Crop
+Assessment of Next of Kin (NoK) Policy in the Armed 21 Residues through Scientific and Technological Methods
+14 Forces
+Status of Implementation of the Recommendations of
+Assessment of readiness for Humanitarian Assistance 22 Swaminathan Committee Report
+15 and rescue operations by Armed Forces personnel
+23 Policies and Projects for Doubling of Income of Farmers
+16 Grievance Redressal Mechanism in Defence Services
+24 Impact Report of on-going Agricultural Subsidies
+Review and assessment of training of Armed Forces
+Policies and Projects for Water Resources (including
+17 personnel
+Groundwater), Irrigation Systems, Rainfed, Watershed
+18 Induction of women in combat roles in Armed Forces 25 Programs and Drainage Management
+26 Policy Formulation for Pricing of Agriculture Produce
+- 9 -
+Monthly Policy Review – November 2025 PRS Legislative Research
+27 Policies for Diversification of Crops Sustainable Marine Fisheries: Conservation of Coastal
+Ecosystems, Development and Regulation of Deep-sea
+28 Quality Control of Agriculture Inputs
+3 Fishing
+Procurement of Crops at Minimum Support Price – A
+Infrastructure and Post-Harvest Management in Fisheries
+29 Review
+Sector – Enhancing Traceability, Value Addition and Skill
+Rationalization of GST on Agricultural Machine Tools and 4 Development
+30 Other Equipments for Small & Marginal Farmers
+Development of Inland Aquaculture and Reservoir
+Enhancing Productivity of Staple Crops – Government Fisheries: Promotion of Freshwater Aquaculture and
+31 Initiatives & Measures 5 Cluster-based Development
+Identification of Socio – Economic & Environmental Smart and Integrated Fishing Harbours – Progress and
+Reasons Leading to Farmers’ Suicide and Ways & Means Assessment of Infrastructure Gaps and their Socio-
+32 to Curb Suicides 6 Economic Impact on Fishermen Livelihoods
+Extension of Benefits of MNREGA Schemes to Small & Effective Implementation of Policies and Programmes for
+33 Marginal Farmers benefit of Marginal Communities including SC/ST in
+Development & Augmentation of Agricultural Produce 7 Fisheries Sector
+34 Marketing System 8 Measures to Prevent Illegal Fishing
+Promotion of Floriculture in the Country – Prospects and Role of National Fisheries Development Board (NFDB) in
+35 Challenges Training and Extension Facilities to Fishermen under the
+36 Provision of Minimum Wage to Farm Labourers. 9 Pradhan Mantri Matsya Sampada Yojana
+Cultivation of Khas-Khas (Poppy Seeds) – Prospects and 10 Promotion and Development of Sea Weed Cultivation
+37 Challenges Department of Animal Husbandry and Dairying
+Post-Harvest Standardization of Moisture Management
+Genetic Improvement of Indigenous Breeds: Assessment
+38 and Loss of Moisture during Storage
+1 of Rashtriya Gokul Mission Outcomes
+Compensation to Farmers including Tenant Farmers for
+Fodder and Feed Security: Ensuring Year-Round Feed
+Losses due to Natural Calamities and other Accidental
+2 Availability and Promoting Silage Technology
+39 Causes (Not just Fasal Bima Yojana).
+Doubling Dairy Farmer Income: Evaluating Cooperative
+Policies and Provision to benefit Small and Marginal
+3 vs. Private Models; Pricing of Milk vis- a-vis Input Costs
+40 Farmers and SC/ST Farmers
+Milk Processing and Cold Chain Infrastructure: Review of
+Decreasing Fertile Land due to Indiscriminate Acquisition
+4 Gaps and Regional Imbalances in Processing Capacity
+of Farm Land for Urbanization, Industrialization &
+Infrastructure Development such as National Highways- A Export Potential of Indian Dairy: Policy Support for
+41 Review Quality, Certification and Branding of Indian Dairy
+5 Products
+Department of Agricultural Research and Education
+National Animal Disease Control Program: Effectiveness
+Genome Editing: Prospects and Challenges in the
+in Controlling FMD, Brucellosis and Other Prevalent
+1 Country
+Diseases in Bovine Animals along with the need for
+Contribution of ICAR in Agricultural Research for Tribal 6 Veterinary Infrastructure
+2 and Hilly Regions
+Effective Implementation of Policies and Programmes for
+3 Research and Development in Post-Harvest Management benefit of Marginal Communities including SC/ST in
+7 Animal Husbandry and Dairying Sector
+Central Island Agricultural Research Institute, Port Blair-
+4 A Performance Review 8 Evaluation of Livestock Insurance Schemes
+Role and Performance Appraisal of Krishi Vigyan Kendras 9 National Livestock Mission – An Appraisal
+5 (KVKs) in the Country
+Scope for Nutrition and Livelihood in the Dairy Sector - An
+Research Initiatives and Projects to deal with Pollution in 10 Analysis
+6 Agriculture and Nitrogen Inefficiency in the Soil
+Policies and Projects for Growth of Livestock – An
+Research for Developing Water Efficient Variety of Seeds 11 Evaluation
+7 to Save Ground Water
+Growth in the Production of Dairy Sector – Review of
+A Performance Review of all Government funded 12 various Schemes
+8 Agricultural Research Institutes, Universities and ICAR
+13 Evaluation of Quality Control in Dairy Product
+Policies on Usage of Genetically Modified, Engineered,
+Ministry of Food Processing Industries
+9 Artificial and Terminator Seeds – A Review
+Promoting Millet, Fruit and Vegetable Processing:
+Ministry of Fisheries, Animal Husbandry and Dairying
+Supporting India’s G20 and International Year of Millets
+Department of Fisheries 1 (IYM) legacies through Product Diversification
+Implementation of Pradhan Mantri Matsya Sampada Scope for Development of Food Processing Industries in
+1 Yojana: Progress and Regional Distribution of Funds India with Special Reference to Infrastructure,
+2 Diversification and Ease of Doing Business
+Fishermen Welfare Schemes: Insurance, Housing and
+2 Social Security Coverage Promoting Innovation, Research and Ensuring Quality
+3 Assurance in Food Processing Sector- Role of FSSAI
+- 10 -
+Monthly Policy Review – November 2025 PRS Legislative Research
+Promotion of Cooperatives and Linking of Farmer Women and youth cooperatives: Promoting Inclusive
+Producer Organisations (FPOs) and Cooperatives with 4 Participation in Agricultural Cooperatives
+4 Food Processing Industries
+Performance Review of Major Schemes and Programmes
+Implementation of PMFME and Mega Food Parks: 5 for Development of Cooperative Societies in the Country
+Evaluation of Effectiveness, Bottlenecks and Impact on
+National Cooperative Database: Assessing Progress,
+5 Employment
+6 Utility and Integration with other Government Platforms
+Effective Implementation of Policies and Programmes for
+Promotion of Cooperative Societies led by Marginal
+benefit of Marginal Communities including SC/ST in Food
+7 Communities including SC/ST
+6 Processing Sector
+Role of National Cooperative Development Corporation
+Research and Development in the Food Processing
+(NCDC) in Strengthening of Cooperative Sugar Mills
+7 Sector
+8 (CSMs)
+Ministry of Cooperation
+Evaluation of Democratic Practices and Reducing
+Multistate Cooperative Societies: Transparency, Administrative Interferences in the Cooperatives of the
+1 Modernization and Digitization of Operations 9 Country
+Cooperatives in Agri-marketing and Credit: Role of PACS Role of Cooperative Societies in Enhancing Income of the
+and District Cooperatives in Linking with eNAM and 10 Farmers and Fishermen– A Review
+2 Digital Banking
+Cooperative Federalism in Agriculture: Coordination
+3 between Centre-State Cooperative Institutions
+1 Quarterly Estimates of Gross Domestic Product for the Second November 26, 2025,
+Quarter (July-September) of 2025-26, Ministry of Statistics and https://egazette.gov.in/WriteReadData/2025/268004.pdf.
+Programme Implementation, September 28, 2025, 16 The Occupational Safety, Health and Working Conditions
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2195851&reg
+Code, 2020, Ministry of Labour and Employment,
+=3&lang=1.
+https://prsindia.org/files/bills_acts/bills_parliament/2020/Occupation
+2 “Deferment of upcoming phase implementation of the Electrical al%20Safety,%20Health%20And%20Working%20Conditions%20C
+Equipment (Quality Control) Order 2020 and subsequent ode,%202020_1.pdf.
+amendments from time to time-reg.” Ministry of Heavy Industries,
+17 The Digital Personal Data Protection Rules, 2025, Ministry of
+November 6, 2025,
+Electronics and Information Technology, November 14, 2025,
+https://egazette.gov.in/WriteReadData/2025/267454.pdf.
+https://www.meity.gov.in/documents/act-and-policies/digital-
+3 S.O. 5173 (E), Gazette Notification, Ministry of Mines, November personal-data-protection-rules-2025-
+13, 2025, https://egazette.gov.in/WriteReadData/2025/267626.pdf. gDOxUjMtQWa?pageTitle=Digital-Personal-Data-Protection-Rules-
+4 S.O. 5174(E), Gazette Notification, Ministry of Mines, November 2025.
+13, 2025, https://egazette.gov.in/WriteReadData/2025/267627.pdf. 18 The Digital Personal Data Protection Act, 2023,
+5 S.O. 5166(E), Gazette Notification, Ministry of Mines, November https://www.meity.gov.in/static/uploads/2024/06/2bf1f0e9f04e6fb4f8
+13, 2025, https://egazette.gov.in/WriteReadData/2025/267628.pdf. fef35e82c42aa5.pdf.
+6 S.O. 5167(E), Gazette Notification, Ministry of Mines, November 19 “DPDP Rules, 2025 Notified”, Press Information Bureau,
+13, 2025, https://egazette.gov.in/WriteReadData/2025/267629.pdf. November 17, 2025,
+7 S.O. 5168(E), Gazette Notification, Ministry of Mines, November https://www.pib.gov.in/PressNoteDetails.aspx?id=156054&NoteId=1
+13, 2025, https://egazette.gov.in/WriteReadData/2025/267630.pdf. 56054&ModuleId=3&reg=3&lang=2.
+8 S.O. 5169(E), Gazette Notification, Ministry of Mines, November 20 “Cabinet approves Export Promotion Mission to strengthen India’s
+13, 2025, https://egazette.gov.in/WriteReadData/2025/267631.pdf. export ecosystem with an outlay of Rs 25,060 crore”, Ministry of
+Commerce and Industry, Press Information Bureau, November 12,
+9 S.O. 5170(E), Gazette Notification, Ministry of Mines, November
+2025,
+13, 2025, https://egazette.gov.in/WriteReadData/2025/267632.pdf.
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2189383.
+10 Steel and Steel Products (Quality Control)
+21 “Cabinet approves Rs 7,280 crore scheme to promote
+Amendment Order, 2025, Ministry of Steel, November 20, 2025,
+manufacturing of sintered Rare Earth Permanent Magnets (REPM)”,
+https://egazette.gov.in/WriteReadData/2025/267864.pdf.
+Press Release, Ministry of Commerce and Industry, Press
+11 Notifications of Ministry of Chemicals and Fertilizers, November Information Bureau, November 26, 2025,
+12, 2025, https://www.pib.gov.in/PressReleasePage.aspx?PRID=2194687.
+https://chemicals.gov.in/sites/default/files/notification/Rescind-the- 22 Draft guidelines for the use of geographical indications and
+Fourteen-notifications.pdf.
+geographical indications logo, Ministry of Commerce and Industry,
+12 “Government Makes the Four Labour Codes effective to Simplify November 18, 2025,
+and Streamline Labour Laws,” Press Information Bureau, Ministry of https://www.dpiit.gov.in/static/uploads/2025/11/6f138ae714d2c23e4
+Labour and Employment, November 21, 2025, 8db92430b44fac4.pdf.
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2192463. 23 The Geographical Indications of Goods (Registration and
+13 “Labour codes rollout three months away; rules to be pre-published Protection) Act, 1999,
+for public comment”, The Hindu Business Line, November 27, 2025, https://www.indiacode.nic.in/bitstream/123456789/1981/5/A1999-
+https://www.thehindubusinessline.com/news/national/labour-codes- 48.pdf.
+rollout-three-months-away-rules-to-be-re-published-for-public- 24 “Commerce Minister Shri Piyush Goyal ends Israel visit,
+comment/article70331466.ece.
+strengthening bilateral strategic and economic cooperation”, Press
+14 “Launch of EPFO's Employees’ Enrolment Scheme – 2025,” Press Release, Ministry of Commerce and Industry, Press Information
+Information Bureau, Ministry of Labour and Employment, November Bureau, November 25, 2025,
+21, 2025, https://www.pib.gov.in/PressReleasePage.aspx?PRID=2193976.
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2185262. 25 Trade Relief Measures, Reserve Bank of India, November 14,
+15 Draft Occupational Safety, Health and Working Conditions (Oil 2025,
+Mines) Regulations, 2022, Ministry of Labour and Employment, https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=6
+1626.
+- 11 -
+Monthly Policy Review – November 2025 PRS Legislative Research
+37 The Seeds Control Order, 1983,
+https://seednet.gov.in/PDFFILES/Seed_Control_Order_1983.pdf.
+26 The Gazette of India, November 13, 2025,
+https://rbidocs.rbi.org.in/rdocs/content/pdfs/FEMA23(R)(7)13112025 38 “Union Minister of Steel and Heavy Industries launches the third
+.pdf. round of PLI scheme for Specialty Steel (PLI scheme 1.2),” Press
+Information Bureau, Ministry of Steel, November 4, 2025,
+27 Reserve Bank of India (Trade Relief Measures) Directions, 2025,
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2186206.
+The Reserve Bank of India, November 14, 2025,
+https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12921&Mo 39 “Production of Specialty Steel under PLI Scheme” Ministry of
+de=0. Steel , Press Information Bureau, March 27, 2024,
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1911161.
+28 Opinion of the Court, Special Reference No. 1 of 2025, Supreme
+Court of India, November 20, 2025, 40 DRDO and DGA, France ink Technical Agreement to deepen
+https://api.sci.gov.in/supremecourt/2025/39157/39157_2025_1_1501 collaboration in defence R&D, Press Information Bureau, November
+_66169_Judgement_20-Nov-2025.pdf. 20, 2025,
+29 Writ Petition (Civil) No. 1239 of 2023, The State of Tamil Nadu v https://www.pib.gov.in/PressReleasePage.aspx?PRID=2192168.
+Governor of Tamil Nadu, Supreme Court of India, April 8, 2025, 41 “Comprehensive Policy for Co-firing of Biomass pellets [including
+https://www.scobserver.in/wp-content/uploads/2025/04/Supreme- Torrefied Charcoal made from Municipal Solid Waste (MSW)] in
+Court-Judgement_-State-of-Tamil-Nadu-v-Governor-of-Tamil- Coal
+Nadu.pdf. based Thermal Power Plants”, Ministry of Power, November 7, 2025,
+30 Madras Bar Association v. Union of India, W. P. No. 1018 of 2021, https://powermin.gov.in/sites/default/files/Comprehensive_Policy_fo
+Supreme Court of India, November 19, 2025, r_Cofiring_of_Biomass_pellets_in_Coal_based_TPPs.pdf.
+https://api.sci.gov.in/supremecourt/2021/20410/20410_2021_1_1502 42 “Revised Policy of Ministry of Power for biomass utilisation for
+_66136_Judgement_19-Nov-2025.pdf. power generation through co-firing in
+31 Review Petition, Confederation of Real Estate Developers of India coal-based power plants”, Ministry of Power, October 8, 2021,
+v Vanashakti, Supreme Court of India, November 18, 2025, https://powermin.gov.in/sites/default/files/Revised_Biomass_Policy_
+https://api.sci.gov.in/supremecourt/2025/41929/41929_2025_1_1501 dtd_08102021.pdf.
+_66095_Judgement_18-Nov-2025.pdf. 43 “Ministry of Power Revises Biomass Co-Firing Policy for enabling
+32 Environment Protection Act, Ministry of Environment, Forest, and purchase of biomass pellets by Power Plants at benchmark price”,
+Climate Change, May 23, 1986, Press Information Bureau, Ministry of Power, June 27, 2023,
+https://www.indiacode.nic.in/bitstream/123456789/4316/1/ep_act_19 https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=193560
+86.pdf. 6.
+33 Environmental Impact Assessment (EIA) Notification, Ministry of DISCLAIMER: This document is being furnished to you for your
+Environment, Forest, and Climate Change, September 14, 2006, information. You may choose to reproduce or redistribute this report
+https://environmentclearance.nic.in/writereaddata/EIA_notifications/ for non-commercial purposes in part or in full to any other person
+2006_09_14_EIA.pdf. with due acknowledgement of PRS Legislative Research (“PRS”).
+34 Writ Petition No. 1394 of 2023, Vanashakti vs Union of India, The opinions expressed herein are entirely those of the author(s).
+Supreme Court, May 16, 2025, PRS makes every effort to use reliable and comprehensive
+https://api.sci.gov.in/supremecourt/2023/50009/50009_2023 information, but PRS does not represent that the contents of the
+_3_1502_61809_Judgement_16-May-2025.pdf. report are accurate or complete. PRS is an independent, not-for-
+35 The Seeds Bill, 2025, Ministry of Agriculture and Farmers profit group. This document has been prepared without regard to the
+Welfare, objectives or opinions of those who may receive it.
+https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025
+/nov/doc20251113692001.pdf.
+36 The Seeds Act, 1966,
+https://seednet.gov.in/cms/home/readyreckoner/Seed_4/16_The_Seed
+_Act_1966.pdf.
+- 12 -

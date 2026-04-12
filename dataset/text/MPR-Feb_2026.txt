@@ -1,0 +1,756 @@
+Monthly Policy Review
+February 2026
+Highlights of this Issue
+First half of the Budget Session concludes (p. 2)
+The President’s Address was discussed and the Union Budget 2026-27 was presented. One Bill was introduced
+and passed. The session is scheduled to resume on March 9, 2026 and end on April 2, 2026.
+New GDP series released (p. 2)
+India’s GDP is estimated to grow by 7.6% in 2025-26 (at constant prices), as per the new series with 2022-23 as
+the base year. GDP (at current prices) is estimated at Rs 345 lakh crore in 2025-26, as per the new series.
+Union Budget 2026-27 presented (p. 3)
+The government proposes to spend Rs 53,47,315 crore in 2026-27, an increase of 7.7% over the revised estimate
+of 2025-26. Fiscal deficit is estimated at 4.3% of GDP, lower than the revised estimate for 2025-26 (4.4%).
+Repo rate maintained at 5.25% (p. 3)
+RBI’s Monetary Policy Committee voted to keep the repo rate unchanged at 5.25%. The standing deposit
+facility rate, the marginal standing facility rate, and the bank rate were also kept unchanged.
+India and USA announce framework for an interim trade agreement (p. 5)
+India will eliminate or reduce tariffs on all USA industrial goods and a wide range of food and agricultural
+products. Reciprocal tariffs on Indian exports to USA will be down to 18%.
+Cabinet approves Startup India Fund of Funds 2.0 to mobilise venture capital (p. 5)
+The fund will have a corpus of Rs 10,000 crore. It aims to support high-tech areas which require patient capital,
+empower early-growth stage startups, and also encourage investment beyond major metros.
+Defence Acquisition Council approves proposals worth Rs 3.6 lakh crore (p. 6)
+This includes approval for procurement of Rafale fighter jets and combat missiles for the air force, and T-72
+tanks, anti-tank mines, and overhaul of vehicle platforms of Armoured Recovery Vehicles for the army.
+Bilateral talks were held with four major countries (p. 6)
+Talks were held with France, Brazil, Malaysia, and Israel at the Head of Government level. Discussions included
+key subjects such as defence, critical minerals, energy technologies and AI.
+Cabinet approves Urban Challenge Fund (p. 6)
+The Fund will offer central assistance to urban local bodies for infrastructure projects in specified areas including
+integrated spatial and transit planning, urban mobility, climate resilience, and water supply and sanitation.
+AI Impact Summit 2026 concludes with adoption of New Delhi declaration (p. 7)
+The declaration has been endorsed by 91 countries and seeks to strengthen international cooperation in AI
+through voluntary and non-binding initiatives.
+March 2, 2026
+PRS Legislative Research ■ Institute for Policy Research Studies
+3rd Floor, Gandharva Mahavidyalaya ■ 212, Deen Dayal Upadhyaya Marg ■ New Delhi – 110002
+Tel: (011) 23234801, 43434035 ■ www.prsindia.org
+Monthly Policy Review – February 2026 PRS Legislative Research
+Parliament Figure 1: GDP growth at constant 2022-23 prices (in
+percentage, year-on-year)
+Ruchira Sakalle (ruchira@prsindia.org)
+10%
+8.4%
+First half of Budget Session concludes 8% 6.6% 7.6% 7.1% 7.5% 7.5% 6.6% 7.4% 7.0% 6.7% 7.8%
+The first half of the Budget Session was held from 6%
+January 28, 2026 to February 13, 2026. The second 4%
+half is scheduled to commence on March 9, 2026 and
+2%
+conclude on April 2, 2026.
+0%
+The session began with the President’s Address to
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3
+Parliament. The Union Budget 2026-27 was presented.
+No Bills (excluding the Finance Bill, 2026) were listed 2023-24 2024-25 2025-26
+for introduction or consideration as per the session Sources: MoSPI; PRS.
+agenda. However, a Bill amending the Industrial GDP across sectors is measured in terms of gross value
+Relations Code, 2020 was introduced, and passed by added (GVA). In 2025-26, manufacturing is estimated
+both Houses. to register the highest growth (11.5%), followed by
+trade (10.1%), and financial services (9.9%) (see Table
+1).
+Macroeconomic Development Table 1: Annual sectoral growth (at constant
+2022-23 prices)
+Shania Ali (shania@prsindia.org) Sector 2023-24 2024-25 2025-26
+Agriculture 2.6% 4.2% 2.4%
+New GDP series released
+Mining 2.4% 11.7% 4.1%
+The Ministry of Statistics and Programme Manufacturing 12.7% 9.3% 11.5%
+Implementation (MoSPI) released a new series of
+Electricity 10.7% 2.9% 1.5%
+annual and quarterly national accounts estimates with
+Construction 9.9% 7.3% 7.1%
+2022-23 as the base year, replacing the previous series
+with 2011-12 as the base year.1 The new series updates Trade 10.1% 6.6% 10.1%
+estimation methods, utilises certain high-frequency Financial Services 5.5% 10.0% 9.9%
+indicators, and revises the method for calculating Public Services 6.8% 5.0% 5.8%
+deflation to arrive at the constant price series.
+GVA 7.2% 7.3% 7.7%
+As per the second advance estimates based on the new GDP 7.2% 7.1% 7.6%
+series, India’s Gross Domestic Product (GDP) (at
+Sources: MoSPI; PRS.
+constant prices) is estimated to grow by 7.6% in 2025-
+Manufacturing registered the highest growth in the
+26.1 GDP growth in 2025-26 is estimated to be higher
+third quarter of 2025-26 (13.3%), followed by financial
+than 2024-25 (7.1%). In 2023-24, GDP grew at 7.2%.
+services (11.2%) and trade (11.0%) (see Table 2).
+GDP growth rate under the new series is currently
+unavailable for years preceding 2023-24. As per the Table 2: Growth in GVA across sectors (at constant
+first advance estimates based on the previous series, 2022-23 prices) in the third quarter of 2025-26, (in
+GDP growth in 2025-26 was estimated to be 7.4%.2 percentage, year-on-year)
+As per the new series, GDP (at current prices) in 2025- Quarter 3
+Sector
+26 is estimated at Rs 345 lakh crore, which is 3.4% 2023-24 2024-25 2025-26
+lower than the estimate of Rs 357 lakh crore under the
+Agriculture 1.4% 5.8% 1.4%
+earlier series. The nominal growth in 2025-26 under
+Mining 1.5% 13.1% 4.7%
+the new series is estimated at 8.6%, compared to 8%
+Manufacturing 15.2% 10.8% 13.3%
+under the earlier series.
+Electricity 12.6% 0.6% 1.5%
+GDP (at constant prices) grew at 7.8% in the third
+Construction 8.7% 6.4% 6.6%
+quarter (October-December) of 2025- 26, over the
+corresponding period in 2024-25.1 In the third quarter Trade 8.8% 6.7% 11.0%
+of 2024-25, GDP had grown by 7.4%. In the second Financial Services 4.8% 11.1% 11.2%
+quarter (July-September) of 2025-26, GDP is estimated Public Services 7.3% 4.4% 4.5%
+to grow at 8.4% (see Figure 1).
+GVA 6.7% 7.8% 7.8%
+GDP 7.1% 7.4% 7.8%
+Sources: MoSPI; PRS.
+- 2 -
+Monthly Policy Review – February 2026 PRS Legislative Research
+RBI maintains repo rate at 5.25% ▪ Policy Proposals: A ‘High Level Committee on
+Banking for Viksit Bharat’ will be set up. The
+The Reserve Bank of India’s (RBI) Monetary Policy
+Foreign Exchange Management (Non-debt
+Committee (MPC) voted to maintain the policy repo
+Instruments) Rules will be reviewed to simplify
+rate (the rate at which RBI lends money to banks for
+framework for foreign investments. A scheme will
+short-term needs) at 5.25%.3 Other decisions of the
+be introduced to revive 200 legacy industrial
+MPC include:
+clusters. The Semiconductor Mission 2.0 will be
+▪ The standing deposit facility rate (the rate at which launched. To enable domestic production of
+RBI borrows from banks without giving collateral) biologics, the Biopharma SHAKTI scheme will be
+remains unchanged at 5%. implemented for five years.
+▪ The marginal standing facility rate (rate at which Table 3: Union Budget Highlights (in Rs crore)
+banks can borrow additional overnight funds from % change
+RBI) and the bank rate (rate at which RBI lends 2024-25 2025-26 2026-27 from 25-
+Particular
+money to commercial banks for the long term) Actuals RE BE 26 RE to
+26-27 BE
+remain unchanged at 5.5%.
+Total Expenditure 46,52,867 49,64,842 53,47,315 7.7%
+▪ The MPC decided to continue with its neutral
+Total Receipts* 30,78,436 34,06,350 36,51,547 7.2%
+stance.
+Revenue Deficit 5,64,296 5,26,764 5,92,344 12.4%
+% of GDP 1.7% 1.5% 1.5% -
+MoSPI revises base year for IIP and CPI
+Fiscal Deficit 15,74,431 15,58,492 16,95,768 8.8%
+MoSPI has also revised the base year for Index of % of GDP 4.8% 4.4% 4.3%
+Industrial Production (IIP), and Consumer Price Index Note: *Excluding borrowings.
+(CPI).4 The new base year for IIP is 2022–23, and for Sources: Union Budget documents 2026-27; PRS.
+CPI is 2024. For an analysis of the Union Budget 2026-27, see here.
+RBI releases draft revised master direction on
+credit derivatives
+Finance
+Shania Ali (shania@prsindia.org)
+Union Budget 2026-27 presented
+The Union Budget 2026-27 had announced the
+Ayush Stephen Toppo (ayush@prsindia.org) introduction of derivatives on corporate bonds.
+Accordingly, RBI released a draft regulatory
+The Finance Minister, Ms. Nirmala Sitharaman, framework to enable the introduction of total return
+presented the 2026-27 Union Budget on February 1, swaps (TRS) on corporate bonds and credit default
+2026.5 Key highlights of the Budget include: swaps (CDS).6 Corporate bonds are debt securities
+issued by companies to raise funds. TRS on corporate
+▪ Expenditure: The government is estimated to
+bonds are contracts in which one party transfers the
+spend Rs 53,47,315 crore in 2026-27, an increase of
+bond’s total return (interest and price changes) to
+7.7% over the revised estimate of 2025-26.
+another in exchange for a payment. CDS are contracts
+▪ Receipts: The receipts (other than borrowings) in where one counterparty (protection seller) compensates
+2026-27 are estimated to be Rs 36,51,547 crore, the other counterpart (protection buyer) if a credit event
+7.2% higher than the revised estimate of 2025-26 occurs for a specific entity. In return, the protection
+(Rs 34,06,350 crore). buyer pays periodic premiums until contract maturity
+or the credit event. Credit derivatives are financial
+▪ GDP: The government has estimated a nominal
+instruments whose value is linked to an index or credit
+GDP growth rate of 10% in 2026-27 (i.e., real
+risk of underlying debt instruments.
+growth plus inflation).
+Such products can facilitate efficient management of
+▪ Deficits: Revenue deficit in 2026-27 is targeted at
+credit risks, improve liquidity in the corporate bond
+1.5% of GDP. This is similar to the revised
+market and facilitate issuance of corporate bonds.
+estimate of 1.5% in 2025- 26. Fiscal deficit in
+RBI’s draft regulatory framework specifies eligible
+2026-27 is targeted at 4.3% of GDP, lower than the
+participants and instruments in the credit derivatives
+revised estimate of 4.4% of GDP in 2025-26.
+market, operational guidelines for trading, settlement,
+▪ Tax Proposals: Tax rates for 2026-27 remains and hedging, roles and obligations of various market
+unchanged from the previous year. A tax holiday participants, customer protection and reporting
+until 2047 has been granted to foreign companies requirements, prudential requirements, and penalties
+providing global cloud services using Indian data for violations.
+centres. Securities Transaction Tax rates have been
+increased on options and futures.
+- 3 -
+Monthly Policy Review – February 2026 PRS Legislative Research
+listed debt securities. The guidelines also aim to
+RBI invites comments on amendments related
+introduce a more principle-based framework for
+to lending to REITs and InvITs
+lending to CMIs. The amendments shall come into
+Shania Ali (shania@prsindia.org) force from April 1, 2026. Key provisions include:
+▪ Acquisition financing: Banks are now allowed to
+The Reserve Bank of India (RBI) released draft
+provide acquisition financing, i.e., lend to Indian
+directions for lending to Real Estate Investment Trusts
+non-financial companies for acquiring equity
+(REITs).7 So far, commercial banks were not permitted
+stakes in domestic or foreign companies as
+to lend to these entities. It is now proposed to permit
+strategic investments. Such funding shall be
+commercial banks to extend finance to REITs, subject
+subject to financial eligibility criteria for the
+to certain safeguards. The existing guidelines in
+borrower, leverage limits, valuation norms,
+respect of lending to Infrastructure Investment Trusts
+security requirements, and Board-approved
+(InvITs) are also being harmonised for parity with
+policies of banks.
+safeguards proposed for lending to REITs. Key
+provisions include: ▪ Lending against securities: Banks may extend
+loans to corporates against collateral of securities
+▪ Lending to REITs: Banks are now permitted to
+as per their approved policy. Loans are not
+lend to REITs which: (i) are listed, (ii) are
+permitted against certain securities such as partly
+registered and regulated by SEBI, (iii) have
+paid shares, own securities, and securities under
+completed minimum three years of operations,
+lock-in requirements. Banks may lend to
+with a positive net distributable cash flows in the
+individuals against eligible securities, subject to
+preceding two financial years, (iv) have not been
+clear loan-to-value (LTV) ceilings and valuation
+subject to any material adverse regulatory action
+norms. LTV refers to the ratio of outstanding loan
+during the previous three years, and (v) none of the
+amount to the value of the securities on any given
+Special Purpose Vehicles (SPVs) under the REIT
+day. Banks may also lend to individuals to
+are facing financial difficulty. Overseas branches
+subscribe to shares during a public offering,
+may also lend to foreign REITs where an effective
+provided that these borrowers contribute a
+insolvency and bankruptcy framework exists.
+minimum cash margin of 25%.
+Banks must closely monitor the end use of funds
+lent to REITs to ensure they are not used for ▪ Loans to CMIs: Banks may extend credit
+prohibited activities, such as land acquisition. facilities to CMIs registered and regulated by a
+financial sector regulator. All credit facilities to
+Banks may lend to REITs only through loans that
+CMIs shall be provided on a fully secured basis,
+entail regular principal repayments. Total bank
+i.e., fully against a collateral. Banks may issue
+lending to a REIT and its SPVs together is capped
+guarantees for brokers or clearing members to
+at 49% of the REIT’s asset value. A bank’s overall
+meet exchange security deposits or margin
+exposure to REITs cannot exceed 10% of its
+requirements, provided the guarantees are backed
+eligible capital base. Further, banks must have a
+by at least 50% collateral, including 25% in cash.
+board-approved policy on lending to REITs,
+Banks shall not lend to CMIs for buying securities
+covering appraisal mechanism, sanctioning norms,
+for their own trading or investment purposes,
+internal exposure limits, and monitoring
+subject to certain exceptions like market making
+arrangements such as appropriate covenants.
+operations. Market making operations provide
+Similar directions have been proposed for lending liquidity in the market.
+to: (i) REITs by small finance banks and All India
+▪ CME ceilings: Aggregate CME of a bank, on
+Financial Institutions and (ii) InVITs by
+standalone and consolidated basis, shall not exceed
+commercial banks.
+40% of its eligible capital base. Banks’ direct
+Comments are invited by March 6, 2026. CME is capped at 20% of eligible capital, and
+aggregate exposure to acquisition finance is
+RBI issues amendment directions on capital limited to 20% within the overall 40% CME
+ceiling. Direct CME refers to direct investments in
+market exposure
+capital markets securities. Separate limits apply
+Shania Ali (shania@prsindia.org) for intra-day exposures.
+Excluding acquisition financing, similar guidelines
+RBI released amended capital market exposure (CME)
+have been issued for small finance banks.
+guidelines for commercial banks.8 CME of banks
+include investment in securities, lending against
+securities and lending to capital market intermediaries
+(CMI) such as stock brokers. The guidelines aim to
+enable banks to finance acquisitions by Indian
+corporates and enhance the limit for lending by banks
+against shares, and units of REITs and InvITs while
+removing the regulatory ceiling on lending against
+- 4 -
+Monthly Policy Review – February 2026 PRS Legislative Research
+SEBI releases consultation paper on ease of beneficial trade.10 The framework forms part of the
+doing business for REITs and InvITs ongoing negotiations towards the US-India Bilateral
+Trade Agreement (BTA). Key terms of the agreement
+Shania Ali (shania@prsindia.org)
+include: (i) elimination or reduction of tariffs by India
+on all industrial goods from USA and a wide range of
+The Securities and Exchange Board of India (SEBI)
+food and agricultural products from USA, (ii)
+released a consultation paper proposing measures to
+reciprocal tariff of 18% by USA on Indian exports,
+enhance ease of doing business for REITs and InvITs.9
+such as textile, leather, and plastics, (iii) preferential
+The proposals include:
+market access in sectors of mutual interest, and (iv)
+▪ Continuing investment in special purpose addressing non-tariff barriers. It was also announced
+vehicles (SPVs) post concession period: As per that USA will remove reciprocal tariffs on a range of
+InvIT Regulations, SPV means an entity which products, including pharmaceuticals and aircraft parts.
+holds 90% of its assets directly in infrastructure However, this will be subject to successful conclusion
+projects. On expiry or termination of a concession of the interim agreement. Further, India would
+period, an SPV’s interest in the infrastructure purchase USD 500 billion of energy products, aircraft
+project ceases. However, the InvIT may continue and aircraft parts, precious metals, technology
+holding such an SPV as immediate winding up products, and coking coal from USA by 2031.
+may be difficult. It is proposed that the definition
+These negotiations are underway after the decision of
+of SPV be expanded to enable InvITs to continue
+USA to impose reciprocal tariffs on imports across
+to hold companies post termination or expiry of
+several countries including India. On February 20,
+concession agreements.
+2026, the USA Supreme Court held these tariffs to be
+▪ Expanding the scope of investment in liquid illegal.11 However, following the judgement, the USA
+mutual fund schemes by REITs and InvITs: government has re-imposed tariffs. The Ministry of
+REITs and InvITs are allowed to invest up to 20% Commerce and Industry stated that it is examining the
+of the value of their assets in the specified liquid implications of the judgement.12
+mutual funds schemes linked to their potential
+credit risk. Among the top 15 liquid mutual fund India and Gulf Cooperation Council sign terms
+schemes by asset under management, only two of reference for a free trade agreement
+meet the criteria, limiting the investment
+India and Gulf Cooperation Council (GCC) signed the
+opportunities available to REITs and InvITs. It is
+terms of reference for India-GCC Free Trade
+proposed to relax the criteria to make more mutual
+Agreement (FTA).13 GCC consists of countries such as
+fund schemes eligible.
+Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and
+▪ Alignment of investment conditions for private UAE. The terms of reference aim to guide the
+and public InvITs: Publicly listed InvITs can negotiations for the FTA by defining its scope and
+invest up to 10% of the value of their assets in pure modalities. India’s trade with GCC stood at about USD
+greenfield projects, while privately listed InvITs 179 billion in 2024-25, accounting for 15% of India’s
+cannot. It is proposed to allow privately listed global trade. Key Indian exports to GCC include
+InvITs to also invest up to 10% of the value of engineering goods, rice, textiles, machinery, and gems
+their assets in greenfield projects. and jewellery. Key imports to India from GCC include
+crude oil, LNG, petrochemicals, and precious metals
+▪ Expanding the scope of permitted use of fresh
+such as gold.
+borrowings for InvITs: Currently, if an InvIT’s
+net consolidated borrowings exceed 49% of its
+Cabinet approves Startup India Fund of Funds
+asset value, any additional borrowing can be used
+2.0 to mobilise venture capital
+only for acquiring or developing infrastructure
+projects. It is proposed to expand the permitted
+The Union Cabinet has approved the establishment of
+use of such borrowings to include capital
+the Startup India Fund of Funds 2.0 with an allocation
+expenditure, major maintenance, and debt of Rs 10,000 crore.14 The fund aims to support: (i)
+refinancing.
+high technology driven areas requiring long-term
+capital, (ii) early-growth stage founders requiring a
+safety net for innovative ideas, (iii) investment beyond
+major metro cities, (iv) priority areas promoting self-
+Commerce and Industry
+reliance and economic growth, and (v) smaller funds.
+Vedika Bhanote (vedika@prsindia.org)
+India and USA announce the framework for an
+Defence
+interim trade agreement
+Shania Ali (shania@prsindia.org)
+India and USA announced the framework for an
+interim agreement regarding reciprocal and mutually
+- 5 -
+Monthly Policy Review – February 2026 PRS Legislative Research
+Defence Acquisition Council clears research and development on infectious diseases and
+procurement proposals across services global health, (iv) start-up ecosystem, and (v) skilling
+in aeronautics.17
+The Defence Acquisition Council (DAC) approved
+defence procurement proposals worth Rs 3.6 lakh crore Brazil
+across the army, air force, navy, and the coast guard.15
+The President of Brazil, Mr Luiz Inácio Lula da Silva,
+For the air force, approvals included procurement of visited India for bilateral talks.18 Key areas of
+Rafale fighter jets, combat missiles, and Air-Ship
+cooperation agreed during the visit include: (i) rare
+Based High-Altitude Pseudo Satellites (AS-HAPS).
+earth and critical minerals, (ii) regulation of drugs and
+Majority of the Rafale fighter jets are expected to be
+medical devices, (iii) MSMEs and crafts, (iv) digital
+manufactured domestically.
+partnership, (v) mining for steel supply chain, and (vi)
+For the army, approvals covered anti-tank mines and postal sector.18
+overhaul of platforms for Armoured Recovery
+Malaysia
+Vehicles, T-72 tanks, and BMP-II infantry combat
+vehicles, aimed at extending equipment service life and The Prime Minister, Mr Narendra Modi, visited
+improving operational readiness. Malaysia for bilateral talks.19 Key areas of cooperation
+agreed during the visit include: (i) disaster
+For the navy, approvals included 4-megawatt marine
+management, (ii) combating and preventing corruption,
+gas turbine-based electric power generators and
+(iii) semiconductors, (iv) vocational education and
+additional P-8I maritime reconnaissance aircraft, to
+training, (v) health and medicine, and (vi) national
+enhance self-reliance in power generation and security.19
+strengthen maritime surveillance and anti-submarine
+warfare capabilities. For the coast guard, approval was Israel
+granted for electro-optical/infra-red systems for
+The Prime Minister also visited Israel for bilateral
+Dornier aircraft, aimed at improving surveillance.
+talks.20 The two countries elevated their bilateral
+In addition, the Ministry of Defence signed a contract relationship to a “Special Strategic Partnership for
+with Hindustan Aeronautics Limited (HAL) for the Peace, Innovation and Prosperity.” They agreed to
+acquisition of eight Dornier 228 Aircraft along with collaborate in critical and emerging technologies led by
+operational role equipment for the coast guard.16 This National Security Advisors. They also signed multiple
+contract is valued at Rs 2,312 crore. agreements for cooperation in areas such as: (i)
+Artificial Intelligence, (ii) geophysical exploration, (iii)
+labour mobility, (iv) fisheries and agriculture, (v)
+development of a National Maritime Heritage Complex
+External Affairs in Lothal, Gujarat, , (vi) establishing an India-Israel
+Centre for Agriculture, and (vii) cross-border
+Navya Sriram (navya@prsindia.org) remittances through UPI.20 The two countries signed
+declarations of intent on: (i) cooperation in horizon
+Bilateral talks were held with four major scanning, and (ii) establishing an Indo-Israel Cyber
+countries Centre of Excellence.20
+During the month of February, bilateral talks were held
+at the Head of Government level with France, Brazil,
+Malaysia, and Israel.
+Urban Development
+France
+Shrusti Singh (shrusti@prsindia.org)
+The President of France, Mr Emmanuel Macron,
+visited India for bilateral talks.17 The two countries Cabinet approves Urban Challenge Fund
+announced the upgradation of their relationship to
+The Union Cabinet approved the Urban Challenge
+‘Special Global Strategic Partnership.’ An annual
+Fund with total central assistance of one lakh crore
+foreign ministers’ dialogue will be established for
+rupees for projects between 2025-26 and 2030-31.21 It
+regularly reviewing implementation of an elevated
+will finance projects for integrated spatial and transit
+partnership and a Horizon 2047 roadmap. Other key
+planning, urban mobility, creative redevelopment of
+outcomes include: (i) renewal of the agreement
+cities, climate resilience, and water and sanitation. It
+between India and France on defence cooperation, (ii)
+will be available to the following categories of cities:
+signing of a joint venture between Bharat Electronics
+(i) all cities with a population of 10 lakh or more on the
+Limited and the French defence company, Safran, to
+basis of 2025 estimates, (ii) capitals of all states and
+produce HAMMER missiles in India, (iii) joint
+union territories (UTs) not covered in the first category,
+declaration of intent for cooperation in critical minerals
+and (iii) major industrial cities with a population of one
+and metals, and (iv) amending protocol on the double
+lakh or more. Key features include:
+tax avoidance agreement between India and France.
+Other key areas of cooperation include: (i) renewable ▪ Financing: Central assistance will cover 25% of
+energy (ii) digital sciences and technology, (iii) the total project cost, subject to a minimum 50%
+- 6 -
+Monthly Policy Review – February 2026 PRS Legislative Research
+financing through market sources. These sources for workers in: (i) metalliferous mines and (ii) docks.
+may include municipal bonds, bank loans, and Key features include:
+public private partnerships. The remaining share
+▪ Metalliferous mines: The Draft Regulations
+may be contributed by Urban Local Bodies or
+specify duties and responsibilities of entities such
+respective state/UT governments.
+as the mine management, officers, contractors, and
+▪ Project selection: Projects will be selected workers. For instance, the owner of a mine must
+through a competitive challenge mode. Funding ensure that an adequate and effective safety
+will be linked to reforms, milestones, and clearly management plan (SMP) is framed and
+defined outcomes. Cities will need to continue implemented. SMP will include: (i) a detailed
+reforms for further release of funds. mine safety and health policy of the company, (ii)
+a plan to develop capabilities to implement the
+▪ Credit Repayment Guarantee Scheme: Smaller
+objective of safety, (iii) a scheme of mining, (iv)
+ULBs (less than one lakh population) across the
+hazard management plans for each identified
+country and cities in north-eastern and hilly states
+hazard, (v) standard operating procedures for
+will be covered under this scheme. A dedicated
+activities posing a health risk, and (vi) annual
+corpus of Rs 5,000 crore will be set up for them.
+evaluation of the SMP to update the plan. The
+For first time loans, the central government will
+Draft Regulations also require a comprehensive
+provide a guarantee of up to seven crore rupees or
+emergency response and evacuation plan for
+70% of the loan amount, whichever is lower.
+dealing with injury, illness, or emergency that may
+Upon repayment of the first loan, an additional
+occur during industrial or natural disasters. The
+guarantee for a loan up to seven crore rupees or
+draft Regulations specify requirements such as
+50% of the loan amount, whichever is lower, will
+adequate lighting, ventilation, protective gear, and
+be provided. This will effectively cover projects
+manner of operations such as blasting.
+worth up to Rs 20 crore for first-time borrowers
+and up to Rs 28 crore for subsequent projects in ▪ Dock workers: The Draft Regulations specify
+smaller cities. requirements relating to construction, equipment,
+and maintenance of working places on shore,
+ships, dock, and other places where dock work is
+carried. They specify requirements such as safety
+Labour and Employment provisions in case of fire and explosion prevention
+and protection, and manner of handling hazardous
+chemicals. Every port must ensure that an
+Parliament passes the Industrial Relations
+emergency action plan is in place for dealing with
+Code (Amendment) Bill, 2026
+emergencies including drowning, floods, power
+Navya Sriram (navya@prsindia.org) failure, fire, and gas leakage.
+Comments are invited until March 21, 2026 for the
+The Parliament passed the Industrial Relations Code
+draft Regulations on metalliferous mines, and until
+(Amendment) Bill, 2026.22 The Bill was introduced in
+March 26, 2026 for the draft Regulations on docks.
+Lok Sabha on February 11, 2026. It amends the
+Industrial Relations Code, 2020.23 The Code provides
+for matters such as recognition of trade unions, notice
+periods for strikes and lockouts, and resolution of
+Electronics and IT
+industrial disputes. The 2020 Code replaces three Acts,
+namely: (i) the Trade Unions Act, 1926, (ii) the
+Ayush Stephen Toppo (ayush@prsindia.org)
+Industrial Employment (Standing Orders) Act, 1946,
+and (iii) the Industrial Disputes Act, 1947. The Bill
+AI Impact Summit 2026 concludes with
+clarifies that these three Acts stand repealed from
+adoption of New Delhi declaration
+November 21, 2025.
+The AI Impact Summit 2026 concluded with the
+For a PRS summary of the Bill, see here.
+adoption of the New Delhi Declaration on AI Impact.27
+The declaration has been endorsed by 91 countries and
+Comments invited on draft Regulations under
+international organisations, including India, China, UK,
+the Occupational Safety, Health, and Working
+and USA. It seeks to strengthen international
+Conditions Code, 2020 cooperation through voluntary and non-binding
+initiatives. These include: (i) promoting affordable
+Vedika Bhanote (vedika@prsindia.org)
+access to foundational AI resources, (ii) developing
+Global AI Impact Commons, a platform to scale and
+The Ministry of Labour and Employment invited
+replicate AI use cases globally, (iii) facilitating
+comments on draft Regulations under the Occupational
+collaboration among scientists globally through
+Safety, Health, and Working Conditions Code,
+2020.24,25,26 These Regulations specify requirements International Network of AI for Science
+Institutions¸(iv) promoting vocational and training
+regarding occupational safety and working conditions
+- 7 -
+Monthly Policy Review – February 2026 PRS Legislative Research
+ecosystems to increase AI literacy, and (v) developing quantity and grade of minerals received against the
+energy-efficient AI systems. transit permit and maintain records.
+India joins Pax Silica coalition ▪ Inspection and seizure: Authorised officers are
+empowered to inspect mineral stocks, carriers, and
+India formally joined the Pax Silica coalition on the
+records, including during transit. They can seize
+sidelines of the AI Impact Summit.28 Pax Silica aims
+vessels, machinery, or minerals in case of
+to build secure supply chains for silicon and critical
+contravention. Seized property may be released
+minerals that are required for semiconductors,
+upon furnishing security in the form of cash or a
+advanced computing, and other high-technology
+bank guarantee. Seized minerals may be disposed
+systems. Other signatories to Pax Silica include
+of through public auction, with proceeds credited
+Australia, Greece, Israel, Japan, Qatar, South Korea,
+to the Consolidated Fund of India.
+Singapore, UAE, UK, and USA.29 Non-signatory
+participants include European Union, OECD, Canada,
+Netherlands, and Taiwan.29
+Transport
+Navya Sriram (navya@prsindia.org)
+Mining
+Scheme launched for cashless treatment of
+Vaishali Dhariwal (vaishali@prsindia.org)
+road accident victims
+Rules notified under the Offshore Areas The Ministry of Road Transport and Highways
+Mineral (Development and Regulation) Act launched the PM RAHAT scheme (Road Accident
+Victim Hospitalisation and Assured Treatment).32
+The Ministry of Mines has notified the Offshore Areas
+Under this scheme, every eligible road accident victim
+Mineral (Prevention of Illegal Mining and
+on any category of road will be entitled to cashless
+Transportation) Rules, 2026.30 The Rules have been
+treatment up to Rs 1.5 lakh, for up to seven days from
+framed under the Offshore Areas Mineral
+the date of accident. Stabilisation treatment will be
+(Development and Regulation) Act, 2002.31 The Act
+covered for up to 24 hours in non-life-threatening
+regulates mining in maritime zones of India. The Rules
+cases, and up to 48 hours in life-threatening cases.
+will apply to all minerals in offshore areas except
+mineral oils and hydrocarbons. Key features include: Reimbursement to hospitals will be made from the
+Motor Vehicle Accident Fund. If the offending vehicle
+▪ Electronic monitoring: Every holder of an
+is insured, payment will be drawn from contributions
+operating right and owner of a carrier is required to
+made by insurance companies. In uninsured and hit
+deploy an electronic monitoring system. The
+and run cases, payment will be made through budgetary
+system should be capable of recording information
+allocation by the central government. Claims approved
+in real-time related to operations such as tracking
+by the State Health Agency will be paid within 10 days.
+of vessels, displacement or weight of vessel, and
+volume and density of run-of-mine.
+▪ Registration: No mechanised machinery or carrier
+shall be used unless the owner is registered with Pharmaceuticals
+the Indian Bureau of Mines.
+Jahanvi Choudhary (jahanvi@prsindia.org)
+▪ Export of offshore minerals: Any holder of an
+operating right or trader seeking to export offshore Comments invited on draft amendments to the
+minerals directly from offshore areas must obtain
+New Drugs and Clinical Trials Rules, 2019
+prior clearance from the Central Board of Indirect
+Taxes and Customs at least a week before export. The Ministry of Health and Family Welfare released
+draft amendments to the New Drugs and Clinical Trials
+▪ Dispatch and transportation: Before dispatch,
+Rules, 2019 for public feedback.33 The Rules specify
+the holder of an operating right must furnish
+the mechanism for approval of new drugs and for
+details on quantity, grade, consignee, carrier, route,
+conduct of clinical research.34 The proposed
+and statutory payments on the specified portal and
+amendments require a manufacturer to inform the
+obtain a transit permit. Transportation from the
+Drugs Controller, India if there is a change in an
+lease area to the first point of discharge must be
+imported or a manufactured drug product. This
+carried out using registered carriers and on the
+includes changes in the manufacturing process,
+permitted route. The weight of minerals must be
+packaging, shelf life, or testing of the drug. In case of
+measured both at the time of dispatch and at the
+any major or moderate quality change, they must obtain
+first onshore point of discharge using approved
+prior approval from the Drugs Controller, India. Major
+weighment systems. The Rules require
+or moderate change imply a substantial or moderate
+reconciliation of weights and conversion to dry-
+potential to have an adverse impact on the identity,
+basis weight. Consignees are required to verify the
+strength, quality, purity, or potency, respectively.
+- 8 -
+Monthly Policy Review – February 2026 PRS Legislative Research
+Comments are invited until March 4, 2026.
+1 Press Note on New Series of GDP Estimates with Base Year 2022- https://www.pib.gov.in/PressReleasePage.aspx?PRID=2227018&reg
+23, National Statistics Office, Ministry of Statistics and Programme =3&lang=1.
+Implementation, February 27, 2026, 16 Aatmanirbhar Bharat: MoD inks Rs 2,312 crore contract with HAL
+https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026 for eight Dornier 228 Aircraft under Buy (Indian) category, Press
+/feb/doc2026227806501.pdf. Information Bureau, Ministry of Defence, February 12, 2026,
+2 Press Note on First Advance Estimates of Gross Domestic Product https://www.pib.gov.in/PressReleasePage.aspx?PRID=2227031&reg
+for 2025-26, National Statistics Office, Ministry of Statistics and =3&lang=1.
+Programme Implementation, January 7, 2026, 17 “List of Outcomes: Visit of the President of the French Republic to
+https://www.mospi.gov.in/uploads/latestReleases/latest_release_1767 India (February 17-19, 2026)”, Press Release, Ministry of External
+781372753_1380ce82-f5a5-440d-99e6- Affairs, February 17, 2026, https://www.mea.gov.in/bilateral-
+e6b35af0deb5_GDP_Press_Note_on_FAE_2025-26.pdf. documents.htm?dtl/40781/List_of_Outcomes_Visit_of_the_President
+3 Monetary Policy Statement, 2025-26, Resolution of the Monetary _of_the_French_Republic_to_India_February_1719_2026.
+Policy Committee, February 4 to 6, 2026, Reserve Bank of India, 18 “List of Outcomes: State Visit of the President of Federative
+February 6, 2026, Republic of Brazil to India (February 18-22, 2026)”, Press Release,
+https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=6 Ministry of External Affairs, February 21, 2026,
+2169. https://www.mea.gov.in/bilateral-
+4 Release of the new series of GDP, CPI and IIP is scheduled for 27th documents.htm?dtl/40811/List+of+Outcomes+State+Visit+of+the+Pr
+February 2026, 12th February 2026 and May 2026, Press Information esident+of+Federative+Republic+of+Brazil+to+India+February+182
+Bureau, Ministry of Statistics & Programme Implementation, 2+2026.
+February 11, 2026, 19 “List of Outcomes: Official visit of the Prime Minister to Malaysia
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226269&reg (February 07 – 08 , 2026)”, Press Release, Ministry of External
+=3&lang=1. Affairs, February 8, 2026, https://www.mea.gov.in/bilateral-
+5 Union Budget of India, 2026-27, https://www.indiabudget.gov.in/. documents.htm?dtl/40712/List_of_Outcomes_Official_visit_of_the_
+6 RBI releases draft revised Master Direction – Reserve Bank of India Prime_Minister_to_Malaysia_February_07__08__2026.
+(Credit Derivatives) Directions, 2022, Reserve Bank of India, 20 “List of Outcomes: Visit of Prime Minister to Israel (February 25 -
+February 6, 2026, 26, 2026)”, Press Release, Ministry of External Affairs, 26 February,
+https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=6 2026, https://www.mea.gov.in/bilateral-documents.htm?dtl/40827.
+2178. 21 “Cabinet approves Rs. One Lakh Crore Urban Challenge Fund to
+7 RBI Issues Draft Amendment Directions for instructions on Drive Market-Led Urban Transformation”, Press Information
+‘Lending to Real Estate Investment Trusts (REITs) and Infrastructure Bureau, Cabinet, February 14, 2026,
+Investment Trusts (InvITs)’, Reserve Bank of India, February 13, https://www.pib.gov.in/PressReleasePage.aspx?PRID=2227986&reg
+2026, =3&lang=2.
+https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=6 22 The Industrial Relations Code (Amendment) Bill, 2026,
+2232. https://prsindia.org/files/bills_acts/bills_parliament/2026/Industrial_R
+8 RBI issues Amendment Directions on Capital Market Exposure, elations_Code_Bill_2026_text.pdf.
+Reserve Bank of India, February 13, 2026, 23 The Industrial Relations Code, 2020,
+https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=6 https://www.indiacode.nic.in/bitstream/123456789/22040/1/aa20203
+2233. 5.pdf.
+9 Consultation Paper on Measures towards Ease of Doing Business 24 The Occupational Safety, Health, and Working Conditions Code,
+for REITs and InvITs, Securities and Exchange Board of India, 2020,
+February 5, 2026, https://www.sebi.gov.in/reports-and- https://www.indiacode.nic.in/bitstream/123456789/22041/1/a2020-
+statistics/reports/feb-2026/consultation-paper-on-measures-towards- 37.pdf.
+ease-of-doing-business-for-reits-and-invits-_99545.html. 25 Draft Occupational Safety, Health and Working Conditions
+10 “United States-India Joint Statement,” Press Information Bureau, (Metalliferous Mines) Regulations, G.S.R 109(E), The Gazette of
+Ministry of Commerce and Industry, February 7, 2026, India, Ministry of Labour and Employment, February 4, 2026,
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2224783&reg https://www.dgms.gov.in/writereaddata/UploadFile/MMRPrePublish
+=3&lang=1. ed_11022026.pdf.
+11 “Trump raises global tariffs to 15%, day after Supreme Court 26 Draft Occupational Safety, Health and Working Conditions (Dock
+ruling” BBC, February 21, 2026, Workers) Central Regulations, G.S.R. 119(E), The Gazette of India,
+https://www.bbc.com/news/live/c0l9r67drg7t. Ministry of Labour and Employment, February 9, 2026,
+https://egazette.gov.in/WriteReadData/2026/270079.pdf.
+12 Press Statement, Press Information Bureau, Ministry of Commerce
+and Industry, February 21, 2026, 27 “AI Impact Summit 2026 concludes with adoption of New Delhi
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2231201&reg Declaration”, Press Information Bureau, Ministry of Electronics and
+=3&lang=1. Information Technology, February 21, 2026,
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2231208&reg
+13 ‘India and Gulf Cooperation Council Sign Terms of Reference for
+=3&lang=1.
+India–GCC Free Trade Agreement,’ Press Information Bureau,
+Ministry of Commerce and Industry, February 5, 2026, 28 “India Joins Pax Silica at India AI Impact Summit 2026, Deepens
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2223875&reg Strategic Technology Cooperation with United States
+=3&lang=1. ”, Press Information Bureau, Ministry of Electronics and Information
+14 “Cabinet approves Startup India Fund of Funds 2.0 to Mobilize Technology, February 20, 2026,
+Venture Capital for India’s Startup Ecosystem,” Press Information https://www.pib.gov.in/PressReleasePage.aspx?PRID=2230648&reg
+Bureau, Ministry of Commerce and Industry, February 14, 2026, =3&lang=1.
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2227994&reg 29 Pax Silica, U.S. Department of State, as accessed on February 28,
+=3&lang=1. 2026, https://www.state.gov/pax-silica.
+15 DAC clears Rs 3.60 lakh crore worth of capital acquisition 30 Offshore Areas Mineral (Prevention of Illegal Mining and
+proposals to enhance the combat readiness of defence forces, Press Transportation) Rules, 2026, G.S.R. 102(E), The Gazette of India,
+Information Bureau, Ministry of Defence, February 12, 2026, Ministry of Mines, February 4, 2026,
+- 9 -
+Monthly Policy Review – February 2026 PRS Legislative Research
+19, 2019,
+https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/ne
+https://mines.gov.in/admin/imgview?filename=6982e20cc211517701
+w_DC_rules/NDCTR_G.S.R.%20227(E)%20dt_19.03.2019_New%2
+85228.pdf.
+0Drugs%20&%20Clinical%20Trial%20Rules,%202019.pdf.
+31 The Offshore Areas Mineral (Development and Regulation) Act,
+2002,
+https://www.indiacode.nic.in/bitstream/123456789/2040/6/a2003- DISCLAIMER: This document is being furnished to you for your
+17.pdf. information. You may choose to reproduce or redistribute this report
+32 “Government Launches “PM RAHAT” – Cashless Treatment of for non-commercial purposes in part or in full to any other person
+with due acknowledgement of PRS Legislative Research (“PRS”).
+Road Accident Victims”, Press Information Bureau, Ministry of
+The opinions expressed herein are entirely those of the author(s).
+Road Transport & Highways, February 14, 2026,
+PRS makes every effort to use reliable and comprehensive
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2228172&reg
+information, but PRS does not represent that the contents of the
+=3&lang=1.
+report are accurate or complete. PRS is an independent, not-for-
+33 The New Drugs and Clinical Trials (Amendment) Rules, 2026,
+profit group. This document has been prepared without regard to the
+G.S.R. 97(E), The Gazette of India, Ministry of Health and Family
+objectives or opinions of those who may receive it.
+Welfare, February 2, 2026,
+https://egazette.gov.in/WriteReadData/2026/269818.pdf.
+34 The New Drugs and Clinical Trials Rules, 2019, G.S.R. 227 (E),
+The Gazette of India, Ministry of Health and Family Welfare, March
+- 10 -

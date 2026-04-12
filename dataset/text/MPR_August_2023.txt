@@ -1,0 +1,2219 @@
+Monthly Policy Review
+August 2023
+Highlights of this Issue
+Monsoon session 2023 concludes (p. 2)
+The monsoon session of Parliament concluded on August 11, 2023. 25 Bills were introduced and 23 were
+passed. This session saw the first no confidence motion of the 17th Lok Sabha, which was negatived.
+GDP grows 7.8% in first quarter of 2023-24 (p.2)
+Growth in all sectors was positive in the first quarter of 2023-24 with financial, real estate and professional
+services registering the highest growth.
+Bills to replace the Indian Penal Code, CrPC, and Evidence Act introduced (p. 4)
+Three Bills replacing the Indian Penal Code, 1860, the Code of Criminal Procedure (CrPC), 1973 and the Indian
+Evidence Act, 1872 were introduced and referred to the Standing Committee on Home Affairs.
+Bill to amend the appointment of Chief Election Commissioner introduced (p. 6)
+The President will appoint the CEC on the recommendation of a Selection Committee, which includes the Prime
+Minister, Leader of the Opposition in Lok Sabha, and a Cabinet Minister nominated by the Prime Minister.
+Parliament passed the NCT of Delhi (Amendment) Bill, 2023 (p. 3)
+The Bill establishes an Authority to recommended transfers and postings of officers in the Delhi government to
+the LG. The Authority will consist of the Delhi Chief Minister, Chief Secretary, and Principal Home Secretary.
+The Digital Personal Data Protection Bill, 2023 passed by Parliament (p.5)
+The Bill provides for the data protection and privacy for individuals. It lays out rights and duties of data
+principals and the obligations of data fiduciaries.
+Parliament passes the Registration of Births and Deaths (Amendment) Bill, 2023 (p. 3)
+The Bill establishes a national database of registered births and deaths, which can be shared with approved
+authorities. The Bill requires the Aadhaar details of parents and informants in cases of births.
+Cabinet approves PM e-Bus Sewa for enhancement of city bus operations (p. 19)
+The scheme aims to enhance city bus operations in cities with a population over three lakh people. The scheme
+has a budget outlay of Rs 57,613 crore over 10 years.
+Central Sector Scheme for artisan and craftspeople approved by Cabinet (p.18)
+The scheme will provide credit support to artisan and craftspeople at a concessional interest rate of 5%. It will
+also provide for skill upgradation and marketing support
+New National Curriculum Framework for School Education released (p.10)
+The framework revises requirements on language education, relaxes norms on examinations, and provides
+greater choice of subjects in secondary education.
+Standing Committees submit reports on various subjects and policies
+This includes reports on electoral reforms, judicial reforms, citizens’ data security, mental health, and ecosystem
+of startups.
+CAG submits its audit report on Ayushman Bharat-PMJAY (p.11)
+The audit flags issues such as irregularities in the inclusion of beneficiaries, errors in datasets and shortcomings
+in empanelled hospitals.
+September 1, 2023
+PRS Legislative Research ◼ Institute for Policy Research Studies
+3rd Floor, Gandharva Mahavidyalaya ◼ 212, Deen Dayal Upadhyaya Marg ◼ New Delhi – 110002
+Tel: (011) 23234801, 43434035 ◼ www.prsindia.org
+Monthly Policy Review – August 2023 PRS Legislative Research
+Parliament Figure 1: GDP growth at constant 2011-12 prices (in
+percentage, year-on-year)
+Arpita Mallick (arpita@prsindia.org)
+25% 21.6%
+20%
+Monsoon Session 2023 concludes; 23 Bills 15% 9.1% 13.1% 7.8%
+passed; three referred to Standing Committees 10% 5.2% 4.0% 6.2% 4.5% 6.1%
+5%
+The Monsoon Session of Parliament was held from 0%
+July 20, 2023 to August 11, 2023, with 17 sittings. Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1
+During this time, 25 Bills were introduced and 23 were
+2021-22 2022-23 2023-
+passed. Three Bills replacing the Indian Penal Code,
+24
+1860, the Code of Criminal Procedure, 1973 and the
+Indian Evidence Act, 1872 were introduced and Note: In first quarter of 2021-22, GDP had increased on a low base
+after contracting by 23.4% in first quarter of 2020-21.
+referred to the Standing Committee on Home Affairs.
+Sources: Ministry of Statistics and Programme Implementation; PRS.
+Bills introduced and passed in this session include the GDP across economic sectors is measured in terms of
+Government of NCT of Delhi (Amendment) Bill, 2023, Gross Value Added (GVA). Growth in all sectors was
+the Digital Personal Data Protection Bill, 2023, the positive in the first quarter of 2023-24. Financial, real
+Mines and Minerals (Development and Regulation) estate and professional services registered the highest
+Bill, 2023 and the Registration of Births and Deaths growth (12.2%), followed by trade (9.2%), construction
+(Amendment) Bill, 2023. Bills pending from earlier (7.9%), and public services (7.9%).
+sessions that were passed include the Coastal
+Table 1: Growth in GVA across sectors in Q1 of
+Aquaculture Authority (Amendment) Bill, 2023, the
+2023-24, (in %, year-on-year)
+Forest (Conservation) Amendment Bill, 2023 and, the
+Sector Quarter 1
+Inter-Services Organisation Bill, 2023. This session
+saw the first No-confidence motion of the 17th Lok 2021-22 2022-23 2023-24
+Sabha. The motion was negatived through a voice Agriculture 3.4% 2.4% 3.5%
+vote. On August 31, 2023, the Minister of
+Mining 12.2% 9.5% 5.8%
+Parliamentary Affairs announced that a five-day
+Manufacturing 51.5% 6.1% 4.7%
+session of Parliament will be held starting September
+18, 2023.1 Electricity 16.3% 14.9% 2.9%
+Construction 77.0% 16.0% 7.9%
+For more details on legislative business transacted
+during the Monsoon Session 2023, see here. For Trade 41.4% 25.7% 9.2%
+details on the functioning of Parliament during the Financial services 2.8% 8.5% 12.2%
+session, see here.
+Public services 6.5% 21.3% 7.9%
+GVA 20.2% 11.9% 7.8%
+GDP 21.6% 13.1% 7.8%
+Macroeconomic Development Note: GVA is measured at basic prices (2011-12).
+Sources: Ministry of Statistics and Programme Implementation; PRS.
+Tushar Chakrabarty (tushar@prsindia.org)
+Industrial production grew by 4.5% in first
+GDP grows at 7.8% in first quarter of 2023-24 quarter of 2023-24
+Gross Domestic Product (GDP) (at constant prices) The Index of Industrial Production (IIP) grew by 4.5%
+grew at 7.8% in the first quarter (April-June) of 2023- in the first quarter (April-June) of 2023-24.3 This was
+24, over the corresponding period in 2022-23.2 In the lower than the 12.8% growth witnessed in the first
+first quarter of 2022-23, GDP had grown by 13.1%. quarter of 2022-23. The weight of manufacturing,
+In the fourth quarter (January-March) of 2022-23, mining, and electricity sectors in the IIP is 78%, 14%,
+GDP had grown by 6.1%. and 8% respectively.
+The mining sector grew by 6.4% in the first quarter of
+2023-24 as compared to 9.1% in the corresponding
+quarter of 2022-23. The manufacturing sector grew by
+4.7% in the first quarter of 2023-24, significantly lower
+than 12.8% in the first quarter of 2022-23. The
+electricity sector grew the slowest by 1.3% in the first
+quarter of 2023-24 which was lower than 17.1% in the
+first quarter of 2022-23.
+- 2-
+Monthly Policy Review – August 2023 PRS Legislative Research
+Figure 2: Growth in IIP (%, year-on-year) Governor (LG) of Delhi: (i) transfers and postings,
+(ii) matters related to vigilance, (iii) disciplinary
+8%
+7% 6.4% proceedings, and (iv) prosecution sanctions of
+Group A officers of All India Services (except
+6%
+4.5% 4.7% Indian Police Service), and officers serving the
+5%
+Delhi government. Officers serving in connection
+4%
+with the subjects of police, public order, and land
+3%
+will not come under the Authority’s purview.
+2% 1.3%
+1% ▪ The Authority will consist of the Delhi Chief
+0% Minister of Delhi, Principal Home Secretary and
+-1% Chief Secretary of the Delhi. All decisions of the
+-2% Authority will be based on a majority of votes of
+IIP Mining Mfg Electricity the members present and voting. The quorum for a
+meeting will be two members.
+Apr-23 May-23 Jun-23 Apr-Jun 23
+▪ Powers of the Lieutenant Governor (LG):
+Sources: Ministry of Statistics and Programme Implementation; PRS. Under the Act, matters where the LG shall act on
+his discretion are: (i) matters outside the legislative
+Repo rate kept unchanged at 6.5%
+competence of the Delhi legislature but which have
+been delegated to the LG, or (ii) matters where he
+The Monetary Policy Committee (MPC) of the Reserve
+is required by a law to act in his discretion or
+Bank of India (RBI) retained the policy repo rate (the
+rate at which RBI lends money to banks) at 6.5%.4 exercise any judicial or quasi-judicial functions.
+The Bill specifies that in these matters, the LG will
+Other decisions of the Committee are as follows:
+act in his sole discretion. It expands the
+▪ The standing deposit facility rate (the rate at which discretionary role of the LG by giving him powers
+the RBI borrows from banks without giving to approve the recommendations of the Authority,
+collateral) has been retained at 6.25%. or return them for reconsideration. The LG’s
+decision will be final in the case of a difference of
+▪ The marginal standing facility rate (the rate at
+opinion between him and the Authority. It also
+which banks can borrow additional money from
+provides the LG with the authority to override the
+RBI), and the bank rate (rate at which RBI buys
+Delhi government on certain matters. These
+bills of exchange) have been retained at 6.75%.
+matters include summoning and proroguing the
+The MPC decided to remain focused on withdrawal of Delhi Legislative Assembly.
+accommodation. This is in order to ensure that
+For a PRS analysis of the Bill, see here.
+inflation progressively aligns with the target of 4%,
+while supporting growth. RBI had increased the repo
+Bill to amend the Registration of Births and
+rate to from 6.25% to 6.5% in February 2023.
+Deaths Act, 1969, passed by Parliament
+Alaya Purewal (alaya@prsindia.org)
+Home Affairs
+The Registration of Births and Deaths (Amendment)
+Bill, 2023, was passed by Parliament.8 It amends the
+The GNCT of Delhi (Amendment) Bill, 2023, Registration of Births and Deaths Act, 1969.9 The Act
+passed by Parliament provides for the regulation of registration of births and
+deaths. Key features of the Bill include:
+Alaya Purewal (alaya@prsindia.org)
+▪ Aadhaar details of parents and informants
+The Government of National Capital Territory of Delhi required: The Act requires certain persons
+(Amendment) Bill, 2023, was introduced in Lok Sabha (informants) to report births and deaths to the
+on August 1, 2023.5 It was passed by Parliament on Registrar. For example, the medical officer in
+August 7, 2023. It amends the Government of National charge of a hospital where a baby is born must
+Capital Territory of Delhi Act, 1991.6 The Bill report the birth. The Bill adds that, in cases of
+replaces the Government of National Capital Territory births, the informant shall also provide the
+of Delhi (Amendment) Ordinance, 2023 which was Aadhaar number of the parents and the informant,
+promulgated on May 19, 2023.7 The Bill will if available. This provision also applies to: (i)
+retrospectively apply from May 19, 2023. Key features jailor in case of births in a jail, and (ii) manager of
+include: a hotel or lodge in case of births in such a place.
+Further, it expands the list of specified persons to
+▪ National Capital Civil Services Authority: The
+include: (i) adoptive parents for non-institutional
+Bill establishes the National Capital Civil Service
+adoption, (ii) biological parent for births through
+Authority to recommend to the Lieutenant
+surrogacy, and (iii) the parent in case of birth of a
+- 3-
+Monthly Policy Review – August 2023 PRS Legislative Research
+child to a single parent or unwed mother. sedition, which was punishable with imprisonment
+between three years and life. It instead penalises:
+▪ Database of births and deaths: The Act provides
+(i) exciting or attempting to excite secession, or
+for the appointment of a Registrar-General, India
+subversive activities, or armed rebellion, (ii)
+who may issue general directions for registration
+encouraging feelings of separatist activities, or (iii)
+of births and deaths. The Bill adds that the
+endangering sovereignty or unity and integrity of
+Registrar General will maintain a national database
+India. These may involve electronic
+of registered births and deaths. Chief Registrars
+communication, or use of financial means. This
+(appointed by states) and Registrars (appointed by
+will be punishable with imprisonment of up to
+states for each local area jurisdiction) will be
+seven years or life, and will attract a fine.
+obligated to share data of registered births and
+deaths to the national database. The Chief ▪ Murder by a group on certain grounds: The
+Registrar shall maintain a similar database at the Bill specifies a separate penalty for murder
+state level. committed by five or more people on specified
+grounds. These include race, caste, sex, place of
+▪ Connecting database: The Bill states that the
+birth, language, or personal belief. Penalty for
+national database may be made available to other
+each offender includes imprisonment between
+authorities preparing or maintaining other
+seven years and life, or death.
+databases. Such databases include: (i) population
+register, (ii) electoral rolls, (iii) ration card, and ▪ Death penalty for gang rape of minor: The IPC
+(iv) any other national databases as notified. The allows death penalty for gang rape of women
+use of the national database must be approved by below 12 years of age. The Bill extends the death
+the central government. Similarly, the state penalty for gang rape of women below 18 years.
+database may be made available to authorities
+For a PRS summary of the Bill, please see here.
+dealing with other state databases, subject to the
+state government’s approval.
+Bill replacing the Code of Criminal Procedure
+For a PRS analysis of the Bill, see here. introduced in Lok Sabha
+Tushar Chakrabarty (tushar@prsindia.org)
+Bill to replace the IPC introduced in Lok
+Sabha; referred to Standing Committee
+The Bharatiya Nagarik Suraksha Sanhita, 2023 was
+Tanvi Vipra (tanvi@prsindia.org) introduced in Lok Sabha.12 It repeals the Code of
+Criminal Procedure, 1973.13 The Bill was subsequently
+The Bharatiya Nyaya Sanhita, 2023 was introduced in referred to the Standing Committee on Home Affairs.14
+Lok Sabha.10 The Bill repeals the Indian Penal Code, The Code provides for the procedure for arrest,
+1860 (IPC) and has been referred to the Standing prosecution, and bail for offences under various Acts
+Committee on Home Affairs.11 The IPC is the including the Indian Penal Code, 1860. The Bill retains
+principal law on criminal offences. The Bill retains most of the provisions of the Code. Key changes
+several parts of the IPC. Certain offences under the proposed under the Bill include:
+IPC that Courts have struck or read down have been
+▪ Detention of undertrials: Under the Code, if an
+omitted. These include offences of adultery and same-
+accused has spent half of the maximum period of
+sex intercourse. Key changes proposed in the Bill are:
+imprisonment for an offence under detention,
+▪ Terrorism and organised crime to be offences: during investigation or trial, he must be released
+The Bill defines terrorism as an act that intends to on his personal bond. This does not apply to
+threaten the unity, integrity, and security of the offences which are punishable by death. The Bill
+country to intimidate the general public. Terrorist adds that this provision will also not apply to: (i)
+acts include using firearms, bombs, or hazardous offences punishable by life imprisonment, and (ii)
+substances to cause death, or spread fear. persons against whom proceedings are pending in
+more than one offence. It further adds that first-
+▪ Organised crime is defined as a continuing
+time offenders will be released on bail if they
+unlawful activity, carried out by use of violence or
+have completed detention for one-third of the
+intimidation, to obtain material or financial benefit.
+maximum imprisonment which can be imposed
+The unlawful activity may include kidnapping,
+for the offence. The superintendent of the jail
+contract killing, financial scams, and cybercrime.
+where the accused is detained must make the
+These could be carried out by individuals singly or
+application seeking the release of such undertrials
+jointly, as members of or on behalf of a crime
+on bail.
+syndicate. The maximum penalty for terrorism
+and organised crime includes death, or life
+imprisonment if the offence has resulted in death
+of any person.
+▪ Sedition: The Bill removes the offence of
+- 4-
+Monthly Policy Review – August 2023 PRS Legislative Research
+▪ Signatures and finger impressions: The Code Information Technology
+empowers a Metropolitan/Judicial Magistrate to
+order any person to provide specimen signatures Pratinav Damani (pratinav@prsindia.org)
+or handwriting. Such an order can be given for
+any investigation or proceeding under the Code. Digital Personal Data Protection Bill, 2023
+However, such specimen cannot be collected passed by Parliament
+from a person who has not been arrested under
+The Digital Personal Data Protection Bill, 2023 was
+the investigation. The Bill expands this to
+passed by Parliament on August 9, 2023.16 The Bill
+include finger impressions and voice samples.
+was introduced in Lok Sabha on August 3, 2023. The
+These samples may also be taken from a person
+Bill provides for the protection of personal data and the
+who has not been arrested.
+privacy of individuals. Key features include:
+▪ Forensic investigation: The Bill mandates
+▪ Applicability: The Bill applies to the processing
+forensic investigation for offences punishable
+of digital personal data within India where such
+with at least seven years of imprisonment. In
+data is: (i) collected online, or (ii) collected offline
+such cases, forensic experts will visit crime
+and is digitised. It will also apply to the processing
+scenes to collect forensic evidence and record the
+of personal data outside India if it is for offering
+process on a mobile phone or any other electronic
+goods or services in India. Personal data is defined
+device. If a state does not have forensics facility,
+as any data about an individual, who is identifiable
+it shall utilise such facility in another state.
+by or in relation to such data. Processing has been
+For a PRS summary of the Bill, see here. defined as wholly or partially automated operation
+or set of operations performed on digital personal
+Bill replacing the Indian Evidence Act data. It includes collection, use, and sharing.
+introduced in the Lok Sabha
+▪ Rights and duties of data principal: An
+Rutvik Upadhyaya (rutvik@prsindia.org) individual, whose data is being processed (data
+principal), will have the right to: (i) obtain
+The Bhartiya Sakshya Bill, 2023 was introduced in Lok information about processing, (ii) seek correction
+Sabha. It repeals the Indian Evidence Act, 1872.15 The and erasure of personal data, (iii) nominate another
+Act provides rules for the admissibility of evidence in person to exercise rights in the event of death or
+legal proceedings. The Bill retains several parts of the incapacity, and (iv) grievance redressal. Data
+Act and widens the ambit of electronic records principals will have certain duties. They must not:
+admissible as evidence. Key changes proposed in the (i) register a false or frivolous complaint, and (ii)
+Bill include: furnish any false particulars or impersonate another
+person in specified cases. Violation of duties will
+▪ Admissibility of electronic or digital records as
+be punishable with a penalty of up to Rs 10,000.
+evidence: The Act provides for two kinds of
+evidence – documentary and oral evidence. ▪ Obligations of data fiduciaries: The entity
+Documentary evidence includes information in determining the purpose and means of processing
+electronic records that have been printed or stored (data fiduciary) must: (i) make reasonable efforts
+in optical or magnetic media produced by a to ensure the accuracy and completeness of data,
+computer. Such information may have been stored (ii) build reasonable security safeguards to prevent
+or processed by a combination of computers or a data breach, (iii) inform the Data Protection
+different computers. The Bill provides that Board of India and affected persons in the event of
+electronic or digital records will have the same a breach, and (iv) erase personal data as soon as
+legal effect as paper records. It expands electronic the purpose has been met and retention is not
+records to include information stored in necessary for legal purposes (storage limitation).
+semiconductor memory or any communication In case of government entities, storage limitation
+devices (smartphones, laptops). This will also and the right of the data principal to erasure will
+include records on emails, server logs, not apply.
+smartphones, locational evidence and voice mails.
+For a PRS analysis of the Bill, see here.
+▪ Oral evidence: Under the Act, oral evidence
+includes statements made before Courts by Standing Committee submits report on
+witnesses in relation to a fact under inquiry. The Citizens’ Data Security and Privacy
+Bill allows oral evidence to be given electronically.
+The Standing Committee on Communications and
+This would permit witnesses, accused persons, and
+Information Technology (Chair: Mr. Prataprao Jadhav)
+victims to testify through electronic means.
+submitted its report on ‘Citizens’ Data Security and
+For a PRS Summary of the Bill, see here. Privacy’.17 Key observations and recommendations of
+the Committee include:
+- 5-
+Monthly Policy Review – August 2023 PRS Legislative Research
+▪ Draft Digital Personal Data Protection Bill, the same composition of the Election Commission.
+2022: The Committee noted that the Ministry It adds that the CEC and other ECs will be
+incorporated questions that were raised during appointed by the President on the recommendation
+previous consultations for the data protection law, of a Selection Committee.
+into the 2022 draft Bill. These questions were
+▪ Selection Committee: The Selection Committee
+raised on the rule making powers of the central
+will consist of: (i) the Prime Minister as
+government, compensation from those whose
+Chairperson, (ii) the Leader of the Opposition in
+process data, age of consent, and the establishment
+Lok Sabha as member, and (iii) a Union Cabinet
+of a grievance redressal mechanism for data
+Minister nominated by the Prime Minister as a
+principals. The Committee recommended that the
+member. If the Leader of Opposition in Lok Sabha
+Ministry incorporate visual elements for consent
+has not been recognised, the leader of the single
+and notice mechanisms to extend benefits to
+largest opposition party in Lok Sabha will assume
+people who are not digitally literate.
+the said role.
+▪ The Committee noted that the Ministry is in the
+▪ Search Committee: A Search Committee will
+process of bringing a Bill to establish a framework
+prepare a panel of five persons for the
+for processing digital personal data while
+consideration of the Selection Committee. The
+balancing protecting personal data. It noted that
+Search Committee will be headed by the Cabinet
+implementing a suitable law will enhance data
+Secretary. It will have two other members, not
+security and ensure that personal information is
+below the rank of Secretary to the central
+safeguarded. It also noted that the 2022 draft Bill
+government, having knowledge and experience in
+protects personal data as a whole, without further
+matters related to elections. The Selection
+classification. This avoids issues of interpretation
+Committee may also consider candidates who have
+and classification-based protection.
+not been included in the panel prepared by the
+▪ Rule-making powers of central government: Search Committee.
+The 2022 draft Bill contains provisions that allow
+For a PRS summary of the Bill, see here.
+for the delegation of legislation by prescribing
+rules. Taking cognizance of the dynamic nature of
+President approves the delimitation of
+information technology, the Committee
+appreciated the space for making subordinate
+constituencies in Assam
+legislation. However, they cautioned the Ministry
+The President approved the delimitation of
+to utilise the rule making powers judiciously and Parliamentary and Assembly constituencies in Assam.20
+employ them with utmost care and responsibility.
+The Order came into effect from August 16, 2023. The
+As per a dissent note, there was excessive use of
+Order was published by the Election Commission of
+delegated legislation in the draft Bill which did not
+India (ECI) under the Representation of the People Act,
+specify the scope and method of implementation of 1950.21 All Assembly and Parliamentary
+certain provisions.
+constituencies in the state have been delimited based on
+For a PRS summary of the report, see here. the 2001 Census. The last delimitation of
+constituencies in Assam was carried out in 1976 based
+on the 1971 Census.
+Assam has 14 seats in Lok Sabha, with one seat
+Election Commission
+reserved for Scheduled Tribes (STs).22 The state
+Legislative Assembly has 126 seats with nine seats for
+Alaya Purewal (alaya@prsindia.org)
+SCs and 19 seats for STs. The total number of seats in
+both the Lok Sabha and Assembly have not been
+Bill amending appointment of Chief Election
+changed. SC Assembly seats have been increased from
+Commissioner introduced
+eight to nine seats, while ST Assembly seats have been
+The Chief Election Commissioner and Other Election increased from 16 to 19 seats.22 Additionally,
+Commissioners (Appointment, Conditions of Service Assembly constituencies in the Bodoland districts have
+and Term of Office) Bill, 2023, was introduced in been increased from 11 to 15.22
+Rajya Sabha.18 It repeals the Election Commission
+(Conditions of Service of Election Commissioners and Standing Committee Report on Election
+Transaction of Business) Act, 1991.19 Process and Reforms submitted
+▪ Election Commission: As per Article 324 of the The Standing Committee on Personnel, Public
+Constitution, the Election Commission consists of Grievances, Law and Justice (Chair: Mr. Sushil Kumar
+the Chief Election Commissioner (CEC) and such Modi) submitted its report on “Specific Aspects of
+number of other Election Commissioners (ECs), as Election Process and their Reform”.23 The Committee
+the President may decide. The CEC and other ECs identified issues in the electoral process including: (i)
+are appointed by the President. The Bill specifies the status of Common Electoral Roll, and the minimum
+- 6-
+Monthly Policy Review – August 2023 PRS Legislative Research
+age of voting and contesting elections. The Election Goods and Services Tax (IGST) Act, 2017,
+Commission of India (ECI) proposed establishing a respectively.26,27 As per the amendments, CGST will
+Common Electoral Roll. The Common Electoral Roll be applicable on casinos, horse racing, gambling, and
+would serve as a centralised repository of voter online money gaming. IGST will apply to online
+information that can be accessed by all concerned money gaming. Online money gaming refers to online
+authorities, including the ECI and State Election games where players pay or deposit money (including
+Commissions. Key recommendations of the virtual digital assets) with the expectation of winning
+Committee include: money or money’s worth. This applies to any game,
+scheme, competition, or other activity irrespective of its
+▪ Common Electoral Roll: The Committee noted
+outcome being based on skill, chance, or both. It
+that the Common Electoral Roll is intended to
+includes online money games which may be allowed or
+streamline resources, minimise efforts, and reduce
+banned under any law.
+expenses. However, it identified two issues in
+implementing it: (i) the current legal framework, For a PRS summary of the Bills, see here and here.
+and (ii) the constitutional regulations guiding the
+creation of electoral rolls by the ECI. The SEBI releases consultation paper on review of
+Committee expressed concern about the potential framework for borrowings by large corporates
+impact on state powers, as panchayat elections and
+municipal elections are under the authority of State The Securities and Exchange Board of India (SEBI)
+Election Commissions. Delimitation of local issued a consultation paper on review of framework of
+wards and panchayats is mandated by the state borrowings by large corporates.28 Large corporates are
+governments and State Election Commissions entities which have: (i) an outstanding long-term
+before every local election. As per the Seventh borrowing of at least Rs 100 crore, (ii) credit rating of
+Schedule of the Constitution, local elections are a AA and above, and (iii) specified/debt securities listed
+state subject. The ECI lacks the authority to direct on a stock exchange. Currently, large corporates must
+State Election Commissions. Therefore, the raise at least 25% of their borrowings in a financial
+Committee recommended that the ECI should year by issuing debt securities. However, raising funds
+consider the constitutional provisions before from banks and financial institutions is seen to be more
+preparing the Common Electoral Roll. cost effective as compared to issuing debt securities.
+Key proposals include:
+▪ Further, the Committee noted that implementing
+the Common Electoral Roll proposed by the ▪ Threshold of borrowings: SEBI has proposed to
+central government and the ECI falls outside the increase the threshold to identify large corporates
+scope of Article 325 of the Constitution. Article based on their outstanding long-term borrowings
+325 mandates the use of separate electoral rolls for from Rs 100 crore to Rs 500 crore. This would
+elections to Parliament and state legislatures. The allow companies below the proposed threshold to
+Committee advised the central government to prepare themselves for compliance once the
+carefully assess the potential consequences before framework becomes applicable to them.
+taking any actions.
+▪ Definition of outstanding borrowings:
+▪ Age of contesting elections: The Committee Outstanding long-term borrowings and incremental
+observed that reducing the minimum age borrowings (borrowings raised during a year) do
+requirement for candidacy in elections would give not include external commercial borrowings and
+young individuals equal opportunities to engage in inter-corporate borrowings between a parent
+democracy. It suggested reducing the minimum company and its subsidiaries. SEBI proposes to
+age requirement for candidacy in state elections. exclude certain other types of borrowings such as:
+(i) inter-corporate borrowings between a holding
+For a PRS summary of the Report, see here. company, its subsidiaries, and/or associate
+companies, and (ii) grants, deposits, or other funds
+received as per directions or guidelines of the
+central government.
+Finance
+RBI issues framework for floating interest rate
+Tushar Chakrabarty (tushar@prsindia.org)
+on monthly instalments
+Parliament passes amendments to extend GST
+The Reserve Bank of India (RBI) released a framework
+on certain activities for resetting floating interest rates in equated monthly
+instalments (EMIs).29 When sanctioning EMI based
+The Central Goods and Services Tax (Amendment)
+floating rate personal loans, regulated entities (such as
+Bill, 2023 and the Integrated Goods and Services Tax
+banks) are required to account for the borrower’s
+(Amendment) Bill, 2023 were passed by
+repayment capacity. Regulated entities should ensure
+Parliament.24,25 They amend the Central Goods and
+that sufficient headroom exists to provide for increases
+Services Tax (CGST) Act, 2017 and the Integrated
+in loan tenor and/or increase in EMI. Such an increase
+- 7-
+Monthly Policy Review – August 2023 PRS Legislative Research
+can happen due to the increase in the external The instructions will apply from January 1, 2024.
+benchmark rate (such as the repo rate). RBI has
+received consumer grievances on increases in loan SEBI issues consultation paper on voluntary
+tenor and/or increases in EMI amounts without proper delisting of shares
+communication or consent of the borrower. Key
+features of the policy include: The Securities and Exchange Board of India (SEBI)
+issued a consultation paper on the review of voluntary
+▪ Disclosure to borrowers: At the time of delisting norms under SEBI (Delisting of Equity
+sanctioning loans, regulated entities must clearly Shares) Regulations, 2021.31 Delisting regulations
+communicate the possible impact of changes in allows the acquirer/promoter of a company to provide
+benchmark interest rates on the loan tenor, EMI, or public shareholders an exit opportunity if the company
+both. Any increase must be communicated to the is sought to be delisted from stock exchanges. Key
+borrower immediately. proposals include:
+▪ Fixed interest rate: When resetting interest rates, ▪ Counter-offer for delisting: If the post-offer
+borrowers must be given the option to switch to a shareholding of the acquirer does not reach 90% of
+fixed interest rate. The policy framed by regulated the total issued share of the company, the delisting
+entities may specify the number of times a offer is considered to be failed. If the 90%
+borrower will be allowed to switch during the threshold is met, a discovered price is determined.
+tenor of the loan. All charges for switching loans If the discovered price is not acceptable to the
+from floating to fixed rate must be transparently acquirer, he can make a counter offer. A sub-
+disclosed in the loan sanction letter. group of the Primary Market Advisory Committee
+has proposed that the acquirer can make a counter
+▪ Options for borrowers: The borrowers must be
+offer even if the 90% threshold is not met. The
+allowed to opt for: (i) an increase in EMI, loan
+acquirer may make a counter offer if the bids
+tenor, or combination of both and (ii) prepaying
+received are higher of the difference between: (i)
+the loan at any point during its tenor.
+the acquirer’s shareholding and 75% of the total
+The framework will apply to new and existing loans by issued shares of the company, and (ii) 50% of the
+December 31, 2023. public shareholding.
+▪ Determination of counter-offer price: In case the
+RBI issues instructions for penal charges in
+acquirer makes a counter-offer, the counter-offer
+loan accounts
+price will be the higher of: (i) the volume weighted
+The Reserve Bank of India (RBI) issued instructions on average price of the shares offered by public
+the levy of penal interest/charges on loans.30 Penal shareholders, and (ii) the initial floor price
+interest/charges are levied to inculcate credit discipline. determined per regulations.
+Such charges are not meant to be used for revenue
+Comments are invited until September 4, 2023.
+enhancement over and above the contracted rate of
+interest. Supervisory reviews by RBI have indicated
+SEBI notifies framework for delisting of debt
+divergent practices amongst regulated entities (such as
+securities
+banks) for penal interest/charges on loans. Key
+instructions include: The Securities and Exchange Board of India (SEBI)
+notified amendments to the SEBI (Listing Obligations
+▪ Levying penal charges: Penalty for non-
+and Disclosure Requirements), 2015.32,33 The
+compliance of material terms and conditions of the
+amendments provide the framework for the voluntary
+loan must be treated as penal charges and not as
+delisting of non-convertible debt securities and non-
+penal interest. There must be no capitalisation of
+convertible redeemable preference shares. Such
+penal charges, which implies that no interest
+preference shares cannot be converted into equity
+should be computed on such charges. The
+shares. Key features include:
+quantum of penal charges shall be reasonable and
+commensurate with non-compliance of material ▪ Approval of stock exchange: A listed entity must
+terms and conditions of the loan contract. seek an in-principle approval of the relevant stock
+exchange for delisting of the specified securities.
+▪ Individual borrowers: Penal charges on loans
+The approval is to be taken within 15 working days
+given to individual borrowers for non-business
+from the passing of the delisting resolution by the
+purposes must not be higher than such charges on
+entity’s board.
+loans to non-individual borrowers.
+▪ Obligations of the listed entity: The listed entity
+▪ Disclosure to borrowers: The quantum and
+must start the process to obtain approval from the
+reason for penal charges must be clearly disclosed
+holders of the debt securities and preference
+in the loan agreement. The Regulated entities must
+shares. This has to be done within three working
+not introduce any additional components to the
+days of the grant of in-principle approval by the
+interest rate.
+stock exchange.
+- 8-
+Monthly Policy Review – August 2023 PRS Legislative Research
+▪ Failure of delisting proposal: The delisting reconnaissance or prospecting, or both activities
+proposal will be deemed to have failed in case of for specified minerals.
+non-receipt of: (i) in-principle approval from stock
+▪ The exploration licence will be issued for 29
+exchanges, (ii) requisite approval from holders of
+minerals specified in the Seventh Schedule. These
+non-convertible debt securities or non-convertible
+include gold, silver, copper, cobalt, nickel, lead,
+redeemable preference shares, or (ii) a no-
+potash, and rock phosphate. These also include six
+objection letter from the debenture trustee if
+minerals classified as atomic minerals under the
+delisting debt securities.
+Act: (i) beryl and beryllium, (ii) lithium, (iii)
+niobium, (iv) titanium, (v) tantallium, and (vi)
+SEBI releases consultation paper on
+zirconium. The Bill declassifies them as atomic
+performance validation agency
+minerals. The Act reserves prospecting and
+The Securities and Exchange Board of India (SEBI) mining of atomic minerals for government entities.
+released a consultation paper on performance
+▪ Auction of certain minerals by the central
+validation agency.34 SEBI registered
+government: Under the Act, auction of
+intermediaries/entities showcase their performance to
+concessions is undertaken by the state
+attract more clients. However, some of these entities
+governments, except in certain specified cases.
+may make inflated performance claims to attract more
+The Bill adds that auction for composite licence
+clients. This can mislead investors. SEBI has
+and mining lease for specified critical and strategic
+proposed to create an independent performance
+minerals will be conducted by the central
+validation agency to validate the claims related to
+government. These minerals include lithium,
+performance made by various intermediaries and
+cobalt, nickel, phosphate, potash, tin, phosphate,
+entities. Performance claims shall be validated based
+and potash. However, concessions will still be
+on specific parameters such as returns, risk, and
+granted by the state government.
+volatility. The agency will maintain confidentiality of
+the information received during its evaluation process. For a PRS summary of the Bill, please see here.
+Comments are invited by September 21, 2023.
+Offshore Areas Mineral (Development and
+Regulation) Amendment Bill, 2023 passed by
+Parliament
+Mines
+The Offshore Areas Mineral (Development and
+Regulation) Amendment Bill was passed by
+Pratinav Damani (pratinav@prsindia.org)
+Parliament. The Bill amends the Offshore Areas
+Mineral (Development and Regulation) Act, 2002.37
+Mines and Minerals (Development and
+The Act regulates offshore mining in the maritime
+Regulation) Amendment Bill, 2023 passed by zones of India.38
+Parliament
+▪ Introduction of a composite licence: The Bill
+The Mines and Minerals (Development and introduces a composite licence for granting rights
+Regulation) Amendment Bill, 2023 was passed by for exploration and production operations. Under
+Parliament. The Bill amends the Mines and Minerals the composite license, the licensee will be required
+(Development and Regulation) Act, 1957.35 The Act to complete exploration within three years. This
+regulates the mining sector.36 may be extended by two years upon application by
+the licensee. If mineral resources have been
+▪ Reconnaissance to include sub-surface
+established, the licensee will be granted one or
+activities: The Act defines reconnaissance
+more production leases for the explored area. The
+operations as operations undertaken for
+production lease will be valid for 50 years.
+preliminary prospecting and includes: (i) aerial
+surveys, (ii) geophysical, and (iii) geochemical ▪ Auction mandatory for certain concessions: The
+surveys. It also includes geological mapping. The Act provides for the grant of concessions through
+Act prohibits pitting, trenching, drilling, and administrative allocation. The Bill mandates
+subsurface excavation as part of reconnaissance; competitive bidding for a production lease and a
+the Bill allows these activities. composite license to private entities. Applications
+for production leases before the date on which
+▪ Exploration licence for specified minerals: The
+provisions of the Bill come into effect, will be
+Act provides for the following types of
+void. An exploration licence granted before the
+concessions: (i) a reconnaissance permit for
+date on which provisions of the Bill come into
+reconnaissance, (ii) a prospecting licence for
+effect will be ineligible to acquire a production
+prospecting, (iii) mining lease for undertaking
+lease on the explored area.
+mining, and (iv) a composite licence, for
+prospecting and mining. The Bill introduces an ▪ Offshore Areas Mineral Trust: The Bill sets up
+exploration licence, which will authorise either the Offshore Areas Mineral Trust. Concession
+- 9-
+Monthly Policy Review – August 2023 PRS Legislative Research
+holders will be required to pay an amount to the provide that the Chairperson of the Board will be
+Trust in addition to any royalty. The funds will be nominated by the Visitor.
+used for specified purposes including: (i)
+▪ NITIE, Mumbai: The Bill classifies the National
+exploration in offshore areas, (ii) research and
+Institute of Industrial Engineering (NITIE),
+studies about the mitigation of adverse effects of
+Mumbai as IIM Mumbai.
+offshore mining on the ecology, and (iii) relief
+upon the occurrence of a disaster. For a PRS Summary of the Bill, see here.
+For a PRS summary of the Bill, please see here.
+New National Curriculum Framework for
+Education released
+The Ministry of Education released the National
+Education
+Curriculum Framework for School Education (NCF),
+2023.40,41 It aims to provide the guiding principles,
+Rutvik Upadhyaya (rutvik@prsindia.org)
+goals, structure, and elements for the development of
+school curricula. It replaces the National Curriculum
+Parliament passes Bill to alter the governance
+Framework, 2005.42 It has been formulated in
+structure of IIMs
+pursuance of the objectives of the National Education
+The Indian Institutes of Management (Amendment) Policy (NEP).43 The NEP envisioned changes in
+Bill, 2023 was passed by Parliament.39 The Bill school education, which included: (i) a schooling
+amends the Indian Institutes of Management Act, 2017. system divided across four stages, (ii) multidisciplinary
+The Act declares Indian Institutes of Management education, (iii) multilingualism, and (iv) flexibility in
+(IIMs) as institutes of national importance and subject selection. Key features include:
+regulates their functioning. IIMs provide post-graduate
+▪ 5+3+3+4 stage design: The NEP recommended
+education in the field of management and allied areas.
+substituting the existing design of the school
+Key features of the Bill include:
+system (10+2) with a design that is distributed
+▪ Visitor: The Bill designates the President of India across four stages. The proposed design involved
+as Visitor of every Institute covered by the Act. – (i) a foundational stage (ages 3-8), (ii) a
+The Visitor is granted powers that include: (i) preparatory stage (ages 8-11), (iii) a middle stage
+initiating inquiries into the functioning of IIMs, (ii) (ages 11-14), and (iv) a secondary stage (ages 14-
+taking action against Institutes to ensure 18). The NEP further proposed dividing the
+compliance, and (iii) appointing the Chairperson of secondary stage into two phases — grades 9 and
+the Co-ordination Forum. 10, and grades 11 and 12. The NCF, 2023
+incorporates this design. It provides each stage
+▪ Appointment and removal of IIM Directors:
+with a different combination of disciplines and
+Under the Act, the Director of an IIM is appointed
+specific learning objectives. For example, the
+by the Board of Governors, based on the
+foundational stage aims to develop physical,
+recommendations of a Search-cum-Selection
+cognitive, and language abilities. In this stage,
+Committee. The Bill mandates the Board to obtain
+students will learn two languages, and develop
+the prior approval of the Visitor before appointing
+foundational numeracy.
+an Institute Director. The procedure for selecting
+the Director will be prescribed by the central ▪ Language education: The NEP aims to develop a
+government. Under the Act, the Search Committee student into an independent speaker, writer, and
+comprises of the Chairperson of the Board, and reader in three languages. The NCF, 2023
+three members from amongst eminent incorporates this aim and delineates goals for
+administrators, industrialists, educationists. The language proficiency. The first language a student
+Bill reduces these three members to two, and adds studies would be that of the community in which
+another member to be nominated by the Visitor. that student lives. The others could be any
+languages other than the first. The NCF
+▪ Under the Act, the Board may remove the Director
+necessitates that two out of the three languages
+from office on grounds such as: (i) insolvency, (ii)
+taught must be Indian.
+mental and physical incapacity, (iii) conflict of
+interest. The Bill adds that the Board will require ▪ Multidisciplinary education: The NCF, 2023
+prior approval of the Visitor before removing a provides for students in grades 11 and 12 to study
+Director. The Bill also grants the Visitor the six subjects. Two of these would be languages, of
+authority to terminate the services of the Director, which, one must be Indian. Apart from these, the
+as may be prescribed. student can choose any four subjects from three
+groups. Each group contains subjects from similar
+▪ Appointment of the Chairperson of the Board
+domains. For instance, science, mathematics and
+of Governors: Under the Act, the Chairperson of
+computational thinking are grouped together.
+the Board of Governors of each Institute is
+appointed by the board. The Bill amends this to
+- 10-
+Monthly Policy Review – August 2023 PRS Legislative Research
+Health The National Nursing and Midwifery
+Commission Bill, 2023 passed
+Parliament passes Bill to regulate dentistry and Priyadarshini Jain (priyadarshini@prsindia.org)
+dental education in India.
+The National Nursing and Midwifery Commission Bill,
+Rutvik Upadhyaya (rutvik@prsindia.org)
+2023 was passed by Parliament.45 It repeals the Indian
+Nursing Council Act, 1947.46 The Bill provides for the
+The National Dental Commission Bill, 2023 was
+regulation and maintenance of standards of education
+passed by Parliament.44 The Bill repeals the Dentists
+and services for nursing and midwifery professionals.
+Act, 1948 and constitutes: (i) the National Dental
+Key features of the Bill are:
+Commission, (ii) the Dental Advisory Council, and (iii)
+three autonomous Boards for regulating dental ▪ National Nursing and Midwifery Commission:
+education and standards of dentistry. Key features of The Bill provides for the constitution of the
+the Bill include: National Nursing and Midwifery Commission. It
+will consist of 29 members. The Chairperson
+▪ National Dental Commission: The central
+should have a postgraduate degree in nursing and
+government is required to constitute a National
+midwifery with at least 20 years of field experience.
+Dental Commission consisting of 33 members. It
+Ex-officio members include representatives from
+will be chaired by an eminent and experienced
+the Department of Health and Family Welfare, the
+dentist. The Chairperson will be appointed by the
+National Medical Commission, Military Nursing
+central government, upon the recommendation of a
+Services, and the Directorate General of Health
+search-cum-selection committee. The Search
+Services. Other members include nursing and
+Committee will be chaired by the Cabinet
+midwifery professionals, and one representative
+Secretary. Ex-officio members of the Commission
+from charitable institutions.
+include: (i) Presidents of the three autonomous
+Boards, (ii) the Director General of Health ▪ Functions of Commission: Functions of the
+Services, (iii) Chief of the Centre for Dental and Commission include: (i) framing policies and
+Educational Research, AIIMS. Part time members regulating standards for nursing and midwifery
+of the Commission include: (i) faculties of education, (ii) regulating nursing and midwifery
+dentistry from government institutes and (ii) institutions, (iii) providing a uniform process for
+representatives of states and union territories. admission into such institutions, and (iv) providing
+standards for faculty in teaching institutions
+▪ Functions of the Commission include: (i)
+regulating governance standards for dental ▪ Autonomous boards: The Bill provides for the
+education, examination, and training, (ii) constitution of three autonomous boards under the
+regulating dental institutions and research, (iii) supervision of the National Commission. These
+assessing infrastructure requirements in dental are: (i) the Nursing and Midwifery Undergraduate
+healthcare, and (iv) ensuring that admissions to and Postgraduate Education Board, to regulate
+Bachelor of Dental Surgery happen through the education and examination at undergraduate and
+National Eligibility-cum-Entrance Test (NEET). postgraduate levels; (ii) the Nursing and Midwifery
+Assessment and Rating Board, to provide the
+▪ Autonomous Boards: The central government is
+framework for assessing and rating nursing and
+required to constitute three autonomous Boards
+midwifery institutions; and (iii) the Nursing and
+under the supervision of the Commission. The
+Midwifery Ethics and Registration Board, to
+Boards are: (i) the undergraduate and postgraduate
+regulate professional conduct and promote ethics in
+Dental Education Board - responsible for
+the profession.
+determining education standards and granting
+recognition to dental qualifications, (ii) the Dental For a PRS Bill Summary, please see here.
+Assessment and Rating Board - responsible for
+determining compliance assessment procedure for CAG submits its audit report on Ayushman
+dental institutions, and conducting inspections and Bharat-PMJAY
+ratings, and (iii) the Ethics and Dental Registration
+Board – responsible for maintaining online Rutvik Upadhyaya (rutvik@prsindia.org)
+national registers of dentists/dental auxiliaries,
+suspending/cancelling licenses, and regulating The Comptroller Auditor General of India (CAG)
+standards of conduct. submitted its report on the ‘Performance Audit of
+Ayushman Bharat – Pradhan Mantri Jan Aarogya
+For a PRS Summary of the Bill, see here Yojana (PMJAY)’.47 The Scheme aims to provide
+health cover of five lakh rupees per family per year for
+secondary and tertiary care hospitalisation.
+Beneficiaries under the scheme are selected on the
+- 11-
+Monthly Policy Review – August 2023 PRS Legislative Research
+basis of the Socio-Economic Caste Census (SECC), Standing Committee on Health and Family
+2011. Key findings of the report include: Welfare submits report on mental health
+▪ Inclusion of beneficiaries: On applying for Rutvik Upadhyaya (rutvik@prsindia.org)
+registration, applicant details are matched to a
+database containing a list of eligible beneficiaries. The Standing Committee on Health and Family
+A matching score between 0 and 100 is generated Welfare (Chair: Mr. Bhubaneswar Kalita) submitted its
+and relevant documents are sent for approval. No report on ‘Mental Health Care and Its Management in
+threshold for a matching score has been prescribed Contemporary Times’.49 Mental health refers to a state
+for approval or rejection. The CAG report shows of mental well-being that enables people to cope with
+that in 32% of the total approved cases (11 crore) the stresses of life. The Committee noted that mental
+there was no matching score, and in 15%, the health related issues are rising. It aimed to examine the
+matching score was zero. This implies that the status of infrastructure, regulatory structure, and causes
+details furnished by the applicants did not match behind its prevalence. Key observations and
+the details in the database. The report also recommendations include:
+observed the inclusion of ineligible beneficiaries,
+▪ Status of mental health in India: The Ministry of
+especially families of government employees.
+Health and Welfare had commissioned a mental
+▪ Error in Database: The report deems the SECC, health survey in 2015-16. The Survey played a
+2011 database outdated and reveals crucial role in highlighting the state of mental
+inconsistencies. These include errors such as: (i) health in India, with high treatment gaps for most
+invalid names, (ii) blank name and gender mental illnesses. A treatment gap is the difference
+columns, (iii) unrealistic birth dates and household between the requirement and access to treatment.
+sizes. These add up to approximately two crore
+▪ The Committee observed that the issues
+entries. The report also reveals inconsistencies in
+highlighted in the 2015-16 survey have remained
+PMJAY data on beneficiaries. These include: (i)
+the same in 2023. It noted that there is
+duplicate PMJAY IDs, (ii) unrealistic household
+considerable scope to improve the treatment gap.
+size, (iii) same/erroneous Aadhar Card numbers,
+Reasons for the gap include lack of mental health
+and (iv) invalid mobiles numbers.
+professionals, weak infrastructure, and stigma.
+▪ Claims Management: 53% of the claims settled
+▪ The Committee also observed that while the
+till 2022 belonged to states that implemented their
+Survey was useful, it had several issues which can
+own insurance health schemes, such as Andhra
+be addressed in subsequent iterations. Issues
+Pradesh, Rajasthan, Maharashtra. In these states
+included: (i) having a small sample size of
+claims for all state schemes are fed into their own
+respondents, (ii) relying on self-reporting instead
+IT management systems. When this data is
+of clinical trials, and (iii) excluding specific
+transferred into PMJAY’s management system,
+vulnerable populations such as prisoners.
+there is a possibility of an overlap of PMJAY with
+state specific schemes. ▪ Availability of mental health professionals:
+India currently has 0.75 psychiatrists per lakh
+Parliament passed the Pharmacy (Amendment) people, which is significantly low. The Committee
+Bill, 2023 observed that if India targets having three
+psychiatrists per lakh people, it will need 27,000
+Rutvik Upadhyaya (rutvik@prsindia.org)
+more psychiatrists. This scenario is similar for
+other professionals such as psychologists,
+The Pharmacy (Amendment) Bill, 2023 was passed by
+psychiatric social workers, and nurses. The
+Parliament.48 The Bill amends the Pharmacy Act,
+Committee also suggested increasing the seats for
+1948, which regulates the practice and profession of
+MD Psychiatry.
+pharmacy. Registration under the Pharmacy Act, 1948
+is mandatory to practice pharmacy in India. The Bill For a PRS Summary of the Report, see here.
+specifies that anyone who is registered as a pharmacist
+under the Jammu and Kashmir Pharmacy Act, 2011 or
+possesses suitable qualifications delineated in the same
+will be deemed to be registered as a pharmacist under Law and Justice
+the Pharmacy Act, 1948. This will be contingent upon
+the person submitting an application for registration Alaya Purewal (alaya@prsindia.org)
+within a year of the amendment coming into force, and
+paying a prescribed fee. The Mediation Bill 2021 passed by Parliament
+For a PRS Summary of the Bill, see here. ▪ The Mediation Bill, 2021 was passed by Parliament.50
+Mediation is a form of alternative dispute resolution,
+where parties attempt to settle their dispute (outside
+courts) with the assistance of an independent third
+- 12-
+Monthly Policy Review – August 2023 PRS Legislative Research
+person (mediator). The Bill seeks to promote any payment, or (iii) frequents places such as the
+mediation (including online mediation and community precincts of civil or criminal courts, revenue-
+mediation), and provide for enforcement of settlement offices, or railway stations to procure such
+agreements resulting from mediation. The Bill was employment. The Court or judge may exclude
+referred to the Standing Committee on Personnel, from the premises of the Court any person whose
+Public Grievances, Law and Justice. The Committee name is included in the list of touts.
+recommended changes to the Bill such as reducing the
+▪ Preparation of lists: The authorities empowered
+mediation process from 180 days with another 180-day
+to frame and publish the list of touts may order
+extension to 90 days with a 60-day extension.51 Key
+subordinate courts to hold an inquiry into the
+features of the Bill include:
+conduct of persons alleged or suspected to be touts.
+▪ Disputes not fit for mediation: The Bill will Once such a person is proven to be a tout, his name
+apply to certain mediation proceedings conducted may be included by the authority in the list of
+in India (for instance, if the mediation agreement touts. No individual will be included in such lists
+states that mediation will be as per this Bill, or to without getting an opportunity of showing cause
+international mediation related to a commercial against his inclusion.
+dispute). The Bill defines certain disputes as not
+For a PRS summary of the Bill, see here.
+fit for mediation. These include disputes: (i)
+relating to claims against minors or persons of
+Standing Committee submits report on Judicial
+unsound mind, (ii) involving prosecution for
+Process and Reforms
+criminal offences, and (iii) relating to levy or
+collection of taxes. The central government may The Standing Committee on Personnel, Public
+amend this list of disputes. Grievances, and Law and Justice (Chair: Mr Sushil
+Kumar Modi) submitted its report on “Judicial Process
+▪ Mediation process: In case of civil or commercial
+and their Reforms”.55 Key recommendations of the
+disputes, a person must try to settle the dispute by
+Committee include:
+mediation before approaching any court or certain
+tribunals as notified. Mediation proceedings will ▪ Regional benches of the Supreme Court: The
+be confidential. The mediation process must be Committee observed that the Supreme Court being
+completed within 120 days, which may be Delhi-centric creates a significant hurdle for
+extended by another 60 days by the parties. litigants coming from faraway areas of the country.
+The Committee recommended the establishment of
+▪ Mediators: Mediators assist the parties to settle
+four or five regional benches of the apex Court. It
+their dispute. Mediators may be appointed by: (i)
+suggested that the regional benches may decide
+the parties by agreement, or (ii) a mediation
+appellate matters, while constitutional matters may
+service provider (an institution administering
+be dealt with at Delhi.
+mediation). Mediators must disclose any conflict
+of interest that may raise doubts on their ▪ Social diversity in the appointment of judges:
+independence. Parties may then choose to replace The Committee observed that the higher judiciary
+the mediator. Further, the Mediation Council of (Supreme Court and High Courts) suffers from a
+India will register mediators, and recognise diversity deficit. It noted that the representation of
+mediation service providers. Scheduled Castes (SCs), Scheduled Tribes (STs),
+Other Backward Classes, women, and minorities is
+For a PRS analysis of the Bill, please see here.
+far below the desired levels and does not reflect
+India’s social diversity. For instance, since 2018,
+Bill to amend the Advocates Act, 1961, passed
+the percentage of High Court judges appointed
+by Rajya Sabha from SC communities was 3% and 1.5% from ST
+communities. It suggested that the Supreme Court
+The Advocates (Amendment) Bill, 2023, was passed by
+and High Court’s Collegiums should recommend
+Rajya Sabha.52 The Bill repeals certain sections related
+an adequate number of women and candidates
+to touts under the Legal Practitioners Act, 1879 and
+from marginalised communities including
+incorporate them in the Advocates Act, 1961.53,54 The
+minorities. It recommended that the Department of
+1961 Act consolidates the law related to legal
+Justice collect data of the social status of judges
+practitioners and constitutes Bar Councils and the All-
+presently serving in the higher judiciary.
+India Bar. Key features of the Bill include:
+▪ Retirement age for judges: The Committee
+▪ Touts: The Bill provides that every High Court,
+observed that the retirement age of judges needs to
+district judge, sessions judge, district magistrate,
+be increased to keep pace with advances in medical
+and revenue officer (not below the rank of a
+sciences and increased longevity. Currently, the
+district collector) may frame and publish lists of
+retirement age for Supreme Court judges is 65
+touts. Tout refers to a person who: (i) either
+years and 62 years for High Court judges. It
+proposes to procure or procures the employment of
+recommended increasing the retirement age for
+a legal practitioner in a legal business in return of
+- 13-
+Monthly Policy Review – August 2023 PRS Legislative Research
+Supreme Court and High Court judges and Defence
+amending the relevant Articles of the Constitution.
+Tushar Chakrabarty (tushar@prsindia.org)
+For a PRS summary of the Bill, see here.
+Parliament passed the Inter-services
+Organisations Bill, 2023
+Cooperation Parliament passed the Inter-services Organisations
+(Command, Control and Discipline) Bill, 2023.58 It
+Alaya Purewal (alaya@prsindia.org)
+seeks to empower the Commander-in-Chief or
+Officer-in-Command of Inter-services Organisations
+The Multi-State Co-operative Societies
+to exercise disciplinary or administrative control over
+(Amendment) Bill, 2022 passed by Parliament the service personnel under their command,
+irrespective of their service. The Bill was referred to
+The Multi-State Co-operative Societies (Amendment)
+Joint Parliamentary Committee, which approved the
+Bill, 2022, was passed by Parliament.56 It amends the
+Bill. Key features of the Bill include:
+Multi-State Co-operative Societies Act, 2002.57 Multi
+state co-operative societies operate in more than one ▪ Inter-services Organisation: Existing Inter-
+state. The Bill was referred to a Joint Parliamentary services Organisations will be deemed to have
+Committee on December 22, 2022. The Committee been constituted under the Bill. These include
+approved the provisions of the Bill. Key provisions of the Andaman and Nicobar Command, the
+the Bill include: Defence Space Agency, and the National Defence
+Academy. The central government may
+▪ Election of board members: Under the Act,
+constitute an Inter-services Organisation which
+elections to the board of a multi-state co-operative
+has personnel belonging to at least two of the
+society are conducted by its existing board. The
+three services: the army, the navy, and the air
+Bill amends this to specify that the central
+force. These may be placed under the command
+government will establish the Co-operative
+of an Officer-in-Command. These organisations
+Election Authority to conduct such elections. The
+may also include a Joint Services Command,
+Authority will consist of a chairperson, vice-
+which may be placed under the command of a
+chairperson, and up to three members appointed by
+Commander-in-Chief.
+the central government on the recommendations of
+a selection committee. ▪ Control of Inter-services Organisations:
+Presently, the Commander-in-Chief or Officer-in-
+▪ Redressal of complaints: As per the Bill, the
+Command of Inter-services Organisations are not
+central government will appoint one or more Co-
+empowered to exercise disciplinary or
+operative Ombudsman with territorial jurisdiction.
+administrative powers over the personnel
+The Ombudsman shall inquire into complaints
+belonging to other services. The Bill empowers
+made by members of co-operative societies
+the Commander-in-Chief or the Officer-in-
+regarding: (i) their deposits, (ii) equitable benefits
+Command of an Inter-services Organisation to
+of the society’s functioning, or (iii) issues affecting
+exercise command and control over the personnel
+the individual rights of the members. The
+serving in or attached to it. He would be
+Ombudsman shall complete the process of inquiry
+responsible for maintaining discipline and
+and adjudication within three months from the
+ensuring discharge of duties by service personnel.
+receipt of the complaint. Appeals against the
+directions of the Ombudsman may be filed with ▪ The superintendence of an Inter-services
+the Central Registrar (appointed by the central Organisation will be vested in the central
+government) within a month. government. The government may also issue
+directions to such organisations on grounds of
+▪ Amalgamation of co-operative societies: The Act
+national security, general administration, or
+provides for the amalgamation and division of
+public interest.
+multi-state co-operative societies. This can be
+done by passing a resolution at a general assembly For a PRS summary of the Bill, see here.
+with at least two-thirds of the members, present
+and voting. The Bill allows co-operative societies
+(registered under state laws) to merge into an
+existing multi-state co-operative society. At least
+two-thirds of the members of the co-operative
+society present and voting at a general meeting
+must pass a resolution to allow such a merger.
+For a PRS analysis of the Bill, see here.
+- 14-
+Monthly Policy Review – August 2023 PRS Legislative Research
+Information and Broadcasting ▪ Power of CBFC to make modifications: The
+Committee discussed whether the Board should: (i)
+Pratinav Damani (pratinav@prsindia.org) simply certify films, (ii) be allowed to make
+cuts/excisions before certifying films or (iii) not
+The Press and Registration of Periodicals Bill, regulate films at all. It noted that a simple
+2023 passed by Rajya Sabha certification model provides viewers with the
+choice of content. CBFC noted that filmmakers
+The Press and Registration of Periodicals Bill, 2023
+often volunteer to make cuts as they are unaware
+was passed by Rajya Sabha, and is pending before Lok
+whether particular scenes violate the regulations.
+Sabha. It repeals and replaces the Press and
+Registration of Books Act, 1867.59 The Act provides ▪ However, the Committee noted that the number of
+for the registration of newspapers, periodicals, and films that have been certified without cuts has
+books.60 Key features of the Bill include: sharply reduced. The Committee noted that
+deliberation and certification is warranted in a
+▪ Registration of periodicals: The Bill provides for
+diverse country like India, where people’s
+the registration of periodicals, which include any
+sensibilities must be accounted for. At the same
+publication containing public news or comments
+time there is a need to protect the freedom of
+on public news. Periodicals do not include books
+speech and artistic expression. The Committee
+or scientific and academic journals.
+suggested that CBFC strike a balance between
+▪ Foreign periodicals to require prior approval: these two. It also suggested that a new
+An exact reproduction of a foreign periodical may certification model with more objective parameters
+be printed in India only with the prior approval of be determined with the changing ways of creating
+the central government. The manner of and consuming content.
+registration of such periodicals will be prescribed.
+▪ Composition of the Board: CBFC has 12-25
+▪ Press Registrar General of India: The Bill members who are eminent personalities from
+establishes the Press Registrar General of India spheres such as education, art, film, and social
+who will issue registration certificates for all sciences. The Committee noted that CBFC has
+periodicals. Other functions of the Press Registrar adequate numerical strength and has sufficient
+General include: (i) maintaining a register of representation of women. However, it
+periodicals, (ii) making guidelines for the recommended making it obligatory to have one-
+admissibility of title of periodicals, and (iii) third women members. It also suggested that
+revising, suspending, or cancelling registration. CBFC should have some representation from the
+general public to ensure inclusivity.
+▪ Suspension and cancellation of registration: The
+Bill allows the Press Registrar General to suspend ▪ Initiatives for individuals with special needs: In
+the registration of a periodical for a period between October 2019, the Ministry had issued an advisory
+30 days and 180 days. The registration may be to make films more accessible by using audio
+suspended on the following grounds: (i) obtaining descriptions and closed captioning. Since then,
+registration by furnishing false information, (ii) only one film has been certified as accessible. The
+failing to publish periodicals continuously, and (iii) Committee urged the Ministry to ensure tangible
+giving false particulars in annual statements. The outcomes for such initiatives.
+Press Registrar General may cancel the registration
+if the publisher does not correct such defects. The
+registration may also be cancelled if: (i) a
+Communications
+periodical has the same or similar title as any other
+periodical, (ii) the owner/ publisher has been
+Pratinav Damani (pratinav@prsindia.org)
+convicted of a terrorist act or unlawful activity, or
+for acting against the security of the state.
+The Post Office Bill, 2023 introduced in Rajya
+For a PRS summary of the Bill, see here. Sabha
+Standing Committee submits report on the The Post Office Bill, 2023 was introduced in Rajya
+Sabha on August 10, 2023. The Bill repeals and
+functioning of the Central Board of Film
+replaces the Indian Post Office Act, 1898.62 The Act
+Certification
+provides for matters relating to the functioning of the
+The Standing Committee on Communications and Post Office.63 Key features of the Bill include:
+Information Technology (Chair: Mr. Prataprao Jadhav)
+▪ Removal of certain privileges of the central
+released its report on ‘Review of Functioning of
+government: The Act provides that wherever the
+Central Board of Film Certification’ on August 1,
+central government establishes posts, it will have
+2023.61 Key observations and recommendations of the
+the exclusive privilege of conveying letters by
+Committee include:
+post, as well as incidental services such as
+- 15-
+Monthly Policy Review – August 2023 PRS Legislative Research
+receiving, collecting, and delivering letters. The each cell.
+Bill does not provide for such privileges.
+▪ Small cells could be installed on street furniture.
+However, the central government will have the
+The amended Rules now define street furniture to
+exclusive privilege of issuing postage stamps.
+include: (i) electricity poles/posts, (ii) street lights,
+▪ Power to intercept shipments: The Act allows (iii) traffic lights, (iv) taxi stands, (v) bus stands,
+for the interception of shipments being transmitted (vi) memorials, and (vii) utility poles.
+through the post on certain grounds. An
+▪ The amended Rules state that the central
+interception may be carried out on the occurrence
+authorities cannot charge administrative fees or
+of any public emergency, or in the interest of
+compensation for small cells deployed on
+public safety or tranquillity. Such interceptions
+structures under their control. However, power
+may be carried out by the central government, state
+charges and other fixtures provided by building
+governments, or any authorised officer.
+owners may be levied.
+▪ The Bill provides that the interception of a
+shipment being transmitted through post may be TRAI releases consultation paper on review of
+carried out on the following grounds: (i) security quality-of-service standards
+of the state, (ii) friendly relations with foreign
+states, (iii) public order, emergency, or public The Telecom Regulatory Authority of India (TRAI)
+safety, or (iv) contravention of the provisions of released a consultation paper on "Review of Quality of
+the Bill or any other law. An officer empowered Service in Access Services (Wireless and Wireline) and
+by the central government through a notification Broadband Services (Wireless and Wireline)".67
+may carry out an interception. Currently, three separate regulations on the quality of
+service are in force, which apply to: (i) broadband
+▪ Removal of offences and penalties: The Act services, (ii) calling services, and (iii) wireless data.67
+prescribed penalties for several offences such as These regulations mandate reporting certain
+theft, misappropriation, and the destruction of performance metrics on service quality. This includes
+postal articles. The Jan Vishwas (Amendment of concerns such as network availability and call quality.
+Provisions) Act, 2023, amended the Indian Post The regulations also specify penalties if the
+Office Act, 1898 to remove all offences and performance is below a certain level.
+penalties.64 The Bill does not provide for any
+offences or consequences, except one. Amounts In the consultation paper, TRAI has proposed draft
+not paid or neglected by a user will be recoverable regulations to replace the three existing regulations. It
+as arrears of land revenue. observed that a single regulation will reduce
+compliance requirements and eliminate duplication
+For a PRS summary of the Bill, see here. across regulations.
+In addition to the draft regulations, TRAI has sought
+The Telegraph Right of Way (Amendment)
+views specifically on the quality-of-service parameters
+Rules, 2023 notified
+and measurement methodology for: (i) 4G and 5G
+The Indian Telegraph Right of Way (Amendment) networks, (ii) low latency and machine communication,
+Rules, 2023 were notified and they amend the Indian and (iii) long-distance networks.
+Telegraph Right of Way Rules, 2016.65 The 2016
+Comments are invited until September 20, 2023.
+Rules provide a framework for the laying of telecom
+infrastructure, such as cables, antennas, and cells.66
+TRAI releases recommendations on
+Key changes include:
+authorisation for Digital Connectivity
+▪ Establishment of temporary infrastructure: Infrastructure Providers
+The amended rules allow a licensee to establish
+temporary overground infrastructure if the The Telecom Regulatory Authority of India (TRAI) has
+underground infrastructure gets damaged. The recommended introducing a new authorisation under
+temporary infrastructure may be established for a the Unified License for Digital Connectivity
+period of 60 days from the day damage has been Infrastructure Providers (DCIPs).68 The Unified
+reported. No compensation or fee will be charged Licence was introduced in 2013 and it allows telecom
+by the appropriate authority for temporary companies to offer multiple services under one licence.
+infrastructure created under this rule. DCIPs will be allowed to create active and passive
+digital infrastructure. Passive digital infrastructure
+▪ Installation of small cells: Under the amended
+refers to the ductcs, towers, poles, and other
+rules, a licensee may submit a single application
+infrastructure which does not involve the transmission
+for setting up small cells over multiple sites with
+of information. Active infrastructure includes the
+the appropriate authority. A small cell refers to a
+electronics, radios, antennas, and other communication
+low power radio access node that can provide
+infrastructure. Currently, under the Infrastructure
+cellular services up to two kilometres. Previously,
+Providers Category 1 licence, companies can only
+applicants had to make individual applications for
+create passive infrastructure. To create active
+- 16-
+Monthly Policy Review – August 2023 PRS Legislative Research
+infrastructure, companies must obtain a Unihefied recommended that the bank guarantee for the
+Licence for service provisioning. period after the first two quarter should be five
+crore rupees or 20% of the estimated sum payable,
+Thus, TRAI recommended that DCIP authorisation
+whichever is higher. When the licence fee
+should allow the purchase of radio equipment without
+becomes zero, a bank guarantee of five crore
+the need for spectrum. No license fee or performance
+rupees must be submitted and renewed yearly.
+bank guarantee should be applicable for this
+authorisation. Further, entry fee should be kept at two
+lakh rupees and the application processing fee should
+be kept at Rs 15,000.
+Social Justice
+Alaya Purewal (alaya@prsindia.org)
+Media and Broadcasting
+The Constitution (Scheduled Castes) Order
+(Amendment) Bill, 2023 passed
+Pratinav Damani (pratinav@prsindia.org)
+The Constitution (Scheduled Castes) Order
+TRAI releases recommendations on licence fees (Amendment) Bill, 2023, was passed by Parliament.70
+and policy matters of DTH services The Bill amends the Constitution (Scheduled Caste)
+Order, 1950, with respect to its application to
+The Telecom Regulatory Authority of India (TRAI)
+Chhattisgarh.71 The Bill includes Mahara and Mahra
+released its recommendations on ‘Licence Fees and
+communities as synonyms of the Mehra, Mahar, and
+Policy Matters of DTH Services’.69 Key
+Mehar communities in Chhattisgarh.
+recommendations include:
+For a PRS summary of the Bill, see here
+▪ Introduction of Applicable Gross Revenue:
+Currently, DTH operators pay a licence fee as a
+Standing Committee report on drug abuse
+percentage of their Adjusted Gross Revenue
+among youth
+(AGR). AGR is calculated by excluding GST
+from the Gross Revenue. Gross Revenue is the The Standing Committee on Social Justice and
+gross inflow of cash, receivables or other Empowerment (Chair: Ms. Rama Devi) submitted its
+consideration arising in the course of ordinary report on ‘Drug Abuse Among Young Persons-
+activities of the business. Problems and Solutions’.72 Key recommendations of
+the Committee include:
+▪ To align the definition of Gross Revenue with the
+same for the telecom sector, TRAI recommended ▪ Reduction of budgetary allocation: The
+that the concept of Applicable Gross Revenue Committee noted that the National Action Plan for
+(ApGR) should be introduced. ApGR should be Drug Demand Reduction (NAPDDR) had a
+arrived at after deducting certain forms of income budgetary allocation for 260 crore rupees for both
+from the Gross Revenue such as: (i) revenue from 2020-21 and 2021-22. It was reduced to 150 crore
+activities under a licence by the Department of rupees for 2020-21 and 200 crore rupees for 2021-
+Telecommunications, (ii) reimbursements from the 22 during the revised stage. It also observed that
+government and (iii) other income from sources NAPDDR had spent approximately Rs 91 crore in
+such as dividend, interest, and rent. AGR should 2021-22 rupees and Rs 98 crore in 2021-22. It
+be arrived at by deducting GST from ApGR. suggested that the Department of Social Justice
+and Empowerment ensure that the number of
+▪ Reduction in licence fees: Currently, DTH
+beneficiaries under NAPDDR increase in 20223-
+operators pay an annual licence fee at the rate of
+24. It suggested the budget allocation for 2023-24
+8% of their AGR. In order to align the licence fee
+to be spent fully as opposed to being cut down at
+with other operators such as Multi System
+the revised stage.
+Operators, OTT platforms and Internet Protocol
+TVs, it has recommended that the licence fee ▪ Drug abuse among youth: The Committee
+should be reduced to 3% of the AGR. Moreover, observed that opioids, sedatives, and inhalants are
+the licence fee should be brought down to zero in being widely used by 10–17-year-olds with over
+the next three years. one crore users in the age group. The worst
+affected states and UTs include Andhra Pradesh,
+▪ Reduction in bank guarantees: As per the
+Assam, Bihar, Delhi, and Punjab. The Committee
+current regulations, DTH providers must submit a
+also observed that despite a ban on alcohol
+bank guarantee of five crore rupees for the first
+consumption in some states, approximately 19% of
+two quarters. Thereafter, the bank guarantee must
+India’s population consumes alcohol. The
+be equivalent to two quarters of licence fees and
+other non-securitised dues. This is referred to as
+the estimated sum payable. TRAI has
+recommended a reduction in bank guarantee. It
+- 17-
+Monthly Policy Review – August 2023 PRS Legislative Research
+Committee suggested strict vigilance to control Labour
+illegal sale of liquor in states/UTs.
+Tanvi Vipra (tanvi@prsindia.org)
+▪ Role of NGOs in rehabilitation: The Committee
+noted that drug usage is widely prevalent in
+Cabinet approves central sector scheme for
+Punjab, Haryana, Delhi, Uttar Pradesh, Odisha,
+artisans and craftspeople
+Chhattisgarh, Madhya Pradesh, and Maharashtra.
+However, the amount of money given to NGOs The Cabinet Committee on Economic Affairs approved
+operating rehabilitation programmes in these states PM-Vishwakarma, a central sector scheme for artisans
+has gone down in 2022-23 compared to previous and craftspeople.74 The Scheme seeks to provide credit
+years. It observed that the budget reduction was at a concessional interest rate of 5%, up to one lakh
+partly due to the non-functioning of some NGOs. rupees in the first tranche, and up to two lakh rupees in
+The Committee suggested the need for a fast-track the second tranche. Additional support such as skill
+alternate mechanism to ensure that rehabilitations upgradation, incentives for digital transactions, and
+programmes do not suffer in critical states. marketing support will also be provided.
+The Scheme has a financial outlay of Rs 13,000 crore
+from 2023-24 to 2027-28. It will cover 18 traditional
+trades such as carpenters, armourer, blacksmith, potter,
+Chemical and Fertilizers mason, barber, doll/toy maker, garland maker, tailor,
+and sculptor.
+Rutvik Upadhyaya (rutvik@prsindia.org)
+Standing Committee submits report on social
+Scheme to promote research and
+security measures for textile workers
+innovation in the Pharma MedTech sector
+The Standing Committee on Labour, Textiles and Skill
+introduced
+Development (Chair: Mr. Bhartruhari Mahtab)
+The Department of Pharmaceuticals notified the presented its report on ‘Welfare Schemes and Social
+Scheme for Promotion of Research and Innovation in Security Measures for Textile Workers in Organised
+Pharma MedTech Sector.73 According to the and Unorganised Sectors’.75 Key observations and
+Department, India lags significantly behind US and recommendations of the Committee are:
+China in spending on pharma research and
+▪ Decline in enrolment for insurance schemes:
+development.73 The Department also stated that India’s
+Textile workers are provided insurance under three
+pharma sector is primarily confined to generic drugs.73
+schemes: (i) PM Jeevan Jyoti Bima Yojana, (ii)
+The scheme seeks to promote linkages between PM Suraksha Bima Yojana, and (iii) the
+industry and academia for research and development in Converged Mahatma Gandhi Bunkar Bima
+priority areas. It will have two components: (i) Yojana. The Committee observed that enrolment
+strengthening the research infrastructure, and (ii) under some of these schemes has declined in 2022-
+promoting research in pharma MedTech sector. 23 (up to May 2023). It noted that this was due to
+a change in the payment system, where from April
+To strengthen research infrastructure, Centres of
+2020 onwards, beneficiaries or the state
+Excellence will be established at the seven existing
+government would pay the premium. Previously,
+National Institutes of Pharmaceutical Education and
+it was paid from the Social Security Fund, by the
+Research. Rs 700 crore will be spent over five years
+central and/or state government. Currently, only
+for setting up these centres.
+Karnataka, Kerala, and Sikkim pay the premium
+The research promotion component of the scheme will under the Jeevan Jyoti Yojana.
+have a further three categories. Under the first, nine
+▪ The Committee recommended that the Ministry of
+established pharma companies may be selected that are
+Textiles strengthen monitoring and coordination
+willing to undertake research in six priority areas. Such
+with state governments for payment of premiums.
+research would be conducted in collaboration with
+government institutes. The companies will be required ▪ Pension: The Ministry provides a monthly
+to train select students/scientists at the institutes. pension of Rs 8,000 to weavers and artisans above
+the age of 60. To be eligible, the annual income of
+Under the second category, funding will be provided to
+these workers must be less than one lakh rupees.
+30 research projects in six priority areas which are at a
+The Committee noted that the income ceiling for
+specified level. Under the third category, funding will
+eligibility is low and refers to those earning below
+be provided for research projects in six priority areas to
+the daily minimum wage. It strongly suggested
+help Indian startups and MSMEs to be competitive.
+reviewing the ceiling and raising it to a reasonable
+amount to increase eligibility. In 2022-23, 80
+weavers and 339 handicraft workers were provided
+the pension. The Ministry noted that the uptake is
+- 18-
+Monthly Policy Review – August 2023 PRS Legislative Research
+low due to insufficient awareness. like multimodal interchange, and automated fare
+collection systems.
+For a PRS Summary of the Report, please see here.
+▪ The total budget outlay for the scheme is Rs 57,613
+Standing Committee submits report on crore, of which Rs 20,000 crore will be provided by the
+functioning of the Directorate General of central government. The scheme will run over 10 years
+Training and will target cities with over three lakh population.
+Cities lacking organised bus services will be prioritised.
+The Standing Committee on Labour, Textiles and Skill
+Development (Chair: Mr. Bhartruhari Mahtab)
+presented its report on ‘Functioning of the Directorate
+General of Training (DGT)’.76 The DGT functions Civil Aviation
+under the Ministry of Skill Development and
+Entrepreneurship, and is responsible for the Priyadarshini Jain (priyadarshini@prsindia.org)
+development of vocational training programmes. It
+frames overall policies, norms, and standards for Aircraft Security Rules, 2023 notified
+vocational training in India. This includes setting the
+▪ The Ministry of Civil Aviation notified the Aircraft
+curriculum, training modules, and assessment criteria.
+Security Rules, 2023 under the Aircraft Act, 1934.78
+It currently implements five centrally sponsored
+The 2023 Rules replace the Aircraft Security Rules,
+schemes. Key observations and recommendations of
+2011.79 After the release of the draft Rules in
+the Committee are:
+November 2022 for public input, the 2023 rules have
+▪ Quality of Industrial Training Institutes: been established to outline the implementation of
+According to a report by NITI Aayog, Industrial airport security measures80. Key features of the Rules
+Training Institutes (ITIs) are underutilised, with are as follows:
+subpar training quality, and infrastructure.
+▪ Powers of Commissioner transferred to DG:
+However, the DGT has observed that the report
+Under the 2023 Rules, the Director General of the
+contained factual inaccuracies. The Committee
+Bureau of Civil Aviation Security (BCAS) will be
+recommended the Ministry to rectify the
+responsible for (i) developing and maintaining the
+inaccuracies, and seriously consider other issues
+national civil aviation security programme, (ii)
+highlighted in the report. These include
+coordinating activities between departments, and
+establishing a placement and entrepreneurship cell,
+(iii) designating authorities at aerodromes to
+and facilitating tie-ups with MSMEs. The
+implement security controls and procedures.
+Committee also highlighted that DGT does not
+Under the 2011 Rules, the Commissioner of the
+have data on placement of pass outs from ITIs.
+BCAS was responsible for these functions.
+▪ Enrolments: The Committee observed that
+▪ The Aircraft Act, 1934 was amended in 2020
+enrolment in ITIs is quite low due to lack of
+which made the BCAS a statutory body and
+awareness, poor training quality, and lack of job
+opportunities. Enrolment in government ITIs is
+specified that the DG would head it. The 2023
+Rules specify additional functions for the DG, such
+59% and in private ITIs is 40%. The Committee
+as arranging for security audits.
+suggested that the Ministry fix the issue, and
+consider improving graduate employability as a ▪ Use of private security agencies: Private security
+solution. It also highlighted low enrolment among
+personnel, authorised by the Director General will
+northeastern states. be engaged to ensure security. The number and
+training standards of the private security personnel
+will be determined by the central government.
+Urban Affairs ▪ Penalties for certain violations: Under the Rules,
+aircraft operators are required to carry out certain
+Priyadarshini Jain (priyadarshini@prsindia.org) activities. Failure to undertake them will be
+considered an offence. Such activities include: (i)
+Cabinet approves PM-eBus Sewa for developing a security programme and (ii)
+enhancement of city bus operations commencing aircraft operations with approval
+from the DG. Additionally, carrying weapons,
+The Union Cabinet approved the PM-eBus Sewa to firearms, ammunition, or explosives to an airport
+enhance city bus operations and promote sustainable or aircraft is also an offence. Offences are
+mobility.77 The Scheme will promote e-mobility and punishable with imprisonment of up to two years,
+support the development of charging infrastructure in or a fine of up to one crore rupees or both. The
+cities. It has two segments: (i) segment A will have Rules also specify amounts for compounding
+10,000 e-buses on a public-private partnership (PPP) certain offences.
+model, and (ii) segment B includes green initiatives
+- 19-
+Monthly Policy Review – August 2023 PRS Legislative Research
+▪ Measures against cyber threats: Entities such as Railways has about 62,068 hectares of vacant land.
+aerodrome and aircraft operators, or a ground 60%-70% of vacant land consists of narrow strips along
+handling agency will be required to identify critical tracks, which are utilised for various operational needs.
+information, and develop security measures to The Committee observed out of 1,216 hectares of land
+detect unauthorised access, modification, and use with RLDA only 67 hectares have been used for
+of such information, and protect against access. commercial development so far. The Committee
+recommended that the Ministry utilise more land for
+Standing Committee submits report on issue of commercial development to increase the generation of
+fixing of airfares non-tariff revenues. It also recommended narrow strips
+of land along tracks may be licensed to railway
+The Standing Committee on Transport, Tourism and employees for cultivation under the ‘Grow More Food
+Culture (Chair: Mr. V. Vijayasai Reddy) submitted its Scheme.’ The scheme licenses vacant railway land to
+report on the ‘Issue of Fixing of Airfares,’ on August railway employees for cultivation.
+10, 2023.81 Prior to 1994, airfares were fully regulated
+by the central government under the Air Corporation For a PRS Report of the summary, please see here.
+Act, 1953. It was deregulated in 1994, and presently
+Rules under the Aircraft Act, 1934 oversee airfares.
+Key observations and recommendations include:
+Road and Transport
+▪ Current framework for fixing airfares: Under
+the Aircraft Rules, 1937, airlines are required to fix Priyadarshini Jain (priyadarshini@prsindia.org)
+tariffs while keeping in mind reasonable profits
+and the generally prevailing tariff. The Directorate CAG releases report on implementation of
+General of Civil Aviation (DGCA) is responsible Phase I of Bharatmala Pariyojana
+for monitoring fares. It can issue directions to
+The Comptroller and Auditor General of India (CAG)
+airlines which charge excessive or predatory
+released its audit report on the ‘Implementation of
+prices, or engage in oligopolistic practices. The
+Phase-I of Bharatmala Pariyojana’.83 The Cabinet
+airlines must comply with these directions.
+Committee on Economic Affairs (CCEA) approved
+▪ The Committee noted that despite the oversight by Bharatmala Pariyojana in October 2017 for the
+DGCA, airlines charge excess, which leads to a development of National Highways (NH). Phase I of
+surge in airfares. The Committee recommended the program aimed to develop economic corridors,
+that the Ministry of Civil Aviation empower feeder roads, and expressways.
+DGCA to regulate air tariffs. It also recommended
+Implementing agencies of the program include: (i) the
+constituting a monitoring body, like SEBI with
+National Highways Authority of India (NHAI), (ii) the
+quasi-judicial powers to enforce reasonable tariffs.
+National Highways and Infrastructure Development
+▪ Definition of reasonable profit: The Committee Corporation Limited (NHIDCL), and (iii) the State
+observed that reasonable profit is not defined Public Works Department. The scope of the audit
+anywhere, leading to arbitrary actions. Further, included the review of planning, financial management,
+airlines fix prices on a cost-recovery model and do implementation, and monitoring of Bharatmala. Key
+not consider reasonable profits. The Committee observations and recommendations of CAG are:
+noted that reasonable profit must be clearly
+▪ Existing highways included under Bharatmala:
+defined, and airlines must be encouraged to fix
+Under Bharatmala Phase I, NHAI is required to
+tariffs on this basis.
+develop NHs of 70,050 km. However, CAG
+For a PRS Report of the summary, please see here. observed that 49% of this (34,972 km) was already
+developed or awarded under various highway
+schemes before Bharatmala was approved. These
+schemes did not have proposals to develop them
+Railways
+further. CAG recommended that such NHs be
+removed from the target length under Bharatmala.
+Priyadarshini Jain (priyadarshini@prsindia.org)
+▪ Projects taken without fixing previous issues:
+Standing Committee submits report on Rail CAG noted that existing incomplete projects under
+Land Development Authority the National Highway Development Project were
+taken up under Bharatmala without resolving
+The Standing Committee on Railways (Chair: Mr. existing bottlenecks. For instance, the highway
+Radha Mohan Singh) submitted its report on along the Bihar and Jharkhand border was to be
+‘Performance of Rail Land Development Authority’ on completed by November 2021, but as of March
+August 8, 2023.82 Established in 2006, the Rail Land 2023, only 62% of the project was completed.
+Development Authority (RLDA) develops and Reasons for the delay include unavailability of the
+commercialises vacant or under-utilised railway land. right of way and pending land disputes over forest
+- 20-
+Monthly Policy Review – August 2023 PRS Legislative Research
+land. CAG suggested that existing bottlenecks competitive bidding.85 These have been issued under
+must be resolved before any remaining projects are the Electricity Act, 2003.86 Hybrid power projects
+awarded under Bharatmala. combine different renewable energy sources to reduce
+variability in output. Key features include:
+For a PRS Report Summary, please see here.
+▪ Eligibility: To be eligible for competitive bidding,
+Standing Committee submits report on Road the rated power capacity of one resource (wind or
+over Bridges and Road under Bridges solar) must be at least 33% of the total capacity of
+the hybrid power project. The minimum size of a
+The Standing Committee on Transport, Tourism and bid must be: (i) 10 megawatts (MW) for projects
+Culture (Chair: Mr. V. Vijayasai Reddy) submitted its connected to intra-state transmission system, and
+report on ‘Construction of Road over Bridges, Road (ii) 50 MW for projects connected to inter-state
+under Bridges, Service Roads and Review of Road transmission system. The solar and wind
+Survey Guidelines.’84 Road Over Bridge (ROB) and components of the project may be at different
+Road Under Bridge (RUB) are structures that separate locations. The project may have storage capacity.
+road and rail traffic. ROB elevates the road over Entities eligible to procure power from these
+railway tracks, while RUB allows the road to pass projects include power distribution companies.
+beneath the tracks. Key observations and Power procured through this process may be used
+recommendations of the Committee include: to fulfil the renewable purchase obligation.
+▪ Construction of ROBs and RUBs: Level ▪ Terms of bidding: A maximum of 50% of the
+crossings (LC) are intersections between railway total capacity specified in the bidding document
+tracks and roads, posing risks of collisions between can be allocated to a single bidder. Capacity will
+vehicles and trains. Since its launch in 2016, the be filled from two or more bidders in the ascending
+Setu Bharatam program, aimed at building order of the tariff bid.
+ROBs/RUBs, has achieved only 25% completion.
+The Committee also noted that the replacement of ▪ Power Purchase Agreement (PPA): The
+1,100 LCs in 2023-24, is lower than the yearly procurer must issue a draft PPA in the standard
+average of the past decade. It recommended that bidding documents. The term of the PPA will
+the replacement target and pace of LCs with generally be for 20-25 years. The draft PPA must
+ROBs/RUBs must be increased. It also include: (i) adequate payment security and (ii)
+recommended the Ministry to allocate more funds penalty for the procurer in case of failure to off-
+and assess the feasibility of a public-private take power scheduled by the generation company.
+partnership model for ROBs/RUBs.
+▪ Generators will be required to compensate
+▪ Delay in construction: The Ministry of Railways procurers in case there is a shortfall in supply as
+cited construction delays for ROBs/RUBs due to: compared to what was agreed upon in the PPA. In
+(i) environmental clearances, (ii) land acquisition, case of excess generation, the hybrid generating
+and (iii) delay in submission of proposal drawings. company may sell the surplus energy to any entity.
+The Ministry of Environment, Forest, and Climate However, the procurer has the right of first refusal.
+Change has streamlined the process for forest
+North-Eastern Region
+clearances by allowing online submissions of
+drawings and holding fortnightly regional Priyadarshini Jain (priyadarshini@prsindia.org)
+coordination meetings. The Committee
+recommended that the Ministry of Railways and Cabinet approves the extension of development
+the Ministry of Road Transport and Highway
+schemes for north-eastern region
+should regularly coordinate with the Environment
+Ministry to expedite the process. The Union Cabinet approved the extension of two
+schemes: (i) the North East Special Infrastructure
+For a PRS Report of the summary, please see here.
+Development Scheme (NESIDS), and (ii) the North
+Eastern Council Scheme (NECS).87 The guidelines of
+these two schemes have also been revised.
+Power ▪ NESIDS: This scheme aims to facilitate
+infrastructure development and connectivity in all
+Pratinav Damani (pratinav@prsindia.org) northeastern states. It has been extended till 2025-
+26 with a total outlay of Rs 8,140 crore.87 The
+Guidelines on power procurement from wind- extended scheme will be restructured into two
+solar hybrid projects through competitive components: (i) NESIDS-Roads, focusing on road,
+bidding released rail, and water connectivity to tourism and
+economic hubs, and (ii) NESIDS-Other than Road
+The Ministry of Power issued guidelines on power
+Infrastructure, covering projects related to water
+procurement from wind-solar hybrid projects through
+bodies, solid waste management, and power.88,89
+- 21-
+Monthly Policy Review – August 2023 PRS Legislative Research
+▪ NECS: NECS aims to fill gaps in the overall For a PRS summary of the report, see here.
+development of the north-eastern region. This
+scheme covers focus areas such as higher Standing Committee submits report
+education, organic farming, health, and regional development of trade in north eastern region
+tourism. It has been extended till 2026 with a total
+outlay of Rs 3,200 crore.87,90 The Standing Committee on Commerce (Chair: Dr.
+Abhishek Manu Singhvi) submitted its report on
+▪ Oversight of schemes: The Empowered Inter- ‘Development of Trade and Industries in North Eastern
+Ministerial Committee at the central level will Region (NER)’.92 Key observations and
+continue to monitor and evaluate projects under recommendations of the Committee include:
+both schemes. The State-level Empowered
+Committee will monitor projects under the ▪ Connectivity: The NER has suffered from poor
+NESIDS- Other than Road Infrastructure and NEC inter-state and intra-state transport connectivity.
+at the state level.88,89,90 This has impeded everyday life and industrial
+development in the region. In order to improve
+connectivity, the Committee recommended: (i)
+constructing new state highways and minor/district
+Commerce roads, (ii) widening the road network in border
+areas, (iii) increasing the frequency of freight
+Tushar Chakrabarty (tushar@prsindia.org) trains, (iv) creating air cargo handling and cold
+storage facilities at airports, and (v) completing
+Standing Committee submits report on feasibility studies of national waterways.
+ecosystem of startups
+▪ Land for industrial use: In most north eastern
+The Standing Committee on Commerce (Chair: Dr. states, land cannot be transferred to non-tribals.
+Abhishek Manu Singhvi) submitted its report on There is also no database of land for industrial use.
+‘Ecosystem of Startups to Benefit India’.91 Key The Committee suggested the creation of a GIS-
+recommendations of the Committee include: linked industrial land bank. This can have features
+such as plot-level information of available
+▪ Access to funding: Investments in startups are
+industrial land and provisions for land
+cyclical in nature. They witness market
+reclassification. The Committee also suggested
+corrections based on various factors such as
+provisions for leasehold rights to be made
+macroeconomic conditions, investor sentiments,
+transferable and mortgageable.
+and monetary policies. The Committee observed
+that there was a need to create a pool of additional ▪ Trade with ASEAN: The geographical advantage
+funds to help good startups in such periods. It of NER states needs to be utilised to strategically
+recommended that the Department for Promotion increase India’s trade with Association of
+of Industry and Internal Trade (DPIIT) should Southeast Asian Nations (ASEAN). For
+conduct an assessment to identify areas that require strengthening export linkages with ASEAN, the
+additional funding. The Committee also expressed Committee recommended: (i) starting direct flights
+concerns at the lack of government-supported to ASEAN countries under the UDAN
+mechanisms to monitor funds received by startups (International) Scheme, (ii) setting up more land
+from private investors. Startups may be custom stations, and (iii) opening consulate offices
+encouraged to adopt best accounting practices. of ASEAN countries in the NER. The government
+must identify and promote such industries in the
+▪ Single implementation agency: Forty-two
+NER which could cater to markets in ASEAN and
+ministries/departments/bodies are overseeing the
+other neighbouring countries.
+implementation of various schemes and initiatives
+related to startups. The Committee noted that this For a PRS summary of the report, see here.
+leads to lack of coordination and delay in scheme
+implementation. It recommended the creation of a
+single implementing body to oversee and manage
+Consumer Affairs
+the entire startup ecosystem. It also recommended
+creating a grievance redressal mechanism to
+Tanvi Vipra (tanvi@prsindia.org)
+address issues in real-time and provide solutions.
+▪ Regulatory support: The Committee noted that Standing Committee submits report on the
+easing regulatory/legal framework to facilitate sugar industry
+direct overseas listing of unlisted Indian startups
+could give a boost to the ecosystem. It also The Standing Committee on Consumer Affairs, Food
+recommended simplifying the registration process and Public Distribution (Chair: Ms. Locket Chatterjee)
+for startups and eliminating the extensive list of presented its report on ‘Sugar Industry in India – A
+eligibility criteria for registration with DPIIT. Review’.93 In sugar season (October-September) 2021-
+22, India was the largest producer and consumer of
+- 22-
+Monthly Policy Review – August 2023 PRS Legislative Research
+sugar, and the second largest exporter of the Scheme was operational from April 2020 till
+commodity. Key observations and recommendations December 2022. It had a financial outlay of about
+of the Committee are: four lakh crore rupees, of which 87% was actually
+spent (Rs 3.4 lakh crore). During the Scheme
+▪ Cyclicity on decline: The sugar industry faces
+period, 1,015 lakh metric tonnes of food grains
+cyclicity due to the price incentives given by the
+were distributed, 91% of the total grains allocated.
+government for cultivation of sugarcane. This
+The Committee noted that the PMGKAY’s
+affects the market prices of sugar. The Committee
+performance was outstanding.
+observed that cyclicity in the industry has declined
+since 2010-11 and has been almost eliminated ▪ Monitoring and evaluation: The Committee
+during the last five years. It noted this was due to noted that the Department of Food and Public
+continuous increase in the area under production, Distribution has engaged 13 monitoring
+and consequent growth in sugar production. institutions to evaluate the implementation of
+NFSA between 2020-2023. As per reports
+▪ As per the Committee, policy interventions such as
+submitted for the first two years, most surveyed
+the ethanol blending petrol, state advised price and
+households in all states and UTs received their full
+fair and remunerative price of sugarcane, and
+entitlement under PMGKAY.
+cogeneration of power have led to improving the
+overall health of the sector. ▪ Inclusion of coarse grains: The Committee
+observed that coarse grains have high nutrition and
+▪ Payment arrears to farmers: During sugar
+non-acid forming properties. About 5.8 lakh
+season 2022-23, mills have procured sugarcane
+metric tonnes of coarse grains such as ragi and
+worth Rs 1.13 lakh crore, and have released 92%
+bajra were distributed to beneficiaries in six states
+of the payment (as on June 30, 2023). For sugar
+under PMGKAY.
+season 2021-22, payment arrears to farmers have
+been reduced to Rs 115 crore. Additionally, high
+Standing Committee submits report on the
+ex-mill prices of sugar in the domestic market
+production and distribution of coarse grains
+indicate that mills are able to reasonably realise
+their sales. In 2021-22, during the ethanol supply The Standing Committee on Consumer Affairs, Food
+year (December-November), sugar mills earned Rs and Public Distribution (Chair: Ms. Locket Chatterjee)
+20,000 crore from the sale of ethanol to oil presented its report on ‘Coarse Grains Production and
+marketing companies. This also assisted in Distribution’.95 Coarse grains include barley, millet,
+clearing dues of farmers. and maize. Key observations and recommendations of
+the Committee are:
+▪ Ethanol blending programme: The National
+Biofuel Policy, 2018 allows ethanol to be produced ▪ Production: Coarse grain production increased by
+from sugarcane juice, and be blended in petrol. 96.7 lakh metric tonne between 2018-19 and 2022-
+The 2022-23 ethanol supply year (December- 23. Between 2017-18 and 2021-22, the average
+November) requires 550-600 crore litres of ethanol production for six coarse grains was 480 lakh
+to meet the 12% blending target. The current metric tonnes. Maize accounted for 63% of this
+production capacity is 1,070 crore litres, of which production. The Committee noted that the
+723 crore litres comes from molasses. The government has: (i) undertaken awareness
+Committee observed that to achieve the 20% campaigns on health benefits of coarse grains, (ii)
+blending target by 2025, 1,350 crore litres of constituted six task forces, and (iii) engaged with
+ethanol will be required. farmer producer organisations to promote millets.
+▪ Procurement for welfare schemes: The
+Standing Committee submits report on
+Committee observed a substantial increase in the
+Pradhan Mantri Garib Kalyan Yojana
+procurement of coarse grains for welfare schemes
+The Standing Committee on Consumer Affairs, Food from 2017-18 onwards. States are allowed to
+and Public Distribution (Chair: Ms. Locket Chatterjee) procure coarse grains under the decentralised
+presented its report on ‘Pradhan Mantri Garib Kalyan procurement mode from farmers at the minimum
+Anna Yojana (PMGKAY)’.94 Under the Scheme, support price (MSP). These are to be distributed
+eligible beneficiaries were provided five kg of food under the targeted public distribution scheme
+grains per person per month, free of cost. This was (TDPS) and other welfare schemes such as the
+above their entitlements under the National Food integrated child development scheme (ICDS) and
+Security Act (NFSA), 2013. PMGKAY initially was PM-POSHAN (previously midday meal).
+operational until December 2022. After that,
+▪ The offtake of coarse grains was limited to
+distribution under the NFSA was renamed as
+Haryana and Maharashtra, but has extended to
+PMGKAY and foodgrains will be given free of cost
+seven additional states. The Committee noted that
+until December 2024. Key observations of the
+remaining states should also procure coarse grains
+Committee are:
+for distribution under these schemes. The
+▪ Financial and physical performance: The Committee noted that revisions in guidelines in
+- 23-
+Monthly Policy Review – August 2023 PRS Legislative Research
+2021-22 to: (i) increase distribution periods from For a PRS Summary of the Report, please see here.
+three months to 6-10 months, and (ii) provide for
+inter-state transport of surplus millet through FCI,
+played a role in the rise in the number of states
+opting for millet procurement. Women and Child Development
+▪ Promotion of production: MSP for coarse grains Alaya Purewal (alaya@prsindia.org)
+increased from Rs 2,879 per quintal in 2018-19 to
+Rs 3,578 per quintal in 2022-23. The Committee Standing Committee report on the functioning
+noted that this played a key role in attracting
+of the National Commission of Women
+farmers to cultivate these grains. The Committee
+also noted that the Ministry of Agriculture and The Standing Committee on the Empowerment of
+Farmers’ Welfare is assisting rural farmers to Women (Chair: Dr. Heena Vijaykumar Gavit)
+purchase primary processing equipment. submitted its report on “Working of National
+Commission for Women and State Commission for
+Women”.96 The National Commission for Women
+(NCW) is mandated to facilitate grievances of women
+Agriculture and recommend women specific legislative and policy
+measures. Key observations and recommendations of
+Tanvi Vipra (tanvi@prsindia.org) the Committee include:
+▪ The National Commission for Women Act,
+Standing Committee submits report on
+1990: The Committee noted that there is an urgent
+development of horticulture
+need to review the National Commission for
+The Standing Committee on Agriculture and Farmers Women Act, 1990 to make the NCW more
+Welfare (Chair: Mr. P.C. Gaddigoudar) presented its independent, and effective. It recommended
+report on ‘Mission for Integrated Development of empowering the NCW with a certain degree of
+Horticulture – An Appraisal’. Horticulture is a branch accountability over the police to implement their
+of agriculture that deals with fruits and vegetables. directions and penalise non-compliance. It also
+Key observations and recommendations of the recommended the NCW to propose amendments in
+Committee include: the 1990 Act and submit them to the Ministry of
+Women and Child Development (MWCD).
+▪ Mission for Integrated Development of
+Horticulture (MIDH): MIDH has five sub- ▪ State Commissions for Women: The Committee
+schemes, which were earlier separate schemes. noted that many established State Commissions for
+These are: (i) National Horticulture Mission, (ii) Women are not fully functional due to non-
+Horticulture Mission for North East and appointment of Chairpersons or lack of allocation
+Himalayan States, (iii) the National Horticulture of funds. It observed that many states including
+Board, (iv) the Coconut Development Board, and Bihar and Madhya Pradesh do not have their own
+(v) the Central Institute of Horticulture. The first State Commission for Women. The Committee
+two sub-schemes are implemented as centrally observed that functional State Commissions for
+sponsored schemes, while the other three are Women will help the NCW in disposing of
+implemented as central sector schemes. The complaints emanating from their respective states.
+Committee recommended that all sub-schemes It recommended establishing a statutory linkage
+under the MIDH be implemented as centrally with State Commissions for Women to ensure
+sponsored schemes. smoother coordination. It also recommended the
+MWCD to urge states to strengthen their
+▪ National policy for horticulture: India is the
+Commissions by filling up vacancies and
+second largest producer of fruits and vegetables,
+allocating adequate funds.
+after China. The Committee noted that horticulture
+can enhance food security with food substitutes ▪ Implementation of recommendations: The
+like potatoes. However, it observed that there is no Committee noted that the NCW has reviewed and
+independent national policy for horticulture. It suggested amendments for about 161 laws. These
+recommended that a National Policy be evolved amendments include laws related to: (i) child
+for holistic promotion and development of marriage, (ii) domestic violence, (iii) women’s
+horticulture. It also recommended that setting up safety, and (iv) the medical termination of
+of horticulture cluster development programmes pregnancy. However, the Committee noted that
+and centres of excellence be expedited to increase there is no time frame followed for the
+productivity. The Committee also noted that about implementation of NCW’s recommendation. It
+12,000 hectares of cultivable waste land is recommended the establishment of a mechanism
+available which can be utilised for horticulture. It within the MWCD, Ministry of Law and Justice,
+recommended that such land be reclaimed to and other concerned ministries to adhere to a fixed
+promote horticulture crops under MIDH. time frame and ensure the implementation of
+- 24-
+Monthly Policy Review – August 2023 PRS Legislative Research
+recommendations made by the NCW.
+For a PRS summary of the Report, see here.
+Personnel
+Alaya Purewal (alaya@prsindia.org)
+Tourism
+Standing Committee submitted report on the
+Arpita Mallick (arpita@prsindia.org) functioning of recruitment organisation
+The Standing Committee on Personnel, Public
+CAG Report on Swadesh Darshan Scheme
+Grievances, Law and Justice (Chair: Mr. Sushil Kumar
+submitted
+Modi) submitted its report on ‘Review of Functioning
+The Comptroller and Auditor General of India of Recruitment Organisations of Government of India’,
+submitted its performance audit report on ‘Swadesh on August 3, 2023.98 The Committee examined the
+Darshan Scheme’, on August 9, 2023.97 The Ministry present working procedure followed by various
+of Tourism launched the Swadesh Darshan Scheme in recruitment organisations including the: (i) Union
+January 2015. Its objective was to develop tourism Public Services Commission (UPSC), (ii) Staff
+infrastructure in the country. The Ministry sanctioned Selection Committee (SSC), (iii) National Recruitment
+76 projects across 15 tourist circuits worth Rs 5,456 Agency (NRA), (iv) Central Armed Police Forces
+crore. These include: (i) the Himalayan circuit, (ii) the (CAPFs), and (v) Institute of Banking Personnel
+North East circuit and (iii) the Coastal circuit. Selection (IBPS). Key observations and
+recommendations of the Committee include:
+The report gives an overview of the performance of the
+scheme from 2015 to 2022. A sample of 14 projects ▪ Timeline of recruitment exam: The Committee
+from 13 states covering 10 tourist circuits were selected observed that each recruitment exam conducted by
+for examination. UPSC takes anywhere between six months to a
+year to complete. It noted that the entire process
+The report noted that the scheme was formulated
+should not be more than six months. It
+without conducting any feasibility study. This resulted
+recommended that the SSC should implement
+in poor identification of sites and deficiencies in
+computer-based examination wherever possible to
+execution, such as delays and non-utilisation of funds.
+reduce the timeline of the examination cycle.
+Moreover, the Ministry did not prepare a National or
+State level plan before launching the scheme. Detailed ▪ Functioning of NRA: The Committee observed
+Perspective Plans form the basis of selection of projects that the NRA, which has been tasked with
+for which Detailed Project Reports (DPR) are made. conducting examinations for ‘Group B’ and
+Post-launch, DPPs were not prepared for 14 out of 15 ‘Group C’ employees, is not yet functional. It
+circuits. The scheme overlapped with various other recommended that the NRA consult with the SSC
+schemes in its scope. The Standing Committee on and the Railway Recruitment Board regarding the
+Finance had recommended that the Ministry form an recruitment proposal being prepared. Further, the
+umbrella scheme by merging schemes with overlapping NRA may begin with graduate level examinations
+objectives. It has been recommended that the Ministry: to reduce the number of eligible candidates.
+(i) review current schemes to ensure that there is no
+For a PRS summary of the Report, see here.
+overlap in the objectives, (ii) formulate long term
+development plans in sync with DPPs, and (iii)
+prescribe a timeline for feedback on proposals to ensure
+timely approvals.
+For a PRS summary of the Report, see here.
+1 Special Session of Parliament, @JoshiPralhad, Minister of https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR723MPCBDE7
+Parliamentary Affairs, X, August 31, 2023, 7DBC84204BAC85422FA0E28988A1.PDF.
+https://twitter.com/JoshiPralhad/status/1697184544489910439. 5 The Government of National Capital Territory of Delhi
+2 Press Note on Estimates of Gross Domestic Product for the First (Amendment) Bill, 2023,
+Quarter (April-June) 2023-24, Ministry of Statistics and Programme https://egazette.gov.in/WriteReadData/2023/248046.pdf.
+Implementation, August 31, 2023, 6 The Government of National Capital Territory of Delhi Act, 1991,
+https://www.mospi.gov.in/sites/default/files/press_release/PressNote https://www.indiacode.nic.in/bitstream/123456789/1923/1/A1992-
+Q1_FY24.pdf. 01.pdf.
+3 “Quick Estimates of Index of Industrial Production and Use-Based 7 The Government of National Capital Territory of Delhi
+Index for the Month of June 2023”, Press Information Bureau, (Amendment) Ordinance, 2023,
+Ministry of Statistics and Programme Implementation, August 11, https://egazette.gov.in/WriteReadData/2023/245962.pdf.
+2023, https://pib.gov.in/PressReleasePage.aspx?PRID=1947790.
+8 The Registration of Births and Deaths Bill, 2023,
+4 Resolution of the Monetary Policy Committee (MPC), Monetary https://egazette.gov.in/WriteReadData/2023/248046.pdf.
+Policy Statement, 2023-24, August 10, 2023,
+- 25-
+Monthly Policy Review – August 2023 PRS Legislative Research
+27 The Integrated Goods and Services Tax Act, 2017,
+https://www.indiacode.nic.in/bitstream/123456789/2251/1/A2017-
+9 The Registration of Births and Deaths Act, 1960,
+13.pdf.
+https://www.indiacode.nic.in/bitstream/123456789/11674/1/the_regis
+tration_of_births_and_deaths_act%2C_1969.pdf. 28 Consultation paper on review of framework for borrowings by
+Large Corporates, Securities and Exchange Board of India, August
+10 The Bharatiya Nyaya Sanhita, 2023,
+10, 2023, https://www.sebi.gov.in/reports-and-statistics/reports/aug-
+https://prsindia.org/files/bills_acts/bills_parliament/2023/Bharatiya_
+2023/consultation-paper-on-review-of-framework-for-borrowings-
+Nyaya_Sanhita,_2023.pdf.
+by-large-corporates_75179.html.
+11 Lok Sabha Synopsis of Debates, August 11, 2023,
+29 Reset of Floating Interest Rate on Equated Monthly Instalments
+https://sansad.in/getFile/Synop/17/XII/SYN_11082023_ENG.pdf?so
+(EMI) based Personal Loans, Reserve Bank of India, August 18,
+urce=loksabhadocs.
+2023,
+12 The Bharatiya Nagarik Suraksha Sanhita, 2023, Lok Sabha, August https://rbidocs.rbi.org.in/rdocs/notification/PDFs/EMILOANCIRCU
+11, 2023, LARBC3C67A8D4554B35BEDF51A6C10DF92C.PDF.
+https://sansad.in/getFile/BillsTexts/LSBillTexts/Asintroduced/122_2
+30 Fair Lending Practices – Penal Charges in Loan Accounts, Reserve
+023_LS_ENG811202312939PM.pdf?source=legislation.
+Bank of India, August 18, 2023,
+13 The Code of Criminal Procedure, 1973, https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FAIRLENDINGPR
+https://www.indiacode.nic.in/bitstream/123456789/16225/1/a1974- ACTICE1B9DBE75410B4DA881E6EF953304B6F7.PDF.
+02.pdf.
+31 Consultation Paper on Review of Voluntary Delisting norms under
+14 Synopsis of Debates, Lok Sabha, August 11, 2023, SEBI (Delisting of Equity Shares) Regulations, 2021, Securities and
+https://sansad.in/getFile/Synop/17/XII/SYN_11082023_ENG.pdf?so Exchange Board of India, August 14, 2023,
+urce=loksabhadocs. https://www.sebi.gov.in/reports-and-statistics/reports/aug-
+15 Bhartiya Sakshya Bill, 2023, Ministry of Home Affairs, August 11, 2023/consultation-paper-on-review-of-voluntary-delisting-norms-
+2023, under-sebi-delisting-of-equity-shares-regulations-2021_75335.html.
+https://sansad.in/getFile/BillsTexts/LSBillTexts/Asintroduced/123_2 32 Securities and Exchange Board of India (Listing Obligations and
+023_LS_ENG811202320706PM.pdf?source=legislation. Disclosure Requirements) (Third Amendment) Regulations, 2023,
+16 Digital Personal Data Protection Bill, 2023, Ministry of Electronics Securities and Exchange Board of India, August 23, 2023,
+and Information Technology, August 11, 2023, https://www.sebi.gov.in/legal/regulations/aug-2023/securities-and-
+https://sansad.in/getFile/BillsTexts/LSBillTexts/PassedBothHouses/d exchange-board-of-india-listing-obligations-and-disclosure-
+ata%20protection818202332045PM.pdf?source=legislation. requirements-third-amendment-regulations-2023_75861.html.
+17 Report No. 48, Standing Committee on Communications and 33 Securities and Exchange Board of India (Listing Obligations and
+Information Technology: ‘Citizens’ Data Security and Privacy, Disclosure Requirements) Regulations, 2015, Securities and
+August 1, 2023, Exchange Board of India,
+https://sansad.in/getFile/lsscommittee/Communications%20and%20I https://www.sebi.gov.in/legal/regulations/jul-2023/securities-and-
+nformation%20Technology/17_Communications_and_Information_ exchange-board-of-india-listing-obligations-and-disclosure-
+Technology_48.pdf?source=loksabhadocs. requirements-regulations-2015-last-amended-on-july-4-2023-
+18 The Chief Election Commissioner and Other Election _74143.html.
+Commissioners (Appointment, Conditions of Service, and Terms of 34 Consultation Paper on Performance Validation Agency, Securities
+Office) Bill, 2023, and Exchange Board of India, August 31, 2023,
+https://sansad.in/getFile/BillsTexts/RSBillTexts/Asintroduced/chief% https://www.sebi.gov.in/reports-and-statistics/reports/aug-
+20election-E810202351548PM.pdf?source=legislation 2023/consultation-paper-on-performance-validation-
+19 The Election Commission (Conditions of Service of Election agency_76220.html.
+Commissioners and Transaction of Business) Act, 1991,
+20 S.O 3661(E), The Gazette, August 16, 2023, 35 The Mines and Minerals (Development and Regulation)
+https://egazette.gov.in/WriteReadData/2023/248113.pdf. Amendment Bill, 2023, Ministry of Coal and Mines, August 9, 2023,
+21 Delimitation of Parliamentary and Assembly Constituencies in https://sansad.in/getFile/BillsTexts/LSBillTexts/PassedBothHouses/
+Assam, The Election Commission of India, August 11, 2023, mines&mineral8162023122316PM.pdf?source=legislation.
+https://eci.gov.in/files/file/15221-delimitation-of-parliamentary-and- 36 The Mines and Minerals (Development and Regulation) Act, 1957,
+assembly-constituencies-in-state-of-assam-%E2%80%93-final- December 28, 1957,
+notification-%E2%80%93-regarding/. https://www.indiacode.nic.in/bitstream/123456789/1421/1/a1957-
+22 “ECI publishes final delimitation order for Assembly and 67.pdf.
+Parliamentary Constituencies of State of Assam after extensive 37 The Offshore Areas Mineral (Development and Regulation)
+consultations with stakeholders”, Press Information Bureau, Election Amendment Bill, 2023, Ministry of Coal and Mines, August 10,
+Commission, August 11, 2023, 2023,
+https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1947865#:~:t https://sansad.in/getFile/BillsTexts/LSBillTexts/PassedBothHouses/O
+ext=Delimitation%20of%20the%20Assembly%20and,8%20A%20of ffshore818202330726PM.pdf?source=legislation.
+%20the%20R.%20P. 38 The Offshore Areas Mineral (Development and Regulation) Act,
+23 Report No. 132, Specific Aspects of Election Process and their 2002, January 30, 2002,
+Reforms, Standing Committee on Personnel, Public Grievances, and https://www.indiacode.nic.in/bitstream/123456789/2040/1/200317.pd
+Law and Justice, August 04, 2023, f.
+https://sansad.in/getFile/rsnew/Committee_site/Committee_File/Repo 39 Indian Institutes of Management (Amendment) Bill, 2023, Ministry
+rtFile/18/171/132_2023_8_12.pdf?source=rajyasabha. of Education, July 28, 2023,
+24 The Central Goods and Services Tax (Amendment) Bill, 2023, Lok https://sansad.in/getFile/BillsTexts/LSBillTexts/PassedBothHouses/II
+Sabha, August 11, 2023, M818202332526PM.pdf?source=legislation
+https://sansad.in/getFile/BillsTexts/LSBillTexts/PassedLoksabha/CG 40 ‘Shri Dharmendra Pradhan releases National Curriculum
+ST_2023816202313120PM.pdf?source=legislation. Framework for School Education in New Delhi’, Ministry of
+25 The Integrated Goods and Services Tax (Amendment) Bill, 2023, Education, August 23, 2023,
+Lok Sabha, August 11, 2023, https://dsel.education.gov.in/sites/default/files/update/PIB1951485.pd
+https://sansad.in/getFile/BillsTexts/LSBillTexts/PassedLoksabha/IGS f.
+T_2023816202313153PM.pdf?source=legislation. 41 ‘National Curriculum Framework for School Education (NCF-
+26 The Central Goods and Services Tax Act, 2017, SE)’, Ministry of Education,
+https://www.indiacode.nic.in/bitstream/123456789/15689/1/A2017- https://dsel.education.gov.in/sites/default/files/NCF2023.pdf.
+12.pdf.
+- 26-
+Monthly Policy Review – August 2023 PRS Legislative Research
+61Report No. 47, Standing Committee on Communications and
+Information Technology: ‘Review of Functioning of Central Board of
+42 National Curriculum Framework (2005), National Council of
+Film Certification’, August 1, 2023,
+Education Research and Training, https://ncert.nic.in/pdf/nc-
+https://sansad.in/getFile/lsscommittee/Communications%20and%20I
+framework/nf2005-english.pdf.
+nformation%20Technology/17_Communications_and_Information_
+43 National Education Policy, 2020, Ministry of Education, Technology_47.pdf?source=loksabhadocs.
+https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Fina
+62 The Post Office Bill, 2023, Ministry of Communications and
+l_English_0.pdf.
+Information Technology, August 10, 2023,
+44 The National Dental Commission Bill, 2023, Ministry of Health https://sansad.in/getFile/BillsTexts/RSBillTexts/Asintroduced/post%
+and Family Welfare (MoHFW), August 11, 2023, 20office-E810202331641PM.pdf?source=legislation.
+https://sansad.in/getFile/BillsTexts/LSBillTexts/PassedBothHouses/d
+63 The Indian Post Office Act, 1898, March 22, 1898,
+ental%20commission818202331751PM.pdf?source=legislation.
+https://www.indiacode.nic.in/bitstream/123456789/2329/1/A1898-
+45 The National Nursing and Midwifery Commission Bill, 2023, 06.pdf.
+Ministry of Health and Family Welfare, August 8, 2023
+64 The Jan Vishwas (Amendment of Provisions) Act, 2023, Ministry
+https://sansad.in/getFile/BillsTexts/LSBillTexts/PassedBothHouses/N of Commerce and Industry, August 11, 2023,
+ursing%20and%20midwifery818202342732PM.pdf?source=legislati https://sansad.in/getFile/BillsTexts/LSBillTexts/PassedBothHouses/J
+on. an%20vishwas818202331041PM.pdf?source=legislation.
+46 The Indian Nursing Council Act, 1947, December 31, 1947 65 The Indian Telegraph Right of Way (Amendment) Rules, 2023,
+https://www.indiannursingcouncil.org/uploads/files/16141575032256 Ministry of Communications, August 7, 2023,
+.pdf https://dot.gov.in/sites/default/files/Gazette%20Notification%20IT%
+47 ‘Performance Audit of Ayushman Bharat – Pradhan Mantri Jan 20RoW%20Amendment%20Rules%20-
+Aarogya Yojana’, Comptroller Auditor General of India (CAG), %2008082023.pdf?download=1.
+August 08, 2023, 66 The Indian Telegraph Right of Way Rules, 2016, Ministry of
+https://cag.gov.in/uploads/download_audit_report/2023/Report-No.- Communications, November 15, 2016,
+11-of-2023_PA-on-PMJAY_English-PDF-A- https://egazette.gov.in/WriteReadData/2016/172637.pdf
+064d22bab2b83b5.38721048.pdf . 67 Consultation Paper on Review of Quality-of-Service Standards for
+Access Services (Wireless and Wireline) and
+48 Pharmacy (Amendment) Act, 2023, Ministry of Health and Family Broadband Services (Wireless and Wireline), Telecom Regulatory
+Welfare, August 15, 2023, Authority of India, August 18, 2023,
+https://sansad.in/getFile/BillsTexts/LSBillTexts/PassedBothHouses/P https://www.trai.gov.in/sites/default/files/CP_18082023.pdf.
+harmacy823202325258PM.pdf?source=legislation. 68 Recommendations on ‘Introduction of Digital Connectivity
+49 Mental Health Care and its Management in Contemporary Times, Infrastructure Provider (DCIP) Authorization Under Unified License
+August 4, 2023, Standing Committee on Health and Family Welfare, (UL)’, Telecom Reguatory Authority of India, August 8, 2023,
+https://sansad.in/getFile/rsnew/Committee_site/Committee_File/Repo https://www.trai.gov.in/sites/default/files/Recommendations_080820
+rtFile/14/168/148_2023_8_16.pdf?source=rajyasabha/ 23_0.pdf.
+50 The Mediation Bill, 2021 69 Recommendations on License Fee and Policy Matters of DTH
+51 Report No. 117, Mediation Bill 2021 (Volume I- Report), Standing Services, Telecom Regulatory Authority of India, August 21, 2023,
+Committee on Personnel, Public Grievances, and Law and Justice, https://www.trai.gov.in/sites/default/files/Recommendation_2108202
+July 13, 2022. 3_0.pdf.
+52 The Advocates (Amendment) Bill, 2023, 70 The Constitution (Scheduled Castes) Order (Amendment) Bill,
+https://sansad.in/getFile/BillsTexts/RSBillTexts/PassedRajyaSabha/a 2023, https://egazette.gov.in/WriteReadData/2023/248090.pdf.
+dvocate%20amend-E842023112014AM.pdf?source=legislation. 71 The Constitution (Scheduled Castes) Order, 1950,
+53 The Advocates Act, 1961, https://lddashboard.legislative.gov.in/sites/default/files/13_The%20C
+https://www.indiacode.nic.in/bitstream/123456789/1631/1/A1961_25 onstitution%20%28SC%29%20Order%201950.pdf.
+.pdf. 72 Report No. 51, Drug abuse among young persons- problems and
+54 The Legal Practitioners Act, 1879, solutions, Department of Social Justice and Empowerment, August 3,
+https://lddashboard.legislative.gov.in/sites/default/files/A1879- 2023,
+18.pdf. https://sansad.in/getFile/lsscommittee/Social%20Justice%20&%20E
+55 Report No. 133, Judicial Process and their Reforms, Standing mpowerment/17_Social_Justice_And_Empowerment_51.pdf?source
+=loksabhadocs.
+Committee on Personnel, Public Grievances, and Law and Justice,
+August 7, 2023, 73 ‘Scheme for Promotion of Research and Innovation in Pharma
+https://www.google.com/url?q=https://sansad.in/getFile/rsnew/Comm MedTech Sector (PRIP)’, Department of Pharmaceuticals, Ministry
+ittee_site/Committee_File/ReportFile/18/171/133_2023_8_10.pdf?so of Chemicals and Fertilizers, August 16, 2023,
+urce%3Drajyasabha&source=gmail&ust=1693330823043000&usg= https://pharmaceuticals.gov.in/sites/default/files/Gazette%20Notificat
+AOvVaw3ULP5pnbbo8iSseMSYFImJ. ion%20PRIP%20-%20Dated%2017%20Aug%2023.pdf.
+56 The Multi-State Co-operative Societies (Amendment) Bill, 2022, 74 “Union Cabinet approves new Central Sector Scheme ‘PM
+https://sansad.in/getFile/BillsTexts/LSBillTexts/PassedLoksabha/215 Vishwakarma’ to support traditional artisans and craftspeople of rural
+-C_2022_LS_Eng7262023110825AM.pdf?source=legislation. and urban India”, Press Information Bureau, Cabinet Committee on
+57 The Multi-State Co-operative Societies Act, 2002, Economic Affairs, August 16, 2023,
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1949410.
+https://mscs.dac.gov.in/Guidelines/GuidelineAct2002.pdf.
+58 The Inter-Services Organisations (Command, Control and 75 Report No. 50, ‘Welfare Schemes and Social Security Measures for
+Textile Workers in Organised and Unorganised Sectors’, Standing
+Discipline Bill), 2023, Rajya Sabha,
+Committee on Labour Textiles and Skill Development, Lok Sabha,
+https://sansad.in/getFile/BillsTexts/LSBillTexts/PassedBothHouses/I
+August 4, 2023,
+nter-Services823202325458PM.pdf?source=legislation.
+https://sansad.in/getFile/lsscommittee/Labour,%20Textiles%20and%
+59 The Press and Registration of Periodicals Bill, 2023, Ministry of
+20Skill%20Development/17_Labour_Textiles_and_Skill_Developme
+Information and Broadcasting, August 3, 2023,
+nt_50.pdf?source=loksabhadocs.
+https://sansad.in/getFile/BillsTexts/RSBillTexts/PassedRajyaSabha/P
+76 Report No. 50, ‘Functioning of the Directorate General of
+ress%20&%20registration-
+Training’, Standing Committee on Labour Textiles and Skill
+E842023111925AM.pdf?source=legislation.
+Development, Lok Sabha, August 4, 2023,
+60 The Press and Registration of Books Act, 1867, March 22, 1867,
+https://sansad.in/getFile/lsscommittee/Labour,%20Textiles%20and%
+https://www.indiacode.nic.in/bitstream/123456789/2272/1/A1867__2
+5.pdf.
+- 27-
+Monthly Policy Review – August 2023 PRS Legislative Research
+https://mdoner.gov.in/contentimages/files/GUIDELINES-FOR-
+NESIDS-(OTRI)-1.pdf
+20Skill%20Development/17_Labour_Textiles_and_Skill_Developme
+nt_49.pdf?source=loksabhadocs. 90 Guidelines for Administration of Scheme of North eastern Council,
+Ministry of Development of North Eastern Region, August 21, 2023,
+77 “Cabinet approves PM-eBus Sewa for augmenting city bus
+https://mdoner.gov.in/contentimages/files/Guidelines-of-Schemes-of-
+operations,” Press Information Bureau, Ministry of Housing & Urban
+NEC-dated-21.08.2023-1.pdf
+Affairs, August 16, 2023,
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1949430 91 Report No. 182, ‘Ecosystem of Startups to Benefit India’, Standing
+Committee on Commerce, Rajya Sabha, August 10, 2023,
+78 Aircraft (Security) Rules, 2023, Ministry of Civil Aviation, August
+https://sansad.in/getFile/rsnew/Committee_site/Committee_File/Repo
+9, 2023, https://egazette.gov.in/WriteReadData/2023/247994.pdf
+rtFile/13/174/182_2023_8_12.pdf?source=rajyasabha.
+79 Aircraft (Security) Rules, 2011, Ministry of Civil Aviation, January
+92 Report No. 181, ‘Development of Trade and Industries in North
+19, 2012,
+Eastern Region’, India’, Standing Committee on Commerce, Rajya
+http://164.100.60.133/security/Aircraft(Security)%20Rules,%202011.
+Sabha, August 10, 2023,
+pdf.
+https://sansad.in/getFile/rsnew/Committee_site/Committee_File/Repo
+80 Draft Aircraft (Security) Rules, 2022, Ministry of Civil Aviation, rtFile/13/174/181_2023_8_12.pdf?source=rajyasabha.
+November 11, 2022,
+93 Report No. 37, ‘Sugar Industry in India – A Review’, Standing
+https://egazette.gov.in/WriteReadData/2022/240208.pdf
+Committee on Food, Consumer Affairs and Public Distribution, Lok
+81 Report No. 353,‘ Issues of Fixing of Airfares’, Standing Committee Sabha, August 9, 2023,
+on Transport, Tourism and Culture, Rajya Sabha, August 10, 2023, https://sansad.in/getFile/lsscommittee/Consumer%20Affairs,%20Foo
+https://sansad.in/getFile/rsnew/Committee_site/Committee_File/Repo d%20and%20Public%20Distribution/17_Consumer_Affairs_Food_a
+rtFile/20/173/353_2023_8_12.pdf?source=rajyasabha nd_Public_Distribution_32.pdf?source=loksabhadocs.
+82 Report No. 16,‘ Performance of Rail Land Development 94 Report No. 28, ‘Pradhan Mantri Garib Kalyan Anna Yojana
+Authority’, Standing Committee on Railways, Lok (PMGKAY)’, Standing Committee on Food, Consumer Affairs and
+Sabha, August 8, 2023, Public Distribution, Lok Sabha, August 3, 2023,
+https://sansad.in/getFile/lsscommittee/Railways/17_Railways_16.pdf https://sansad.in/getFile/lsscommittee/Consumer%20Affairs,%20Foo
+?source=loksabhadocs d%20and%20Public%20Distribution/17_Consumer_Affairs_Food_a
+83 Report No. 19 of 2023 – Implementation of Phase I of Bharatmala nd_Public_Distribution_28.pdf?source=loksabhadocs.
+Pariyojana, Union Government (Ministry of Road Transport and 95 Report No. 31, ‘Coarse Grains: Production and Distribution’,
+Highway), Comptroller and Auditor General of Standing Committee on Food, Consumer Affairs and Public
+India, August 10, 2023, https://cag.gov.in/en/audit- Distribution, Lok Sabha, August 7, 2023,
+report/details/119177 https://sansad.in/getFile/lsscommittee/Consumer%20Affairs,%20Foo
+84 Report No. 354,‘ Construction of Road over Bridges, Road under d%20and%20Public%20Distribution/17_Consumer_Affairs_Food_a
+Bridges, Service Roads and Review of Road Survey Guidelines, nd_Public_Distribution_31.pdf?source=loksabhadocs.
+Standing Committee on Transport, Tourism and Culture, Rajya 96 Report No.8, Working of National Commission for Women and
+Sabha, August 10, 2023, State Commissions for Women, Standing Committee on
+https://sansad.in/rs/committees/20?departmentally-related-standing- Empowerment of Women, August 10, 2023,
+committees https://sansad.in/getFile/lsscommittee/Empowerment%20of%20Wom
+85 Guidelines for Tariff Based Competitive Bidding Process for en/17_Empowerment_of_Women_8.pdf?source=loksabhadocs.
+Procurement of Power from Grid Connected Wind Solar Hybrid 97 CAG Report on Swadesh Darshan Scheme,
+Projects, Ministry of Power, August 21, 2023, https://cag.gov.in/uploads/download_audit_report/2023/Report-No.-
+https://powermin.gov.in/sites/default/files/webform/notices/Guideline 17-Complete-Page-21.07.2023-064d3a794cf1905.74176946.pdf.
+s_for_TBCB_Process_for_Procurement_of_Power_from_Grid_Conn 98 Report No. 131, Review of functioning of recruitment
+ected_Wind_Solar_Hybrid_Projects.pdf. organisations of Government of India, Standing Committee on
+86 The Electricity Act, 2003, Ministry of Power, May 26, 2003, Personnel, Public Grievances, and Law and Justice, August 3, 2023,
+https://www.indiacode.nic.in/bitstream/123456789/2058/1/A2003- https://sansad.in/getFile/rsnew/Committee_site/Committee_File/Repo
+36.pdf. rtFile/18/171/131_2023_8_18.pdf?source=rajyasabha.
+87 Ministry of Development of North Eastern Region releases new DISCLAIMER: This document is being furnished to you for your
+Scheme Guidelines for implementing Cabinet-approved Schemes information. You may choose to reproduce or redistribute this
+during 15th Finance Commission's balance period,” Press report for non-commercial purposes in part or in full to any other
+Information Bureau, Ministry of Development of North Eastern person with due acknowledgement of PRS Legislative Research
+Region, August 21, 2023, (“PRS”). The opinions expressed herein are entirely those of the
+https://pib.gov.in/PressReleasePage.aspx?PRID=1950889 author(s). PRS makes every effort to use reliable and
+88 ‘Guidelines for North East Special Infrastructure Development comprehensive information, but PRS does not represent that the
+Scheme (NESIDS) Road component, Ministry of Development of contents of the report are accurate or complete. PRS is an
+North Eastern Region, August 21, 2023, independent, not-for-profit group. This document has been
+https://mdoner.gov.in/contentimages/files/Guidelines-of-NESIDS- prepared without regard to the objectives or opinions of those who
+(Roads)-23-8-23.pdf may receive it.
+89 Guidelines for North East Special Infrastructure Development
+Scheme (NESIDS) Other than Road Infrastructure component,
+Ministry of Development of North Eastern Region, August 21, 2023,
+- 28-

@@ -1,0 +1,849 @@
+Monthly Policy Review
+January 2024
+Highlights of this Issue
+Budget session of Parliament to be held from January 31, 2024 to February 9, 2024 (p. 2)
+Last session of the Lok Sabha began with the President’s address. Two Bills have been listed for introduction and
+passing. Interim Union Budget 2024-25 to be presented.
+President addressed joint sitting of both houses of the Parliament (p. 2)
+The address outlines major policy achievements in various sectors. It highlighted work in areas such as infrastructure,
+renewable energy, economic growth, and education.
+GDP estimated to grow by 7.3% in 2023-24 (p. 2)
+The growth rate in 2023-24 is estimated to be marginally higher than the previous year (7.2%). Construction and
+financial services sectors are estimated to register the highest growth.
+Consumer Price Index inflation was 5.4% in the third quarter of 2023-24 (p. 2)
+Food inflation averaged 8.3% during the third quarter of 2023-24, higher than the corresponding quarter of last year
+(5.3%). WPI inflation averaged 0.2%.
+Guidelines for the regulation of coaching centres, released (p. 6)
+Coaching centres need to register with an officer notified by the state. They cannot enroll students upto class 10. The
+guidelines have been sent to states for their consideration.
+Draft Stamp Bill released for consultation (p. 3)
+Stamp duty on sale and transfer of securities is proposed to be collected by entities such as stock exchanges on behalf
+of the state government. They will deduct a percentage of stamp duty as facilitation charges.
+Mining rules amended in relation to grant of exploration license (p. 7)
+The amendment provides the process for conducting auction of exploration license for minerals specified in the
+Seventh Schedule of the Mines and Minerals (Development and Regulation) Act, 1957 including lithium and gold.
+Implementation guidelines for solar power scheme issued (p. 8)
+Households in particularly vulnerable tribal groups will be electrified by providing off-grid solar power. Mini solar
+grids, with potential to connect to main grids in the future may be established in high density areas.
+Electricity Rules amended to require tariffs to be cost reflective (p. 7)
+The Rules also cap surcharge on open access users. Entities such as generators, captive power plans, and energy
+storage systems will not require a transmission licence for establishing dedicated transmission lines.
+SEBI seeks comments on interim recommendations of expert committee (p. 5)
+An expert group has suggested various suggestions to regulatory requirements for listed entities and the conditions for
+listing of securities.
+Cabinet approves scheme to promote coal/lignite gasification projects (p. 7)
+The scheme will have an outlay of Rs 8,500 crore and will promote the setting up of projects by public sector
+undertakings and private companies.
+Union Cabinet approves PRITHVI Scheme (p. 8)
+The scheme under the Ministry of Earth Sciences subsumes five ongoing sub-schemes on climate research modelling,
+seismology, and education. It will be implemented for five years at a cost of Rs 4,797 crore.
+February 1, 2024
+PRS Legislative Research Institute for Policy Research Studies
+3rd Floor, Gandharva Mahavidyalaya 212, Deen Dayal Upadhyaya Marg  New Delhi – 110002
+Tel: (011) 23234801, 43434035  www.prsindia.org
+Monthly Policy Review – January 2024 PRS Legislative Research
+Macroeconomic Development
+Parliament
+Tushar Chakrabarty (tushar@prsindia.org)
+Arpita Mallick (arpita@prsindia.org)
+GDP estimated to grow by 7.3% in
+Budget Session 2024 begins
+2023-24
+The Budget Session of Parliament commenced on
+India’s GDP is estimated to grow by 7.3% in 2023-24
+January 31, 2024, and is scheduled to end on February
+(at constant 2011-12 prices), according to the first
+9, 2024. This session will have eight sitting days.1
+advance estimates released by the Ministry of Statistics
+The President addressed both houses of the Parliament and Programme Implementation.2 In the previous year,
+on January 31, 2024. The interim Union Budget 2024- GDP is estimated to have grown by 7.2%.
+25 will be presented on February 1, 2024. Two Bills
+Figure 1: Annual GDP growth rate (at constant
+have been listed for introduction, consideration and
+2011-12 prices)
+passing: (i) The Water (Prevention and Control of
+Pollution) Amendment Bill, 2024, and (ii) The Public 10% 8.0%8.3% 9.1%
+Examination (Prevention of Unfair Means) Bill, 2024. 8% 7.4% 6.8%6.5% 7.2%7.3%
+6%
+3.9%
+President’s Address highlights achievements of 4%
+the government 2%
+0%
+The President of India, Ms Droupadi Murmu,
+-2%
+addressed a joint sitting of both Houses of Parliament
+-4%
+on January 31, 2024. She outlined the major policy
+-6%
+objectives and achievements of the government in her -8% -5.8%
+address. Key highlights of the address include: 5 6 7 8 9 0 1 2 3 4
+1 1 1 1 1 2 2 2 2 2
+-4 -5 -6 -7 -8 -9 -0 -1 -2 -3
+ Economy: India has emerged as the fastest- 1 1 1 1 1 1 2 2 2 2
+0 0 0 0 0 0 0 0 0 0
+growing major economy amidst serious global
+2 2 2 2 2 2 2 2 2 2
+Sources: MoSPI; PRS.
+crisis, and has maintained a growth rate of over
+7.5% for two consecutive quarters. Inflation was GDP across sectors is measured in terms of gross value
+over 8% in the 10 years prior to 2014. In the past added (GVA). In 2023-24, construction sector is
+decade, it has been at 5%. estimated to register the highest growth (10.7%),
+followed by financial, real estate and professional
+ Industry: Startups have grown from a few
+services (8.9%), and electricity, gas, water supply and
+hundred to more than four lakh today. More than
+other utility services (8.3%). Agriculture sector is
+40,000 compliances have been removed or
+estimated to grow at 1.8% in 2023-24, lower than the
+simplified to enable ease of doing business.
+4% growth rate in 2022-23.
+ Infrastructure and Transport: In 10 years,
+Table 1: Annual sectoral growth (at constant 2011-
+capital expenditure has increased five times to Rs
+12 prices)
+10 lakh crore. National highway length has
+Sector 2021-22 2022-23 2023-24
+increased from 90,000 km to 1.46 lakh km. Four-
+lane highways have increased 2.5 times in length. Agriculture 3.5% 4.0% 1.8%
+Mining 7.1% 4.6% 8.1%
+ Energy: In 10 years, non-fossil fuel-based energy
+Manufacturing 11.1% 1.3% 6.5%
+capacity has increased from 81 gigawatt to 188
+gigawatt. India has targeted to achieve 50% Electricity 9.9% 9.0% 8.3%
+installed capacity from non-fossil fuels by 2030. Construction 14.8% 10.0% 10.7%
+Trade 13.8% 14.0% 6.3%
+ Education: Government is working on more than
+14,000 PM SHRI schools to provide quality Financial 4.7% 7.1% 8.9%
+education. Out of these, about 6,000 have started Services
+functioning. Public Services 9.7% 7.2% 7.7%
+GVA 8.8% 7.0% 6.9%
+ Space: India launched the Aditya Mission. The
+satellite reached 15 lakh km away from Earth. GDP 9.1% 7.2% 7.3%
+India has become the first country to hoist its flag Sources: MoSPI; PRS.
+on the southern pole of the Moon.
+Retail inflation was 5.4% in the third quarter
+For a summary of the President’s Address, please see
+of 2023-24
+here. For an analysis of progress made on policy
+announcements in the last five years, please see here. Consumer Price Index (CPI) inflation was 5.4% in the
+third quarter (October-December) of 2023-24.3 This
+was lower than the CPI inflation in the same quarter
+- 2-
+Monthly Policy Review – January 2024 PRS Legislative Research
+last year (6.1%), as well as the second quarter (July- Comments invited on Draft Indian Stamp Bill,
+September) of 2023-24 (6.4%). Food inflation 2023
+averaged 8.3% during the third quarter of 2023-24,
+Tanvi Vipra (tanvi@prsindia.org)
+higher than 5.3% in the corresponding quarter of the
+previous year. Food inflation in the second quarter of
+The Ministry of Finance released the draft Indian
+2023-24 was also higher (9.4%).
+Stamp Bill, 2023 for public comments.8,9 It seeks to
+Wholesale Price Index (WPI) inflation averaged 0.2% replace the Indian Stamp Act, 1899.10 The Act
+during the third quarter of 2023-24.4 This was provides for the levy of stamp duty on instruments such
+significantly lower than the same quarter last year as affidavits, bills of exchange, and bonds. The draft
+(6.6%), but marginally higher than the second quarter Bill retains several provisions of the Act. Key changes
+of 2023-24 (-0.6%). include the following:
+Figure 2: Monthly inflation in Q3 of 2023-24 (%  Duty for certain instruments to be as per
+change, year-on-year) market value: A duty is payable upon the
+execution of instruments such as lease agreements
+12%
+9.5% and bonds. The draft Bill adds that the duty on
+10%
+8.7% certain transactions such as renewal of mining
+8% 6.6% leases, or transfer of interest in an estate will be
+5.6% 5.7%
+6% 4.9% based on the market value of the instrument.
+4%
+ Exemptions: The Act exempts instruments that
+2% 0.7% are used to sell and transfer ships from stamp duty.
+0.3%
+0% The draft Bill changes this to exempt instruments
+-2% -0.3% executed by, for, or on behalf of developers or
+CPI Inflation Food Inflation WPI Inflation units related to Special Economic Zones (SEZ).
+Developer refers to a person or state government,
+Oct-23 Nov-23 Dec-23 authorised by the central government. Unit may be
+set up by an entrepreneur in an SEZ.
+Sources: MoSPI; Ministry of Commerce and Industry; PRS.
+ Under the Act, transfer in beneficial ownership of:
+(i) securities dealt by depositories and (ii) of
+mutual fund units, is exempt from stamp duty. The
+Finance draft Bill removes this exemption. It continues to
+exempt transfer of registered ownership of
+Ministry of Finance allows direct listing of securities between a person and a depository from
+securities by Indian companies on international stamp duty. It also adds that strategic sale or
+exchanges disinvestment of any government property to
+another state/central government will not be liable
+Tushar Chakrabarty (tushar@prsindia.org)
+for stamp duty.
+The Ministry of Finance has allowed direct listing of  Collection of duties by private entities: Under
+securities by Indian companies on permitted the draft Bill, duty levied on the sale and transfer
+international exchanges.5,6 The Ministry notified the of securities will be collected by certain entities on
+Foreign Exchange Management (Non-debt behalf of the state government. These include the
+Instruments) Amendment Rules, 2024 which amend the stock exchange, depository, or an authorised
+Foreign Exchange Management (Non-debt clearing corporation. They will deduct a
+Instruments) Rules, 2019.7 The amendment allows percentage of the stamp duty as a ‘facilitation
+public Indian companies to issue equity shares on charge’ before transferring it to the state
+international exchanges subject to certain conditions. government. The manner of collecting the stamp
+Citizens or entities from countries that share a land duty will be determined by the central government.
+border with India can hold shares of such companies
+ Under-valuation of instruments: If an
+only with the approval of central government. Public
+instrument is considered under-valued by the
+Indian companies or existing shareholders may issue
+registering officer, the District Collector will
+equity shares on international exchange based on
+determine its appropriate value. Appeals against
+certain criteria. These include: (i) the company, its
+the order of the Collector can be made to the Chief
+directors, or directors are not debarred from accessing
+Controlling Revenue Authority.
+the capital market, (ii) the company, promoters, or
+directors are not wilful defaulters, and (iii) promoters Comments are invited until February 15, 2024.
+or directors are not fugitive economic offenders.
+- 3-
+Monthly Policy Review – January 2024 PRS Legislative Research
+RBI issues directions for management of year at 5% of revenue receipts or 0.5% of GSDP,
+foreign exchange risk whichever is lesser.
+Tushar Chakrabarty (tushar@prsindia.org)  Guidelines for guarantee policy: State
+governments may be guided by guidelines issued
+The Reserve Bank of India (RBI) has issued revised by the central government while formulating their
+directions for the management of foreign exchange guarantee policy. These guidelines include: (i)
+risk.11 Key features include: extending guarantees only for principal and normal
+interest of a loan, (ii) not extending guarantees for
+ Platform for offering hedging products:
+external commercial borrowings, (iii) not
+Foreign exchange contracts can be offered over
+guaranteeing more than 80% of the project loans,
+both over the counter and through recognised stock
+and (iv) not guaranteeing loans of private
+exchanges. Over the counter transactions are
+companies and institutions.
+conducted on platforms other than recognised
+stock exchanges.  Risk categorisation: States should classify
+projects as high risk, medium risk, and low risk
+ Classification of users: Users of over the counter
+and assign risk weights for extending guarantees.
+foreign exchange derivative contracts will be
+Risk categorisation should take into account past
+divided into retail and non-retail. A foreign
+record of defaults.
+exchange derivative contract derives its value from
+the change in exchange rate of two currencies, at
+RBI issues draft framework for self-regulatory
+least one of which is not Indian rupee. Non-retail
+organisations in fintech sector
+users include insurance companies, pension funds,
+mutual funds, and residents with minimum net Tushar Chakrabarty (tushar@prsindia.org)
+worth of Rs 500 crore or minimum turnover of Rs
+1,000 crore. The Reserve Bank of India (RBI) issued a draft
+framework for self-regulatory organisations (SROs) in
+ Products offered by stock exchanges:
+the FinTech sector.13 FinTechs provide financial
+Recognised stock exchanges may offer foreign
+services and help to save time, enhance access, and
+exchange derivative contracts involving Indian
+lower costs. RBI noted that self-regulation could
+rupee for hedging contracted exposure. Contracted
+enable FinTechs to set and adhere to industry standards
+exposure implies currency risk from current or
+and best practices. Key proposals include:
+capital account transactions. Foreign exchange
+derivative contracts not involving Indian rupee can  Features of the SRO: The SRO should function
+be offered without any restrictions on purpose. objectively under RBI’s oversight. It should aim
+for sustainable development of the sector and, if
+RBI releases report of the working group on necessary, identify a glide path for phased
+state government guarantees regulatory compliance. Other features include: (i)
+being truly representative of the sector through
+Tushar Chakrabarty (tushar@prsindia.org)
+comprehensive membership agreements, (ii)
+operate independently and freely from the
+The Reserve Bank of India (RBI) released the report of
+influence of a single member or group of members,
+the working group on state government guarantees.12
+(iii) act as a legitimate arbiter of disputes between
+A guarantee is a contingent liability which protects the
+members, and (iv) encourage its members to
+lender from the risk of default by the borrower. State
+adhere to regulatory priorities.
+governments often guarantee the loans taken by state
+enterprises, urban local bodies, cooperative institutions,  Membership criteria: The SRO should represent
+and other state-owned entities. The report noted that the sector with membership across entities of all
+such guarantees may lead to significant fiscal risks and sizes, stages, and activities. Membership would be
+burden state finances. Key recommendations include: voluntary but RBI would encourage FinTechs to
+become members of a recognised SRO.
+ Definition of guarantees: The working group
+recommended that there should be no distinction  Functions: The SRO should have objective and
+between the type of guarantees to compute the total consultative processes to make rules and standards.
+amount of guarantees extended. These include It should also set industry benchmarks and baseline
+conditional/unconditional guarantees and technology standards. SROs should deploy
+financial/performance guarantees. It should surveillance measures to monitor the sector and to
+include all instruments which create an obligation detect and highlight exceptions. They should
+on the issuer for making payments on behalf of the establish a grievance redressal and dispute
+borrower, whether contingent or otherwise. resolution framework for its members.
+ Ceiling on guarantees: The report recommended Comments are invited by end February 2024.14
+a ceiling of incremental guarantees issued during a
+- 4-
+Monthly Policy Review – January 2024 PRS Legislative Research
+RBI issues draft circular for regulatory on March 31 of the year for compliance. The
+framework of housing finance companies Committee has suggested that SEBI use the
+average market capitalisation of six months (July –
+Tushar Chakrabarty (tushar@prsindia.org)
+December). Companies which will be required to
+comply for the first time will also get three months
+The Reserve Bank of India (RBI) issued a draft circular
+to comply with the relevant provisions.
+to revise the regulatory framework for housing finance
+companies (HFCs).15 A HFC is a type of non-banking  Committee memberships by directors: A
+financial company which primarily provides housing director cannot be a member of more than 10
+loans. Key features include the following: committees or act as a chairperson of more than
+five committees across all listed entities. This
+ Maintenance of liquid assets: Currently deposit
+includes positions in unlisted public companies.
+taking HFCs are required to maintain 13% of
+The Committee has suggested that only listed
+liquid assets against public deposits held by them.
+entities must be considered for the purpose of
+Liquid assets include cash, deposits with RBI, and
+calculating these limits.
+deposits in bank current accounts. RBI has
+proposed to increase liquid assets that HFCs must  Minimum promoters’ contribution: The
+hold to 15% of public deposits. This will be promoters of a company are required to hold at
+implemented in phases up to March 31, 2025. least 20% shares in the company after listing.
+However, this excludes shares that have been
+ Credit rating of HFCs: For accepting public
+acquired by way of convertible securities in the
+deposits, HFCs must obtain investment grade
+year preceding the filing of the prospectus for
+credit rating at least once a year. In case their
+listing. A convertible security is a security (such
+credit rating falls below minimum investment
+as a bond) that can be converted into another type
+grade, HFCs shall not renew existing deposits or
+of security (such as equity). The Committee has
+accept fresh deposits till they obtain an investment
+suggested that shares acquired by way of
+grade rating.
+compulsorily convertible securities should be
+ Finalisation of accounts: HFCs must prepare considered for minimum promoters holding.
+their financial statements for a financial year on However, such securities should be held for at least
+March 31. RBI has proposed that HFCs must a year before the filing of the prospectus.
+finalise their balance sheet within three months
+Comments are invited by February 1, 2024.17
+from the date to which it pertains. For extending
+this period, prior approval would be needed from
+Comments invited on providing flexibility to
+the National Housing Bank before approaching the
+liquidate investments for certain schemes
+Registrar of Companies.
+Pratinav Damani (pratinav@prsindia.org)
+Comments are invited by February 29, 2024.16
+The Securities and Exchange Board of India (SEBI) has
+SEBI seeks comments on recommendations to
+released a consultation paper on providing flexibility to
+simplify compliance
+Alternative Investment Funds (AIFs) and Venture
+Pratinav Damani (pratinav@prsindia.org) Capital Funds (VCFs) to deal with unliquidated
+investments.21 An AIF is a privately pooled investment
+The Securities and Exchange Board of India (SEBI) has vehicle with a defined investment policy.22 AIFs and
+invited comments on interim recommendations VCFs are regulated by the SEBI (Alternative
+submitted by an expert group to examine and simplify Investment Fund) Regulations, 2012.23 After the
+compliance with SEBI Regulations.17 The expert group completion of their tenure, AIFs and VCFs are required
+has submitted its interim recommendations on ease of to liquidate their investments. Issues for consideration
+doing business with respect to SEBI’s Listing include the following:
+Obligations and Disclosure Requirements Regulations,
+ Requirement of a liquidation scheme: AIFs
+2015, and Issue of Capital and Disclosure
+have a liquidation period of one year post their
+Requirements Regulations, 2018.18,19,20 Key
+expiry of tenure. They may launch a liquidation
+recommendations include:
+scheme within this period. The consultation paper
+ Calculation of market capitalisation: SEBI has proposed that AIFs be allowed to enter into a
+requires listed entities to follow additional dissolution period/ process to liquidate their
+requirements if their market capitalisation is investments instead of having to launch a
+beyond a certain threshold. For instance, the top liquidation scheme. This has been proposed since
+1,000 companies by market capitalisation are setting up a liquidation scheme and winding up the
+required to: (i) have at least one female original scheme is a time consuming and costly
+independent director, (ii) a Risk Management undertaking. An AIF will have to obtain the
+Committee, and (iii) a dividend distribution policy. consent of 75% of the investors by value in the
+Currently, SEBI uses the market capitalisation as
+- 5-
+Monthly Policy Review – January 2024 PRS Legislative Research
+scheme to begin the dissolution process during the undertaking stating compliance with these rules
+liquidation period. must be submitted during registration.
+ Extension of dissolution process to VCFs: VCFs  Fees: Fees charged for each course must be fair
+were earlier regulated by the SEBI (Venture and should not be raised in its duration. Any fees
+Capital Funds) Regulations, 1996.24 The paid in full will have to be refunded on a
+Regulations were subsequently repealed and VCFs proportionate basis if the student leaves the course
+were bought under the ambit of the AIF in the middle. All information regarding fees,
+Regulations. However, VCFs registered under the facilities and lectures must be given to prospective
+erstwhile regulations (which have not completed students/parents for free. It must also be
+their tenure) continue to be regulated by the VCF prominently displayed in the centre’s premises.
+Regulations. Thus, it is proposed that all VCFs be
+ Classes: Coaching centres are required to provide
+migrated to AIF Regulations within six months of
+a weekly-off to students, along with leaves during
+the new proposal being notified.
+popular festivals in the region. Classes should not
+ One time flexibility scheme: AIFs whose be conducted for more than five hours in a day and
+liquidation period has expired prior to June 15, must not clash with school/college hours of
+2023 cannot launch a liquidation scheme. Thus, it relevant students.
+has been proposed that AIFs whose liquidation
+ Infrastructure: Coaching classes must possess a
+period has expired be granted a one-time flexibility
+minimum space of one square meter per student
+scheme to fully liquidate their investments, enter
+per batch. The premises should be fully electrified
+the dissolution process or distribute their
+and well ventilated. Facilities such as drinking
+investments in-specie (distribute the assets).
+water and first-aid kits must be available.
+Comments are invited by February 2, 2024
+Guidelines constituting a Centre for Literacy in
+each State/UT released
+Education The Ministry of Education released ‘Guidelines on
+State Centre for Literacy in State Council for Education
+Rutvik Upadhyaya (rutvik@prsindia.org) Literacy and Training’.26 The guidelines constitute a
+Centre for Literacy in each State/UT. It will delineate
+Guidelines for the regulation of coaching measurable learning outcomes for adult education at
+centres released the State/UT level. It will serve as a counterpart to the
+National Centre for Literacy, which will develop a
+The Ministry of Education released ‘Guidelines for
+national curriculum framework for adult education.
+Regulation of Coaching Centres’.25 A coaching centre
+Key features of the guidelines include:
+is defined as an institution that imparts academic
+guidance to over 50 students for competitive exams or  Composition: The State Centre for Literacy (SCL)
+an academic programme. The guidelines delineate will be established by the State Council for
+standards of teaching and infrastructure to be Education Research and Training (SCERT) in each
+maintained by coaching centres and provide conditions State/UT. Ex-officio members of the SCL include:
+for registration and conduct. These guidelines have (i) the Director of the SCERT (Chairman), (ii) a
+been sent to states for consideration. Key features of Professor/Faculty of the SCERT (in-charge), and
+the guidelines include: (iii) two faculties of the SCERT. Other members
+include representatives from higher educational
+ Registration: Coaching centres are required to be
+institutions and representatives of local NGOs.
+registered with the competent authority. The
+competent authority will be an officer notified by  Curriculum: The State Centre for Literacy will be
+the state government. Each branch of a coaching primarily responsible for adopting the national
+centre will be treated as a separate establishment, curriculum framework for adult education at the
+that requires a separate application for registration. State/UT level. The framework will outline
+A certificate of registration will have a period of outcomes for five areas of learning under the New
+validity as decided by the authority. The India Literacy Programme (for adult education).
+registration must be renewed at least two months These are: (i) foundational literacy and numeracy,
+before its expiry. (ii) critical life skills, (iii) vocational skills (iv)
+basic education, and (v) continuing education.
+ Conditions for registration: To be eligible for
+registration, a coaching centre must meet certain  The State Centre for Literacy will also develop
+conditions. These include: (i) hiring tutors who are training manuals for teachers and volunteers, and
+at least graduates, and not convicted of an offence, design teaching material and activity modules,
+(ii) not enrolling students who are yet to pass according to the curriculum.
+secondary exams (Class 10), and (iii) not making
+misleading promises of a good rank. An
+- 6-
+Monthly Policy Review – January 2024 PRS Legislative Research
+ Budgetary support: The budget for setting up and been framed under the Mines and Minerals
+implementing the SCL will be primarily borne by (Development and Regulation) Act, 1957.30 The Act
+the administration of a State/UT. It will also regulates the mining sector in India. The 2015 Rules
+monitor the activities of the SCL. prescribe the procedure for auction of mines. Key
+features of the amended Rules include:
+ Auction of exploration licence: The 1957 Act
+was amended in 2023 to introduce an exploration
+Coal
+licence for minerals specified in the Seventh
+Schedule to the Act.31 These include lithium,
+Pratinav Damani (pratinav@prsindia.org)
+cobalt, silver, and gold. Exploration licence allows
+Cabinet approves a scheme to promote either reconnaissance or prospecting, or both
+activities. Reconnaissance refers to preliminary
+coal/lignite gasification projects
+survey to determine mineral resources.
+The Union Cabinet approved a scheme to promote Prospecting involves exploring, locating, or
+coal/lignite gasification projects.27 Coal gasification is proving mineral deposits.
+the process of converting coal into a gas that can be
+ The exploration licencee will have a share in the
+used for various purposes, such as generating
+auction premium paid by the future lessee of the
+electricity. The scheme will provide grants for setting
+mining lease for the area explored by them. The
+up gasification projects under three categories (Table
+share will be payable for the entire period of fifty
+2). The total outlay under the scheme is projected to be
+years or till the exhaustion of resources, whichever
+Rs 8,500 crore.
+is earlier.
+Table 2: Criteria and benefits under the scheme to
+ The amended Rules provide that the state
+promote coal/lignite gasification
+government may initiate the auction process for
+Eligible Outlay
+Criteria/Benefit exploration licence. Any person seeking to obtain
+Entities/Projects (Rs Crore)
+an exploration licence may submit a proposal to
+ Grant of Rs 1,350 crore or the state government to notify an area for auction.
+15% of capital expenditure,
+They must provide available geoscience data for
+PSUs whichever is lower 4,050
+this purpose.
+ Three projects will be
+supported  Bidding parameters: For auction of exploration
+licence, the state government will specify a ceiling
+ Grant of Rs 1,000 crore or
+price. The ceiling price will be expressed as the
+15% of capital expenditure,
+Private companies whichever is lower maximum percentage share in the auction premium
+3,850
+as well as PSUs  At least one project will be payable by the future lessee of mining lease. The
+selected through bidders will quote a price which is equal to or
+competitive bidding lower than the ceiling price. The bidder with the
+minimum quoted price will be awarded the licence.
+ Grant of Rs 100 crore or
+15% of the capital
+ Performance security: The licencee will be
+expenditure, whichever is
+Demonstration lower required to provide a performance security. This
+Projects or small- security may be appropriated in specified cases.
+ A minimum capital
+scale product- 600 These include: (i) non-adherence to scheme of
+expenditure of Rs 100
+based gasification reconnaissance or prospecting, (ii) non-disclosure
+crore is required
+plants of entire exploration data, (iii) discrepancy in
+ All projects will be selected
+exploration data, and (iv) contravention of Rules or
+through competitive
+bidding licence conditions.
+Source: “Cabinet approves scheme for promotion of coal/lignite
+gasification projects”, Press Information Bureau, Ministry of Coal
+January 24, 2024; PRS.
+Power
+Pratinav Damani (pratinav@prsindia.org)
+Mines
+Rules amended to mandate cost reflective tariff
+Tanvi Vipra (tanvi@prsindia.org)
+and cap open access charges
+Mining Rules amendments in relation to grant The Ministry of Power notified amendments to the
+of exploration licence notified Electricity Rules, 2005.32,33 The Rules have been
+framed under the Electricity Act, 2003. The Act
+The Ministry of Mines notified amendments to the regulates the power sector.34 Key features of the
+Mineral (Auction) Rules, 2015.28,29 The Rules have
+amendments include:
+- 7-
+Monthly Policy Review – January 2024 PRS Legislative Research
+ Tariff must be cost-reflective: The amended to particularly vulnerable tribal groups across 18
+Rules require that tariff charged by discoms must states.37 Off grid power may be provided only when
+be cost reflective. This implies that tariff should providing it through the main grid is not feasible.
+be designed such that it recovers all of the costs for These components of the scheme have a financial
+the given period. The amended Rules further outlay of Rs 515 crore across three years. Distribution
+provide that a lower tariff may be approved only in licensees (discoms) in the respective areas will be the
+case of natural calamities. The gap cannot be implementing agencies Key features of the guidelines
+higher than the 3% of the projected annual revenue are as follows:
+requirement, which must be recovered within three
+ Electrification of individual households:
+years. Any existing gap must be recovered within
+Individual households scattered in specified tribal
+seven years in equal yearly instalments.
+areas, will be provided with an off-grid solar
+ Additional surcharge for open access: Under the power system. This will consist of solar panels
+2005 Rules, an additional surcharge may be levied and battery system for storage. The households
+on open access users. Open access consumers buy will also be provided with appliances such as LED
+electricity directly from generators and utilise bulbs and fans. The central government will
+network of transmission and distribution utilities entirely fund this component of the scheme.
+for receiving supply. The amended Rules cap this Discoms must operationalise the system within
+surcharge to be below the per unit fixed cost of three months of awarding a tender.
+power paid by the discom. The surcharge must be
+ Mini-grid for a cluster of households: A mini-
+reduced such that it is eliminated within four years
+grid may be installed instead of providing an
+of grating access. The surcharge will be levied
+individual system, in a region with a cluster of
+only if the open access consumers are or have
+households. Appliances will also be provided
+previously been consumers of the discom.
+under this component. Households will be eligible
+ Charges on using state network capped: Certain to draw power from the mini-grid, and the grid
+general network access consumers may use the should be designed such that it may be connected
+network of state transmission utilities. The to the main grid in the future. A central share of
+amended Rules add that charges levied for short- up to Rs 50,000 per household will be provided for
+term or temporary open access, should not exceed this component.
+110% of the charges levied on long-term users.
+ Solarising multi-purpose centres: Multi-purpose
+Temporary users are those that have general
+centres will be electrified through off-grid solar.
+network access for a period less than 11 months.
+Power from this grid may be used for street
+ Licence removed for dedicated transmission lighting. Under this component, the central
+lines: The amended Rules add that certain entities government will provide one lakh rupees per
+will not require a licence to establish and operate centre. Discoms must operationalise grids within
+dedicated transmission lines. These include: (i) nine months of awarding the tenders.
+generating companies, (ii) captive generating
+ Inspection and monitoring: Implementing
+plants, and (iii) energy storage systems. Dedicated
+agencies will carry out inspections for the first two
+transmission lines refer electric supply-lines that
+years, after which a third party will carry it out.
+connect captive generating plants or generating
+The Ministry of New and Renewable Energy and
+stations to transmission lines, sub-stations or
+the Ministry of Tribal Affairs will monitor
+generating stations. Consumers with a minimum
+performance indicators such as the percentage of
+load of 25 megawatts (MW) in case of inter-state
+households electrified off-grid.
+transmission, and 10 MW in case of intra-state
+transmission will also be exempt from this licence.
+Earth Sciences
+New and Renewable Energy
+Tanvi Vipra (tanvi@prsindia.org)
+Tanvi Vipra (tanvi@prsindia.org)
+Cabinet approves overarching scheme
+PRITHVI for Ministry of Earth Sciences
+Guidelines for solar power for unelectrified
+households in tribal areas issued The Union Cabinet approved an umbrella scheme
+PRITHvi Vigyan (PRITHVI).38 It encompasses five
+The Ministry of New and Renewable Energy released
+ongoing sub-schemes under the Ministry of Earth
+guidelines to implement a solar power scheme under
+Sciences. These relate to climate research modelling,
+Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan
+polar science, seismology, and education, and outreach.
+(PM-JANMAN).35,36 PM-JANMAN was launched in
+November 2023, and includes interventions such as PRITHVI scheme seeks to: (i) augment and sustain
+providing off-grid solar power and solar street lighting long-term observations of the atmosphere, ocean, and
+- 8-
+Monthly Policy Review – January 2024 PRS Legislative Research
+the solid earth, (ii) develop model systems for life if it fails the automated fitness test. The
+understanding and predicting weather and climate stations shall maintain the record of the number of
+hazards, (iii) explore polar and high seas regions, and vehicles tested and link the data to a portal
+(iv) develop technology for harnessing oceanic managed by the Central Pollution Control Board.
+resources sustainably. The Scheme is to be
+Comments are invited until March 30, 2024.
+implemented from 2021 to 2026, at an overall cost of
+Rs 4,797 crore.
+Road Transport and Highways
+Environment
+Tanvi Vipra (tanvi@prsindia.org)
+Tanvi Vipra (tanvi@prsindia.org)
+Draft amendments to vehicle scrapping Rules
+released
+Draft rules for management of end-of-life
+vehicles released The Ministry of Road Transport and Highways released
+draft amendments to the Central Motor Vehicles
+The Ministry of Environment, Forest and Climate
+(Registration and Functions of Vehicle Scrapping
+Change released the Draft End-of-Life Vehicles
+Facility) Rules, 2021.41,42,43 The Rules have been made
+(Management) Rules, 2024.39 These Rules have been
+under the Motor Vehicles Act, 1988.44 The Act
+framed under the Environment (Protection) Act, 1986,
+provides for registration of motor vehicles. The Rules
+and specify responsibilities of consumers and producers
+provide for scrapping end of life vehicles. Key features
+of vehicles.40 End-of-life vehicles include those which
+of the Draft Amendments are:
+are not registered anymore, have been declared unfit by
+testing stations, or whose registrations have been  Obtaining consent to establish: Under the 2021
+cancelled. Key features of the Draft Rules include: Rules, to establish a vehicle scrapping facility,
+consent must be obtained from the registering
+ Recycling targets for producers: Producers of
+authority of the state/UT government. The draft
+vehicles will be required to meet specified targets
+amendment instead provides that the Pollution
+for recycling of steel from end-of-life vehicles.
+Control Board of the state/UT will grant the
+The Rules specify separate targets for private and
+consent to establish a facility.
+commercial vehicles for the period between 2025-
+26 and 2039-40, and for the period beyond 2039-  Obtaining consent to operate: Under the 2021
+40. Producers will meet these targets by Rules, scrapping facilities must obtain a consent to
+purchasing Extended Producer Responsibility operate from the State/UT Pollution Control Board
+(EPR) certificates. EPR certificate will indicate within six months of beginning operations. The
+the weight of steel or steel scrap recovered from draft amendment provides that scrapping facilities
+end-of-life vehicles. The certificate will be must obtain or apply for a consent to operate at
+generated by the registered vehicle scrapping least 60 days before beginning operations.
+facilities and authenticated by the Central Pollution
+ Transfer of registration: Under the 2021 Rules,
+Control Board. In the event of non-availability of
+registration of scrapping facilities is non-
+certificates, the producer will be responsible for
+transferable. The draft amendment allows such
+collection as well.
+transfer of registration.
+ Responsibilities of vehicle owners: Once a
+ Certificate of deposit: The scrapping facility
+vehicle is declared end-of-life, owners will not be
+issues a Certificate of Deposit to the vehicle
+permitted to hold their vehicle for more than six
+owner. The certificate acknowledges the transfer
+months. They will be required to furnish a
+of ownership of the vehicle. The certificate is
+certificate validating that they have deposited their
+mandatory for vehicle owners to avail incentives
+vehicle at a scrapping facility.
+and benefits while purchasing a new vehicle. The
+ Responsibilities of bulk consumers: Bulk certificate is electronically tradeable. The draft
+consumers refer to those who own more than 100 amendment extends the validity of the certificate
+vehicles. These consumers will be responsible to from two years to three years. Certificates issued
+ensure that end-of -life vehicles are deposited at to government owned vehicles or impounded
+the registered vehicle scrapping facilities or the vehicles will not have any incentives. Such
+designated collection centres. They will also be certificates will not be electronically tradeable.
+required to file annual returns about their fleet, and
+Comments are invited until February 17, 2024.
+about the end-of-life vehicles deposited.
+ Responsibilities of testing stations: Automated
+Testing Stations must declare a vehicle as end-of-
+- 9-
+Monthly Policy Review – January 2024 PRS Legislative Research
+1 Bulletin II, Lok Sabha, January 12, 2024, harmonization-of-the-provisions-of-icdr-and-lodr-
+https://sansad.in/getFile/bull2mk/2024/12-01- regulations_80585.html.
+2024.pdf?source=loksabhadocs. 18 Interim Recommendations of the Expert Committee for facilitating
+2 Press note on First Advance Estimates of National Income 2023-24, ease of doing business and harmonization of the provisions of ICDR
+national Statistical Office, Ministry of Statistics and Programme and LODR Regulations, SEBI, January 11, 2024,
+Implementation, January 5, 2024, https://www.sebi.gov.in/sebi_data/commondocs/jan-
+https://www.mospi.gov.in/sites/default/files/press_release/PressNote 2024/Interim_Recommendations_of_the_Expert_Committee_p.pdf.
+FAE2023-24N.pdf. 19 SEBI (Listing Obligations and Disclosure Requirements)
+3 “India’s Retail Inflation 5.69 per cent in December 2023”, Press Regulations, 2015, SEBI,
+Information Bureau, Ministry of Statistics and Programme https://www.sebi.gov.in/legal/regulations/dec-2023/securities-and-
+Implementation, January 12, 2024, exchange-board-of-india-listing-obligations-and-disclosure-
+https://pib.gov.in/PressReleasePage.aspx?PRID=1995548. requirements-regulations-2015-last-amended-on-december-21-2023-
+4 “Index Numbers of Wholesale Price in India for the Month of _80422.html.
+December, 2023 (Base Year: 2011-12)”, Press Information Bureau, 20 SEBI (Issue of Capital and Disclosure Requirements) Regulations,
+Ministry of Commerce and Industry, January 12, 2024, 2018, SEBI, https://www.sebi.gov.in/legal/regulations/dec-
+https://pib.gov.in/PressReleasePage.aspx?PRID=1996177. 2023/securities-and-exchange-board-of-india-issue-of-capital-and-
+5 “Government allows direct listing of securities by public Indian disclosure-requirements-regulations-2018-last-amended-on-
+companies on International Exchanges of GIFT IFSC”, Press december-21-2023-_80421.html.
+Information Bureau, Ministry of Finance, January 24, 2024, 21 Consultation Paper on providing flexibility to Alternative
+https://pib.gov.in/PressReleasePage.aspx?PRID=1999154. Investment Funds (AIFs), Venture Capital Funds (VCFs) and their
+6 S.O. 332(E), Department of Economic Affairs, Ministry of Finance, investors to deal with unliquidated investments of their schemes
+January 24, 2024, beyond expiry of tenure, SEBI, January 12, 2024,
+https://egazette.gov.in/WriteReadData/2024/251577.pdf . https://www.sebi.gov.in/reports-and-statistics/reports/jan-
+2024/consultation-paper-on-providing-flexibility-to-alternative-
+7 Foreign Exchange Management (Non-Debt Instruments) Rules,
+investment-funds-aifs-venture-capital-funds-vcfs-and-their-investors-
+2019,
+to-deal-with-unliquidated-investments-of-their-schemes-beyond-
+https://incometaxindia.gov.in/Documents/Provisions%20for%20NR/
+expir-_80612.html.
+FEM-Non-debt-Instruments-Rules-2019.htm.
+22 Frequently Asked Questions, SEBI (Alternative Investment Funds)
+8 “Department of Revenue, Ministry of Finance, invites suggestions
+Regulations, 2012, January 2017,
+on draft ‘Indian Stamp Bill, 2023’ from public within a period of 30
+https://www.sebi.gov.in/sebi_data/faqfiles/jan-
+days”, Ministry of Finance, Press Information Bureau, January 17,
+2017/1485861425527.pdf.
+2024,
+https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1997072. 23 SEBI (Alternative Investment Funds) Regulations, 2012,
+https://www.sebi.gov.in/legal/regulations/jan-2024/securities-and-
+9 The Draft Indian Stamp Bill, 2023,
+exchange-board-of-india-alternative-investment-funds-regulations-
+https://dor.gov.in/sites/default/files/stamp%20duty%202023.pdf.
+2012-last-amended-on-january-05-2024-_80600.html.
+10 The Indian Stamp Act, 1899,
+24 SEBI (Venture Capital Funds) Regulations, 1996,
+https://www.indiacode.nic.in/bitstream/123456789/13205/1/the_india
+https://www.sebi.gov.in/sebi_data/commondocs/vcfnew_p.pdf.
+n_stamp_act%2C_1899.pdf.
+25 ‘Guidelines for the Regulation of Coaching Centres’, Ministry of
+11 Risk Management and Inter-Bank Dealings – Hedging of foreign
+Education, January 18, 2024,
+exchange risk, Reserve Bank of India, January 5, 2024,
+https://www.education.gov.in/sites/upload_files/mhrd/files/Guidelien
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/RISKMANAGEME
+s_Coaching_Centres_en_0.pdf
+NTCD64F5FE4F7446568C18FF2185ED06ED.PDF.
+26 Guidelines on State Centre for Literacy in State Council for
+12 Report of the Working Group on State Government Guarantees,
+Education Literacy and Training’, Ministry of Education,
+Reserve Bank of India, September 2023,
+https://dsel.education.gov.in/sites/default/files/update/scl_guidelines_
+https://rbidocs.rbi.org.in/rdocs//PublicationReport/Pdfs/RWGSGG28
+ullas.pdf
+666DF11C154643BF7FBC5B41C920C9.PDF.
+27 Cabinet approves the scheme for promotion of Coal/Lignite
+13 Draft Framework for Self-Regulatory Organisation(s) in the
+Gasification Projects of Government PSUs and Private Sector
+FinTech Sector, Reserve Bank of India, January 15, 2024,
+towards incentive for coal gasification projects under three
+https://rbi.org.in/Scripts/PublicationReportDetails.aspx?UrlPage=&I
+categories, Press Information Bureau, January 24, 2024,
+D=1260.
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1999219.
+14 Draft Framework for recognising Self-Regulatory Organisations
+28 G.S.R. 49(E), The Mineral (Auction) Amendment Rules, 2024, The
+for FinTech Sector, Reserve Bank of India, January 15, 2024,
+Gazette of India, Ministry of Mines, January 21, 2024,
+https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1677FINTECH
+https://egazette.gov.in/WriteReadData/2024/251547.pdf.
+SECTOR1CF1796B97BB42199458823BC1D4D0FF.PDF.
+29 The Mineral (Auction) Rules, 2015 as amended up to November 2,
+15 Review of regulatory framework for HFCs and harmonisation of
+2021, Indian Bureau of Mines,
+regulations applicable to HFCs and NBFCs, Reserve Bank of India,
+https://ibm.gov.in/writereaddata/files/11222021124835Mineral_Auct
+January 15, 2024,
+ion_Rules_2015%20updated%20upto%2002112021.pdf.
+https://rbidocs.rbi.org.in/rdocs/Content/PDFs/DRAFTCIRCULARHF
+CSCDE781CE1A854DFEA533F0BF1A803B14.PDF. 30 The Mines and Minerals (Development and Regulation) Act, 1957,
+https://www.indiacode.nic.in/bitstream/123456789/1421/3/A1957-
+16 RBI releases draft circular on ‘Review of regulatory framework for
+67.pdf.
+Housing Finance Companies (HFCs) and harmonisation of
+regulations applicable to HFCs and Non-Banking Finance Companies 31 The Mines and Minerals (Development And Regulation)
+(NBFCs)’, Reserve Bank of India, January 15, 2024, Amendment Act, 2023,
+https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1678DRAFTH https://prsindia.org/files/bills_acts/bills_parliament/2023/Mines_and_
+FCS173670235ED04B61BEE0010D58CEA013.PDF. Minerals_(Development_and_Regulation)_Amendment_Act,_2023.p
+df.
+17 Consultation Paper on the Interim Recommendations of the Expert
+Committee for facilitating ease of doing business and harmonising 32 Electricity (Amendment) Rules, 2024, Ministry of Power, January
+the provisions of ICDR and LODR Regulations, SEBI, January 11, 10, 2024, https://egazette.gov.in/WriteReadData/2024/251281.pdf.
+2024, https://www.sebi.gov.in/reports-and-statistics/reports/jan- 33 Electricity (Second Amendment) Rules, 2024, Ministry of Power,
+2024/consultation-paper-on-interim-recommendations-of-the-expert- January 17, 2024,
+committee-for-facilitating-ease-of-doing-business-and- https://egazette.gov.in/WriteReadData/2024/251408.pdf.
+- 10-
+Monthly Policy Review – January 2024 PRS Legislative Research
+Amendment Rules, 2024, Ministry of Road Transport and Highways,
+January 19, 2024,
+34 The Electricity Act, 2003,
+https://www.indiacode.nic.in/bitstream/123456789/2058/1/A2003- https://egazette.gov.in/WriteReadData/2024/251569.pdf.
+36.pdf. 42 CG-DL-E-24092021-229931, Motor Vehicles (Registration and
+35 Implementation Guidelines for New Solar Power Scheme (for Functions of Vehicle Scrapping Facility) Rules, 2021, Ministry of
+PVTG Habitations/ Villages) under PM JANMAN, Ministry of New Road Transport and Highways, September 23, 2021,
+and Renewable Energy, January 4, 2024, https://morth.nic.in/sites/default/files/notifications_document/GSR%
+https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749 20653.pdf.
+f3/uploads/2024/01/2024010413610627.pdf. 43 CG-DL-E-16092022-238867, Motor Vehicles (Registration and
+36 Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan, Ministry of Functions of Vehicle Scrapping Facility) Amendment Rules, 2022,
+Tribal Affairs, https://adiprasaran.tribal.gov.in/pm-janman/man.aspx. Ministry of Road Transport and Highways, September 13, 2022,
+https://morth.nic.in/sites/default/files/circulars_document/GSR%206
+37 ‘Cabinet approves Pradhan Mantri Janjati Adivasi Nyaya Maha
+95(E)%20RVSF%20amendment%20rules%20dated%2013%2009%2
+Abhiyan’, Press Information Bureau, Ministry of Tribal Affairs,
+02022.pdf.
+November 29, 2023,
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1980692. 44 The Motor Vehicles Act, 1988,
+https://www.indiacode.nic.in/bitstream/123456789/9460/1/a1988-
+38 “Cabinet approves overarching scheme “PRITHvi VIgyan
+59.pdf.
+(PRITHVI)” of the Ministry of Earth Sciences”, Ministry of Earth
+Sciences, Press Information Bureau, January 5, 2024, DISCLAIMER: This document is being furnished to you for your
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1993366. information. You may choose to reproduce or redistribute this
+report for non-commercial purposes in part or in full to any other
+39 CG-DL-E-31012024-251663, Draft End of Life Vehicles
+person with due acknowledgement of PRS Legislative Research
+(Management) Rules, 2024, Ministry of Environment, Forest and
+(“PRS”). The opinions expressed herein are entirely those of the
+Climate Change,
+author(s). PRS makes every effort to use reliable and
+https://egazette.gov.in/(S(k52ulazql1jyqbckmhzag52o))/ViewPDF.as
+comprehensive information, but PRS does not represent that the
+px.
+contents of the report are accurate or complete. PRS is an
+40 The Environment Protection Act, 1986,
+independent, not-for-profit group. This document has been
+https://www.indiacode.nic.in/bitstream/123456789/6196/1/the_enviro prepared without regard to the objectives or opinions of those
+nment_protection_act%2C1986.pdf.
+who may receive it.
+41 CG-DL-E-23012024-251569, Draft Central Motor Vehicles
+(Registration and Functions of Vehicle Scrapping Facility)
+- 11-

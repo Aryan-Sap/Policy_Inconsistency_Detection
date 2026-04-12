@@ -1,0 +1,652 @@
+Monthly Policy Review
+July 2024
+Highlights of this Issue
+Budget Session 2024 begins (p. 2)
+The Budget Session of Parliament commenced on July 22, 2024. Five Bills have been listed for introduction,
+consideration, and passing. The Bharatiya Vayuyan Vidheyak, 2024 has been introduced.
+Union Budget 2024-25 presented (p. 2)
+The government proposes to spend Rs 48,20,512 crore in 2024-25, an increase of 8.5% over the actuals for
+2023-24. The fiscal deficit is estimated at 4.9% of GDP, lower than the actuals for 2023-24 (5.6%).
+Economic Survey 2023-24 released (p. 2)
+The Survey has estimated real GDP growth of 6.5%-7% in 2024-25, expected to be supported by strong domestic
+investment demand, improved agricultural performance, and an increase in merchandise and services exports.
+Bill to replace The Aircraft Act, 1934 introduced in parliament (p. 4)
+The Bill seeks to replace the Aircraft Act, 1934. The Act regulates the civil aviation sector. The Bill retains the
+regulatory structure under the 1934 Act.
+Consumer Price Index inflation was 4.9% in the first quarter of 2024-25 (p. 3)
+CPI inflation in the first quarter of 2024-25 was higher than the same quarter last year (4.6%). Food inflation
+was 8.9% in the first quarter of 2024-25.
+Supreme Court upholds state’s power to tax mines and minerals (p. 6)
+The Court held that royalty collected on mining activities is not in the nature of tax. It held that state
+legislatures have the power to impose tax on mineral bearing land.
+RBI issues directions on treatment of wilful and large defaulters (p. 3)
+The Reserve Bank of India (RBI) issued the RBI (Treatment of Wilful Defaulters and Large Defaulters)
+Directions, 2024. It provides a procedure for the classification of a borrower as wilful defaulter by lenders
+Comments invited on draft Digital Bharat Nidhi Rules, 2024 (p. 4)
+The draft Rules operationalise the Digital Bharat Nidhi, which was set up under the Telecommunications Act,
+2023. The DBN replaces and renames the Universal Service Obligation Fund.
+Guidelines for implementing green hydrogen production incentive scheme released (p. 6)
+Guidelines provide a framework for selecting beneficiaries for the second tranche of incentive scheme. Green
+Hydrogen production capacity of 4,50,000 MT will be allocated.
+Comments sought on Draft revised guidelines on EV charging infrastructure (p. 7)
+The draft revised guidelines (2024) seek to replace all previous guidelines. The draft provides a comprehensive
+framework for constructing and operating EV charging stations in various settings.
+Ministry of Education constitutes the Education Advisory Council (p. 4)
+The Council will prepare a roadmap for the effective implementation of the NEP. It will consist of eminent
+members from academia, philanthropy and industry who are experienced in key areas of education.
+August 1, 2024
+PRS Legislative Research Institute for Policy Research Studies
+3rd Floor, Gandharva Mahavidyalaya 212, Deen Dayal Upadhyaya Marg  New Delhi – 110002
+Tel: (011) 43434035-36, 23234801-02  www.prsindia.org
+Monthly Policy Review – July 2024 PRS Legislative Research
+Parliament on unlisted funds in excess of the face value of
+their shares has been removed.
+Niranjana S Menon (niranjana@prsindia.org)
+ Policy proposals: A scheme to upskill 20 lakh
+youth over the next five years will be launched.
+Budget Session 2024 begins
+Three schemes to promote employment and
+The Budget Session of Parliament commenced on July increase workforce participation were announced.
+22, 2024. The session is scheduled to be held till Financial support of Rs 15,000 crore will be given
+August 12, 2024, with a total of 16 sittings.1 Five Bills to Andhra Pradesh for a new capital this year.
+have been listed for introduction, consideration, and
+Table 1: Union Budget 2024-25 highlights (in Rs
+passing (excluding Finance and Appropriation Bills).2
+crore)
+One Bill, the Bharatiya Vayuyan Vidheyak, 2024 has
+% change
+been introduced. The Union Budget for 2024-25 was Actuals Actuals
+BE 24-25 Actuals to
+presented on July 23, 2024. 22-23 23-24 BE
+Total
+For more details on the legislative business to be taken
+Expenditure 41,93,157 44,42,542 48,20,512 8.5%
+up during the session, please see here. Total
+Receipts
+(excluding
+borrowings) 24,55,402 27,88,872 32,07,200 15.0%
+Revenue
+Union Budget 2024-25 Deficit 10,69,926 7,65,624 5,80,201 -24.2%
+% of GDP 3.9% 2.6% 1.8% -
+Shrusti Singh (shrusti@prsindia.org) Fiscal Deficit 17,37,755 16,53,670 16,13,312 -2.4%
+% of GDP 6.4% 5.6% 4.9% 6.4%
+Source: Union Budget documents 2024-25; PRS.
+Union Budget 2024-25 presented
+For an analysis of the Union Budget 2024-25, see here.
+The Finance Minister, Ms Nirmala Sitharaman
+presented the 2024-25 Union Budget on July 23, 2024.3
+In the following highlights, actuals for 2023-24 are the
+unaudited provisional actuals:
+Macroeconomic Development
+ Expenditure: The government is estimated to
+spend Rs 48,20,512 crore in 2024-25, 8.5% higher
+Shrusti Singh (shrusti@prsindia.org)
+than the actual expenditure in 2023-24 (Rs
+44,42,542 crore). Economic Survey 2023-24 tabled in Parliament
+ Receipts: The receipts (other than borrowings) in
+The Finance Minister, Ms Nirmala Sitharaman, tabled
+2024-25 are estimated to be Rs 32,07,200 crore,
+the Economic Survey 2023-24 on July 22, 2024.4 Key
+15% higher than the actual receipts in 2023-24 (Rs
+highlights of the Survey include:
+27,88,872 crore).
+ Gross Domestic Product (GDP): The Survey has
+ GDP growth: The nominal GDP is estimated to
+forecasted a real GDP growth of 6.5%-7% in 2024-
+grow at a rate of 10.5% in 2024-25 (i.e., real
+25. Growth in 2024-25 is expected to be supported
+growth plus inflation).
+by strong domestic investment demand, improved
+ Deficits: Revenue deficit in 2024-25 is targeted at agricultural performance, and an increase in
+1.8% of GDP. This is lower than the actual merchandise and services exports.
+revenue deficit of 2.6% of GDP in 2023-24. Fiscal
+ Inflation: Retail inflation in 2023-24 was 5.4%,
+deficit in 2024-25 is targeted at 4.9% of GDP,
+the lowest since the Covid-19 pandemic. Food
+which is lower than the actual fiscal deficit of
+inflation increased from 6.6% in 2022-23 to 7.5%
+5.6% of GDP in 2023-24.
+in 2023-24 due to higher food inflation caused by
+ Tax proposals: Short term capital gains tax on Russia-Ukraine war and domestic weather
+listed equity shares, equity mutual funds, and conditions. Core inflation moderated in 2023-24
+REITs/INVITs is proposed to be increased from driven by services such as housing rental inflation.
+15% to 20%. Long term capital gains tax will be
+ Sectoral Growth: India’s agriculture sector has
+levied at 12.5% across asset categories. Indexation
+recorded an annual average growth rate of 4.2%
+for calculating long term capital gains for property,
+over the last five years. The industrial sector grew
+gold, and other unlisted assets will be removed.
+by 9.5% in 2023-24. The services sector
+ Income tax slabs under the new tax regime have constituted 55% of India’s economy in 2023-24.
+been modified. Standard deduction for salaried
+ Infrastructure: The central government’s capital
+individuals and pensioners is proposed to be
+expenditure witnessed a three-fold increase in
+increased from Rs 50,000 to Rs 75,000. Angel tax
+- 2 -
+Monthly Policy Review – July 2024 PRS Legislative Research
+2023-24 as compared to 2019-20 with focus on  Wilful defaulter: A wilful defaulter refers to: (i)
+sectors such as roads and railways. a borrower or a guarantor who has committed
+wilful default of at least Rs 25 lakh or above as
+ Debt: The general government debt-to-GDP ratio
+notified by RBI, (ii) promoters and directors
+increased slightly in 2023-24 due to increasing
+associated at the time of default if the defaulter is
+interest rates and lower-than-budgeted nominal
+a company, and (iii) persons in charge of and
+GDP growth. However, it is expected to decline
+responsible for management of the affairs of an
+on the back of monetary policy easing, increase in
+entity other than companies. Large defaulter
+WPI inflation, and continued fiscal consolidation.
+refers to a defaulter with an outstanding amount
+For a summary of the Survey, please see here. of at least one crore rupees and whose account has
+been categorised as a doubtful or loss account.
+Consumer Price Index inflation was 4.9% in
+ Wilful default by a borrower will be deemed to
+the first quarter of 2024-25
+have occurred when he defaults in meeting
+repayment obligations to the lender. In addition,
+Tushar Chakrabarty (tushar@prsindia.org)
+at least one of the specified conditions needs to be
+Consumer Price Index (CPI) inflation was 4.9% in the fulfilled. These include: (i) default despite having
+first quarter (April-June) of 2024-25, higher than the the capacity to honour the obligations, (ii)
+inflation in the same quarter last year (4.6%).5 In the diversion or siphoning off of funds availed from
+fourth quarter (January-March) of 2023-24, CPI the lender, or (iii) disposal of assets given for
+inflation was 5%. securing the credit without the lender’s
+knowledge. Wilful default by a guarantor will be
+Food inflation averaged 8.9% in the first quarter of deemed to have occurred if he does not honour the
+2024-25. This was significantly higher as compared to guarantee despite having the ability to do so.
+food inflation of 3.8% in the corresponding quarter of
+2023-24. In the fourth quarter of 2023-24, food  Identification of wilful defaulters: The
+inflation was 8.5%. evidence of wilful default will be examined by an
+identification committee (comprising one
+Wholesale Price Index (WPI) inflation was 2.4% in the wholetime director as chairperson and two senior
+first quarter of 2024-25, as compared to -2.9% in the officials) set up by the lender. If the committee is
+first quarter of 2023-24.6 In the fourth quarter of 2023- satisfied that wilful default has occurred, it will
+24, WPI inflation averaged 0.3%. issue a show-cause notice to the borrower.
+ The borrower will be given an opportunity to
+Figure 1: Monthly inflation in Q1 of 2024-25 (%
+submit a representation to a review committee set
+change, year-on-year)
+up by the lender (comprising the chief executive
+10% 9.4%
+8.7% 8.7% officer as chairperson and two independent
+8% directors). The review committee will provide the
+4.8% borrower an opportunity of a personal hearing. It
+6% 4.8% 5.1% will pass the order regarding the classification.
+4% 3.4%
+2.6% RBI releases master directions on fraud risk
+2% 1.2% management
+0% The Reserve Bank of India (RBI) released three revised
+CPI Food Inflation WPI master directions on fraud risk management.8 These
+Apr-24 May-24 Jun-24 directions apply to: (i) commercial banks and all India
+Sources: MoSPI; Ministry of Commerce and Industry; PRS. financial institutions, (ii) cooperative banks, and (iii)
+non-banking finance companies.9,10,11 Key features
+include:
+ Fraud risk management structure: Regulated
+Finance
+entities must have a policy approved by their
+Tushar Chakrabarty (tushar@prsindia.org) respective boards on fraud risk management. The
+policy should provide for: (i) issuing detailed
+RBI issues directions on treatment of wilful show-cause notice to the person against whom an
+and large defaulters allegation of fraud is being examined, (ii) at least
+21 days for the person to respond to the notice, and
+The Reserve Bank of India (RBI) issued the RBI (iii) serving a reasoned order to the person
+(Treatment of Wilful Defaulters and Large Defaulters) regarding the decision to classify the account as
+Directions, 2024.7 The Directions provide a procedure fraud. The policy must be reviewed at least once
+for the classification of a borrower as wilful defaulter in three years.
+by lenders. Key features include:
+- 3 -
+Monthly Policy Review – July 2024 PRS Legislative Research
+ Early detection of frauds: Commercial banks, telephone operator certificate and licences under
+certain cooperative banks, and NBFCs in middle the International Telecommunication Convention.
+and upper layer must have a framework for early
+ Appellate mechanism: For adjudging penalties,
+warning signals under their fraud risk management
+the Act empowers the central government to
+policy. Middle and upper layer NBFCs include all
+designate an Officer. Decisions of the
+deposit taking NBFCs and non-deposit taking
+Adjudicating Officer may be appealed before an
+NBFCs with assets of at least Rs 1,000 crore. In
+Appellate Officer. The Bill adds one more level
+addition, commercial banks must red flag accounts
+of appeal. The appeal against the decision of the
+on suspicion of fraud as suggested by early
+First Appellate Officer will lie before the Second
+warning signals indicators. Board level
+Appellate Officer. Appeals against an order of
+committees must oversee the effectiveness of the
+DGCA or BCAS will lie before the central
+EWS framework. It must include both quantitative
+government. No further appeals will be allowed
+and qualitative indicators.
+against the central government's orders.
+ Treatment of fraud accounts: In case of red-
+flagged accounts or suspicion of fraud, regulated
+entities must conduct an external or internal audit
+as per their policy. A policy must be framed for Education
+engaging external auditors. The loan agreement
+must contain clauses for conducting such audit. Rutvik Upadhyaya (rutvik@prsindia.org)
+For commercial banks and all India financial
+institutions, accounts will be red flagged at the Independent body constituted to advise on the
+individual bank level and they should be reported implementation of NEP
+to RBI within seven days.
+The Ministry of Education constituted the Education
+Advisory Council to advise the government on efficient
+implementation of the National Education Policy, 2020
+(NEP).14,15 The Council will: (i) develop an
+Civil Aviation
+overarching roadmap for implementing the NEP in
+school and higher education, (ii) analyse current
+Anirudh TR (anirudh@prsindia.org)
+interventions and recommend measures for course
+correction, and (iii) recommend measures to revamp
+Bharatiya Vayuyan Vidheyak, 2024 introduced
+the Central Education Advisory Board. It will also
+in Lok Sabha
+advice the Ministry or other institutions involved in
+The Bharatiya Vayuyan Vidheyak, 2024 was education on other areas they need inputs on.
+introduced in Lok Sabha.12 The Bill seeks to replace
+the Aircraft Act, 1934.13 The Act regulates the civil
+aviation sector. It sets up three authorities: (i)
+Directorate General of Civil Aviation (DGCA) for Communications
+performing regulatory functions and overseeing safety,
+(ii) Bureau of Civil Aviation Security (BCAS) for Pratinav Damani (pratinav@prsindia.org)
+overseeing security, and (iii) Aircraft Accidents
+Investigation Bureau for investigation of aircraft Comments invited on the draft Digital Bharat
+accidents. The central government may issue Nidhi Rules
+directions to these authorities and also review their
+The Department of Telecommunications has invited
+orders, if necessary, in public interest. The Bill retains
+comments on the draft Telecommunications (Digital
+the regulatory structure and most of the provisions
+Bharat Nidhi) Rules, 2024.16 The Digital Bharat Nidhi
+under the 1934 Act. Key changes include:
+(DBN) is a non-lapsable fund created by the
+ Regulation of design of aircrafts: The Act Telecommunications Act, 2023, and replaces the
+regulates various activities related to aircrafts Universal Service Obligation Fund (USOF).17 The
+including manufacturing, possession, use, draft Rules largely replicate the current method of
+operation, and trade. The Bill retains this and also administering the Fund. The USOF is funded by the
+seeks to regulate the design of aircrafts. collection of a Universal Access Levy, which is a
+percentage of the adjusted gross revenue (AGR) of a
+ Powers to make Rules: The Act empowers the
+telecom service provider.18 AGR is revenue earned by
+central government to frame rules on several
+access providers excluding certain items such as: (i)
+matters. These include: (i) specified activities
+GST, (ii) pass through roaming charges, and (iii) access
+related to aircrafts, (ii) regulation of air transport
+charges paid to other access providers. Funds in the
+services, and (iii) implementation of convention
+DBN can be utilised for meeting certain objectives,
+relating to international civil aviation of 1944.
+such as: (i) universal service and delivery of telecom
+The Bill retains these provisions and adds that the
+services, and (ii) the research, development and
+central government may frame Rules on radio
+- 4 -
+Monthly Policy Review – July 2024 PRS Legislative Research
+introduction of telecom services, technologies and Media and Broadcasting
+products. The draft Rules seek to operationalise the
+DBN. Pratinav Damani (pratinav@prsindia.org)
+Funding from the DBN is for two broad categories of
+TRAI amends regulatory framework for
+projects: (i) access and delivery of telecom services to
+broadcasting and cable services
+underserved areas, and (ii) research and development in
+telecom technologies. Selection for the first type of The Telecom Regulatory Authority of India has
+projects will happen via bidding, while selection for the amended the tariff order, interconnection regulations
+latter will be done via an application. Applications will and quality of service regulations for
+be decided on the basis of proposals received and the broadcasters.20,21,22 In August 2023, TRAI had released
+technical feasibility. The Rules allow the administrator a consultation paper seeking a review on the regulatory
+to select an implementer by nomination for execution framework for broadcasters.23 Key features of the
+of projects. This may be done in special circumstances amended regulations include:
+and must be recorded in writing.
+ Tariff changes: Broadcasters charge Network
+Comments are invited by August 3, 2024. Capacity Fees (NCF) from subscribers, which was
+capped at Rs 130 for the first 200 channels and Rs
+Comments invited on draft adjudication and 160 on more than 200 channels. This ceiling has
+appeal rules been removed. The new NCF must be published
+on the broadcaster’s website. Distribution
+The Department of Telecommunications has released
+Platform Operators (DPOs) can now offer
+the draft Telecommunications (Adjudication and
+discounts of up to 45% on bouquets of channels.
+Appeal) Rules, 2024 for feedback.19 The draft Rules
+DPOs bundle and package content from various
+seek to give effect to the adjudication framework in the
+broadcasters. Such discounts were earlier limited
+Telecommunications Act, 2023.17 The adjudication
+to 15%.
+process applies to specific contraventions under the Act
+listed in the third schedule. These include: (i)  Penalties: The amended regulatory framework
+possessing radio equipment without authorisation, and also provides for financial penalties for
+(ii) knowingly using telecommunications equipment or contravention of provisions. Penalties range up to
+network set up without authorisation. Adjudicating Rs 1,00,000, and depend on the nature of the
+officers must be of the rank of joint secretary or above. violation and size of the broadcaster. For instance,
+Key features of the draft Rules include: non-declaration of MRP of channels can attract a
+fine of up to Rs 25,000 for the first offence.
+ Initiation of inquiries: Inquiries may be initiated
+based on a complaint, assessment, or suo-moto  Change in carriage fees: The method calculating
+cognisance. The officer will have the powers of a carriage fees has been simplified. For instance,
+civil court. Inquiries must ordinarily be concluded there is no longer a distinction between standard
+within 90 days and cannot be extended beyond 120 and high-definition (HD) channels. Earlier, HD
+days. channels attracted higher carriage fees.
+ Voluntary undertakings: The Act and the draft  Quality of Service (QoS) amendments: The
+Rules allow authorised entities to submit voluntary regulatory framework amends various QoS
+undertakings. These may be submitted before or standards. Charges for services such as
+during an inquiry. The undertaking must include installation, activation and relocation have been
+details of the contravention and measures taken (or deregulated. DPOs must publish these charges
+proposed) to mitigate the contravention. Voluntary clearly to subscribers. Platform services offered by
+undertakings that are accepted will not attract DPOs must be categorised separately on the
+further proceedings. electronic programming guide. Platform services
+are programs transmitted exclusively to subscribers
+ Appeal process: Orders of an adjudicating officer
+by DPOs. The maximum retail price for each
+may be appealed within 30 days to the Designated
+platform service must also be displayed. Certain
+Appeals Committee. Members of this committee
+compliances have also been relaxed for DPOs
+must be of the rank of additional secretary or
+having less than 30,000 subscribers, including: (i)
+above and will be appointed by the centre.
+having a website, (ii) maintaining a manual of
+ For offences listed in the third schedule, decisions practice, and (iii) having a consumer corner.
+of the committee can be appealed in a civil court.
+In case of a breach of terms and conditions of the
+authorisation agreement, orders of the committee
+can be appealed in the Telecom Disputes
+Settlement and Appellate Tribunal.
+Comments are invited by August 17, 2024.
+- 5 -
+Monthly Policy Review – July 2024 PRS Legislative Research
+Mines  Structure of Scheme: The second tranche
+allocates production capacity of 4,50,000 MT
+Atri Prasad Raut (atri@prsindia.org) (Metric tonnes) of Green Hydrogen. This will be
+achieved in two ways - 40,000 MT will be
+Supreme Court upholds the state’s power to produced through biomass-based pathway and
+tax mines and minerals 4,10,000 MT will be produced though through
+technology agonistic (using electrolysis) pathway.
+With an 8:1 majority, the Supreme Court upheld states’
+Production capacity will be distributed through
+power to tax mineral bearing lands.24 In India, mines
+bidding.
+and minerals are primarily regulated by the Mines and
+Minerals (Development and Regulations) (MMDR)  Incentive for Production: The minimum bid for
+Act, 1957.25 production through agnostic pathways is 10,000
+MT while maximum bid allowed is 90,000 MT.
+The Court examined whether: (i) royalty collected on
+For production through biomass pathways, the bid
+mining activities under the MMDR Act qualifies as a
+should be between 500 MT and 4,000 MT. A
+tax, (ii) states’ power to tax land and building extends
+bidder can bid for both pathways. The maximum
+to mineral bearing land, and (iii) the Parliament can
+incentive for the first year is Rs 50/Kg, for the
+limit the state legislature’s powers to impose taxes on
+second year Rs 40/Kg and for the third year Rs
+mines and minerals.
+30/Kg. Bids for three years will be averaged and
+The Court held that royalty is not a tax. It is a payment the bidder with the least incentive demanded will
+that arises out of the contractual obligation to enjoy be allotted the production capacity.
+mineral rights.
+ Eligibility of bidder: In order to participate in
+The Court also held that power of states to tax mineral the bidding process, the bidder's net worth must
+rights cannot be superseded by powers of Parliament to exceed Rs 15 crore per thousand MT per annum
+regulate the sector. Under the Constitution, states’ of the quoted production capacity under the
+powers to tax mineral rights can be limited by an Act of Technology Agnostic pathway. For the bio-mass
+Parliament.26 The Court noted that the MMDR Act, based pathway, the bidder's net worth should be
+1957 does not restrict the state’s ability to collect taxes. greater than Rs 1.5 crore per thousand MT per
+annum of the quoted production capacity.
+The Court also held that states’ power to tax land
+extends to mines and quarries. Such lands can be taxed
+Guidelines for funding testing infrastructure
+based on mineral value or produce. It also stated that
+under the National Green Hydrogen Mission
+the Parliament cannot limit states’ powers to tax
+released
+mineral bearing lands.
+The Ministry has released guidelines for “Funding
+testing facilities, infrastructure, and institutional
+support for developing standards and regulatory
+New and Renewable Energy framework under the National Green Hydrogen
+Mission.” 30 A total of Rs 200 crore has been allocated
+Nripendra Singh (nripendra@prsindia.org) until 2025-26 for this scheme. The Green Hydrogen
+Mission aims to make India the Global Hub for
+Guidelines for implementing incentive scheme production, usage and export of Green Hydrogen and
+for Green Hydrogen Production its derivatives.31
+The Ministry of New and Renewable Energy issued The scheme for supporting testing infrastructure will:
+guidelines for implementing the “Incentive Scheme for (i) identify gaps in existing testing facilities, fund their
+Green Hydrogen Production (under Mode 1)- Tranche- upgradation and create new facilities for testing, (ii)
+II”.27 This scheme is a component of the Strategic validate and certify technologies used in production of
+Interventions for Green Hydrogen Transition Green Hydrogen, and (iii) encourage private and
+Programme (SIGHT). The programme provides government participation in establishing world class
+financial incentive mechanisms to boost the domestic testing facilities.
+manufacturing of electrolysers and green hydrogen in
+The scheme will be implemented by the National
+India.
+Institute of Solar Energy. It will call for proposals for
+The Scheme aims to maximise production and increase new testing facilities, and evaluate them based on
+cost-competitiveness of Green Hydrogen as a fuel. criteria that will be specified in later.
+Under Tranche-I of the scheme, 4,12,000 metric tons of
+For government testing entities, the Ministry will fund
+capacity have already been allocated to 10 companies
+up to 100% of the capital cost, while for non-
+for Green Hydrogen Production.28 The Guidelines
+government entities, the Ministry will fund 70% of the
+provide a framework for selecting beneficiaries for the
+capital cost required for equipment, installation, and
+second tranche of the incentive scheme. Key features
+of the Guideline include:29
+- 6 -
+Monthly Policy Review – July 2024 PRS Legislative Research
+commissioning of the project. Grant will be released in single-part tariff, capped at the Average Cost of
+three instalments. Supply (ACoS) applicable till March 31, 2026.
+Additionally, the draft also introduces differential
+Projects to establish new testing and certification
+pricing based on solar hours (9:00 AM to 4:00 PM)
+facilities must be completed within 18 months and
+projects for upgrading existing facilities must be at 0.7 times the ACoS, and non-solar hours at 1.3
+completed within 12 months from the date of approval. times ACoS.
+The implementing agency may grant an extension of up
+ Metering arrangements: There is a provision of
+to six months. Any extension exceeding six months will
+separate metering arrangements for EV charging
+only be granted with approval of Ministry of New and
+stations so that consumption may be recorded and
+Renewable Energy and will attract suitable penalties.
+billed as per the applicable tariff for EV charging
+stations. Public charging stations would be
+required to offer both prepaid and post-paid
+Environment options with time-of-day rates and solar hour
+discounts. Charging station operators would be
+Atri Prasad Raut (atri@prsindia.org) required to partner with at least one online
+Network Service Provider for remote booking of
+Comments invited on the amendments to the
+charging slots.
+Environment (Protection) Rules, 1986
+ Location of charging stations: The draft
+The Ministry of Environment, Forest and Climate
+guidelines also include requirements with regard to
+Change invited comments on the draft amendments to
+density and distance between two charging
+the Environment (Protection) Rules, 1986.32 These
+stations. There should be at least one charging
+Rules have been issued under the Environment
+station per 1 km x 1 km grid by 2029-30. There
+(Protection) Act, 1986.33 The Act was amended by the
+should also be at least one fast charging station at
+Jan Vishwas (Amendment of Provisions) Act, 2023.34
+every 100 kms on each side of the
+The 2023 Act decriminalised certain offences under the
+1986 Act. These include discharging pollutants above highways/expressways/road located preferably
+prescribed standards, not furnishing the required within or alongside the public charging stations.
+information, and contravention of directions issued These will be for heavy duty and long range EVs.
+under the Act. It provides for appointment of an Within cities, such charging facilities for heavy
+Adjudicating Officer for adjudicating offences and duty EVs may be located within Transport Nagars
+determining penalties. It also establishes the or bus depots.
+Environment Protection Fund. Penalties levied under
+the 1986 Act will be credited to this Fund. The draft  Database of public EV charging stations: The
+Rules seek to give effect to these provisions. Bureau of Energy Efficiency will create a national
+database of public charging stations. All public
+Comments are invited until September 16, 2024.
+charging stations operators shall be required to
+register on a national portal ‘EV Yatra’. Charger
+wise data such as: (i) energy sold, (ii) downtime
+duration, and (iii) service charges must be
+Power uploaded.
+Nripendra Singh (nripendra@prsindia.org) Defence
+Tushar Chakrabarty (tushar@prsindia.org)
+Comments sought on Draft revised guidelines
+on EV charging infrastructure
+Fifth positive indigenisation list notified
+The Ministry of Power released draft guidelines for
+The Ministry of Defence has notified the fifth positive
+electric vehicle (EV) charging infrastructure. The draft
+indigenisation list consisting of 346 items.36 These
+guidelines consist of changes to the tariff structure and
+items include various systems, sub-systems, spares, and
+facility requirements at EV charging stations.35 They
+raw materials which will be indigenised in a staggered
+seek to supersede the existing guidelines on charging
+manner. Their total import substitution value is Rs
+infrastructure and guidelines. Features of the draft
+1,048 crore. These items will be produced
+guidelines include:
+domestically by defence public sector undertakings.
+ Revised tariff structure: The draft guidelines
+include new a revised tariff structure for electricity
+supply to EV charging stations. It includes a
+- 7 -
+Monthly Policy Review – July 2024 PRS Legislative Research
+1 Bulletin II, Lok Sabha, July 6, 2024, https://www.trai.gov.in/sites/default/files/Regulation_Tariff_4th_amd
+https://sansad.in/getFile/bull2mk/2024/06-07- _08072024_0.pdf.
+24a.pdf?source=loksabhadocs. 21 The Telecommunication (Broadcasting And Cable) Services
+2 Bulletin II, Lok Sabha, July 18, 2024, Interconnection (Addressable Systems) (Sixth Amendment)
+https://sansad.in/getFile/bull2mk/2024/06-07- Regulations, 2024, TRAI, July 8, 2024,
+24a.pdf?source=loksabhadocs. https://www.trai.gov.in/sites/default/files/Regulation_Interconnection
+3 Union Budget 2024-25, j_6th_08072024_0.pdf.
+https://www.indiabudget.gov.in/previous_union_budget.php.
+22 The Telecommunication (Broadcasting And Cable) Services
+4 Economic Survey 2022-23, January 2023,
+Standards Of Quality Of Service And Consumer Protection
+https://www.indiabudget.gov.in/economicsurvey/doc/echapter.pdf.
+(Addressable Systems) (Fourth Amendment) Regulations, 2024,
+5 “Consumer Price Index Numbers on Base 2012=100 for Rural,
+TRAI, July 8, 2024,
+Urban and Combined for the Month of June 2024”, Press Information
+https://www.trai.gov.in/sites/default/files/Regulation_qos_4th_08072
+Bureau, Ministry of Statistics and Programme Implementation, July
+024_0.pdf.
+12, 2024, https://pib.gov.in/PressReleasePage.aspx?PRID=2032780.
+23 Consultation Paper on Review of Regulatory Framework for
+6 “Index Numbers of Wholesale Price in India for the Month of June,
+Broadcasting and Cable services, TRAI, August 8, 2023,
+2024 (Base Year: 2011-12)”, Press Information Bureau, Ministry of
+https://www.trai.gov.in/sites/default/files/CP_08082023_0.pdf.
+Commerce and Industry, July 15, 2024,
+24 Civil Appeal (4056-4064 of 1999), Mineral Area Development
+https://pib.gov.in/PressReleasePage.aspx?PRID=2033207.
+Authority Etc versus M/S Steel Authority of India and Others,
+7 The Reserve Bank of India (Treatment of Wilful Defaulters and
+Supreme Court, July 25, 2024,
+Large Defaulters) Directions, 2024, Reserve Bank of India, July 30,
+https://api.sci.gov.in/supremecourt/1999/9012/9012_1999_1_1501_5
+2024,
+4138_Judgement_25-Jul-2024.pdf.
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/MD122F0B6356D6
+25 Mines and Minerals (Development and Regulation) Act, 1957,
+BC14C85A960DEE7CDD9FBD8.PDF.
+8 Reserve Bank of India issues Revised Master Directions on Fraud https://www.indiacode.nic.in/bitstream/123456789/1421/3/A1957-
+67.pdf.
+Risk Management in the Regulated Entities, Reserve Bank of India,
+July 15, 2024, 26 Entry 50, List II – State List, Seventh Schedule, Constitution of
+https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR6988E8ACEEE India, Legislative Department, Ministry of Law and Justice,
+55A44D5781FB78A6B75F7AFF.PDF. https://lddashboard.legislative.gov.in/sites/default/files/COI...pdf.
+9 Master Directions on Fraud Risk Management in Commercial 27 “Ministry of New and Renewable Energy issues scheme guidelines
+Banks (including Regional Rural Banks) and All India Financial for implementation of Green Hydrogen under SIGHT Scheme (Mode
+Institutions, Reserve Bank of India, July 15, 2024, 1 Tranche-II)”, Press Information Bureau, Ministry of New and
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/118MDE97B8ED9 Renewable Energy, July 5, 2024,
+A09B4B21BE7FDDE5F836CD09.PDF. https://pib.gov.in/PressReleseDetail.aspx?PRID=2030958.
+10 Master Directions on Fraud Risk Management in Urban 28 “Tenders awarded for 4.12 lakh tonnes per annum of green
+hydrogen production and 1,500 MW per annum of electrolyser
+Cooperative Banks (UCBs) / State Cooperative Banks (StCBs) /
+manufacturing under National Green Hydrogen Mission: Union
+Central Cooperative Banks (CCBs), Reserve Bank of India, July 15,
+Power and New & Renewable Energy Minister”, Press Information
+2024,
+Bureau, Ministry of New and Renewable Energy, February 7, 24,
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/119MD1507243E7
+https://pib.gov.in/PressReleasePage.aspx?PRID=2003544#:~:text=Th
+2581B827246DA93059E0EC1951F6F.PDF.
+e%20Union%20Minister%20for%20New,(SIGHT)%20Scheme%20(
+11 Master Directions on Fraud Risk Management in Non-Banking
+Mode%2D.
+Financial Companies (NBFCs) (including Housing Finance
+29 353/40/2023-NT, Scheme Guidelines For implementation of
+Companies), Reserve Bank of India, July 15, 2024,
+‘Strategic Interventions for Green Hydrogen Transition(SIGHT)
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/120MDFRAUDRIS
+Programme- Component II; Incentive scheme for Green Hydrogen
+KNBFCS82139F5C3E9E47798592706B653930FA.PDF.
+Production(Mode 1)-Tranche-II” Of the National Green Hydrogen
+12 The Bharatiya Vayuyan Vidheyak, 2024, Mission, Ministry of New and Renewable Energy as accessed on July
+https://prsindia.org/files/bills_acts/bills_parliament/2024/Bharatiya_ 26,2024,
+Vayuyan_Vidheyak_2024.pdf. https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749
+13 The Aircraft Act, 1934, f3/uploads/2024/07/202407041145009350.pdf.
+https://www.indiacode.nic.in/bitstream/123456789/2400/1/AAA1934 30 353/61/2023-NT, Scheme Guidelines for funding of testing
+____22.pdf. facilities, infrastructure, and institutional support for development of
+14 “Constitution of the Education Advisory Council (EdAC) to GoI”, Standards and Regulatory framework under the National Green
+Ministry of Education, July 11, 2024, Hydrogen Mission, Ministry of New and Renewable Energy
+https://www.education.gov.in/sites/upload_files/mhrd/files/Constituti (Hydrogen Division),2024,
+on_EdAC_order.pdf. https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749
+f3/uploads/2024/07/202407042082639305.pdf.
+15 National Education Policy, 2020, Ministry of Education,
+31 National Green Hydrogen Mission, Ministry of New and
+https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Fina
+Renewable Energy, January 2023,
+l_English_0.pdf.
+https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749
+16 Draft Telecommunications (Digital Bharat Nidhi) Rules, 2024, f3/uploads/2023/01/2023012338.pdf.
+Ministry of Communications, July 4, 2024, 32 G.S.R. 418 (E), The Environment (Protection) (Amendment)
+https://dot.gov.in/sites/default/files/Draft%20DBN%20Rules%20Gaz Rules, 2024, Draft Notification, Ministry of Environment, Forest and
+etted%20Publication.pdf. Climate Change, July 18, 2024,
+17 The Telecommunications Act, 2023, https://egazette.gov.in/WriteReadData/2024/255568.pdf.
+https://egazette.gov.in/WriteReadData/2023/250880.pdf. 33 The Environment (Protection) Act, 1986,
+18 “About USOF”, Universal Service Obligation Fund, as accessed on https://www.indiacode.nic.in/bitstream/123456789/1876/4/A1986-
+July 10, 2024, https://usof.gov.in/en/about-usof. 29.pdf.
+19 The draft Telecommunications (Adjudication and Appeal) Rules, 34 The Jan Vishwas (Amendment of Provisions) Act, 2023,
+https://egazette.gov.in/WriteReadData/2023/248047.pdf.
+2024, Ministry of Communications, July 18, 2024,
+35 Request for comments on draft revised Guidelines on Electric
+https://dot.gov.in/sites/default/files/Draft%20Adjudication%20Rules
+Vehicle Charging Infrastructure for EVs prepared by Ministry of
+%20Gazette%20Notification.pdf.
+Power, Ministry of Power, July 1, 2024,
+20 The Telecommunication (Broadcasting And Cable) Services
+https://powermin.gov.in/sites/default/files/webform/notices/Request_
+(Eighth) (Addressable Systems) Tariff (Fourth Amendment) Order,
+2024, TRAI, July 8, 2024,
+- 8 -
+Monthly Policy Review – July 2024 PRS Legislative Research
+person with due acknowledgement of PRS Legislative Research
+(“PRS”). The opinions expressed herein are entirely those of the
+for_comments_on_draft_revised_Guidelines_on_Electric_Vehicle_C
+author(s). PRS makes every effort to use reliable and
+harging_Infrastructure_for_EV.pdf.
+comprehensive information, but PRS does not represent that the
+36 “Aatmanirbharta in defence: MoD notifies fifth Positive
+contents of the report are accurate or complete. PRS is an
+Indigenisation List of 346 items for DPSUs”, Press Information
+independent, not-for-profit group. This document has been
+Bureau, Ministry of Defence, July 16, 2024,
+prepared without regard to the objectives or opinions of those
+https://pib.gov.in/PressReleasePage.aspx?PRID=2033571.
+who may receive it.
+DISCLAIMER: This document is being furnished to you for your
+information. You may choose to reproduce or redistribute this
+report for non-commercial purposes in part or in full to any other
+- 9 -

@@ -1,0 +1,1603 @@
+Monthly Policy Review
+October 2025
+Highlights of this Issue
+Repo rate kept unchanged at 5.5% (p. 2)
+RBI’s Monetary Policy Committee voted to maintain the repo rate at 5.5%. The standing deposit facility rate,
+marginal standing facility rate and bank rate also remain unchanged.
+Consumer Price Index inflation was 1.7% in the second quarter of 2025-26 (p. 2)
+Inflation in the second quarter of 2025-26 was lower than the corresponding quarter last year (4.3%). Food
+prices declined by 1.6% in the second quarter of 2025-26.
+Cabinet approves terms of reference of the Eighth Central Pay Commission (p. 2)
+While making its recommendations, the Commission shall keep in view the country's economic conditions,
+fiscal prudence, adequacy of resources and impact on state finances.
+Comments invited on the Draft Electricity (Amendment) Bill, 2025 (p. 4)
+The draft Bill allows network sharing among distribution licensees operating in the same area. It mandates cost-
+reflective tariff and removal of certain cross-subsidies. It also provides for establishing an Electricity Council.
+Cabinet approves a mission to boost domestic production of pulses (p. 5)
+The Union Cabinet approved a Mission for self-sufficiency in pulses. The Mission will be implemented over a
+six-year period, from 2025-26 to 2030-31, with a financial outlay of Rs 11,440 crore.
+Comments invited on Draft National Labour and Employment Policy (p. 5)
+The draft Policy aims to increase female labour force participation rate, facilitate technology and green
+transitions, improve ease of compliance and formalisation, and achieve near zero workplace fatalities.
+IT Rules on issuance of content removal orders amended (p. 6)
+The amendments require senior-level authorisation for content removal, reasoned intimation, and periodic
+review of all such orders issued under the IT Rules, 2021.
+Comments invited on draft IT Rules on synthetically generated information (p. 6)
+The draft Rules mandate labelling of synthetically generated information. They also require users to declare if
+they are uploading synthetically generated information.
+Amendments notified to PLI scheme for textiles (p. 7)
+Key changes include reduction in minimum investment thresholds, a lower turnover criterion, and expansion of
+eligible product categories.
+Draft Rules under the National Sports Governance Act, 2025 released (p. 6)
+The draft Rules specify details for constitution of the National Sports Board, the National Sports Tribunal, and
+national sports governance bodies.
+Standing Committees of Parliament have identified issues to examine (p. 8)
+Topics include evaluation of DBT schemes for fertilisers, self-sufficiency of APIs for drugs, implementation of
+laws affecting the media, and census criteria for defining urban areas.
+November 3, 2025
+PRS Legislative Research ■ Institute for Policy Research Studies
+3rd Floor, Gandharva Mahavidyalaya ■ 212, Deen Dayal Upadhyaya Marg ■ New Delhi – 110002
+Tel: (011) 23234801, 43434035 ■ www.prsindia.org
+Monthly Policy Review – October 2025 PRS Legislative Research
+Wholesale Price Index (WPI) inflation averaged
+Macroeconomic Development 0.02% in the second quarter of 2025-26, lower
+than 1.8% in the corresponding quarter of 2024-
+Shania Ali (shania@prsindia.org) 25.3 In the first quarter of 2025-26, WPI
+inflation was 0.3%.
+RBI maintains repo rate at 5.5%
+The Reserve Bank of India’s (RBI) Monetary
+Policy Committee (MPC) voted to maintain the
+Finance
+policy repo rate (the rate at which RBI lends
+money to banks for short-term needs) at 5.5%.1 Shania Ali (shania@prsindia.org)
+Other decisions of the MPC include:
+Cabinet approves the terms of reference
+▪ The standing deposit facility rate (the rate at
+which RBI borrows from banks without of the Eighth Central Pay Commission
+giving collateral) has been kept unchanged
+The Union Cabinet approved the terms of
+at 5.25%.
+reference of the Eighth Central Pay
+▪ The marginal standing facility rate (rate at Commission.4 Central Pay Commissions are
+which banks can borrow additional constituted periodically to make
+overnight funds from RBI) and the bank rate recommendations on salaries and other service
+(rate at which RBI lends money to conditions of central government employees.
+commercial banks for the long term) have The Eighth Central Pay Commission was
+also been kept unchanged at 5.75%. announced in January 2025. The Commission is
+required to submit its report within 18 months of
+▪ RBI increased its projection for real GDP
+being constituted, keeping in view the following:
+growth for 2025-26 from 6.5% to 6.8%.
+(i) economic conditions in the country and the
+▪ The MPC decided to continue with its need for fiscal prudence, (ii) need to ensure
+neutral stance. adequacy of resources for developmental
+expenditure and welfare measures, (iii) unfunded
+CPI inflation averaged 1.7% in the cost of non-contributory pension schemes, (iv)
+possible impact on the finances of state
+second quarter of 2025-26
+governments as usually they adopt the
+Consumer Price Index (CPI) inflation was 1.7% recommendations with some modifications, and
+in the second quarter (July-September) of 2025- (v) the prevailing salaries and service conditions
+26, lower than the same quarter last year of central public sector undertakings and the
+(4.3%).2 In the first quarter (April-June) of private sector. The recommendations are likely
+2025-26, CPI inflation was 2.7%. to come into effect from January 1, 2026.
+Food prices declined by 1.6% in the second
+RBI announces several changes in
+quarter of 2025-26, compared to a 6.8% rise in
+banking regulations
+the corresponding quarter of 2024-25. In the
+first quarter of 2025-26, food inflation was 0.6%.
+RBI announced several measures in relation to
+Figure 1: Monthly inflation in Q2 of 2025-26 the banking sector.5 Key changes include:
+(% change, year-on-year)
+▪ Risk based premium framework for
+3% deposit insurance: Currently, banks are
+2.1% charged a premium of 12 paise per Rs 100
+2% 1.6% 1.5% of assessable deposits regardless of their
+financial soundness. Assessable deposits
+1% 0.5%
+are types of bank deposits that are covered
+0.1%
+under a deposit insurance system. RBI has
+0%
+proposed a risk-based premium model. This
+-1% -0.6% -0.6% will help banks that are sounder to save
+significantly on the premium paid.
+-2%
+-1.8% ▪ Review of capital market guidelines for
+-2.3% banks: Capital market exposures (CME) of
+-3%
+CPI WPI Food Inflation banks include investment in securities,
+lending against securities and lending to
+Jul-25 Aug-25 Sep-25
+capital market intermediaries (CMI) such as
+stock brokers. These are subject to
+Sources: Ministry of Statistics and Programme
+regulations including those related to
+Implementation; Ministry of Commerce and Industry; PRS.
+sectoral exposure limits, single borrower
+2
+Monthly Policy Review – October 2025 PRS Legislative Research
+limits, and margin requirements. Further, ▪ Lending in rupee to persons outside
+banks are generally not allowed to finance India: Authorised Dealer banks in India
+acquisition of shares. and their overseas branches have been
+permitted to lend in Indian Rupees to
+RBI has released a draft of the updated
+persons resident in Nepal, Bhutan, and Sri
+CME guidelines for commercial banks. The
+Lanka to facilitate cross-border trade.10
+draft outlines ceilings for CME for banks.6
+Banks may extend loans for acquisition of
+SEBI invites comments on amendments
+or against collateral of securities as per their
+to mutual fund regulations
+approved policy. Loans are not permitted
+against certain securities such as partly paid The Securities and Exchange Board of India
+shares, bonds and money market (SEBI) released a consultation paper on the
+instruments issued by banks, and own proposed amendments to the SEBI (Mutual
+securities. Banks may also lend to Funds) Regulations, 1996 (MF Regulations).11,12
+individuals to subscribe to shares during a Key changes proposed are:
+public offering, provided that these
+borrowers contribute a minimum cash ▪ Changes to levies by Asset Management
+margin of 25%. Companies (AMCs): The amendments
+propose certain changes to charges levied by
+Loans to CMIs to fund their day-to-day AMCs. These include: (i) allowing AMCs
+operations must comply with the following to charge differential expense ratios based
+provisions: (i) only CMIs registered and on the performance of a scheme, (ii)
+regulated by a financial sector regulator will removing the additional expense of 0.05%
+be eligible, (ii) eligible securities and cash that could be charged on mutual fund
+collateral should belong to the borrower, schemes where exit load was applicable,
+(iii) banks will not fund acquisition of (iii) increasing the first two slabs of the
+securities by CMIs, and (iv) banks will not expense ratio of open-ended active schemes
+accept securities as collateral in which by 0.05%, and (iv) excluding statutory
+market making operations are carried out by levies such as GST and stamp duty from
+CMIs. Market making operations provide expense ratio limits. Expense ratio refers to
+liquidity in the market. Banks may now the annual fee a mutual fund charges to
+extend loans to Indian companies to finance manage an investor’s money. Exit load is a
+acquisitions, subject to a specified threshold. fee charged by mutual funds upon
+withdrawal of units before a specified
+Similar guidelines have been issued for
+small finance banks.7 Comments are invited minimum holding period. Open-ended
+schemes do not have a fixed maturity
+until November 21, 2025.
+period.
+▪ Withdrawal of guidelines on enhancing
+▪ Management of non-pooled funds: AMCs
+credit supply for large borrowers: These
+may undertake investment management and
+guidelines were issued in August 2016 to
+advisory services for non-pooled funds by
+address concentration risk arising from
+completing requisite registration with SEBI.
+aggregate credit exposure of banks to a
+Non-pooled funds refer to arrangements
+single large corporate borrower. It aimed to
+wherein investor money is not combined in
+encourage such borrowers to seek funding
+a common pool, but is managed separately.
+from alternative sources. These guidelines
+are now proposed to be withdrawn.8 In this case, AMCs will be subjected to
+compliance with additional conditions such
+Concentration risk at individual bank-level
+as: (i) the unit providing such service shall
+is addressed through a different framework.
+operate as a distinct business unit with strict
+▪ Review of external commercial separation, (ii) the unit will institute
+borrowing (ECB) framework: mechanisms to prevent misuse of
+Amendments to the Foreign Exchange information obtained from mutual fund
+Management (Borrowing and Lending) operations to benefit other client, and (iii)
+Regulations, 2018, have been proposed to: such an activity will be undertaken by the
+(i) expand the base of borrowers and lenders AMC only through a subsidiary.
+eligible for ECB, (ii) link borrowing limits
+Comments are invited by November 17, 2025.
+to a borrower’s financial strength, (iii)
+propose raising of such debt at market
+determined rates, and (iv) simplify end-use PFRDA released consultation paper on
+restrictions, minimum average maturity enhancing the National Pension System
+requirements, and reporting requirements.9
+The Pension Fund Regulatory and Development
+Authority (PFRDA) released a consultation
+3
+Monthly Policy Review – October 2025 PRS Legislative Research
+paper titled “Enhancing the National Pension 2003.15 The 2003 Act consolidates laws related
+System: Proposals for Flexible, Assured and to generation, transmission, and distribution of
+Predictable Pension Schemes”.13 The National electricity. Key features of the draft Bill
+Pension System (NPS) is a defined contribution include:
+scheme wherein the amount contributed is fixed
+▪ Network sharing among discoms: Under
+and the pension payout depends on returns
+the Act, distribution licencees (discoms)
+generated by investments. To address subscriber
+operating in the same area must maintain
+concerns related to adequacy of corpus and
+separate networks. The Bill proposes to
+predictability of retirement income, PFRDA has
+remove this requirement. It allows a discom
+proposed three schemes under NPS framework:
+to supply electricity using the network of
+▪ Pension Scheme-I: This scheme aims to another discom, subject to oversight by
+maximise pension wealth through a mix of a State Electricity Regulatory Commissions
+step-up systematic withdrawal plan (SWP) (SERCs). It mandates that every discom
+and an annuity. The scheme requires a must provide open and non-discriminatory
+minimum accumulation period of 20 years, access to its network to other discoms,
+with no upper limit. Payouts begin with a subject to payment of charges determined
+monthly SWP at 4.5% of the corpus by the SERC.
+annually, increasing by 0.25% each year for
+▪ Cost-reflective tariff and removal of
+10 years. Then, beginning at age 70, an
+cross-subsidy: The 2003 Act provides that
+annuity is paid for at least 20 years and
+retail tariff for electricity must progressively
+continues for life. Annuity refers to a
+reflect the cost of supply of electricity and
+regular periodic payment.
+that cross-subsidies must be reduced in a
+▪ Pension Scheme-II: This scheme aims to specified manner. Cross-subsidy refers to
+provide a target pension with periodic the arrangement of one consumer category
+adjustments with inflation-linked to the subsidising the consumption of another
+Consumer Price Index for industrial consumer category. The Bill instead
+workers. It requires a minimum requires that the tariff must reflect cost of
+accumulation period of 20 years, with no supply of electricity. It also requires that
+upper limit, and provides for a decumulation cross-subsidies paid by manufacturing
+period of 25 years. Decumulation phase enterprises, railways, and metro be fully
+refers to the post-retirement period during eliminated within five years of the
+which the subscriber starts withdrawing commencement of the amendments.
+money from accumulated investments.
+▪ Exemption from supply obligation:
+Upon the subscriber’s death, the pension
+Electricity distribution licensees have a
+would be transferred to their spouse, and
+universal service obligation to supply power
+subsequently to other family members.
+to all categories of consumers. This
+▪ Pension Scheme-III: This scheme obligation also covers consumers permitted
+introduces Pension Credits, where each to source power directly from generators.
+credit assures Rs 100 per month post- These are consumers whose maximum
+maturity. It requires subscribers to provide power demand exceeds one megawatt. The
+inputs on the year of retirement, target Bill allows SERCs to exempt a discom from
+pension amount, and security mix for such obligation for such consumers, in
+investment. The accumulation period is consultation with the state government.
+limited to 15 years while decumulation
+▪ Establishment of Electricity Council: The
+period is one to five years. It also proposes
+Bill establishes an Electricity Council
+a potential secondary market for trading
+comprising union and state power ministers.
+pension credits.
+The Council will advise central and state
+governments on policy measures and
+coordinate the implementation of electricity
+sector reforms.
+Power
+Comments are invited until November 8, 2025.
+Ayush Stephen Toppo (ayush@prsindia.org)
+Comments invited on draft amendments
+to the Electricity Act, 2003
+The Ministry of Power has invited comments on
+the draft Electricity (Amendment) Bill, 2025.14
+The Bill seeks to amend the Electricity Act,
+4
+Monthly Policy Review – October 2025 PRS Legislative Research
+Agriculture Table 1: MSP for Rabi crops for 2026-27
+Crops 2025-26 2026-27 % change
+Vaishali Dhariwal (vaishali@prsindia.org)
+Wheat 2,425 2,585 6.6%
+Cabinet approves Mission to boost Gram 5,650 5,875 4%
+domestic production of pulses Lentil 6,700 7,000 4.5%
+(Masur)
+The Union Cabinet approved a Mission to boost
+Rapeseed 5,950 6,200 4.2%
+domestic production and achieve self-sufficiency
+Mustard
+in pulses.16 The Mission will be implemented
+over a six-year period, from 2025-26 to 2030-31, Safflower 5,940 6,540 10.1%
+with a financial outlay of Rs 11,440 crore. Key Sources: Cabinet Committee on Economic Affairs, October
+1, 2025, PRS.
+features of the scheme are as follows:
+▪ Distribution of seeds: The Mission aims to Cabinet approves subsidy rates on
+develop and promote high-yielding, pest- Phosphatic and Potassic fertilisers
+resistant, and climate-resilient varieties of
+pulses. By 2030-31, it targets: (i) The Union Cabinet approved subsidy rates for
+distribution of 126 lakh quintals of certified phosphatic and potassic fertilisers for the Rabi
+seeds to farmers, (ii) expansion of the area season 2025-26 (October 2025 to March 2026).18
+under pulses cultivation to 310 lakh The budgetary outlay for the subsidy is
+hectares, (iii) achieving production of 350 estimated to be around Rs 37,952 crore.
+lakh tonnes, and (iv) an improvement in
+yield to 1,130 kg per hectare. To support
+these goals, 88 lakh seed kits will be
+distributed free of cost to farmers. States Labour
+will prepare five-year rolling seed
+production plans. Vaishali Dhariwal (vaishali@prsindia.org)
+▪ Post harvest infrastructure: The Mission
+Draft National Labour and Employment
+seeks to strengthen post-harvest
+Policy released for public consultation
+infrastructure by establishing 1,000
+processing units. A subsidy of up to Rs 25
+The Ministry of Labour and Employment
+lakh will be provided for setting up
+released the draft National Labour and
+processing and packaging units. Employment Policy for public consultation.19
+▪ Assured procurement: The Mission The Policy aims to increase female labour force
+provides for assured procurement of Tur, participation and achieve near zero workplace
+Urad, and Masoor under the Price Support fatalities. The policy outlines seven objectives:
+Scheme, which aims to ensure stable prices (i) universal and portable social security, (ii)
+for farmers. The National Agricultural occupational safety and health, (iii) employment
+Cooperative Marketing Federation of India and future readiness, (iv) women and youth
+and the National Cooperative Consumers’ empowerment, (v) ease of compliance and
+Federation of India will carry out 100% formalisation, (vi) technology and green
+procurement in participating states for the transition, and (vii) convergence and good
+next four years from registered farmers. governance. It also positions the National
+Career Service as Digital Public Infrastructure
+for employment through job matching and
+Cabinet approves support prices for Rabi
+credential verification.
+crops for marketing season 2026-27
+Major initiatives proposed include: (i) creation
+The Union Cabinet approved the minimum
+of a Universal Social Security Account
+support prices (MSP) for rabi crops for the
+integrating EPFO, Employees State Insurance
+marketing season 2026-27.17 MSP refers to the
+Corporation, and e-SHRAM databases, (ii) risk-
+assured price at which the central government
+based inspections under the Occupational Safety
+procures crops from farmers. Wheat saw an
+and Health Code, 2020, (iii) convergence of
+increase of 6.6% and gram of 4%. MSP for
+Skill India, National Apprenticeship Promotion
+safflower saw the largest increase of 10% over
+Scheme, and Pradhan Mantri Kaushal Vikas
+2025-26 prices.
+Yojana into a single skill-employment
+continuum, and (iv) expansion of childcare,
+entrepreneurship, and flexible work measures to
+increase women’s labour force participation to
+35% by 2030. The policy also aims to ease
+compliance through a single-window digital
+5
+Monthly Policy Review – October 2025 PRS Legislative Research
+compliance system and promote integration of Information Technology (Intermediary
+AI into monitoring and governance capabilities. Guidelines and Digital Media Ethics Code)
+Amendment Rules, 2025.23 These seek to
+The policy will be implemented in three phases
+amend the IT Rules, 2021.22 The draft Rules
+(2025–27, 2027–30, post-2030) through a three-
+introduce obligations for online intermediaries
+tier structure. This will comprise: (i) the
+and users with regard to synthetically generated
+National Labour and Employment Policy
+information. Synthetically generated
+Implementation Council at the Union level, (ii)
+information has been defined as any information
+the State Labour Missions, and (iii) District
+that is artificially or algorithmically created,
+Labour and Employment Resource Centres.
+generated, modified or altered using a computer
+resource, in a manner that such information
+reasonably appears to be authentic. Key changes
+proposed include:
+Communications
+▪ Labelling requirements: Platforms that
+Ayush Stephen Toppo (ayush@prsindia.org)
+enable creation or modification of
+synthetically generated information must
+IT Rules on issuance of content removal ensure labelling and permanent unique
+identifier for such information. The label
+orders amended
+must be visibly displayed covering at least
+The Ministry of Electronics and Information ten percent of surface area of the display. In
+Technology has notified the Information case of audio content, the identifier must be
+Technology (Intermediary Guidelines and during the initial ten percent of the duration
+Digital Media Ethics Code) Amendment Rules, of the audio. The intermediary should not
+2025.20,21 These amend the IT Rules, 2021.22 enable modification, suppression or removal
+The 2021 Rules lay down the process through of such label.
+which online intermediaries, such as social
+▪ User declaration for synthetically
+media platforms, may be directed to remove or
+generated information and verification:
+restrict access to content. Key features of the
+A significant social media intermediary
+amendments include:
+must: (i) require users to declare whether the
+▪ Senior-level authorisation for content information they upload is synthetically
+removal: Under the 2021 Rules, an generated, (ii) deploy reasonable measures
+intermediary is required to disable access to to verify such declarations with regard to the
+any information stored, hosted or published nature, format, and source of the
+in their platform upon receiving: (i) a court information, and (iii) ensure that any
+order or (ii) a direction by central or state confirmed synthetically generated content
+government or its agencies. The 2025 Rules carries a prominent label.
+adds that these directions will only be issued
+Comments are invited until November 6, 2025.
+by a senior officer not below the rank of
+joint secretary or equivalent, or where such
+rank is not appointed, a director or an officer
+of equivalent rank. In case of police
+authorities, only an officer of the rank of Sports
+DIG or above will issue such directions.
+Vaishali Dhariwal (vaishali@prsindia.org)
+▪ Reasoned order: The amendments add that
+each direction for removal must specify the
+Comments invited on draft Rules under
+legal basis of the direction, nature of
+the National Sports Governance Act, 2025
+unlawful act, and the precise location (such
+as URL) of the content to be removed. The Ministry of Sports and Youth Affairs has
+released three set of draft Rules under the
+▪ Periodic review: The 2025 Rules also add
+National Sports Governance Act, 2025, for
+that such directions will be subject to a
+public feedback.24 These relate to: (i)
+monthly review by an officer of the rank of
+appointment of members to the National Sports
+Secretary or above to the central or the state
+Board, (ii) constitution of National Sports
+government.
+Bodies and their elections, and (iii) appointments
+to the National Sports Tribunal.25,26,27 Key
+Comments invited on draft amendments
+features of these draft Rules include:
+to IT rules on synthetically generated
+information ▪ National Sports Board: The Act
+establishes a National Sports Board. The
+The Ministry of Electronics and Information Board will grant recognition to the national
+Technology has invited comments on the draft
+6
+Monthly Policy Review – October 2025 PRS Legislative Research
+sports bodies and register their affiliate bidder’s bank guarantee will be appropriated for
+units. The draft Rules specify that the each month of delay.
+Board will comprise a chairperson and two
+other members, appointed by the central
+government. A search-cum-selection
+committee will be constituted to recommend Industry
+these appointments, headed by the Cabinet
+Secretary. Board members will hold office Ayush Stephen Toppo (ayush@prsindia.org)
+for three years, and will be eligible for
+reappointment for one more term, subject to PLI scheme for textiles amended
+the age limit.
+The Ministry of Textiles has notified
+▪ National Sports Bodies: General body of amendments to the Production Linked Incentive
+all sports bodies will have at least four (PLI) Scheme for textiles.31,32 The scheme was
+sportspersons of outstanding merit. The launched in 2021.33 It aims to increase domestic
+sports bodies will compile a list of male and production of certain products such as Man-
+female sportspersons before elections. Made Fibre (MMF) apparel, MMF fabrics, and
+Elections to the Executive Committee will technical textile products. Key changes include:
+be conducted through secret ballot.
+▪ Reduction in investment threshold:
+Electoral officers will be drawn from the
+Earlier, the scheme required a minimum
+National Sports Election Panel constituted
+investment of Rs 300 crore and Rs 100 crore
+by the central government.
+from manufacturers for part one (large
+▪ National Sports Tribunal: The Act projects) and part two (medium-scale
+establishes a National Sports Tribunal to projects) of the scheme, respectively. The
+adjudicate sports-related disputes. The draft amendments reduce the thresholds to Rs 150
+Rules specify that the Chairperson will hold crore and Rs 50 crore, respectively.
+office for four years, or until turning 70
+▪ Lower turnover criteria: To qualify for
+years old. Members will hold office for four
+incentives, manufacturers were previously
+years or until turning 67 years old. All
+required to record a minimum 25% increase
+members will be eligible for reappointment
+in the turnover over the previous year. The
+for one more term, subject to the age limit.
+amendments reduce this criterion to 10%
+Comments are invited until November 14, 2025. from the financial year 2025–26 (applicable
+from the second year onwards).
+▪ Expansion of eligible product categories:
+The amendments expand eligible product
+Mining
+categories to include eight new categories
+under the MMF apparel and nine under the
+Vaishali Dhariwal (vaishali@prsindia.org)
+MMF fabrics.
+Intermediary timelines specified for ▪ Relaxation in company registration
+execution of mining lease requirements: Earlier, applicants were
+required to set up new companies before the
+The Ministry of Mines has notified amendments
+commencement of investment. The
+to the Mineral (Auction) Rules, 2015. These
+amendments remove this requirement and
+Rules have been issued under the Mines and
+allow applicants to establish project units
+Minerals (Development and Regulation) Act,
+within existing companies.
+1957.28,29,30 The 2015 Rules prescribe a
+timeframe of three years (extendable by two
+years) for executing a mining lease from the date
+of issuance of a letter of intent (LoI). The 2025
+Rules add following intermediary timelines: (i) Environment
+approval of the mining plan within six months
+Vaishali Dhariwal (vaishali@prsindia.org)
+from the issuance of LoI, (ii) provision of
+environment clearance within 18 months of the
+Emission intensity targets released for
+approval of the mining plan, and (iii) execution
+of the mining lease within 12 months of the certain industries
+issuance of environment clearance. For
+The Ministry of Environment, Forest and
+composite licences, execution will be required
+Climate Change issued Greenhouse Gases
+within 12 months of issuance of LoI. A specified
+Emission Intensity Target (GEI) Rules, 2025,
+level of processing must be completed within 36
+under the Environment (Protection) Act,
+months post execution. An amount of 1% of the
+1986.34,35 These Rules specify greenhouse gases
+7
+Monthly Policy Review – October 2025 PRS Legislative Research
+emission intensity targets for industries in four An officer of the Ministry, equivalent to the rank
+sectors: (i) aluminium, (ii) cement, (iii) chemical of a joint secretary, will serve as a member
+processing, and (iv) pulp and paper. The Rules secretary to the Board. The Board will meet at
+will facilitate compliance under the Carbon least once in three months as determined by the
+Credit Trading Scheme, 2023.36 The scheme chairman or the member secretary. It will also
+provides a market-based mechanism to regulate have the power to constitute working groups of
+and trade carbon credits. professional experts to advise it on its functions.
+The Rules specify obligated companies and
+respective target years for compliance. The
+obligated companies must register under the
+Indian Carbon Market Framework. Companies Annexure
+will earn carbon credit certificates for achieving
+emission intensity levels below the set targets. Parliament has constituted some of its
+They may use previously banked and purchased Departmentally Related Standing Committees.
+carbon credit certificates to meet the shortfall if The subjects identified for examination for 2025-
+they are unable to meet these targets. The 26 by the Committees are given below.
+Central Pollution Control Board may impose
+environmental compensation on any company Chemicals and Fertilisers
+failing to comply with these Rules. This
+Department of Fertilisers
+compensation will be equal to twice the average
+1 Evaluation of the Direct Benefit Transfer
+price of carbon credit certificates traded in the
+(DBT) Scheme
+respective compliance year. This compensation
+2 Review of the Non-performing Assets/
+must be paid within 90 days of its imposition.
+Immovable properties lying idle in the
+Fertiliser Public Sector Undertakings
+(PSUs).
+3 Evaluation and monitoring of Fertiliser Subsidy
+Transport
+Schemes as well as Fertiliser Innovation
+Schemes’
+Atri Prasad Rout (atri@prsindia.org)
+4 Evaluation of performance of PSUs producing
+fertiliser (other than Business and Commercial
+Rules regarding constitution of the aspects)
+National Road Safety Board notified 5 Initiatives for ensuring growth of domestic
+fertiliser industry.
+The Ministry of Road Transport and Highways
+6 Fertiliser Projects and joint ventures for
+issued the National Road Safety Board Rules,
+ensuring availability of fertilisers and raw
+2025 under the Motor Vehicles Act, 1988.37,38
+materials.
+The Act provides that the Board will advise the
+7 Evaluation of Implementation of Fertilisers
+central and state governments on issues related
+(Movement Control) Order, 1973 with special
+to road safety such as: (i) standards of design, reference to effectiveness of levy of penalties
+construction and maintenance of motor vehicles, for violation of the Order
+and (ii) standards related to road safety, road 8 Development, Promotion and Growth in the
+infrastructure and traffic control. The Rules area of Nano Fertilisers including spray
+specify the organisational composition of the application mechanisms
+Board and related procedures. 9 Reform of Urea Policy and need for nutrient-
+based pricing for all fertilisers
+The Board will consist of: (i) a chairman as
+10 Alignment of logistics for efficient fertiliser
+appointed by the central government with at
+movement and availability at affordable prices
+least 15 years of experience in fields such as
+during peak season and steps taken to curb
+highway engineering and road safety, (ii) six forced Bundling of unnecessary boosters with
+members from state governments and union essential fertilisers
+territory administrations, (iii) two members 11 Promotion of Organic and Bio fertilisers
+representing Ministry of Road Transport and
+Department of Chemicals and Petrochemical
+Highways, (iv) two members from the National
+1 To establish India as a leading manufacturer
+Highways Authority of India, (v) one member
+of chemicals and petrochemicals by initiating
+from the National Highways and Infrastructure
+measures including, inter-alia, revival of sick
+Development Corporation, and (vi) at least five
+units
+more members with relevant experience as
+2 Review of the functioning of Central Institute
+appointed by the central government. The
+of Petrochemicals Engineering & Technology
+chairman will have a term of three years, while
+(CIPET), technical support services to plastic
+members representing states will serve for two industry by CIPET including R&D initiatives by
+years on a rotation basis. CIPET for the Plastic Industry
+8
+Monthly Policy Review – October 2025 PRS Legislative Research
+3 Factors impacting Dye-stuffs and dye Ministry of Electronics and Information Technology
+intermediates industry
+1 Impact of emergence of Artificial Intelligence
+4 Review of the functioning of Institute of and related issues
+Pesticide Formulation Technology (IPFT) 2 Social and digital platforms and their
+5 Setting up of Plastic Waste Management regulation
+Centres and steps taken to minimize the use 3 Cyber Security- Issues, Challenges and way
+of Plastic in the country forward
+6 Review of performance of Petroleum, 4 Biometric data and technologies: current and
+Chemicals and Petrochemical Investment future uses
+Regions (PCPIRs).
+5 Role of Digital Governance in Public Service
+7 Review of National Policy on Petrochemicals, Delivery
+2007 Ministry of Communications (Department of
+8 Addressing Quality challenges in the Indian Posts)
+Chemical Industry
+1 E-commerce logistics and supply chain
+9 Need for an effective policy for minimizing management in Postal Services
+residue from Insecticides and Pesticides
+2 Adoption of global best practices and the role
+formulation
+of Universal Postal Union (UPU) in
+Department of Pharmaceuticals strengthening India Post
+1 Self-sufficiency in production and availability 3 Review of services offered by the Department
+of Active Pharmaceutical Ingredients (API) of Posts- Challenges and Opportunities
+through various initiatives including Production 4 Status of Digital Infrastructure in India Post
+Linked Incentive Scheme (PLI)
+Ministry of Communications (Department of
+2 Establishing uninterrupted growth of the Telecommunications)
+Pharmaceutical Industry while ensuring quality
+1 Issues confronting Telecom Sector in India
+and safety standards
+3 Review of Pradhan Mantri Bhartiya 2 Self-Reliance in Telecom Manufacturing
+Janaushadi Pariyojna (PMBJP) with specific Sector
+reference to penetration of PMBJP in North- 3 Quality of Service (QoS) Standards and
+East states Consumer Protection in Telecom Sector
+4 Construction of Campuses of National Institute 4 Review of the performance of
+of Pharmaceuticals Education and Research schemes/projects under Digital Bharat Nidhi
+(NIPER) and Evaluation of performance of (DBN) implemented by Public and Private
+NIPERs Sector
+5 Review of Role, functions and duties of 5 Spectrum Management and its Role in Digital
+National Pharmaceutical Pricing Authority Growth
+(NPPA) with specific reference to increase in Coal, Mines and Steel
+prices of medicines in the country
+Ministry of Coal
+6 Setting up of National guidelines for Reuse of
+Single-Use Medical Devices 1 Role of Coal and Lignite Companies towards
+7 Generic versus branded medicines with Aatmanirbhar Bharat
+special reference to awareness and trust 2 Review of functioning of Coal India Limited
+deficit (CIL) and its subsidiaries
+8 Need for an integrated, transparent and 3 Review of functioning of Coal Controller’s
+predictable/reliable drug pricing mechanism Organisation (CCO)
+9 Inclusive growth of the Pharmaceutical 4 Review of functioning of Coal Mines Provident
+Industry Fund Organisation (CMPFO)
+Communications and Information 5 Conservation Safety and Infrastructure
+Technology Development in Coal Mines
+6 Coal Gasification Scheme
+Ministry of Information and Broadcasting
+7 Infrastructure development to augment
+1 Review of implementation of Laws related to
+washed coal production
+all forms of Media
+8 Coal Block Auction & Allocation process – A
+2 Review of functioning of Prasar Bharati
+Review
+Organization
+9 Land Acquisition and issues of Rehabilitation
+3 Overview of Film Industry
+& Resettlement in Coal/Lignite Mining Areas
+4 Emergence of OTT Platforms and related
+10 Research and Development in Coal Sector
+issues
+11 Future of Coal in India's Energy Mix
+5 Review of functioning of Central Bureau of
+Communication (CBC) 12 Implementation of Information Technology and
+6 Review of implementation of “The Information vigilance activities to curb illegal coal mining
+Technology (Intermediary Guidelines and and theft of coal in the country
+Digital Media Ethics Code) Rules, 2021 (Part 13 Compliance of Environmental Norms by
+III)” Coal/Lignite Companies
+9
+Monthly Policy Review – October 2025 PRS Legislative Research
+14 Skill development in Coal/Lignite Sector 13 Green Transition of the Iron and Steel
+Sector in India - Roadmap and Action
+15 Expediting and Simplifying the Environment
+Plan
+and Forest Clearance Process for Coal Mining
+Projects 14 Major Policy changes assisting
+Secondary Steel Sector
+16 Coal Mines Closure and Land Use
+Management 15 Management of Energy efficiency by
+Steel Plants
+Ministry of Mines
+16 Environmental Issues related to Steel
+1 Exploration of Offshore Mining in India –
+Plants
+Opportunities and challenges
+17 Development of Manganese Ore
+2 KABIL: India's quest for Global Critical
+Industry in India
+M inerals
+18 Status of Greenfield and Brownfield
+3 National Critical Minerals Mission: A step
+Projects of Steel PSUs
+towards making India Aatmanirbhar
+Energy
+4 Mineral Exploration and Mining Activities in
+North-Eastern States and their developmental Ministry of Power
+impact 1 Energy Security in India – Ensuring
+5 Measures for Abatement of Pollution due to uninterrupted availability of Energy at an
+Mining Activities affordable Price
+6 Review of functioning of National Aluminum 2 Energy Transition
+Company Limited (NALCO)
+3 Energy Conservation and Efficiency
+7 Review of functioning of Hindustan Copper
+4 Performance of Thermal (Coal and Gas
+Limited (HCL)
+based) Power Plants - Ensuring
+8 Review of functioning of Geological Survey of
+availability of sufficient quantity of Fuel
+India (GSI)
+5 Revival of Hydro Power Sector in the
+9 Review of functioning of Indian Bureau of
+Country
+Mines (IBM)
+6 Revamping of the Transmission Sector -
+10 National Mineral Exploration Trust (NMET) –
+Strengthening of the Infrastructure and
+Performance and Review
+Management of High Demand in the
+11 Measures to curb Illegal Mining of Minerals Power System
+and Metals in the Country
+7 Strengthening of the Electricity
+12 Safety, Health and Education facilities for Distribution Sector - Revamped
+inhabitants/workers in mining areas Distribution Sector Scheme with special
+13 Implementation of Information Technology (IT) focus on Aggregate Technical and
+and Artificial Intelligence (AI) in Mining Sector Commercial (AT&C) Losses and Smart
+Ministry of Steel Metering
+8 Ensuring Disaster Preparedness and
+1 Aatmanirbharta in Steel Sector and
+Response in the Power Sector
+Roadmap for ‘Made in India’ Steel
+production 9 Go Electric - Facilitating Electric Mobility
+and Development of Charging
+2 Organizational structure and
+Infrastructure for Electric Vehicles
+Performance of Steel Authority of India
+Ltd. (SAIL) – A Review 10 Impact of AI and Action Plan for ensuring
+Cyber Security in the Power Sector
+3 Review of functioning of Rashtriya Ispat
+Nigam Limited (RINL) 11 Carbon Footprints of Power Sector in
+India and Action Plan for Carbon Credit
+4 Review of functioning of NMDC Steel
+Trading Scheme
+Ltd. (NSL)
+12 Role of Power Sector Statutory Bodies,
+5 Review of functioning of National Mineral
+PSUs and Institutions in development of
+Development Corporation (NMDC)
+atmanirbhar Power Sector
+6 Review of functioning of KIOCL
+13 Emerging Scenario in the Power Sector
+7 Review of functioning of MOIL and Need for a New Electricity Policy –
+8 Review of functioning of MECON and its An Appraisal
+consultancy activities 14 Action Plan for Development of Pump
+9 PLI (Production Linked Incentive) Storage Plants and Battery Energy
+Scheme for Steel Sector Storage Systems
+10 Promotion of R&D in Iron and Steel Ministry of New and Renewable Energy
+Sector 1 India’s Renewable Energy Targets by
+11 Review of ‘Promotion of Flagging of 2030 and beyond
+Merchant Ships in India’ Scheme under 2 Performance of India’s Solar Energy
+the Ministry of Steel Sector
+12 Iron ore handling infrastructure in India 3 Evaluation of Wind Energy Sector in the
+Country
+10
+Monthly Policy Review – October 2025 PRS Legislative Research
+4 Pradhan Mantri Kisan Urja Suraksha 16 India and the Global South- Towards an
+Evam Utthaan Mahabhiyaan (PM- inclusive and equitable world order
+KUSUM) - An Evaluation 17 Recent developments in India-Pakistan
+5 PM Surya Ghar Muft Bijli Yojana - Grid relations
+connected Solar Rooftop Initiative 18 India’s Cultural Diplomacy and soft
+6 National Green Hydrogen Mission - Role power
+of Green Hydrogen in achieving Energy 19 India -Nepal bilateral ties
+Independence for India
+20 Strengthening India’s ties with Latin
+7 Ensuring Round-the-Clock-Power (RTC)
+American Countries
+from Renewable Energy Projects
+21 India’s Look East Policy: Review of India
+8 National Bioenergy Programme - An
+– ASEAN Partnership
+Evaluation
+22 Opportunities in African Countries and
+9 Green Energy Corridor - Development of
+India’s Engagement
+Evacuation and Transmission
+23 Schemes/programmes related to
+Infrastructure for Renewable Energy
+Overseas Indians- A Review
+10 Self-Reliance in Renewable Energy
+Sector - Production Linked Incentive
+Finance
+(PLI) Scheme for National Programme 1 Performance Review of International
+on High Efficiency Solar PV Modules Financial Services Centre (IFSC)- GIFT
+11 Renewable Energy Financing - Sound City and Way Forward
+and Innovative Financing as the key to 2 Review of Functioning of Aspirational
+accelerated Growth in Renewable District Programmes and Aspirational
+Energy Sector Block Programmes of NITI Aayog
+12 New Technologies in Renewable Energy 3 Way forward for Enhancing Ease of
+Sector - Progress in Offshore Wind, Geo Doing Business Parameters in India
+Thermal and Ocean Energy 4 Banking and Economic Progress:
+13 Research and Technology Development Navigating Challenges and Embracing
+in Renewable Energy Sector the Future
+14 Skill Development and Capacity Building 5 Insurance Sector: Impact, Challenges
+in Renewable Energy Sector and Opportunities
+External Affairs 6 Indirect Tax Reforms: Simplification,
+Rationalisation and Ease of Compliance
+1 Future of India-Bangladesh Relationship
+with Special Emphasis on GST
+2 India’s Role and Presence in the Arctic
+7 National Company Law Tribunal (NCLT):
+and Antarctic Regions
+Challenges and Way Forward
+3 India Europe Relationship: Opportunities
+8 Monitoring and Appraisal of Central
+and Challenges
+Sector Projects of Rs. 150 crore and
+4 India-Sri Lanka Relations and the Way above and Accountability for Time and
+Ahead Cost Overruns
+5 Role of QUAD 9 Review of Survey of Public Enterprises
+6 Understanding India-China Relations and Way Forward
+and the way forward 10 Review and Evaluation of Mechanism of
+7 Looking West: India's Relations with Memorandum of Understanding for
+West Asia including Israel Central Public Sector Enterprises
+(CPSEs)
+8 India’s Role in Global Tech diplomacy,
+Digital governance, Outer Space 11 Performance Review of Investor
+diplomacy, AI and emerging innovations Education and Protection Fund Authority
+(IEPFA)
+9 India-US Relations: Challenges,
+Opportunities and the Way Forward 12 Review of Corporate Social
+Responsibility
+10 India’s Role in Global Governance
+Institutions including reforms in UNSC 13 Performance Review of National
+Housing Bank (NHB) and its role in
+11 India’s Role in BRICS
+Strengthening Affordable Housing
+12 India’s trade diplomacy and geopolitics Finance and Enhancing Credit
+13 Functioning of Indian Missions Abroad: Accessibility in the Housing Sector
+An Assessment and Evaluation including 14 Evaluation of Centrally Sponsored
+functioning of Indian Foreign service Schemes/ Programmes: Budget
+14 Performance of Passport Issuance Allocation and Fund Flow
+System including Issuance of e- 15 Review of the Regulation and
+Passports and Review of the Indian Supervision of Payment and Settlement
+Passport Act and Rules Systems
+15 Facilitating cooperation and collaboration 16 Artificial Intelligence in Finance:
+with States and Union Territories Emerging Issues and Prospects
+11
+Monthly Policy Review – October 2025 PRS Legislative Research
+17 Climate Resilient Finance in India: 7 Review of Affordable Rental Housing
+Challenges and Opportunities Schemes of MoHUA
+18 Performance Review of SIDBI in 8 Review of Slums Redevelopment and
+financing and strengthening the MSME Resettlement initiatives of MoHUA
+Sector and the start-up ecosystem 9 Review of progress of various schemes
+19 Performance Review of NABARD in and programmes of the Ministry i.e.
+empowering and providing credit to the Swachh Bharat Mission (Urban),
+agriculture and rural sector Pradhan Mantri Awas Yojana (Urban),
+20 Non-Banking Financial Companies Atal Mission for Rejuvenation and Urban
+(NBFCs): Performance Review, Transformation (AMRUT), Urban
+Regulatory Gaps and Way Forward Challenge Fund (UCF), PM Street
+Vendor’s Atma Nirbhar Nidhi (PM
+21 Enhancing Financial Literacy and
+SVANidhi), National Urban Livelihood
+Financial Digitalisation: Challenges and
+Mission (DAY-NULM), National Urban
+Achievements
+Digital Mission (NUDM), Regional Rapid
+22 Functioning of Grievances Redressal
+Transit System (RRTS) etc
+Mechanism in Financial Sector
+10 Sustainable urban development of
+23 Review of working of Insolvency and
+heritage cities and cities of religious
+Bankruptcy Code and Emerging Issues
+importance
+24 Performance review of National
+11 Improving the standard and quality of
+Statistical Commission (NSC)
+living in urban cities with focus on Metro
+25 Direct Tax Reforms: Simplification, cities
+Rationalisation and Ease of Compliance
+12 Review of need and progress of Metro in
+26 Social Security for Informal Sector various cities
+27 Review of long-term public finances and 13 GIS-Based Master Planning and the
+debt at Centre and States Role and Functioning of the Town and
+28 Performance Evaluation of SEBI: Capital Country Planning 2 Organisation (TCPO)
+Market Regulation and Ensuring Investor 14 Public–Private Partnership (PPP) Model
+Protection in Urban Development: Effectiveness,
+29 Monetization of Public Sector Assets Challenges and Future Outlook
+including Disinvestment and Asset 15 Strengthening Urban Governance:
+Recycling Assessment of Human Resource
+30 RBI’s Evolving Role in India’s Dynamic capacity in Urban Local Bodies
+Economy 16 Revenue Mobilization and Budget
+31 Review of Members of Parliament Local Management in Urban Local Bodies
+Area Development Scheme (MPLADS) 17 Environmentally sustainable techniques
+in light of revised guidelines in urban planning and initiatives for
+32 A Study on Virtual Digital Assets (VDAs) developing eco- friendly cities with zero
+and Way Forward carbon emissions
+33 Evaluating Financing of Union Territories 18 Regularization of Unauthorized Colonies
+for Increasing Efficiency in Delhi and other cities
+34 Reviewing Role and Scope of Ministry of 19 Redevelopment of General Pool
+Planning (NITI Aayog) Residential Accommodation (GPRA)
+colonies and measures for augmentation
+35 Performance Review and Regulation of
+of Government residential quarters
+Pension Sector
+20 Status of Implementation of land pooling
+Housing and Urban Affairs
+policy in Delhi
+1 Census criteria for defining urban areas
+21 Review of functioning of Housing and
+2 PM-eBus Sewa Scheme Urban Development Corporation
+(HUDCO), Hindustan Prefab Limited
+3 Review of Implementation of Real Estate
+(HPL), Delhi Development Authority
+(Regulation and Development) Act, 2016
+(DDA), Central Public Works Department
+4 Review of Atal Mission for Rejuvenation
+(CPWD), National Buildings Construction
+and Urban Transformation (AMRUT)
+Corporation (NBCC), Directorate of
+with special emphasis on Urban Drinking
+Estates (DoE), Land and Development
+Water
+Office (L&DO), National Capital Region
+5 Review of Sewerage and Septage Planning Board (NCRPB), Delhi Urban
+Coverage in Cities with special reference Arts Commission (DUAC), National
+to interventions under Atal Mission for Capital Region Transport Corporation
+Rejuvenation and Urban Transformation (NCRTC), and Indian National Trust for
+(AMRUT & AMRUT 2.0) Art and Cultural Heritage (INTACH)
+6 Operation and Performance of Smart 22 Allotment of Government land in Delhi
+City Integrated Command and Control
+23 Strategies to address traffic congestion
+Centres (ICCCs) in E-Governance
+through smart traffic management
+systems in Cities
+12
+Monthly Policy Review – October 2025 PRS Legislative Research
+Industry Ministry of Rural Development (Department of
+Land Resources)
+Ministry of Micro, Small and Medium
+Enterprises 1 Implementation of the Land Acquisition
+Act, 2013
+1 Review of Credit Access and Financial
+Empowerment Mechanisms for MSMEs. 2 Review the status of Wasteland
+Development and Land Use Change
+2 Export Competitiveness and Global
+Market Integration of MSMEs. 3 Reviewing effective management of
+Common Property Resources & Grazing
+3 Support Mechanisms for Traditional and
+Lands
+Labour-Intensive MSME Sector
+4 Impact of Mining & Industrial Corridors
+4 Impact of US Tariffs on MSME Sector
+on Rural Habitation and Land
+5 Implementation of 25% prescribed
+5 Review the status of Watershed
+procurement from MSEs by CPSEs
+Development & Soil Conservation under
+under the Public Procurement Policy and
+Watershed Development Component of
+Review of release of their payment
+Pradhan Mantri Krishi Sinchayee Yojana
+Ministry of Heavy Industries (WDC-PMKSY)
+1 India’s Transition to Electric Mobility: 6 Implementation of Digital India Land
+Challenges and Opportunities Records Modernization Programme
+(DILRMP)
+2 Revival and Modernization Strategies for
+CPSEs under the Ministry of Heavy Ministry of Panchayati Raj
+Industries
+1 Review of Panchayat Extension to
+3 Competitiveness and Industry 4.0 Scheduled Areas (PESA) Act, 1996
+Integration in the Capital Goods Sector.
+2 Fiscal Empowerment of Panchayats
+3 Strengthening the role of Panchayati Raj
+Rural Development and Panchayati Raj
+Institutions (PRIs) in Disaster
+Ministry of Rural Development (Department of Management & Climate Response
+Rural Development) 4 Review of performance of Women &
+1 Rural Skilling and Migration: Impact Youth Leadership in Panchayats
+Study of Deen Dayal Upadhyaya 5 Review the implementation of Nine
+Grameen Kaushalya Yojana (DDU- themes in realization of Sustainable
+GKY), Deendayal Antyodaya Yojna- Development Goals (SDGs) through
+National Rural Livelihoods Mission Panchayats
+(DAY-NRLM), and Rural Self
+6 Effectiveness of the implementation of
+Employment Training Institutes (RSETIs)
+Constitution 73rd Amendment Act with
+2 Role of Banks in Rural Development special reference to coordination in
+3 Review the functioning of Mission three-tier system of Panchayat
+Antyodaya to strengthen Rural Health 7 Digital Empowerment of Rural India:
+and Nutrition Infrastructure Examination and Review of Common
+4 Scope of Livelihood Diversification in Service Centre (CSC) and BharatNet
+Rural Areas under National Rural Programme and Mobile connectivity
+Livelihoods Mission (NRLM) 8 Survey of Villages Abadi and Mapping
+5 Review of Autonomous Bodies under with Improvised Technology in Village
+MoRD: National Rural Infrastructure Areas (SVAMITVA) scheme.
+Development Agency (NRIDA), National Consumer Affairs, Food and Public
+Rural Livelihood Promotion Society Distribution
+(NRLPS), National Institute of Rural
+Ministry of Consumer Affairs, Food & Public
+Development and Panchayati Raj
+Distribution (Department of Consumer Affairs)
+(NIRDPR) and Bharat Rural Livelihood
+1 Dark Patterns and Manipulative Online
+Foundation (BRLF) etc.
+Practices: Challenges and remedial
+6 Review of the Progress made under
+measures
+Pradhan Mantri Gram Sadak Yojana
+2 Improving Quality Control and
+(PMGSY)
+Enforcement of BIS Standards
+7 Review of Rural Employment through
+3 Quality Assurance and Standardisation
+the Mahatma Gandhi National Rural
+of Ethanol and Bio-Fuels
+Employment Guarantee Act
+(MGNREGA) 4 Modernising the National Test House:
+Expanding Advanced Testing
+8 Review the Status of Pradhan Mantri
+Capabilities
+Awaas Yojana – Gramin (PMAY-G)
+5 Ensuring Availability of Essential
+Commodities with specific Reference to
+Petroleum and Petroleum Products
+6 Regulation of Packaged Commodities
+with specific Reference to Sugar Content
+13
+Monthly Policy Review – October 2025 PRS Legislative Research
+in Baby products and other Food 7 Identification and Rehabilitation of
+Products Bonded Labour
+7 Safeguarding consumer rights in banking 8 Implementation of prescribed minimum
+sector Wages in various Employment Sectors.
+8 Regulation and Supply of Textile 9 Social Security and Welfare Measures to
+Products under Essential Commodities provide old age protection to
+Act, 1955 Unorganised/ Informal Sector Workers
+9 Strengthening Consumer Rights under including Gig/Scheme workers, Street
+the New GST 2.0 Reforms Vendors, Stone Crushers, Fishermen
+10 National, State, and District Consumer and Workers in IT and
+Grievance Redressal Commissions: An Telecommunication Sectors
+assessment 10 Safeguards and measures for protecting
+11 Promoting consumer awareness and the interest of overseas contract workers
+transparency through effective product and the Returnees, particularly in the
+labelling Middle East Region.
+11 Employment Generation Programmes -
+Ministry of Consumer Affairs, Food & Public
+A Review
+Distribution (Department of Food and Public
+Distribution) 12 Empowerment of Women Workforce –
+An insight into their working conditions
+1 Predictive Analytics for Optimizing
+and implementation of various provisions
+Foodgrains Procurement
+available to them
+2 Storage of foodgrains: Existing
+13 India and International Labour
+infrastructure and future strategy
+Organisation (ILO) - Achieving objectives
+3 Transportation of foodgrains: Optimizing
+and review of conventions binding on
+movement
+India
+4 Modernisation of Public Distribution
+14 Expanding and providing affordable
+System: Strengthening Technical
+health care facilities to the workers and
+Database
+their families in the organised and
+5 Technological advancements in sugar unorganised sectors through ESIC with
+industry reference to rural and underserved areas
+6 Central Warehousing Corporation – challenges and resolution
+(CWC): Diversification of services 15 Social security measures to ensure
+7 Edible Oil Industry: A Review welfare of workers in Railways,
+Roadways, Airlines and Ports
+8 Quality Control Cells (QCCs)
+16 Impact of Technology and Automation
+9 Indian Grain Storage Management &
+on Jobs and Worker Welfare.
+Research Institute (IGMRI):
+Strengthening Post Harvest 17 Rights and Welfare of Domestic Workers
+Management and quality of food grain 18 Assessment of Working Conditions and
+Labour, Textiles and Skill Development Rights of Migrant Workers in India
+19 Policy Support for promoting
+Ministry of Labour and Employment
+employment in labour- intensive sectors
+1 Implementation of the Labour Codes. 20 Policy Framework and Rehabilitation of
+2 Working Conditions and Welfare workers in closed/sick industries
+Measures for Mine Workers, including 21 Evaluation of Employee Grievance
+Unauthorised Mines and assessment of Redressal Mechanisms and Compliance
+working of Directorate General of Mines with Labour Laws
+Safety (DGMS). 22 Review and regulation of Labour
+3 Contractual Appointments/Deployments Recruitment Agencies
+and Implementation of Labour Laws 23 Review of Performance and Integration
+concerning the welfare of of e-Shram Portal
+Contract/Casual Workers in Government
+Ministry of Textiles
+Organisations/Public Sector
+Undertakings/Public Sector 1 Skill Development vis-à-vis
+Banks/Establishments. Manufacturing and Upgradation in
+4 Implementation of Welfare measures for Textiles Sector
+Plantation Workers 2 Challenges/Opportunities in Indian
+5 Functioning of the Employees Provident Textile Industry
+Fund Organisation (EPFO) with special 3 Status/Performance of Handloom Sector
+reference to operation of the EPF
+4 Status and Reforming of Power loom
+Pension Scheme and Management of
+Sector
+Corpus Fund
+5 Performance of Marketing Agencies of
+6 Functioning of Dattopant Thengadi
+Handlooms and Handicrafts
+National Board for Workers Education
+6 Functioning of National Textile
+and Development (DTNBWED).
+Corporation (NTC)
+14
+Monthly Policy Review – October 2025 PRS Legislative Research
+7 Challenges/Opportunities in the Wool 13 Skill Upgradation and Language Training
+Sector for Migrant Workers Seeking Overseas
+8 Scope of Public-Private Sector Employment
+Partnership in Textile Sector 14 Evaluation of Skill Development and
+9 Review of the functioning of Textile Entrepreneurship Schemes across
+Cluster Development Scheme (TCDS) Ministries (PM Vishwakarma, RSETIs,
+etc.)
+10 Impact of waste emerging from Textile
+production on the environment and 15 Review of Government and Private ITIs
+measures/initiatives taken to curb it 16 Need for a National Skill Census
+11 Review of the functioning of SAMARTH -
+Petroleum and Natural Gas
+Scheme for Capacity Building in Textile
+Sector 1 Pricing of Petroleum Products Including
+Review of Pricing Policy
+12 Challenges and prospects under North
+Eastern Textile Promotion Scheme 2 Marketing and Supply of Petroleum
+(NERTPS) with special focus on Products
+Sericulture 3 Review of Physical and Financial
+13 Measures for promotion of Traditional Performance of Oil Companies
+handicrafts and preservation of dying 4 Review of Human Resource Policies of
+arts Oil PSUs
+14 Implementation of Prime Minister Mega 5 CSR Activities of Oil PSUs
+Integrated Textile Region and Apparel
+6 Measures for Ensuring Energy Security
+(PM MITRA) Scheme
+in the Country including Review of
+15 Review of the Implementation and Initiatives under ‘Atmanirbhar Bharat’
+Functioning of Raw Material Supply and ‘Make in India’
+Scheme for the Handloom Sector
+7 Efficacy of Domestic LPG Cylinder
+16 Evaluation of the Performance of Central Safety Campaigns
+Cottage Industries Corporation of India
+8 Review of On-Going projects of Oil
+Ltd
+PSUs.
+17 Performance, Modernisation and
+9 Customer Service Initiatives and
+Rehabilitation of British India Corporation
+Grievance Redressal Mechanisms in
+Ltd. Post Nationalisation in 1981
+Petroleum/Gas Sectors
+18 Review of the challenges faced by
+10 Examination of R&D Activities of Oil
+India’s Technical Textiles Sector and the
+PSUs
+future roadmap
+11 Review of SATAT Scheme and Other
+19 Inclusion of Textiles under the One
+Initiatives for Promoting Alternate Energy
+District One Product (ODOP) Initiative
+Sources
+Ministry of Skill Development and
+12 Environmental Issues in Petroleum
+Entrepreneurship
+Sector
+1 National Skills Qualifications Framework
+13 Review of Indradhanush Gas Grid
+– An Assessment
+Limited Towards Implementing
+2 Functioning of National Skill Hydrocarbon Vision 2030 for North-East
+Development Corporation (NSDC).
+14 Review of Impact of Ethanol Blending in
+3 Skill Training in Food Processing, Various Sectors
+Agriculture and Allied Sectors
+15 Review of LNG Infrastructure in the
+4 Recognition of Skills of Agniveers Country
+Scheme – An Assessment
+16 Examination of International Operations,
+5 Introduction of New ITI Upgradation Investments and Overseas Assets of Oil
+Scheme PSUs
+6 Skill Development under One District 17 Review of PDH-PP Project by GAIL at
+One Product (ODOP) Scheme Usar, Maharashtra
+7 Functioning of the National Council for 18 Levy of GST on Petroleum Products
+Vocational Education and Training
+19 Safety and Security in Transportation of
+(NCVET)
+Petroleum Products
+8 Implementation of Pradhan Mantri
+Kaushal Vikas Yojana 4.0 (PMKVY 4.0).
+20 Role of Private Sector in Petroleum and
+Natural Gas Sector
+9 National Apprenticeship Promotion
+21 Impact of Global Geo-Political Situation
+Scheme (NAPS)-2
+on Petroleum Sector
+10 Jan Shikshan Sansthan (JSS)
+22 Review of Domestic Production of
+11 Skill Loan Scheme Petroleum Products
+12 Scheme of Dual System of Training 23 Measures for Improving Services and
+Facilities at Retail Outlets of Oil PSUs.
+15
+Monthly Policy Review – October 2025 PRS Legislative Research
+Social Justice and Empowerment 4 Review of the functioning of the Tribal
+Cooperative Marketing Development
+Department of Social Justice & Empowerment
+Federation of India Limited (TRIFED)
+1 Review of functioning of National
+5 Schemes/programmes implemented for
+Scheduled Castes Finance Development
+the welfare of Tribals under Corporate
+Corporation (NSFDC)
+Social Responsibility (CSR)
+2 Scholarship Schemes for SCs, OBCs 6 Review of the implementation of the
+and Children of persons engaged in
+Scheduled Tribes and other Traditional
+hazardous and unclean occupations
+Forest Dwellers Act, 2006
+including Evaluation studies & their
+7 Review of financial assistance provided
+implementation
+to NGOs/VOs for the socio-economic
+3 Economic Empowerment through Skill
+development of Tribals including PVTGs
+Development Schemes for SCs, OBCs,
+8 Review of Skill Development Schemes
+DNTs and EBCs
+for Tribals including PVTGs
+4 Schemes/programmes implemented for
+9 Review of Pradhan Mantri Adivasi Nyaya
+the welfare of SCs/OBCs under
+Maha Abhiyaan (PM-JANMAN)
+Corporate Social Responsibility (CSR)
+Ministry of Minority Affairs
+5 Review of Functioning of National
+Backward Classes Finance & 1 Review of Scholarship Schemes for
+Development Corporation (NBCFDC) Minority Students
+6 Review of the implementation of The 2 Schemes/programmes implemented for
+Scheduled Castes and Scheduled Tribes the welfare of Minorities under Corporate
+(Prevention of Atrocities) Act 1989 and social responsibility (CSR)
+Protection of Civil Rights Act, 1955 3 Review of the Implementation of
+7 Review of financial assistance provided Pradhan Mantri Jan Vikas Karyakarm
+to NGOs/VOs for the socio-economic (PMJKY)
+development of SCs, OBCs, DNTs and 4 Review of Pradhan Mantri Virasat Ka
+EBCs Samvardhan (PM VIKAS)
+8 Atal Vayo Abhyuday Yojana (AVYAY) 5 Review of Skill Development/Schemes
+Department of Empowerment of Persons with for minorities including Seekho Aur
+Disabilities Kamao, USTTAD etc
+1 Review of functioning of National 6 Review of financial assistance provided
+to NGOs/VOs for the socio-economic
+Handicapped Finance and Development
+welfare of Minorities
+Corporation (NHFDC)
+2 Review of functioning of National Trust 7 Review of Scholarship Schemes for
+Minority Students
+for the Welfare of Persons with Autism,
+Cerebral Palsy, Mental Retardation and Ministry of Social Justice and Empowerment
+Multiple Disabilities (Department of Social Justice and
+3 Implementation of Reservation Policy for Empowerment and Department of
+Divyangjan Empowerment of Persons with Disabilities),
+Ministry of Tribal Affairs and Ministry of
+4 Review of Accessible India Campaign
+Minority Affairs
+5 Review of financial assistance provided
+1 Financial inclusion along with Priority
+to NGOs/VOs for the socio-economic
+Sector Lending by the Financial
+development of Divyangjan
+Institutions such as Banks/Non-Banking
+6 New age Software innovations for Financial Institutions of deprived
+empowerment of visually challenged and sections of the society including SCs,
+other Divyangjan OBCs, DNTs, EBCs, Divyangjans,
+7 Schemes/programmes implemented for Tribals and Minorities in co-ordination
+the welfare of Divyangjan under with concerned
+Corporate Social Responsibility (CSR) Ministries/Departments/Organizations
+8 Review of functioning of Rehabilitation 2 Socio-economic impact of the activities
+Council of India of Central Public Sector Enterprises on
+9 Review of Skill Development Schemes deprived sections of society including
+for Divyangjan SCs, OBCs, DNTs, EBCs, Divyangjan,
+Tribals and Minorities in co-ordination
+Ministry of Tribal Affairs
+with concerned
+1 Schemes for Educational and Economic Ministries/Departments/Organizations
+empowerment of Tribals
+Water Resources
+2 Review of functioning of Tribal Research
+Department of Water Resources, River
+Institutes (TRIs)
+Development and Ganga Rejuvenation
+3 Review of the functioning of the National
+Scheduled Tribes Finance and
+1 (i) Conservation, Development,
+Management and Abatement of pollution
+Development Corporation (NSTFDC)
+in river Ganga and its Tributaries under
+Namami Gange Programme with
+16
+Monthly Policy Review – October 2025 PRS Legislative Research
+reference to project deliverables and land in the country under various sectors
+timelines as well as performance of including Public Private Partnership
+State Governments; and (PPP) model on water consumption and
+(ii) An overview of the National River pollution control measures
+Conservation Plan-Other Basins 8 (i) Water Resources Management in
+2 (i) Management of Reservoirs and Water North-Eastern Region of the country with
+Bodies, streams, and rivers, including special reference to soil erosion caused
+wetland in protected/non-protected forest by Brahmaputra river and its tributaries
+areas, National Parks, Tiger Reserves including groundwater recharge and
+and Wildlife Sanctuaries impacting pollution control measures in the border
+sustainable flora and fauna; and areas adjoining Bhutan and Nepal; and
+(ii) Submergence of Islands in inhabited (ii) Restoration of water bodies across
+and uninhabited regions of various the Indian Himalayan Region (IHR) and
+States including forest areas North- Eastern Region (NER) affected
+3 An Overview of the Safety and due to impact of Major and Minor Hydro
+Functioning of Dams including small Power Stations, urbanization,
+dams with reference to Dam Safety Rule construction, sewerage and other
+curves under the Dam Safety anthropogenic activities
+Management Act in the background of 9 Review of Major, Medium and Minor
+Integrated Reservoir Operation for Flood Irrigation Projects in India including their
+Management including automated Status and Progress with regard to (i)
+Supervisory Control and Data Participatory Irrigation Management
+Acquisition System (SCADA) and (PIM) and (ii) Water Users Associations
+effective use of modern digital (WUAs).
+technologies – Role of National Dam 10 (i) Contamination/Pollution of Water
+Safety Authority (NDSA) Resources: Causes, Consequences and
+4 (i) Causes, Impact, Mitigation and Relief Remedial Measures to check ground
+Measures for Floods/Cloudburst/ water contamination with particular
+Landslides in the Country with special reference to the impact of pesticides and
+reference to Inter, Intra-State and Trans- other agricultural practices on water
+Border Rivers including protection of sources/ bodies in the country and water
+river banks, flood plains along with level rejuvenation measures; and
+issues of unregulated occupancy and (ii) Adverse Impact of pollution on sea
+encroachment; and water and marine life: Causes,
+(ii) Coordination among various Consequences and Remedial Measures
+Ministries/Departments including Central 11 Interlinking of Rivers: Significance,
+Water Commission (CWC), Indian challenges, and ongoing river interlinking
+Meteorological Department (IMD), projects such as Kosi-Mechi and Ken-
+National Disaster Management Authority Betwa and other Projects in pipeline
+(NDMA), Geological Survey of India
+12 Review of Major Canal Irrigation
+(GSI), National Disaster Response Force
+Projects, with special reference to the
+(NDRF) and Dam Authorities in flood
+Gandak and Eastern Rajasthan Canal
+management with reference to Early
+Projects including upgradation of existing
+Warning System (EWS) and lesson
+canal system in the country
+learnt from the recent case studies such
+13 Conservation and Restoration of smaller
+as floods/cloudburst/landslide in Punjab,
+Perennial and Non-Perennial rivers for
+Uttarakhand and Himachal Pradesh.
+inclusive water planning for sustainable
+5 Review of Pradhan Mantri Krishi
+development across the country
+Sinchayee Yojana (PMKSY) Projects
+including measures for de-siltation and
+both at State and National levels, and its
+improve navigability
+role in irrigation efficiency, water
+14 Backwater Management, Stagnation and
+management, and adoption of modern
+Depletion of Cultivable Land in Coastal
+technologies such as irrigation through
+Regions, including Impacts on
+pipes, drip, and sprinkler etc. with
+Aquaculture and Fisheries including
+special reference to the areas having
+pollution of ground water in the region
+three crop cultivation practices in a year
+15 Review of International Water Treaties
+6 Overall review of National Water Mission
+and Inter-State Water agreements with
+in view of the objectives of the National
+Nepal, Bhutan and Bangladesh focusing
+Action Plan on Climate Change
+on water sharing and flood management
+(NAPCC) with special focus on the
+National Mission for Sustaining the 16 An overview of the functioning of various
+Himalayan Ecosystem (NMSHE), Tribunals/Councils/Boards w.r.t. Inter-
+assessing progress, challenges, and State River Water Management in the
+effectiveness country
+7 Management of Water Resources by the 17 Overall impact of climate change on
+Major Organizations and industrial glacier melt, black carbon deposits, and
+establishment having large parcels of hydrology in the upper Himalayan
+17
+Monthly Policy Review – October 2025 PRS Legislative Research
+regions, including implications for village and GOBARdhan a waste to
+downstream water availability and wealth initiative in the country.
+disaster risk 3 Review of the steps taken for providing
+18 An overview of the Functioning of World Class Hygiene and Sanitation
+Various Organizations/Bodies under the Facilities at Tourist/Pilgrimage Places
+Department of Water Resources, River under ‘Green Leaf Rating’, ‘PRASAD
+Development and Ganga Rejuvenation Scheme’ and ‘Swachh Iconic Places
+19 An overview of the functioning of (SIP)’ and other state level tourist
+WAPCOS Limited and NPCC Limited locations
+including the role played by various 4 Challenges of Drinking Water Supply in
+PSUs, Industries/Corporations under Coastal Areas –Use of Latest
+CSR for maintenance, creation, and Technology and Innovation for Setting
+enhancement of water bodies and river up of cost-effective Desalination Plants
+rejuvenation 5 Solid, Liquid and Plastic Waste
+20 Review of Sustainable Flow of Adequate Management under Swachh Bharat
+Water for Irrigation and Navigational Mission – Grameen (SBM-G) including
+Purposes in Major Rivers and their collection, storage, and disposal.
+Tributaries, and Rejuvenation of Inland 6 An overview of the performance of JJM
+Waterways and SBM in Aspirational Districts and
+21 Review of Atal Bhujal Yojana and other backward districts
+Ground Water Management in the 7 Measures to ensure safe Drinking Water
+country including recharge measures Availability in Rural India including Arid
+such as Rainwater Harvesting and Regions and other Water Stressed
+integration with water conservation Areas in the country with reference to
+programs role of Canals in providing potable
+Department of Drinking Water and Sanitation drinking water
+1 Review of performance of Jal Jeevan 8 Role of Government, Local Bodies,
+Industries, PSUs, and Corporations
+Mission- Quality and functional
+under CSR for Creation, Maintenance,
+sustainability of piped water supply
+and Restoration of Ecosystem through
+infrastructure created under Jal Jeevan
+Jal Jeevan Mission, Swachh Bharat
+Mission (JJM) in rural area,
+maintenance, management, and Mission and Other Initiatives
+expansion
+2 Review of performance of Swachh
+Bharat Mission-Phase II with particular
+reference to achievement of open
+defecation free (ODF)plus target for all
+1 Monetary Policy Statement, 2025-26, Resolution of the India, October 24, 2025,
+Monetary Policy Committee, September 29 to October 1, https://www.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=4763
+2025, Reserve Bank of India, October 1, 2025, 8 Guidelines on Enhancing Credit Supply for Large
+https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx Borrowers through Market Mechanism – Repeal Circular –
+?prid=61332. Draft, Reserve Bank of India, October 1, 2025,
+2 Consumer Price Index Numbers on Base 2012=100 for https://www.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=4732
+Rural, Urban and Combined for the Month of September, 9 Draft – Foreign Exchange Management (Borrowing and
+2025, Ministry of Statistics and Programme Implementation, Lending) (Fourth Amendment) Regulations, 2025, Reserve
+October 13, 2025, Bank of India, October 2, 2025,
+https://www.mospi.gov.in/sites/default/files/press_release/CP https://www.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=4736
+I_PR_13oct25L.pdf.
+10 Foreign Exchange Management (Borrowing and Lending)
+3 Index Numbers of Wholesale Price in India for the Month (Amendment) Regulations, 2025, October 6, 2025,
+of September, 2025 (Base Year: 2011-12), Ministry of
+https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=129
+Commerce and Industry, October 14, 2025,
+15&Mode=0.
+https://eaindustry.nic.in/pdf_files/cmonthly.pdf.
+11 Consultation Paper on Comprehensive Review of SEBI
+4 “Cabinet approves Terms of Reference of 8th Central Pay
+(Mutual Funds) Regulations, 1996, Securities and Exchange
+Commission”, Press Information Bureau, Ministry of
+Board of India, October 28, 2025,
+Finance, October 28, 2025,
+https://www.sebi.gov.in/reports-and-statistics/reports/oct-
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=21832
+2025/consultation-paper-on-comprehensive-review-of-sebi-
+90.
+mutual-funds-regulations-1996-_97496.html.
+5 Statement on Developmental and Regulatory Policies,
+12 SEBI (Mutual Funds) Regulations, 1996, Securities and
+Reserve Bank of India, October 1, 2025,
+Exchange Board of India,
+https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx
+https://www.sebi.gov.in/acts/mfregu.html.
+?prid=61334.
+13 Consultation Paper on Enhancing the National Pension
+6 Reserve Bank of India (Commercial Banks - Capital
+System: Proposals for Flexible, Assured and Predictable
+Market Exposure) Directions, 2025 – Draft, Reserve Bank of
+Pension Schemes, September 30, 2025,
+India, October 24, 2025,
+https://pfrda.org.in/en/web/pfrda/w/consultation-paper.
+https://www.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=4762
+14 Draft Electricity (Amendment) Bill, 2025, Ministry of
+7 Reserve Bank of India (Small Finance Banks - Capital
+Power, October 9, 2025,
+Market Exposure) Directions, 2025 – Draft, Reserve Bank of
+https://powermin.gov.in/sites/default/files/webform/notices/S
+18
+Monthly Policy Review – October 2025 PRS Legislative Research
+27 Draft National Sports Governance (National Sports
+Tribunal) Rules, Ministry of Youth and Sports Affairs,
+eeking_comments_on_Draft_Electricity_Amendment_Bill_2
+October 15, 2025, https://yas.gov.in/sports/draft-national-
+025.pdf.
+sports-governance-national-sports-tribunal-rules-2025-
+15 The Electricity Act, 2003, inviting-comments.
+https://www.indiacode.nic.in/bitstream/123456789/2058/1/A
+28 The Mines and Minerals (Development and Regulation)
+2003-36.pdf.
+Act, 1957,
+16 “Union Cabinet Approves Mission for Aatmanirbharta in https://www.indiacode.nic.in/bitstream/123456789/19380/1/
+Pulses for 2025-26 to 2030-31,” Press Information Bureau, mmdr_act%2C1957.pdf.
+Cabinet, October 1, 2025,
+29 The Mineral (Auction) Second Amendment Rules, 2025,
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=21735
+The Gazette of India, Ministry of Mines, October 17, 2025,
+47.
+https://egazette.gov.in/WriteReadData/2025/267001.pdf.
+17“Cabinet approves Minimum Support Prices (MSP) for
+30 Mineral (Auction) Rules, 2015,
+Rabi Crops for Marketing Season 2026-27” Press
+https://ibm.gov.in/writereaddata/files/11222021124835Miner
+Information Bureau, Cabinet Committee on Economic
+al_Auction_Rules_2015%20updated%20upto%2002112021.
+Affairs, October 1, 2025,
+pdf.
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=21735
+66. 31 “Ministry of Textiles Notifies Major Amendments in PLI
+Scheme for Textiles to Boost MMF and Technical Textiles
+18 “Cabinet approves the Nutrient Based Subsidy rates for
+Sectors”, Press Information Bureau, Ministry of Textiles,
+Rabi 2025- 26 on Phosphatic and Potassic fertilisers” Press
+October 9, 2025,
+Information Bureau, Cabinet, October 28, 2025,
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=21767
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=21832
+95.
+91.
+32 Production Linked Incentive (PLI) Scheme for Textiles –
+19 Shram Shakti Niti 2025, Ministry of Ministry of Labour
+Amendments and Addition in the Scheme, Ministry of
+and Employment, October 8, 2025,
+Textiles, October 9, 2025,
+https://labour.gov.in/sites/default/files/draft_-
+https://pli.texmin.gov.in/frontend/images/Documents/Amend
+_mole_le_policy_-_v1.1.pdf.
+ment%20&%20Addition-PLI%20for%20Textiles%20-
+20 The Information Technology (Intermediary Guidelines and %20Noti%20dt%2009.10.2025.pdf.
+Digital Media Ethics Code) Amendment Rules, 2025,
+33 Production Linked Scheme for Textiles, 2021,
+Ministry of Electronics and Information Technology,
+https://pli.texmin.gov.in/frontend/images/Documents/1.%20
+October 22, 2025,
+PLI%20Textiles%20Notification_24.09.2021.pdf.
+https://www.meity.gov.in/static/uploads/2025/10/90dedea70a
+3fdfe6d58efb55b95b4109.pdf. 34 Notification of the Ministry of Environment, Forest and
+Climate Change, October 8, 2025,
+21 Government notifies amendments to Rule 3(1)(d) of the IT
+https://egazette.gov.in/WriteReadData/2025/266804.pdf.
+Rules, 2021 to enhance transparency, accountability and
+safeguards, Press Information Bureau, Ministry of 35 Environment Protection Act, 1986,
+Electronics and Information Technology, October 23, 2025, https://www.indiacode.nic.in/bitstream/123456789/4316/1/ep
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=21817 _act_1986.pdf.
+19. 36 Carbon Credit Trading Scheme, 2023, Ministry of Power,
+22 The Information Technology (Intermediary Guidelines and June 28, 2023,
+Digital Media Ethics Code) Rules, 2021, https://egazette.gov.in/WriteReadData/2023/246859.pdf.
+https://www.meity.gov.in/static/uploads/2024/02/Information 37 The Motor Vehicle Act, 1988,
+-Technology-Intermediary-Guidelines-and-Digital-Media- https://www.indiacode.nic.in/bitstream/123456789/1798/1/en
+Ethics-Code-Rules-2021-updated-06.04.2023-.pdf. g.pdf.
+23 The Information Technology (Intermediary Guidelines and 38 National Road Safety Board Rules, 2025, Ministry of Road
+Digital Media Ethics Code) Amendment Rules, 2025, Transport and Highways, October 27, 2025,
+Ministry of Electronics and Information Technology, https://egazette.gov.in/WriteReadData/2025/267201.pdf.
+October 22, 2025, DISCLAIMER: This document is being furnished to you
+https://www.meity.gov.in/static/uploads/2025/10/38be31bac for your information. You may choose to reproduce or
+9d39bbe22f24fc42442d5d1.pdf. redistribute this report for non-commercial purposes in
+24 The National Sports Governance Act, 2025, Ministry of part or in full to any other person with due
+Youth Affairs & Sports, https://yas.gov.in/national-sports- acknowledgement of PRS Legislative Research (“PRS”).
+governance-act-2025 The opinions expressed herein are entirely those of the
+25 Draft National Sports Governance (National Sports Board) author(s). PRS makes every effort to use reliable and
+Rules, Ministry of Youth and Sports Affairs, October 15, comprehensive information, but PRS does not represent
+2025, https://yas.gov.in/sports/draft-national-sports- that the contents of the report are accurate or complete.
+governance-national-sports-board-rules-2025-inviting- PRS is an independent, not-for-profit group. This
+comments. document has been prepared without regard to the
+objectives or opinions of those who may receive it.
+26 Draft National Sports Governance (National Sports
+Bodies) Rules, Ministry of Youth and Sports Affairs,
+October 15, 2025, https://yas.gov.in/sports/draft-national-
+sports-governance-national-sports-bodies-rules-2025-
+inviting-comments.
+19

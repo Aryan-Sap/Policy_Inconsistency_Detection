@@ -1,0 +1,506 @@
+Monthly Policy Review
+March 2025
+Highlights of this Issue
+Budget session 2025-26 reconvenes after recess (p. 2)
+The second half resumed on March 10, 2025 and is scheduled to end on April 4, 2025. Five Bills have been
+introduced in this session, and five Bills have been passed.
+Parliament passes bill to amend banking laws (p. 3)
+The Bill allows up to four nominees to be appointed for bank deposits and lockers. It also changes the definition
+of fortnight for banks to maintain cash reserves.
+Bill to regulate immigration, entry and stay of foreigners passed by Lok Sabha (p. 3)
+The Bill mandates registration of foreigners on arrival in India. It places obligations on certain entities such as
+educational and medical institutions to provide prescribed information regarding foreigners.
+Parliament passes the Disaster Management (Amendment) Bill, 2024 (p. 4)
+The Bill provides additional powers to the national and state disaster management authorities. It empowers
+states to establish Urban Disaster Management Authorities and State Disaster Response Forces.
+Indian Ports Bill, 2025 introduced in Lok Sabha (p. 4)
+The Bill replaces the Indian Ports Act, 1908. The Bill retains certain provisions of the Act and makes some
+changes related to applicability of the 1908 Act, administration of ports and adjudication of disputes.
+Lok Sabha passes the Bills of Lading Bill, 2024 (p. 4)
+The Bill replaces the Indian Bills of Lading Act, 1856. The Bill retains most provisions of the Act while
+additionally granting the central government the power to issue directions.
+Parliament passes Bill to replace the Boilers Act, 1923 (p. 5)
+The Bill replaces the Boilers Act, 1923. It regulates the manufacturing, installation, use, and repair of boilers
+and boiler components to ensure safe operation.
+Cabinet approves electronics component manufacturing scheme (p. 5)
+The Union Cabinet has approved Electronics Component Manufacturing Scheme. The scheme provides for
+various incentives for different categories of components.
+Parliament passes the Railways (Amendment) Bill, 2024 (p. 5)
+The Bill repeals the Railway Board Act, 1905 and incorporates the provisions regarding the Railway Board into
+the Railways Act, 1989.
+Modified ethanol interest subvention scheme notified (p. 6)
+The scheme will provide financial assistance to cooperative sugar mills for conversion of sugarcane-based
+feedstock ethanol plants to multi-feedstock based plants.
+Cabinet approves revisions to three livestock and dairying sector schemes (p. 6)
+The Union Cabinet approved revisions to the Rashtriya Gokul Mission, National Program for Dairy
+Development, and Livestock Health and Disease Control Programme.
+April 1, 2025
+PRS Legislative Research ◼ Institute for Policy Research Studies
+3rd Floor, Gandharva Mahavidyalaya ◼ 212, Deen Dayal Upadhyaya Marg ◼ New Delhi – 110002
+Tel: (011) 43434035-36, 23234801-02 ◼ www.prsindia.org
+Monthly Policy Review – March 2025 PRS Legislative Research
+Parliament Table 1: Balance of payments, Q3 2024-25 (USD
+billion)
+Atri Prasad Rout (atri@prsindia.org) Q3
+2023- Q2 2024-25 Q3 2024-25
+Budget Session 2025 resumes after recess 24
+a. Exports 106.6 104.6 109.8
+The Budget Session of Parliament commenced on
+b. Imports 178.3 188.8 189.0
+January 31, 2025. The session had a recess between
+c. Trade balance (a-b) -71.6 -84.3 -79.2
+February 14 and March 9, 2025, and reconvened for
+second half on March 10, 2025. d. Net services 45.0 44.6 51.2
+e. Other transfers 16.2 22.9 16.5
+Parliament passed five Bills in the second half of the
+f. Current account
+Budget Session till now. These are, (i) the Railways -10.4 -16.7 -11.5
+(c+d+e)
+(Amendment) Bill, 2024, (ii) the Oilfields (Regulation
+g. Capital account 17.3 36.1 -26.8
+and Development) Amendment, Bill, 2024, (iii) the
+h. Errors and
+Boilers Bill, 2024, (iv) the Disaster Management -0.9 -0.7 0.6
+omissions
+(Amendment) Bill, 2024, and (v) the Banking Laws i. Change in reserves
+6.0 18.6 -37.7
+(Amendment) Bill, 2024. Four Bills were passed in (f+g+h)
+one House, and are pending in the other. Two of these Sources: RBI: PRS.
+Bills, the “Tribhuvan” Sahkari University Bill, 2025,
+and the Immigration and Foreigners Bill, 2025 were
+introduced in this session.
+Finance
+The Union Budget was discussed in this session. The
+Finance Bill, 2025, and three Appropriation Bills were Tushar Chakrabarty (tushar@prsindia.org)
+also passed in the second half of this session.
+Parliament also passed the budget for Manipur, where Cabinet approves incentive scheme for
+President’s Rule was proclaimed in February 2025. promotion of low-value UPI transactions
+For more details on the legislative business to be taken
+The Union Cabinet approved an incentive scheme for
+up during the session, please see here.
+promotion of low-value BHIM-UPI transactions for
+person to merchant.2 The scheme has been approved
+for 2024-25 with an outlay of Rs 1,500 crore. The
+scheme will provide incentive at the rate of 0.15% per
+Macroeconomic Development transaction for payments up to Rs 2,000. The incentive
+will be provided to small merchants.
+Tushar Chakrabarty (tushar@prsindia.org)
+SEBI approves various decisions at board
+Current account deficit at 1.1% of GDP in
+meeting
+third quarter of 2024-25
+Securities and Exchange Board of India (SEBI)
+India recorded a current account deficit of USD 11.5
+approved various decisions at its meeting.3 Key
+billion (1.1% of GDP) in the third quarter (October-
+decisions include:
+December) of 2024-25, as compared to USD 10.4
+billion (1.1% of GDP) in the corresponding quarter of ▪ Disclosures by FPIs: Currently, foreign portfolio
+2023-24.1 In the second quarter (July-September) of investors (FPIs) must make certain disclosures if
+2024-25, current account deficit was USD 16.7 billion they hold: (i) more than 50% of their Indian equity
+(1.8% of GDP). assets in a single corporate group or (ii) equity
+assets worth over Rs 25,000 crore in the Indian
+The capital account registered a net outflow of USD
+markets.4 These disclosures relate to all entities
+26.8 billion in the third quarter of 2024-25 as compared
+holding any ownership, economic interest, or
+to a net inflow of USD 17.3 billion in the third quarter
+exercising control in the FPI. SEBI observed that
+of 2023-24. This was driven by net outflow of foreign
+equity market trading volumes have more than
+portfolio investment of USD 11.4 billion in the third
+doubled from when these limits were set. The
+quarter of 2024-25. In the second quarter of 2024-25,
+Board has approved increasing the disclosure
+net inflow into the capital account was USD 36.1
+threshold for FPIs from Rs 25,000 crore to Rs
+billion.
+50,000 crore.
+Foreign exchange reserves decreased by USD 37.7
+▪ Fees charged by investment advisors and
+billion in the third quarter of 2024-25, as compared to
+research analysts: Earlier, investment advisors
+an increase of USD 6 billion in the corresponding
+and research analysts were allowed to charge
+quarter of 2023-24. In the second quarter of 2024-25,
+advance fee for a maximum period of two quarters
+forex reserves increased by USD 18.6 billion.
+and one quarter, respectively. The Board has
+- 2 -
+Monthly Policy Review – March 2025 PRS Legislative Research
+allowed charging advance fees for a period of one based on the average of the balances held by banks
+year if agreed to by the client. at the closing of business of each day of a
+fortnight. A fortnight is defined as the period from
+▪ High-level committee on conflict of interest:
+Saturday to the second following Friday (including
+SEBI has decided to constitute a high-level
+both days). The Bill changes the definition of
+committee for reviewing certain provisions related
+fortnight to the period from: (i) first day to
+to members and officials of the Board. These
+fifteenth day of each month, or (ii) sixteenth day to
+provisions include conflict of interest, property
+the last day of each month. It also changes this
+disclosures, and investments. The committee is
+definition under the Banking Regulation Act where
+expected to submit its report within three months.
+non-scheduled banks are required to maintain cash
+reserves.
+RBI revises priority sector lending directions
+▪ Nomination: The Banking Regulation Act allows
+The Reserve Bank of India (RBI) released the RBI
+single or joint deposit holders to appoint a nominee
+(Priority Sector Lending – Targets and Classification)
+for their deposit. Such a nominee can also be
+Directions, 2025.5,6 These supersede the directions
+appointed for items left in custody of a bank or for
+issued in September 2020.7 The directions seek to
+a locker hired from a bank. The nominee can
+ensure adequate credit flow to those sectors which are
+access the deposit, articles, or locker in case of
+important for socio-economic development. Key
+death of the person who nominated him. The Bill
+changes include:
+allows the appointment of up to four nominees for
+▪ Co-operative banks: Under the 2020 directions, these purposes. For deposits, such nominees can
+the priority sector lending target for urban co- be appointed either successively or simultaneously
+operative banks was set at 40% of their adjusted while for other purposes they can be appointed
+net bank credit. This was to be increased to 75% successively. In case of simultaneous nominees,
+by 2025-26. The revised directions specify that the the nomination will be effective in a declared
+target will be fixed at 60%. proportion. For successive nomination, the
+nominee who has been named higher in the order
+▪ Renewable energy: The 2020 directions allow
+of nomination will receive priority.
+loans up to Rs 30 crore to be provided as priority
+sector loans for renewable energy. This can be ▪ Tenure of directors of co-operative banks: The
+provided for renewable energy-based power Banking Regulation Act prohibits the director of a
+generators and public utilities. The revised bank (except its chairman or whole-time director)
+directions increase the loan limit to Rs 35 crore. to hold office for more than eight years
+consecutively. The Bill seeks to increase this
+▪ Weaker sections: Loans to weaker sections can
+period to 10 years for co-operative banks.
+also be qualified as priority sector loans. Weaker
+sections include: (i) artisans, village, and cottage For a PRS summary of the Bill, see here.
+industries with individual credit limits up to one
+lakh rupees, (ii) self-help groups, (iii) individual
+women beneficiaries up to one lakh rupees per
+borrower. The revised directions increase the Home Affairs
+credit limits for artisans, village, and cottage
+industries to two lakh rupees. For individual Shirin Pajnoo (shirin@prsindia.org)
+women beneficiaries, the loan limit has been
+increased to two lakh rupees per borrower (not Immigration and Foreigners Bill, 2025
+applicable to urban co-operative banks). It also introduced in and passed by Lok Sabha
+adds transgenders and joint liability groups under
+The Immigration and Foreigners Bill, 2025 was
+the definition of weaker sections.
+introduced in Lok Sabha on March 11, 2025. It seeks
+to regulate immigration, entry, and stay of foreigners in
+Parliament passes Bill to amend banking laws
+India. It repeals the following Acts: (i) the Passport
+Parliament passed the Banking Laws (Amendment) (Entry into India) Act, 1920, (ii) the Registration of
+Bill, 2024.8 It amends the: (i) Reserve Bank of India Foreigners Act, 1939, (iii) the Foreigners Act, 1946,
+(RBI) Act, 1934, (ii) Banking Regulation Act, 1949, and (iv) the Immigration (Carriers’ Liability) Act,
+(iii) State Bank of India Act, 1955, (iv) Banking 2000. Key features of the Bill include:
+Companies (Acquisition and Transfer of Undertakings)
+▪ Immigration: The 1920 Act empowers the central
+Act, 1970, and (v) Banking Companies (Acquisition
+government to frame rules requiring persons
+and Transfer of Undertakings) Act, 1980.9,10,11,12,13 Key
+entering India to possess passports. The Bill
+features include:
+provides that persons entering or departing from
+▪ Definition of fortnight for cash reserves: Under India must also have a valid visa (for foreigners)
+the RBI Act, scheduled banks must maintain a along with valid passports or other valid travel
+certain level of average daily balance with the RBI documents. The Bill provides for setting up of the
+as cash reserves. This average daily balance is Bureau of Immigration for performing immigration
+- 3 -
+Monthly Policy Review – March 2025 PRS Legislative Research
+functions and other prescribed functions. technical assistance to authorities below them, (iii)
+Immigration functions include: (i) visa issuance recommending guidelines for minimum standards
+and regulation of entry into India, or (ii) transit, of relief, and (iv) preparing national and state
+stay and movement within and exit from India. disaster databases. NDMA will assess disaster
+preparedness of states, and also undertake post-
+▪ Registration of foreigners: The 1939 Act
+disaster audit of preparedness and response.
+empowers the central government to make rules
+for foreigners to report their presence to a ▪ Powers to states for disaster response: The Bill
+prescribed authority. The Bill provides that on empowers the state government to constitute a
+arrival in India, foreigners must register with a separate Urban Disaster Management Authority for
+Registration Officer. state capitals and cities with a municipal
+corporation. The Urban Authority will prepare and
+▪ Obligations of persons/entities to provide
+implement the disaster management plan for the
+prescribed information: The 1946 Act places
+area under it. The Act provides for constitution of
+obligations on masters of vessels/pilots of aircrafts
+a National Disaster Response Force for specialist
+transporting passengers/crew to furnish prescribed
+response to disaster situations. The Bill empowers
+information regarding foreigners onboard. Hotel
+the state government to constitute a State Disaster
+keepers providing accommodation to foreigners
+Response Force.
+shall also furnish such information. The Bill
+requires carriers landing or embarking in India to For a PRS summary of the Bill, see here.
+furnish information of crew/passengers on board to
+a civil authority or immigration officer. The Bill
+adds that educational institutions must provide
+prescribed information to the Registration Officer Ports, Shipping and Waterways
+on admitting foreigners. Further, medical
+institutions must provide information regarding Anirudh TR (anirudbtr@prsindia.org)
+foreign patients availing indoor treatment or their
+attendants availing lodging facilities to the Lok Sabha passes the Bills of Lading Bill, 2024
+Registration Officer.
+The Bills of Lading Bill, 2024 was passed in Lok
+▪ Carriers: The 2000 Act defines carrier as any Sabha.16 It seeks to replace the Indian Bills of Lading
+person or association of persons engaged in the Act, 1856.17 The Act provides a legal framework for
+business of transporting passengers by water or air. issuance of bills of lading.
+The Bill expands the definition to include
+▪ Retained provisions: The Act states that a bill of
+transportation of passengers and cargo by air,
+lading is conclusive evidence of goods on board.
+water, or, land through aircraft, ship, or any other
+It grants following persons all rights of suit and
+mode of transport. The Bill also prohibits
+liabilities regarding the goods: (i) the receiver as
+aircrafts/vessels/any other mode of transport
+per the bill of lading, or (ii) any third party to
+departing from India until a clearance has been
+whom the receiver may transfer the ownership of
+obtained from the Immigration Officer.
+goods. The Bill retains this provision.
+For a PRS summary of the Bill, see here.
+▪ Power to issue directions: The Bill adds that the
+central government may issue directions for
+Parliament passes the Disaster Management
+carrying out the provisions of the Bill.
+(Amendment) Bill, 2024
+For a PRS summary of the Bill, see here.
+Atri Prasad Rout (atri@prsindia.org)
+Indian Ports Bill, 2025 introduced in Lok
+The Disaster Management (Amendment) Bill, 2024
+Sabha
+was passed in both Houses of Parliament.14 The Bill
+amends the Disaster Management Act, 2005.15 The Act The Indian Ports Bill, 2025 was introduced in Lok
+establishes the National Disaster Management Sabha on March 28, 2025. It seeks to replace the
+Authority (NDMA), State Disaster Management Indian Ports Act, 1908. The Act outlines the powers of
+Authority (SDMA), and District Disaster Management the central and state governments with respect to: (i)
+Authority (DDMA) at national, state, and district altering port limits, (ii) safety and conservation of
+levels. ports, and (iii) levy of port-dues, fees, and other
+charges. The Bill retains certain provisions of the Act.
+▪ Functions of NDMA and SDMA: The Bill
+Key changes include:
+provides that NDMA and SDMA will prepare
+disaster management plans at their respective ▪ Maritime State Development Council: The Bill
+levels. The Bill introduces certain functions for requires the central government to establish the
+these authorities. These include: (i) taking periodic Maritime State Development Council. The
+stock of disaster risks, including emerging risks Council will issue guidelines in consultation with
+from extreme climate events, (ii) providing central and state governments on: (i) data or
+- 4 -
+Monthly Policy Review – March 2025 PRS Legislative Research
+information to be collected by ports along with the petroleum. The Bill expands the definition of mineral
+manner of collection, updation, storage and oils to include: (i) any naturally occurring hydrocarbon,
+submission to the Council, (ii) dissemination of (ii) coal bed methane, and (iii) shale gas/oil. It clarifies
+data or information related to ports, and (iii) that mineral oils will not include coal, lignite or helium.
+ensuring transparency of port tariff. It will also
+For PRS summary of the Bill, see here.
+make recommendations on matters related to
+legislative adequacy, efficiency of ports and
+Cabinet approves electronics component
+connectivity to ports.
+manufacturing scheme
+▪ State Maritime Boards: The Bill provides
+statutory recognition to all state maritime boards The Union Cabinet has approved an Electronics
+specified in the third schedule of the Bill. This Component Manufacturing Scheme with a funding of
+includes maritime boards established in states such Rs 22,919 crore. This scheme aims to attract both
+as Gujarat, Maharashtra, and Tamil Nadu. global and domestic investments in manufacturing. It
+Functions of the State Maritime Boards include: (i) aims to increase domestic value addition and connect
+exercising licensing functions for port Indian companies with global value chains. The
+infrastructure, (ii) supervision of all port works, scheme provides various incentives for different
+(iii) fixing port tariff, and (iv) regulation of categories of components.
+navigation within port limits.
+▪ Dispute Resolution Committee: The Bill
+requires state governments to constitute a dispute
+resolution committee to adjudicate disputes arising Railways
+between non-major ports, port concessionaires,
+port users, and port service providers within the Anirudh TR (anirudbtr@prsindia.org)
+state. Appeals against orders of the Committee
+Parliament passes the Railways (Amendment)
+shall be made to the High Court within sixty days.
+Bill, 2024
+▪ Pollution containment and response: Under the
+Bill, all ports must prepare a port waste reception The Railways (Amendment) Bill, 2024 was passed by
+and handling plan as prescribed by the central Parliament. The Bill seeks to repeal the Railway Board
+government and in consultation with the state Act, 1905. The 1905 Act provides for the constitution
+government. Every port must report incidents of the Railway Board to administer Indian Railways,
+involving threat of pollution to coastal waters to which is a departmental undertaking of the central
+the central or state governments, in a manner as government. The Bill seeks to incorporate provisions
+prescribed by the central government. regarding the Railway Board into the Railways Act,
+1989. The 1989 Act provides the legal framework for
+railways in the country. The Statement of Objects and
+Reasons to the Bill noted that this will eliminate the
+Commerce and Industry need to refer to two laws.
+Nripendra Singh (nripendra@prsindia.org)
+Parliament passes Bill to replace the Boilers Micro, Small and Medium
+Act, 1923 Enterprises
+The Boilers Bill, 2024 was passed by Parliament. It
+Anirudh TR (anirudh@prsindia.org)
+replaces the Boilers Act, 1923. The Act regulates the
+manufacturing, installation, use, and repair of boilers
+Ministry revises financial thresholds related to
+and boiler components to ensure safe operation. The
+the classification of MSMEs
+Bill retains all provisions of the Act. The Statement of
+Objects and Reasons to the Bill states that the Bill aims The Ministry of Micro, Small and Medium Enterprises
+to enhance clarity of the provisions. has amended the notification specifying investment and
+turnover thresholds for classifying micro, small and
+For a PRS analysis of the Bill, see here.
+medium enterprises.18,19 It has increased threshold
+across categories (Table 2).
+Parliament passes the Oilfields (Regulation and
+Development) Amendment Bill, 2024
+The Oilfields (Regulation and Development)
+Amendment Bill, 2024 was passed by Parliament. The
+Bill amends the Oilfields (Regulation and
+Development) Act, 1948. The Act regulates the
+exploration and extraction of natural gas and
+- 5 -
+Monthly Policy Review – March 2025 PRS Legislative Research
+Table 2: Revisions in investment and turnover limits fertilisers.22 The subsidy will be provided on the
+for MSMEs approved fertiliser rates. The expenditure on NBS
+Original (in Rs crore) Revised (in Rs crore) subsidy for the Kharif season 2025 is estimated at Rs
+Size 37,216 crore.
+Investment Turnover Investment Turnover
+Micro 1 5 2.5 10
+Small 10 50 25 100
+Animal Husbandry and Dairying
+Medium 50 250 125 500
+Source: Ministry of Micro, Small, and Medium Enterprises, March
+Shrusti Singh (shrusti@prsindia.org)
+21, 2025; PRS.
+The revised criteria will come into force from April 1,
+Cabinet approves schemes for animal
+2025.19
+husbandry and dairying sector
+The Union Cabinet has approved three revised central
+sector schemes aimed at improving the dairy
+Food and Public Distribution infrastructure, boosting growth in livestock sector, and
+preventing livestock diseases. Key features include:
+Shrusti Singh (shrusti@prsindia.org)
+▪ Rashtriya Gokul Mission: The Cabinet has
+approved the revised Rashtriya Gokul Misison
+Modified ethanol interest subvention scheme
+with an additional outlay of Rs 1,000 crore over
+notified
+2021-26.23 The mission is being implemented for
+The Ministry of Food and Public Distribution notified the conservation of indigenous bovine breeds,
+a scheme for cooperative sugar mills to increase genetic upgradation of bovine population, and
+production and supply of ethanol.20 Under the scheme, improvement of milk productivity.24 The revised
+financial assistance will be extended to cooperative scheme consists of two new components: (i) one-
+sugar mills for conversion of sugarcane-based time assistance of 35% of capital cost for
+feedstock ethanol plants to multi-feedstock based establishment of rearing centres, and (ii) 3%
+plants.21 Multi-feedstock based plants use inputs like interest subvention on loan taken by farmers for
+maize and damaged foodgrains, in addition to the purchase of high yielding breeds. The
+sugarcane to produce ethanol.21 Cooperative sugar additional allocation increases the total allocation
+mills will be offered interest subvention of 6% per for the Rashtriya Gokul Mission to Rs 3,400 crore
+annum or 50% of the interest, whichever is lower, with between 2021-22 to 2025-26.
+the subsidy being covered by the central government
+▪ National Program for Dairy Development:
+for a period of five years. The scheme will be made
+The National Program for Dairy Development is
+available to only those cooperative sugar mills which
+aimed at modernising and expanding dairy
+supply at least 75% of ethanol from the converted
+infrastructure for milk procurement, processing
+plants to Oil Marketing Companies for blending with
+capacity, and quality control.25 The Cabinet has
+petrol. For availing benefits, an application must be
+approved an additional allocation of Rs 1,000
+submitted within six months of notifying the scheme.
+crore under the scheme for the implementation
+period between 2021-22 and 2025-26.
+▪ Livestock Health and Disease Control Programme
+Chemicals and Fertilisers (LHDCP): The LHDCP aims to prevent and control
+diseases among livestock through vaccinations,
+Shrusti Singh (shrusti@prsindia.org) surveillance, and upgradation of healthcare
+facilities.26 The Cabinet has approved adding a new
+Cabinet approves Nutrient Based Subsidy rates component of Pashu Aushadhi under the scheme.
+for P&K fertilisers for 2025 Kharif season
+The Union Cabinet approved the Nutrient Based
+Subsidy (NBS) rates for the 2025 Kharif Season (April
+1 to September 30) for Phosphatic and Potassic
+1 Developments in India’s Balance of Payments during the Third 3 SEBI Board Meeting, Securities and Exchange Board of India,
+Quarter (October-December) of 2024-25, Reserve Bank of India, March 24, 2025, https://www.sebi.gov.in/media-and-
+March 28, 2025, notifications/press-releases/mar-2025/sebi-board-
+https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR2498F4B98BE meeting_92900.html.
+08BB249FB91E294D0DD13E94C.PDF. 4 SEBI/ HO/ AFD/ AFD – PoD – 2/ CIR/ P/ 2023/ 148, Securities
+2 “Cabinet approves Incentive scheme for promotion of low-value and Exchange Board of India, August 24, 2023,
+BHIM-UPI transactions (P2M)”, Press Information Bureau, Cabinet, https://www.sebi.gov.in/legal/circulars/aug-2023/mandating-
+March 19, 2025, additional-disclosures-by-foreign-portfolio-investors-fpis-that-fulfil-
+https://pib.gov.in/PressReleasePage.aspx?PRID=2112771. certain-objective-criteria_75886.html.
+- 6 -
+Monthly Policy Review – March 2025 PRS Legislative Research
+18 Notification of the Ministry of Micro, Small and Medium
+Enterprises, June 26, 2020,
+5 Master Directions - Reserve Bank of India (Priority Sector Lending
+https://egazette.gov.in/(S(p05kyeo0sc0gsf31behlnssq))/ViewPDF.asp
+– Targets and Classification) Directions, 2025, Reserve Bank of
+x.
+India, March 24, 2025,
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/128MD66C4DDCB 19 Notification of the Ministry of Micro, Small and Medium
+167C4DC9A5BD913570CB3D47.PDF. Enterprises, March 21, 2025,
+https://egazette.gov.in/(S(p05kyeo0sc0gsf31behlnssq))/ViewPDF.asp
+6 RBI Releases Revised Priority Sector Lending Guidelines, Reserve
+x.
+Bank of India, March 24, 2025,
+https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR2450721E454D 20 F.No.1(10)/2018-SP-I., Ministry of Consumer Affairs, Food and
+5F784FF3ADF9434D52DD12CC.PDF. Public Distribution, March 6, 2025,
+https://egazette.gov.in/(S(nh0lso2hcvqhqktgtx0ffcu4))/ViewPDF.asp
+7 Master Directions – Priority Sector Lending (PSL) – Targets and
+x.
+Classification, Reserve Bank of India, September 4, 2020,
+21 “Centre notifies scheme for Cooperative Sugar Mills for
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/MDPSL803EE9031
+conversion of existing sugarcane-based feedstock ethanol plants to
+74E4C85AFA14C335A5B0909.PDF.
+multi-feedstock based plants”, Press Information Bureau, Ministry of
+8 The Banking Laws (Amendment) Bill, 2024, Consumer Affairs, Food and Public Distribution, March 7, 2025,
+https://prsindia.org/files/bills_acts/bills_parliament/2024/Banking_La https://pib.gov.in/PressReleasePage.aspx?PRID=2109157.
+ws_as_passed_by_LS.pdf. 22 “Cabinet approves Nutrient Based Subsidy rates for Kharif, 2025
+9 The Reserve Bank of India Act, 1934, on Phosphatic and Potassic fertilisers”, Press Information Bureau,
+https://www.indiacode.nic.in/bitstream/123456789/2398/1/a1934- Ministry of Chemicals and Fertilisers, March 28, 2025,
+2.pdf. https://pib.gov.in/PressReleasePage.aspx?PRID=2116179.
+10 The Banking Regulation Act, 1949, 23 “Cabinet approves implementation of revised Rashtriya Gokul
+https://www.indiacode.nic.in/bitstream/123456789/1885/1/A194910. Mission with enhanced allocation for the years 2024-25 and 2025-
+pdf. 26”, Press Information Bureau, Cabinet, March 19, 2025,
+11 The State Bank of India Act, 1955, https://pib.gov.in/PressReleasePage.aspx?PRID=2112788.
+24 “Role of Rashtriya Gokul Mission”, Press Information Bureau,
+https://www.indiacode.nic.in/bitstream/123456789/1553/1/AAA1955
+Ministry of Fisheries, Animal Husbandry and Dairying, February 7,
+__23.pdf.
+2024,
+12 The Banking Companies (Acquisition and Transfer of
+https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2003559.
+Undertakings) Act, 1970,
+25 “Cabinet approves Revised National Program for Dairy
+https://www.indiacode.nic.in/bitstream/123456789/1373/4/a1970_5.p
+Development”, Press Information Bureau, Cabinet, March 19, 2025,
+df.
+https://pib.gov.in/PressReleasePage.aspx?PRID=2112791.
+13 The Banking Companies (Acquisition and Transfer of 26 “Cabinet approved Revision of Livestock Health and Disease
+Undertakings) Act, 1980, Control Programme (LHDCP)”, Press Information Bureau, Cabinet,
+https://www.indiacode.nic.in/bitstream/123456789/1792/3/a1980_40. March 5, 2025,
+pdf. https://pib.gov.in/PressReleasePage.aspx?PRID=2108419.
+14 The Disaster Management (Amendment) Bill, 2024, DISCLAIMER: This document is being furnished to you for your
+https://prsindia.org/files/bills_acts/bills_parliament/2024/Disaster_M information. You may choose to reproduce or redistribute this report
+anagement_(Amendment)_Bill_2024.pdf. for non-commercial purposes in part or in full to any other person
+15 The Disaster Management Act, 2005, with due acknowledgment of PRS Legislative Research (“PRS”).
+https://www.indiacode.nic.in/bitstream/123456789/2045/1/AAA2005 The opinions expressed herein are entirely those of the author(s).
+___53.pdf. PRS makes every effort to use reliable and comprehensive
+16 The Bills of Lading Bill, 2024, information, but PRS does not represent that the contents of the
+https://prsindia.org/files/bills_acts/bills_parliament/2024/Bills_of_La report are accurate or complete. PRS is an independent, not-for-
+ding_Bill_2024_Bill_Text.pdf. profit group. This document has been prepared without regard to the
+17 The Indian Bills of Lading Act, 1856, objectives or opinions of those who may receive it.
+https://www.indiacode.nic.in/bitstream/123456789/2278/5/A1856-
+9.pdf.
+- 7 -

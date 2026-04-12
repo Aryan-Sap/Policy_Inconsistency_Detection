@@ -1,0 +1,561 @@
+The Arunachal Pradesh Arun Parivar Patra Authority Act, 2025
+Act No. 6 of 2025
+DISCLAIMER: This document is being furnished to you for your information by PRS Legislative Research
+(PRS). The contents of this document have been obtained from sources PRS believes to be reliable. These
+contents have not been independently verified, and PRS makes no representation or warranty as to the accuracy,
+completeness or correctness. In some cases the Principal Act and/or Amendment Act may not be available.
+Principal Acts may or may not include subsequent amendments. For authoritative text, please contact the relevant
+state department concerned or refer to the latest government publication or the gazette notification. Any person
+using this material should take their own professional and legal advice before acting on any information contained
+in this document. PRS or any persons connected with it do not accept any liability arising from the use of this
+document. PRS or any persons connected with it shall not be in any way responsible for any loss, damage, or
+distress to any person on account of any action taken or not taken on the basis of this document.
+The Arunachal Pradesh Gazette
+EXTRAORDINARY
+PUBLISHED BY AUTHORITY
+No. 115, Vol. XXXII, Naharlagun, Monday, April 7, 2025, Chaitra 17, 1947 (Saka)
+GOVERNMENT OF ARUNACHAL PRADESH
+LAW, LEGISLATIVE AND JUSTICE DEPARTMENT
+CIVIL SECRETARIAT
+ITANAGAR
+—————
+NOTIFICATION
+The 7th April, 2025
+No. Law/Legn-3/2025.—The following Act of the Arunachal Pradesh Legislative Assembly
+which was passed in the Fourth Session of the Eighth Legislative Assembly and received the
+assent of the Governor of Arunachal Pradesh is hereby published for general information.
+(Received the assent of the Governor on 4th April, 2025)
+THE ARUNACHAL PRADESH ARUN PARIVAR PATRA
+AUTHORITY ACT, 2025
+(Act No. 6 of 2025)
+An
+Act
+to provide for, as a measure for good governance, efficient, transparent and targeted
+delivery of public welfare benefits and services to the individual residing in the State of Arunachal
+Pradesh, the expenditure for which is incurred from the Consolidated Fund of the State, using
+Arun Parivar Patra ID as identifier; constitution of Arunachal Pradesh Arun Parivar Patra
+Authority and for matters connected therewith or incidental thereto.
+Be it enacted by the Arunachal Pradesh State Legislature in the Seventy-Sixth Year of
+the Republic of India, as follows:
+CHAPTER - I
+Preliminary
+1. Short title, extent and commencement :
+(1) This Act may be called the Arunachal Pradesh Arun Parivar Patra Authority Act, 2025.
+(2) It shall extend to the whole of the State of Arunachal Pradesh.
+(3) It shall come into force on the date of its publication in the Official Gazette.
+2. Definitions :
+(1) In this Act, unless the context otherwise requires :
+(a) “Aadhaar number” means an identification number issued to an individual under
+sub-section(3) of Section 3 of the Aadhaar (Targeted Delivery of Financial and
+other Subsidies, Benefits and Services) Act, 2016 (Central Act No. 18 of 2016);
+(b) “Authentication” means the process by which the Aadhaar number along with
+demographic information and biometric information of an individual is submitted to
+the Arun Parivar Patra Resident Data Repository for its verification and such
+Repository verifies the correctness, or the lack thereof, on the basis of information
+available with it;
+(c) “Authority” means the Arunachal Pradesh Arun Parivar Patra Authority established
+and constituted under Section19;
+(d) “Biometric information” means photograph, finger print, iris scan, or such other
+biological attributes of an individual specified by the Central Government;
+(e) “Central Act” means the Aadhaar (Targeted Delivery of Financial and other
+Subsidies, Benefits and Services) Act, 2016 (Central Act No.18 of 2016) ;
+(f) “Demographic information” includes information relating to the name, date of birth,
+address, tribe, records of entitlement, income, medical history, and other relevant
+information of an individual.
+(g) “Enrolment” means enrolment of a family under Section 6 of this Act;
+(h) “family” means a group of members related to each other by blood, marriage or
+adoption and normally residing together and sharing meals;
+2 The Arunachal Pradesh Extraordinary Gazette, April 7, 2025
+(i) “Fund” means the Fund of the Authority established under Section 28;
+(j) “Government body” means anybody owned, controlled or substantially finance by
+the State Government.
+(k) “Head of the family” means a woman member of the family of the age of eighteen
+years or above, declared by the family members in the prescribed manner as
+head of the family:
+Provided that in case a family has no woman member of the age of eighteen years
+or above at the time of enrolment, any male member of the family of the age of
+twenty one years or above may be declared to be the head of the family till an
+eligible woman member of the family takes his place; or in case a family has no
+male member of the age of twenty one years or above at the time of enrolment,
+any eldest member of the family of any gender, may be declared as head of the
+family by the family members. If such head of the family is a male, he can remain
+so only till an eligible woman member of the family takes his place;
+(l) “Identity information” in respect of a member of a family includes his Aadhaar number
+and his demographic information;
+(m) “Arun Parivar Patra ID” means a unique Arun Parivar Patra ID, for identifying a
+family issued, under Section 6;
+(n) “Arun Parivar Patra Platform” means an electronic mechanism of interface between
+the resident and the Government department or Government body created under
+the provisions of this Act;
+(o) “Arun Parivar Patra Resident Data Repository” means the Arun Parivar Patra
+Resident Data Repository created under Section 9 of this Act;
+(p) “Prescribed” means prescribed by rules made under this Act;
+(q) “Public welfare benefits” means any advantage, gift, reward, relief, aid, subsidy or
+any payment, whether in cash or kind, provided by the State Government directly
+or through a Government body to an individual or a family and includes such other
+benefits as may be notified by the State Government from time to time;
+(r) “Records of entitlement” means records of public welfare benefits and services
+under any programme or scheme for which any family or any of its members is
+entitled to;
+(s) “Registrar” means any entity authorised or recognized by the Authority for the
+purpose of enrolment under this Act;
+(t) “Regulations” means the regulations made by the Authority under this Act;
+(u) “Requesting entity” means a Government Department or a Government body
+that submits the Arun Parivar Patra ID, identity information and photograph
+(if required) to the Arun Parivar Patra Resident Data Repository for authentication;
+(v) “Resident”, with all its grammatical variations, means a resident who has resided
+in a local area of Arunachal Pradesh for the past six months or more or a person
+who intends to reside in that area for the next six months or more;
+(w) “Rules” means the rules made by the State Government under this Act;
+(x) “Service” means any provision, facility, utility or any other assistance provided in
+any form to a family or an individual and includes such other services as may be
+notified by the State Government from time to time;
+(y) “Verification” means the process of verifying the correctness of the identity
+information submitted by the Head of the Family or any adult member at the time
+of enrolment.
+(2)Words and expressions used in this Act but not defined herein above shall have the
+same meanings as respectively assigned to them under the Central Act.
+CHAPTER - II
+Authentication
+3. Authentication and Proof of Aadhaar and/or Arun Parivar Patra necessary for
+receipt of Public Welfare Benefits and services: The State Government may, for the
+purpose of establishing identity of an individual as a condition for receipt of public welfare
+benefits and services for which the expenditure is incurred from the Consolidated Fund of
+the State, require that such individual undergo authentication, or furnish proof of possession
+of Aadhaar number and/or Arun Parivar Patra ID or in the case of an individual to whom no
+Aadhaar number and no Arun Parivar Patra ID has been assigned, such individual makes
+an application for enrolment:
+Provided that till such time an Aadhaar number and/or Arun Parivar Patra ID is not assigned
+to an individual, the individual shall be offered alternate and viable means of identification
+for delivery of public welfare benefits and services.
+The Arunachal Pradesh Extraordinary Gazette, April 7, 2025 3
+4. Notifying schemes by the State Government: The State Government shall, from time
+to time, notify public welfare benefits and services for which such authentication or proof
+is required as per Section 3.
+5. Application of Chapter III of Central Act: The provisions of Chapter III of the Central Act
+shall mutatis mutandis apply to authentication under this Act.
+CHAPTER-III
+Arun Parivar Patra Card
+6. Enrolment for Arun Parivar Patra Card:
+(1) Every resident family of the State shall be entitled, through its head or through any
+eldest or adult member, to obtain Arun Parivar Patra Card by submitting identity
+information and photograph of all its members in the prescribed manner.
+(2) On receipt of the identity information and photograph of the members of the family
+under sub-section(1), the Authority shall, after verifying the information in such
+manner, as may be prescribed, enroll the family and assign to the family a unique
+Arun Parivar Patra ID which shall be a unique random number.
+7. Salient features of Arun Parivar Patra ID :
+(1) An Arun Parivar Patra ID assigned to a family shall be a unique number and it shall
+not be re-assigned to any other family.
+(2) An Arun Parivar Patra ID shall be a random number and bear no relation to the attributes
+or identity of the Arun Parivar Patra ID holder.
+(3) An Arun Parivar Patra ID, in physical or electronic form subject to authentication and
+other conditions, a may be prescribed, shall be accepted as proof of identity and
+proof of address of the family members for the purpose of public welfare benefits and
+services and may also be accepted as proof of identity and proof of address for any
+other purpose.
+Explanation : For the purposes of this sub-section, the expression “electronic form”
+shall have the same meaning as assigned to it I clause (r) of sub-section (1)
+of Section 2 of the Information Technology Act, 2000 (Central Act No.21of 2000).
+8. Arun Parivar Patra Card:
+(1) On enrolment under Section 6, the Authority shall issue to the head of the family a
+Arun Parivar Patra Card in such form and in such manner, on payment of such fees,
+if any, as may be prescribed.
+(2) If any member of the family so desires by an application made in this behalf, he/she
+may also be issued an individual Arun Parivar Patra card in such form and in such
+manner, on payment of such fees, if any, as may be prescribed.
+CHAPTER - IV
+Arun Parivar Patra Resident Data Repository and Protection of Information
+9. Creation of Arun Parivar Patra Resident Data Repository :
+(1) The Authority shall create and maintain a data base of identity information and
+photograph of all the Arun Parivar Patra card holders as the Arun Parivar Patra Resident
+Data Repository in such manner as may be prescribed
+(2) The Authority may engage any agency, as it may deem appropriate, to create and
+maintain the Arun Parivar Patra Resident Data Repository and to perform any other
+functions relating to the Arun Parivar Patra Resident Data Repository as may be
+prescribed.
+10. Security and confidentiality of information:
+(1) The Authority shall ensure the security and confidentiality of the data in Arun Parivar
+Patra Resident Data Repository.
+(2) Without prejudice to the generality of sub-section (1), the Authority shall-
+(a) adopt and implement appropriate technical and organisational security measures;
+(b) ensure that the agencies, consultants, advisors or other persons appointed
+or engaged for performing any function of the Authority under this Act, have in
+place appropriate technical and organizational security measures for the
+information; and
+(c) ensure that the agreements or arrangements entered into with such agencies,
+consultants, advisors or other persons, impose obligations equivalent to those
+imposed on the Authority under this Act, and require such agencies, consultants,
+advisors or other persons to act only on instructions from the Authority.
+4 The Arunachal Pradesh Extraordinary Gazette, April 7, 2025
+(3) Save as otherwise provided in this Act, the Authority or any of its officers or other
+employees or any agency that maintains the Arun Parivar Patra Resident Data
+Repository shall not, whether during his service or thereafter, reveal any information
+stored in the Arun Parivar Patra Resident Data Repository or authentication record to
+anyone except in accordance with any law for the time being inforce:
+Provided that any information of Arun Parivar Patra card holder stored in the Arun
+Parivar Patra Resident Data Repository may be revealed to such holder on a request
+made by him in the manner specified in regulations.
+(4) The provisions of Chapter VI of the Central Act shall mutatis mutandis apply to
+Protection of Information under this Act.
+11. Restriction on sharing information :
+(1) No identity information and photograph of Arun Parivar Patra card holder collected
+under this Act and Arun Parivar Patra ID shall be shared with anyone, for any reason
+whatsoever, except in accordance with the provisions of this Act.
+(2) Arun Parivar Patra ID,identity information and photograph shall not be published,
+displayed or posted publicly, except for such purposes, as may be prescribed.
+(3) Arun Parivar Patra ID,identity information and photograph may be used by the
+Government for identifying beneficiaries for welfare schemes and disseminating
+information in case of natural calamities/disasters in accordance with the provisions
+of this Act.
+12. Sharing of information by a requesting entity:
+(1) Identity information and photograph available with a requesting entity:
+(a) shall not be used by the requesting entity for any purpose other than that specified
+for the Arun Parivar Patra ID holder at the time of submitting the request for
+authentication of identity information; and
+(b) shall not be disclosed further without the prior consent of the Arun Parivar Patra
+ID holder.
+(2) A requesting entity may share the authentication logs of a Arun Parivar Patra ID
+holder with the Arun Parivar Patra ID holder concerned upon request of the family.
+13. Alteration of identity information and photograph:
+(1) In case any identity information and photograph of a member of the Arun Parivar
+Patra card holder family is found incorrect or changes subsequently, the head of the
+family or any other adult member of the family may request the Authority to alter
+such identity information or photograph, as the case may be, in the record of the
+family in the Arun Parivar Patra Resident Data Repository in such manner, as may
+be prescribed.
+(2) The Authority may, suo motu or on receipt of any request under sub-section (1), after
+such inquiry or/ and verification as it may deem fit, make such alteration as may be
+required in the Arun Parivar Patra Resident Data Repository, and intimate such
+alteration to the head of the family and the member concerned in the manner as may
+be prescribed.
+(3) No identity information and photograph in the Arun Parivar Patra Resident Data
+Repository shall be altered except in the manner provided in this Act.
+CHAPTER-V
+Delivery of Services and direct transfer of benefits
+14. Delivery of Services:
+(1) The State Government may, for the purpose of establishing identity of a family or any
+of its members, as a condition for receipt of public welfare benefits and services,
+notify the list of the services under Section 7 of the Central Act to be delivered through
+Arun Parivar Patra Platform.
+(2) The Authority shall endeavour to deliver public welfare benefits and services to the
+beneficiaries at their doorsteps or at the places nearby to their residences through
+Common Service Centres (CSC) network or through such other means, as it may
+deem fit.
+(3) The Administration, control and management of the CSC network shall vest in the
+Authority.
+15. Direct transfer of benefit to the beneficiary: The State Government may, by notification,
+specify that any public welfare benefit, whenever such benefits are in the nature of cash
+shall, after authentication, be transferred directly to the bank account of the beneficiary,
+and in case the public welfare benefits pertain to a family, to the bank account of the head
+of the family, in such manner, as may be prescribed.
+The Arunachal Pradesh Extraordinary Gazette, April 7, 2025 5
+16. Use of Arun Parivar Patra Resident Data Repository for service delivery :
+(1) The State Government, through Government department or Government body shall
+deliver all public welfare benefits and services as notified under Section 4 and
+Section 14 ,after authentication, through the Arun Parivar Patra Platform.
+(2) Every department shall seed its departmental data base of a family or any of its
+members pertaining to public welfare benefits notified under Section 14 with the Arun
+Parivar Patra ID, bank account number and Aadhaar number in such manner, as may
+be prescribed.
+(3) Once the seeding of the departmental data base is completed, the departments shall
+not create any further data base at its own level and shall use identity information and
+photograph of a family or any of its members available in Arun Parivar Patra Resident
+Data Repository for transfer of any public welfare benefits and delivery of service in
+future.
+17. Transaction mapper : Every transaction of public welfare benefits or services notified
+under Section 7 of the Central Act and the public welfare benefits or services notified
+under Section 4 of this Act shall be recorded electronically in such manner, as may be
+prescribed
+18. Social Audit :
+(1) Social audit of the delivery of public welfare benefits shall be conducted at such
+intervals and in such manner, as may be prescribed in the Gram Sabhas in rural
+areas and the Ward Committees in urban areas or any other forum specified by the
+State Government by notification.
+(2) Particulars of the delivery of public welfare benefits shall invariably be uploaded on the
+Arun Parivar Patra Resident Data Repository of the State.
+Explanation: For the purpose of this Section, the expression “Gram Sabha” and
+“Ward Committee” shall have same meaning as assigned to them respectively in
+the Arunachal Pradesh Panchayat Raj Act, 1997 (Act No.5 of 2001) and the Arunachal
+Pradesh Municipal Corporation Act, 2019 (Act No. 8 of 2019).
+CHAPTER-VI
+Arun Parivar Patra Authority
+19. Establishment and Constitution of the Authority:
+(1) The State Government shall, as soon as may be, after commencement of this Act,
+by notification, establish and constitute an Authority to be called as the Arunachal
+Pradesh Arun Parivar Patra Authority to exercise powers and discharge functions of
+the Authority under this Act or the rules or regulations made thereunder.
+(2) The Authority shall be a body corporate by the name aforesaid, having perpetual
+succession and a common seal, with power, subject to the provisions of this Act, to
+acquire, hold and dispose of property, both movable and immovable, and to contract
+and may, by the said name, sue or be sued.
+(3) The headquarter of the Authority shall be at Itanagar.
+(4) The Authority may, with the prior approval of the State Government, establish its
+offices at other places in the State.
+(5) The Authority shall consist of a Chairperson and such number of official and non- official
+members, as the State Government may appoint.
+(6) The Chief Secretary of the State shall be the ex-officio Chairperson of the Authority.
+20. Powers and functions of the Authority. - The Authority shall exercise the following
+powers and discharge the following functions, namely
+(a) to specify, by regulations, the terms and conditions for appointment of Registrars
+and enrolling agencies and revocation of appointments thereof;
+(b) to expand existing electronic infrastructure for delivery of public welfare benefits and
+other services to the beneficiaries;
+(c) to create, monitor and maintain Arun Parivar Patra Resident Data Repository;
+(d) to frame policy for the use of the Arun Parivar Patra Resident Data Repository;
+(e) to recommend to the State Government for adding new services to the Arun Parivar
+Patra Platform;
+(f) to take appropriate steps for financial inclusion of the residents of the State in
+collaboration with the line agencies;
+6 The Arunachal Pradesh Extraordinary Gazette, April 7, 2025
+(g) to monitor the implementation of its recommendations;
+(h) to coordinate between different Government departments and Government bodies;
+(i) to monitor public welfare benefits and services provided through Arun Parivar Patra
+Platform:
+(j) to frame and amend the regulations;
+(k) to appoint committees or task forces or groups or sub-committees as may be necessary
+to assist the authority in discharging its functions;
+(l) to invite experts as and when required to its meetings;
+(m) to acquire by purchase, exchange, lease, hire or otherwise any property movable or
+immovable as may be necessary or convenient for carrying on the activities of the
+Authority;
+(n) to accept aid, Corporate Social Responsibility or any other assistance;
+(o) to borrow money from Government, Banks, Financial Institutions with prior approval
+of the State Government;
+(p) to design a common mechanism for synchronizing and integrating different databases
+available in the State and at the national level with Arun Parivar Patra Resident Data
+Repository;
+(q) to design the precise and comprehensive e-Arun Parivar Patra Resident Data
+Repository by de-duplicating the family and individual databases stored in different
+formats;
+(r) to maintain dashboards and generate analytical reports- periodically and on-demand
+by the State Government;
+(s) to coordinate with the technical teams of line departments;
+(t) to create opportunities for the Institutional Finance (loaning) for weaker section of the
+society by engaging various financial institutions (National Bank for Agriculture and
+Rural Development etc.);
+(u) to coordinate with the banks for creation of Banking Correspondent Network;
+(v) to appoint Banking Correspondent and manage Banking Correspondent Network;
+(w) to augment infrastructure for propagation of digital payments and Aadhaar Enabled
+Payments;
+(x) to provide cash withdrawal and transactional facilities in unbanked areas;
+(y) to coordinate with the banks through State Level Bankers Committee and to expand
+banking coverage;
+(z) to expand credit and insurance schemes;
+(za) to establish ATMs in revenue villages;
+(zb) to regulate the Common Service Centre (CSC) network through framing regulations
+under the Authority;
+(zc) to maintain and augment CSC network;
+(zd) to re-furnish the present network of CSC by strengthening the kiosks with more
+automation and mechanization;
+(ze) to develop CSC as physical delivery Repository for e-Commerce services;
+(zf) to ensure delivery of certificates etc. at the doorstep by the CSC through incentivizing
+the CSC for delivery;
+(zg) to establish and maintain the CSC Plus Kiosk network;
+(zh) to train CSC kiosk operators with the help of officials from banks, line departments
+and e-commerce experts; and
+(zi) to exercise such other powers and discharge such other functions as may be
+necessary, incidental or conducive, for carrying out the purposes of this Act.
+21. Term of office and other conditions of service of the non-official member:
+(1) A non-official member of the authority shall hold office for a term three years from the
+date on which he/she enters the office or during the pleasure of the State Government
+whichever is earlier.
+(2) The allowance payable to and other terms and conditions of service of the non official
+members shall be as such as may be prescribed.
+(3) The non-official member may resign his office by giving notice in writing to the State
+Government and on such resignation being accepted by the State Government, such
+non-official member shall be deemed to have vacated his office.
+The Arunachal Pradesh Extraordinary Gazette, April 7, 2025 7
+22. Meetings of the Authority:
+(1) The Authority shall meet at least once in a year at such place and such time as its
+Chairperson may decide and shall observe such rules of procedure, including quorum
+at such meetings, in regard to the transaction of the business at its meetings, as
+may be laid down by regulations.
+(2) The Chairperson, or, if for any reason he/she is unable to attend any meeting of the
+Authority, any other member chosen by the members present at the meeting, shall
+preside over the meeting.
+(3) All questions which come up before any meeting of the Authority shall be decided by
+a majority of the votes of the members present and voting, and, in the event of an
+equality of votes, the Chairperson, or in his/her absence, the person presiding, shall
+have and exercise a second or casting vote.
+23. Constitution of the Executive Committee:
+(1) The State Government shall, by notification, constitute an Executive Committee of
+the Authority under the ex-officio Chairmanship of the Secretary (Planning & Investment).
+(2) The Executive Committee shall exercise such powers and perform such duties as
+may be delegated to it by the Authority from time to time.
+(3) The Executive Committee shall meet at least once in three months at such place and
+such time, as its Chairperson may decide and shall observe such rules of procedure,
+including quorum at such meetings, in regard to the transaction of the business at its
+meetings, as may be laid down by regulations.
+(4) The Chairperson or, if for any reason he is unable to attend any meeting of the Executive
+Committee, any other member chosen by the members present at the meeting shall
+preside over the meeting.
+(5) All questions which come up before any meeting of the Executive Committee shall be
+decided by a majority of the votes of the members present and voting, and, in the
+event of an equality of votes, the Chairperson, or in his/her absence, the person
+presiding, shall have and exercise a second or casting vote.
+24. Authentication of orders of the Authority and Executive Committee: All orders,
+decisions and other instruments of the Authority and the Executive Committee shall be
+authenticated by the signatures of the Chairperson of the Authority or, as the case may
+be, the Executive Committee or any other member or any officer of the Authority or, as the
+case may be, the Executive Committee authorized by it in this behalf.
+25. Appointment of the Director General: There shall be appointed by the State Government
+an officer not below the rank of the Commissioner /Secretary to the Government to be the
+Director General (ex-officio) of the Authority. He/She shall, subject to the general control
+of the Authority, exercise the following powers, perform the following functions and discharge
+the following duties, namely:
+(a) to supervise and control all officers and servants of the Authority;
+(b) to work out modalities of delivery of the public welfare benefits and other services and
+ensure their effective monitoring and implementation;
+(c) to manage the properties, records and funds of the Authority;
+(d) to maintain true and proper accounts of the Authority including checking and auditing
+in respect thereof periodically;
+(e) to prepare annual income and expenditure accounts and balance sheet of the Authority;
+(f) to maintain up-to-date and complete statistical information, including progress made
+in the implementation of various programmes from time to time;
+(g) to process project proposals for financial assistance and issue utilization certificates
+thereof;
+(h) to convene meetings, seminars and workshops connected with the main objectives of
+the Authority and preparation of reports and follow-up action thereon;
+(i) to produce video, documentary films, publicity material, literature and publications to
+inform general public about the various aspects of the Authority; and
+(j) to perform such other functions as may be delegated to him by the Authority.
+8 The Arunachal Pradesh Extraordinary Gazette, April 7, 2025
+26. Appointment of officers and employees:
+(1) The Authority may, with the prior approval of the State Government, create such number
+and category of posts of officers and other employees in the Authority as it may
+consider necessary to carry out its functions under this Act and may make appointment
+thereto.
+(2) The salary and allowances and other terms and conditions of service of the officers
+and employees of the Authority shall be such as may be determined by the Authority
+by regulations with the prior approval of the State Government and shall be paid out
+from its Fund.
+CHAPTER - VII
+Grants, Accounts, Audit and Annual Report
+27. Grants by the State Government to the Authority : The State Government shall, after
+due appropriation made by the State Legislature by law in this behalf, pay to the Authority
+by way of grants such sum of money as the State Government may think fit for being
+utilize for the purposes of this Act.
+28. Fund of the Authority : (1) There shall be established a fund known as the Arunachal
+Pradesh Arun Parivar Patra Authority Fund for the purposes of this Act.
+(2) In addition to the sum of money paid by the State Government under Section 27, the
+following shall be credited to the Fund, namely :
+(a) aids and loans raised by the Authority with the prior approval of the Finance
+Department ;
+(b) any sum of money received by the Authority by way of fees;
+(c) any other sum of money received by the Authority with the prior approval of the
+Finance Department.
+(3) The Fund shall be utilized by the Authority to meet out the expenses incurred in
+carrying out the purposes of this Act including payment of allowances to the non-official
+members of the Authority, payment of salaries and allowances to the officers and
+staff of the Authority
+29. Budget of the Authority : (1) The Authority shall prepare in each financial year, in such
+form and at such time as may be prescribed, its budget for the next financial year, showing
+the estimated receipts and expenditure of the Authority and forward the same for the
+approval of the State Government.
+(2) The Authority shall not incur any expenditure otherwise than in accordance with the
+budget provisions as approved by the State Government.
+30. Annual report : The Authority shall prepare, in such form and a such time as may be
+prescribed, its annual report, giving a full account of its activities during the previous
+financial year and its plans for the coming year, and submit a copy there of to the State
+Government. Every annual report shall also contain a review of the performance of the
+Authority in respect of the plans contained in the preceding annual report.
+31. Accounts and audit : (1) The accounts of the Authority shall be maintained in such form
+and manner as may be prescribed and shall be audited by the Accountant General or by
+such other person or body as the State Government may determine from time to time.
+(2) The Authority shall furnish to the State Government before such date as may be
+prescribed a copy of its audited accounts together with the auditor’s report thereon.
+32. Annual report and auditor’s report to be laid before the House of the State
+Legislature: The State Government shall cause the annual report of the Authority and
+the auditor’s report to be laid, as soon as may be, after they are received, before the
+House of the State Legislature.
+CHAPTER - VIII
+Offences and Penalties
+33. Penalty for non-compliance of provisions relating to security and confidentiality
+of information : Whoever shares or publishes the identity information and photograph of
+a Arun Parivar Patra card holder in contravention of the Section 10 shall be punishable
+with fine which may extend to ten thousand rupees and shall be liable to compensate the
+person who is adversely affected by such contravention.
+The Arunachal Pradesh Extraordinary Gazette, April 7, 2025 9
+34. Penalty for unauthorized use by requesting entity : Whoever, being a requesting
+entity, uses the identity information of an individual in contravention of Section 12 shall be
+punishable with fine which may extend to ten thousand rupees and shall be liable to
+compensate the person who is adversely affected by such contravention.
+34A. Penalty for furnishing wrong information : Whoever, deliberately provides false or
+incorrect information for the purpose of obtaining or updating Arun Parvar Patra shall be
+punishable with a fine which may extend to ten thousand rupees and shall be liable to
+compensate the Government for the benefit so received on the basis of wrong or false
+information.
+35. Offences by companies : (1) Where an offence under this Act has been committed by
+a company, every person who at the time the offence was committed was in-charge of,
+and was responsible to, the company for the conduct of the business of the company, as
+well as the company, shall be deemed to be guilty of the offence and shall be liable to be
+proceeded against and punished accordingly :
+Provided that nothing contained in this sub-section shall render any such person
+liable to any punishment provided in this Act if he proves that the offence was committed
+without his knowledge or that he had exercised all due diligence to prevent the commission
+of such offence.
+(2) Notwithstanding anything contained in sub-section (1), where any offence under
+this Act has been committed by a company and it is proved that the offence has
+been committed with the consent or connivance of, or is attributable to, any neglect
+on the part of any director, manager, secretary or other officer of the company, such
+director, manager, secretary or other officer shall also be deemed to be guilty of the
+offence and shall be liable to be proceeded against and punished accordingly.
+Explanation : For the purposes of this section-
+(a) “company” means anybody corporate, and includes a firm or other association
+ofindividuals; and
+(b) “director” in relation to a firm, means a partner in the firm.
+CHAPTER - IX
+Miscellaneous
+36. Members, officers, etc., to be public servants : The Chairperson and members of the
+Authority and the Executive Committee and officers and other employees of the Authority
+and the Executive Committee shall be deemed, while acting or purporting to act in
+pursuance of any of the provisions of this Act, to be public servants within the meaning of
+Section 2(28) of the Bharatiya Nyaya Sanhita, 2023.
+37. Power of State Government to issue directions : (1) Without prejudice to the foregoing
+provisions of this Act, the Authority shall, in exercise of its powers or the performance of
+its functions under this Act, be bound by such directions on questions of policy, as the
+State Government may give, in writing to it, from time to time.
+(2) The decision of the State Government, whether a question is one of policy or not,
+shall be final.
+38. Delegation of powers and functions : The Authority may, by general or special order in
+writing, delegate to the Executive Committee, any member or officer of the Authority or
+any other person, subject to such conditions, if any, as may be specified in the order,
+such of its powers and functions under this Act, except the power under Section 40, as
+it may deem necessary.
+39. Protection of action taken in good faith : No suit, prosecution or other legal proceeding
+shall lie against the State Government or the Authority or the Executive Committee or the
+Chairperson or any member of the Authority or the Executive Committee or any officer or
+other employee of the Authority or the Executive Committee for anything which is in good
+faith done or intended to be done under this Act or the rule or regulation made thereunder.
+40. Power of State Government to make rules : The State Government may, by notification,
+make rules to carry out the provisions of this Act.
+41. Power of Authority to make regulations: The Authority may, by notification, make
+regulations consistent with this Act and the rules made thereunder to provide for the
+matters which are required by this Act to be provided by regulation.
+10 The Arunachal Pradesh Extraordinary Gazette, April 7, 2025
+42. Rules and regulations to be laid before the House of the State Legislature : Every
+rule and regulation made under this Act shall be laid, as soon as may be after it is so
+made, before the House of the State Legislature, while it is in session, for a period of not
+less than fourteen days which may be comprised in one session or in two or more
+successive sessions and if before the expiry of the session in which it is so laid or of the
+sessions immediately following, the House of the State Legislature makes any modification
+in the rule or regulation or resolves that the rule or regulation should not be made, the rule
+or regulation shall thereafter have effect only in such modified form or be of no effect, as
+the case may be, so, however, that any such modification or annulment shall be without
+prejudice to the validity of anything previously done thereunder.
+43. Application of other laws not barred : The provisions of this Act shall be in addition to,
+and no in derogation of, any other law for the time being in force.
+44. Power to remove difficulties : (1) If any difficulty arises in giving effect to the provision
+of this Act, the State Government may, by order, published in the Official Gazette, make
+such provisions not inconsistent with the provisions of this Act as may appear to be
+necessary for removing the difficulty :
+(2) Every order made under this section shall be laid, as soon as may be after it is
+made, before the House of the State Legislature.
+Yashpal Garg, IAS
+Commissioner to the
+Government of Arunachal Pradesh,
+Itanagar.
+———————
+Published and Printed by Directorate of Printing and Stationery, Naharlagun-207/2025-DoP-250+ Secy. (LA)-50+
+Commir. (Law)-50+Secy. Palnning & Investment)-50-4-2025.

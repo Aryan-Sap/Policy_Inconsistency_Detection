@@ -1,0 +1,724 @@
+AS INTRODUCED IN LOK SABHA
+Bill No. 110 of 2024
+THE BANKING LAWS (AMENDMENT) BILL, 2024
+A
+BILL
+further to amend the Reserve Bank of India Act, 1934, the Banking Regulation
+Act, 1949, the State Bank of India Act, 1955, the Banking Companies
+(Acquisition and Transfer of Undertakings) Act, 1970 and the Banking
+Companies (Acquisition and Transfer of Undertakings) Act, 1980.
+BE it enacted by Parliament in the Seventy-fifth Year of the Republic of India
+as follows:––
+CHAPTER I
+PRELIMINARY
+1.(1) This Act may be called the Banking Laws (Amendment) Act, 2024. Short title and
+5 commencement.
+(2) It shall come into force on such date as the Central Government may, by
+notification in the Official Gazette, appoint:
+2
+Provided that different dates may be appointed for different provisions of this
+Act, and any reference in any such provision to the commencement of this Act, shall
+be construed as a reference to the coming into force of that provision.
+CHAPTER II
+AMENDMENT TO THE RESERVE BANK OF INDIA ACT, 1934 5
+Amendment of 2. In the Reserve Bank of India Act, 1934, in section 42,— 2 of 1934.
+section 42.
+(a) in sub-section (1), in the Explanation, for clause (b), the following
+clause shall be substituted, namely:—
+‘(b) “fortnight” means the period from the first day to the fifteenth
+day of each calendar month or sixteenth day to the last day of each 10
+calendar month, both days inclusive;’;
+(b) in sub-section (2),—
+(i) in the long line,—
+(A) for the words “each alternate Friday”, the words “the last
+day of each fortnight” shall be substituted; 15
+(B) for the words “seven days”, the words “five days” shall
+be substituted;
+(ii) in the second proviso,—
+(A) for the words “such alternate Friday”, the words “the last
+day of any such fortnight” shall be substituted; 20
+(B) for the words “that Friday”, the words “the last day of
+that fortnight” shall be substituted;
+(iii) the third proviso shall be omitted;
+(c) sub-section (2A) shall be omitted.
+CHAPTER III 25
+AMENDMENTS TO THE BANKING REGULATION ACT, 1949
+Amendment of 3. In the Banking Regulation Act, 1949 (hereafter in this Chapter referred to 10 of 1949.
+section 5. as the Banking Regulation Act of 1949), in section 5, in clause (ne), in
+sub-clause (i), for the words “five lakhs of rupees”, the words “two crore rupees or
+such other amount as may be notified in the Official Gazette by the Central 30
+Government” shall be substituted.
+Amendment of 4. In the Banking Regulation Act of 1949, in section 10A, in sub-section (2A),
+section 10A. in clause (i), after the words “eight years”, the words “and ten years in case of
+a co-operative bank” shall be inserted.
+Amendment of 5. In the Banking Regulation Act of 1949, in section 16, in sub-section (3), 35
+section 16. after the words “Reserve Bank”, the following shall be inserted, namely:—
+“or the director of a central co-operative bank elected to the Board of the
+state co-operative bank in which he is a member”.
+Amendment of 6. In the Banking Regulation Act of 1949, in section 18,—
+section 18.
+(a) in sub-section (1),—
+40
+(i) for the words “last Friday”, the words “last day” shall be substituted;
+(ii) for the words “alternate Fridays”, the words “the last day of the
+fortnight” shall be substituted;
+3
+(iii) for the words “such Fridays or if any such Friday”, the words
+“the last day of the fortnight or if the last day of any such fortnight” shall
+be substituted;
+(b) in the Explanation, for clause (b), the following clause shall be
+5 substituted, namely:—
+‘(b) “fortnight” shall mean the period from the first day to the
+fifteenth day of each calendar month or sixteenth day to the last day of
+each calendar month, both days inclusive;’.
+7. In the Banking Regulation Act of 1949, in section 24,— Amendment of
+section 24.
+10 (a) in sub-section (2A), for the word “Friday”, the word “day” shall be
+substituted;
+(b) in sub-section (3), for the words “each alternate Friday during the
+month, or if any such Friday”, the words “the last day of each fortnight during
+the month, or if the last day of any such fortnight” shall be substituted;
+15 (c) in sub-section (4),—
+(i) in clause (a), for the words “any alternate Friday or, if such
+Friday”, the words “the last day of any fortnight or, if the last day of any
+such fortnight” shall be substituted;
+(ii) for clause (b), the following clause shall be substituted, namely:—
+20 “(b) if the default occurs again on the last day of the next
+succeeding fortnight, or, if the last day of such fortnight is a public
+holiday, on the preceding working day, and continues on the last
+day of the succeeding fortnights or preceding working days, as the
+case may be, the rate of penal interest shall be increased to a rate
+25 of five per cent. per annum above the bank rate on each such
+shortfall in respect of last day of that fortnight and last day of each
+succeeding fortnight or preceding working day, if last day of such
+fortnight is a public holiday, on which the default continues.”;
+(d) in sub-section (7),—
+30 (i) for the words “next succeeding alternate Friday, or if such
+Friday is a public holiday”, the words “last day of the next succeeding
+fortnight, or if the last day of such fortnight is a public holiday” shall be
+substituted;
+(ii) for the words “subsequent alternate Friday”, the words “last
+35 day of every subsequent fortnight” shall be substituted.
+8. In the Banking Regulation Act of 1949, in section 25,— Amendment of
+section 25.
+(a) in sub-section (1), for the words “last Friday of every quarter or, if
+that Friday”, the words “last day of every quarter or, if that day” shall be
+substituted;
+40 (b) in sub-section (2), for the words “last Friday of the previous quarter,
+or, if that Friday”, the words “last day of the previous quarter, or, if that day”
+shall be substituted.
+9. In the Banking Regulation Act of 1949, in section 27, in sub-section (1), for Amendment of
+the words “last Friday of every month or if that Friday”, the words “last day of every section 27.
+45 month, or, if that day” shall be substituted.
+10. In the Banking Regulation Act of 1949, in section 45ZA,— Amendment of
+section 45ZA.
+(a) in sub-section (1), for the words “one person”, the words “one or
+more persons not exceeding four, either successively or simultaneously” shall
+be substituted;
+4
+(b) after sub-section (1), the following sub-sections shall be inserted,
+namely:—
+“(1A) Where the nomination is made successively in favour of
+more than one person under sub-section (1), the nomination shall be
+effective only in favour of one person in the order of priority specified 5
+in section 45ZG.
+(1B) Where the nomination is made simultaneously in favour of
+more than one person under sub-section (1), the nomination shall be
+effective in favour of all such persons in proportion to which it is
+declared, and the following terms and conditions shall apply, namely:— 10
+(a) the nomination shall not be made in favour of more than
+four persons;
+(b) the nomination shall explicitly state the proportion of
+amount of deposit in percentage in favour of each nominee;
+(c) the nomination shall be made in respect of the whole 15
+amount of deposit;
+(d) if any nominee dies before receiving deposit from the
+banking company, the nomination in respect of such nominee
+alone shall become ineffective and the amount of deposit
+purported to be nominated in favour of deceased nominee shall be 20
+treated as if nomination had not been made in respect of that
+portion of deposit,
+and any nomination which does not comply with any of the terms and
+conditions specified in clauses (a) to (c), shall be invalid, as if nomination had
+not been made by the depositor or all the depositors together, as the case may 25
+be.”.
+Amendment of 11. In the Banking Regulation Act of 1949, in section 45ZC, in sub-section (1),
+section 45ZC. for the words “one person”, the words “one or more persons not exceeding four,
+successively,” shall be substituted.
+Amendment of 12. In the Banking Regulation Act of 1949, in section 45ZE, for sub-section (1), 30
+section 45ZE. the following sub-section shall be substituted, namely:—
+“(1) Where one or more individuals hire a locker from a banking
+company, whether such locker is located in the safe deposit vault of such
+banking company or elsewhere, the individual or, as the case may be, all the
+individuals together, may nominate one or more persons not exceeding four, 35
+successively, to whom, in the event of the death of the sole hirer or the death
+of all the hirers, the banking company may give access to the locker and liberty
+to remove the contents of the locker.”.
+Insertion of 13. In the Banking Regulation Act of 1949, after section 45ZF, the following
+new section section shall be inserted, namely:–– 40
+45ZG.
+“45ZG. (1) Where the nomination is made in favour of more than one
+Priority of
+successive person successively under sub-section (1) of section 45ZA or sub-section (1)
+nominations. of section 45ZC or sub-section (1) of section 45ZE, the nomination shall be
+effective only in favour of one person in the following order of priority,
+45
+namely:––
+(a) nomination of the first nominee shall be effective if that
+nominee survives the person or persons who made the nomination;
+(b) nomination of the second nominee shall become effective only
+after the death of the first nominee;
+5
+(c) nomination of any nominee lower in the order of nomination
+shall become effective only after the death of all the nominees whose
+names are higher in the order of nomination.
+(2) Where the order of nomination is not mentioned, persons shall be
+5 deemed to have been nominated in the order in which their names appear in
+the nomination.
+(3) The provisions of this section shall not apply to the nominations
+made simultaneously in favour of more than one person under sub-section (1)
+of section 45ZA.”.
+10 14. In the Banking Regulation Act of 1949, in section 56,— Amendment of
+section 56.
+(a) in clause (c), for sub-clause (ii), the following sub-clause shall be
+substituted, namely:—
+“(ii) clause (nb) shall be omitted;”;
+(b) in clause (j) relating to substitution of section 18, in sub-section (1),—
+15 (i) for the words “last Friday”, the words “last day” shall be
+substituted;
+(ii) for the words “alternate Friday”, the words “the last day of the
+fortnight” shall be substituted;
+(iii) for the words “such Fridays or if any such Friday”, the words
+20 “the last day of the fortnight or if the last day of any such fortnight” shall
+be substituted;
+(iv) in the Explanation, for clause (b), the following clause shall be
+substituted, namely:—
+‘(b) “fortnight” shall mean the period from the first day to
+25 the fifteenth day of each calendar month or sixteenth day to the last
+day of each calendar month, both days inclusive;’.
+CHAPTER IV
+AMENDMENTS TO THE STATE BANK OF INDIA ACT, 1955
+23 of 1955. 15. In the State Bank of India Act, 1955, in section 38A,— Amendment of
+section 38A.
+30 (a) in the marginal heading, for the word “dividend”, the word “money”
+shall be substituted;
+(b) for sub-section (3), the following sub-sections shall be substituted,
+namely:—
+“(3) The State Bank shall transfer, in accordance with the rules
+made under section 124 of the Companies Act, 2013, to the Investor
+18 of 2013. 35
+Education and Protection Fund established under section 125 of the
+said Act,—
+(i) any money which remains unpaid or unclaimed for a
+period of seven years from the date of its transfer in the Unpaid
+40 Dividend Account of the State Bank;
+(ii) all shares in respect of which dividend has not been paid
+or claimed for a period of seven consecutive years, along with a
+statement thereof containing the details specified in the said rules;
+(iii) any interest or redemption amount upon any bond issued
+45 by the State Bank which remain unpaid or unclaimed for a period
+of seven years from the date such interest or such redemption
+amount became due for payment.
+6
+(4) Any person whose shares or unclaimed or unpaid money has
+been transferred to the Investor Education and Protection Fund under
+sub-section (3), shall be entitled to claim the transfer or refund from the
+said Fund, in accordance with the rules made under section 124 and
+section 125 of the Companies Act, 2013. 5 18 of 2013.
+(5) The money transferred under sub-section (3) to the Investor
+Education and Protection Fund shall be utilised for the purposes and in
+the manner specified in section 125 of the Companies Act, 2013.”. 18 of 2013.
+Amendment of 16. In the State Bank of India Act, 1955, in section 41,— 23 of 1955.
+section 41.
+(a) in sub-section (1), for the words and figures “section 226 of the 10
+Companies Act, 1956”, the words and figures “section 141 of the Companies 1 of 1956.
+Act, 2013” shall be substituted; 18 of 2013.
+(b) for sub-section (2), the following sub-section shall be substituted,
+namely:—
+“(2) The auditors shall receive such remuneration as the State Bank 15
+may fix.”.
+CHAPTER V
+AMENDMENTS TO THE BANKING COMPANIES
+(ACQUISITION AND TRANSFER OF UNDERTAKINGS) ACT, 1970
+Amendment of 17. In the Banking Companies (Acquisition and Transfer of Undertakings)
+section 10. Act, 1970 (hereafter in this Chapter referred to as the Act of 1970), in section 10, in 20 5 of 1970.
+sub-section (2),—
+(a) for the words and figures “section 226 of the Companies Act, 1956”, 1 of 1956.
+the words and figures “section 141 of the Companies Act, 2013” shall be 18 of 2013.
+substituted;
+(b) for the words “Reserve Bank may fix in consultation with the Central 25
+Government”, the words “corresponding new bank may fix” shall be
+substituted.
+Amendment of 18. In the Act of 1970, in section 10B,—
+section 10B.
+(a) in the marginal heading, for the words “dividend to Unpaid Dividend
+Account”, the word “money” shall be substituted; 30
+(b) for sub-section (3), the following sub-sections shall be substituted,
+namely:—
+“(3) The corresponding new bank shall transfer, in accordance
+with the rules made under section 124 of the Companies Act, 2013, to 18 of 2013.
+the Investor Education and Protection Fund established under section 125 35
+of the said Act,—
+(i) any money which remains unpaid or unclaimed for a
+period of seven years from the date of its transfer in the Unpaid
+Dividend Account of the corresponding new bank;
+(ii) all shares in respect of which dividend has not been paid 40
+or claimed for a period of seven consecutive years, along with a
+statement thereof containing the details specified in the said rules;
+(iii) any interest or redemption amount upon any bond issued
+by the corresponding new bank which remain unpaid or unclaimed
+for a period of seven years from the date such interest or such 45
+redemption amount became due for payment.
+7
+(3A) Any person whose shares or unclaimed or unpaid money has
+been transferred to the Investor Education and Protection Fund under
+sub-section (3), shall be entitled to claim the transfer or refund from the
+said Fund, in accordance with the rules made under section 124 and
+18 of 2013. 5 section 125 of the Companies Act, 2013.”;
+(c) in sub-section (4), for the words, figures and letter “section 205C of
+1 of 1956. the Companies Act, 1956”, the words and figures “section 125 of the
+18 of 2013. Companies Act, 2013” shall be substituted.
+CHAPTER VI
+10 AMENDMENTS TO THE BANKING COMPANIES
+(ACQUISITION AND TRANSFER OF UNDERTAKINGS) ACT, 1980
+19. In the Banking Companies (Acquisition and Transfer of Undertakings) Amendment of
+section 10.
+40 of 1980. Act, 1980 (hereafter in this Chapter referred to as the Act of 1980), in section 10, in
+sub-section (2),––
+1 of 1956. 15 (a) for the words and figures “section 226 of the Companies Act, 1956”,
+18 of 2013. the words and figures “section 141 of the Companies Act, 2013” shall be
+substituted;
+(b) for the words “Reserve Bank may fix in consultation with the Central
+Government”, the words “corresponding new bank may fix” shall be
+20 substituted.
+20. In the Act of 1980, in section 10B,— Amendment of
+section 10B.
+(a) in the marginal heading, for the words “dividend to Unpaid Dividend
+Account”, the word “money” shall be substituted;
+(b) for sub-section (3), the following sub-sections shall be substituted,
+25 namely:—
+“(3) The corresponding new bank shall transfer, in accordance
+with the rules made under section 124 of the Companies Act, 2013, to
+18 of 2013.
+the Investor Education and Protection Fund established under
+section 125 of the said Act,—
+30 (i) any money which remains unpaid or unclaimed for a
+period of seven years from the date of its transfer in the Unpaid
+Dividend Account of the corresponding new bank;
+(ii) all shares in respect of which dividend has not been paid
+or claimed for a period of seven consecutive years, along with a
+35 statement thereof containing the details specified in the said rules;
+(iii) any interest or redemption amount upon any bond issued
+by the corresponding new bank which remain unpaid or unclaimed
+for a period of seven years from the date such interest or such
+redemption amount became due for payment.
+40 (3A) Any person whose shares or unclaimed or unpaid money has
+been transferred to the Investor Education and Protection Fund under
+sub-section (3), shall be entitled to claim the transfer or refund from the
+said Fund, in accordance with the rules made under section 124 and
+section 125 of the Companies Act, 2013.”;
+18 of 2013.
+45 (c) in sub-section (4), for the words, figures and letter “section 205C of
+1 of 1956. the Companies Act, 1956”, the words and figures “section 125 of the Companies
+18 of 2013. Act, 2013” shall be substituted.
+8
+STATEMENT OF OBJECTS AND REASONS
+As the banking sector has evolved over the years and with a view to improve
+bank governance and investor’s protection, it has become necessary to make certain
+amendments in the Reserve Bank of India Act, 1934, the Banking Regulation
+Act, 1949 (the “BR Act”), the State Bank of India Act, 1955, the Banking
+Companies (Acquisition and Transfer of Undertakings) Act, 1970 and the Banking
+Companies (Acquisition and Transfer of Undertakings) Act,1980.
+2. The proposed Bill seeks, inter alia, to improve governance standards,
+provide consistency in reporting by banks to the Reserve Bank of India, ensure
+better protection for depositors and investors, improve audit quality in public sector
+banks, bring customer convenience in respect of nominations and to provide for
+increase in the tenure of the directors in co-operative banks.
+3. Therefore, it is felt necessary to amend the said enactments and for that
+purpose to introduce the Banking Laws (Amendment) Bill, 2024 in Parliament. The
+salient features of the amendments proposed in the said Bill, inter alia, are—
+(a) to amend clause (ne) of section 5 of the BR Act so as to redefine
+“substantial interest”, increasing the threshold for shareholding of a beneficial
+interest by an individual, etc., from five lakhs rupees to two crore rupees, to
+reflect the present value, as the same was last fixed in 1968;
+(b) to amend clause (i) of sub-section (2A) of section 10A of the BR Act,
+increasing the tenure of directors (excluding the chairman and whole-time
+director) in co-operative banks from eight years to ten years, so as to align
+with the Constitution (Ninety-Seventh Amendment) Act, 2011;
+(c) to amend sub-section (3) of section 16 of the BR Act, so as to allow
+a director of a central co-operative bank to serve on the board of a state
+co-operative bank;
+(d) to amend sections 18, 24, 25 and section 56 of the BR Act, to revise
+the reporting dates for the submission of statutory reports by banks to the
+Reserve Bank of India, so as to align them to the last day of the fortnight or
+month or quarter, to ensure consistency in reporting;
+(e) to amend sections 45ZA, 45ZC, and 45ZE of the BR Act, so as to allow
+for the nomination of up to four persons, including provisions for simultaneous
+and successive nominations, to ease services for depositors and their nominees,
+particularly regarding deposits, articles in safe custody, and safety lockers;
+(f) to amend section 38A of the State Bank of India Act, 1955, section 10B
+of the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1970
+and section 10B of the Banking Companies (Acquisition and Transfer of
+Undertakings) Act, 1980, so as to provide for the transfer of unclaimed dividends,
+shares, and interest or redemption of bonds to the Investor Education and Protection
+Fund, and allow individuals to claim transfers or refunds from that fund;
+(g) to amend section 41 of the State Bank of India Act, 1955, section 10
+of the Banking Companies (Acquisition and Transfer of Undertakings)
+Act, 1970 and section 10 of the Banking Companies (Acquisition and Transfer
+of Undertakings) Act, 1980, so as to provide discretion to public sector banks
+in the matter of remuneration of auditors.
+4. The Bill seeks to achieve the above objectives.
+NEW DELHI; NIRMALA SITHARAMAN.
+The 6th August, 2024.
+8
+ANNEXURE
+EXTRACT FROM THE RESERVE BANK OF INDIA ACT,1934
+(2 OF 1934)
+* * * * *
+42. (1) Every bank included in the Second Schedule shall maintain with the Cash reserves of
+Bank an average daily balance the amount of which shall not be less than such scheduled banks
+to be kept with
+percent. of the total of the demand and time liabilities in India of such bank as
+the Bank.
+shown in the return referred to in sub-section (2), as the Bank may from time to
+time, having regard to the needs of securing the monetary stability in the country,
+notify in the Gazette of India:
+* * * * *
+Explanation.—For the purposes of this section,—
+* * * * *
+(b) “fortnight” shall mean the period from Saturday to the second following
+Friday, both days inclusive;
+* * * * *
+(2) Every scheduled bank shall send to the Bank a return signed by two
+responsible officers of such bank showing—
+(a) the amount of its demand and time liabilities and the amount of its
+borrowings from banks in India, classifying them into demand and time
+liabilities,
+(b) the total amount of legal tender notes and coins held by it in India,
+(c) the balance held by it at the Bank in India,
+(d) the balances held by it at other banks in current account and the money
+at call and short notice in India,
+(e) the investments (at book value) in Central and State Government
+securities including treasury bills and treasury deposit receipts,
+(f) the amount of advances in India,
+(g) the inland bills purchased and discounted in India and foreign bills
+purchased and discounted,
+at the close of business on each alternate Friday, and every such return shall be
+sent not later than seven days after the date to which it relates:
+* * * * *
+Provided further that where such alternate Friday is a public holiday under the
+26 of 1881. Negotiable Instruments Act, 1881 for one or more offices of a scheduled bank the
+return shall give the preceding working day’s figures in respect of such office or
+offices, but shall nevertheless be deemed to relate to that Friday:
+Provides also that where the Bank is satisfied that the furnishing of a
+fortnightly return under this sub-section is impracticable in the case of any
+scheduled bank by reason of the geographical position of the bank and its branches,
+the Bank may allow such bank—
+(i) to furnish a provisional return for the fortnight within the period
+aforesaid to be followed by a final return not later than twenty days after the
+date to which it relates, or
+(ii) to furnish in lieu of a fortnightly return a monthly return to be sent
+not later than twenty days after the end of the month to which it relates giving
+the details specified in this sub-section in respect of such bank at the close of
+business for the month.
+9
+10
+(2A) Where the last Friday of a month is not an alternate Friday for the purpose
+of sub-section (2), every scheduled bank shall send to the Bank, a special return
+giving the details specified in sub-section (2) as at the close of business on such last
+Friday or where such last Friday is a public holiday under the Negotiable Instruments
+Act, 1881 as at the close of business on the preceding working day and such return 26 of 1881.
+shall be sent not later than seven days after the date to which it relates.
+* * * * *
+————
+EXTRACTS FROM THE BANKING REGULATION ACT, 1949
+(10 OF 1949)
+* * * * *
+Interpretation. 5. In this Act, unless there is anything repugnant in the subject or context,—
+* * * * *
+(ne) “substantial interest”,—
+(i) in relation to a company, means the holding of a beneficial
+interest by an individual or his spouse or minor child, whether singly
+or taken together in the shares thereof, the amount paid-up on which
+exceeds five lakhs of rupees or ten per cent. of the paid-up capital of
+the company, whichever is less;
+* * * * *
+10A. (1) * * * * *
+Board of
+d
+in
+i
+c
+re
+lu
+ct
+d
+o
+e
+r s
+p e
+to
+rs ons
+(2A) Notwithstanding anything to the contrary contained in the Companies
+Act, 1956, or in any other law for the time being in force,— 1 of 1956.
+with
+professional or
+(i) no director of a banking company, other than its chairman or
+other
+experience. whole-time director, by whatever name called, shall hold office
+continuously for a period exceeding eight years;
+* * * * *
+Prohibition of 16. (1) * * * * *
+common
+directors.
+(3) Nothing in sub-section (1) shall apply to, or in relation to, any director
+appointed by the Reserve Bank.
+* * * * *
+Cash reserve. 18. (1) Every banking company, not being a scheduled bank, shall maintain
+in India on a daily basis by way of cash reserve with itself or by way of balance in
+a current account with the Reserve Bank, or by way of net balance in current
+accounts or in one or more of the aforesaid ways, a sum equivalent to such per cent.
+of the total of its demand and time liabilities in India as on the last Friday of the
+second preceding fortnight as the Reserve Bank may specify, by notification in the
+Official Gazette, from time to time, having regard to the needs of securing the
+monetary stability in the country and shall submit to the Reserve Bank before the
+twentieth day of every month a return showing the amount so held on alternate
+Fridays during a month with particulars of its demand and time liabilities in India
+on such Fridays or if any such Friday is a public holiday under the Negotiable
+Instruments Act, 1881, at the close of business on the preceding working day. 26 of 1881.
+Explanation.—In this section, and in section 24,—
+* * * * *
+(b) “fortnight” shall mean the period from Saturday to the second
+following Friday, both days inclusive;
+* * * * *
+11
+24. (2A) A scheduled bank, in addition to the average daily balance which Maintenance of
+a percentage of
+it is, or may be, required to maintain under section 42 of the Reserve Bank of
+assets.
+2 of 1934.
+India Act, 1934 and every other banking company, in addition to the cash reserve
+which it is required to maintain under section 18, shall maintain in India, assets,
+the value of which shall not be less than such percentage not exceeding forty
+percent. of the total of its demand and time liabilities in India as on the last Friday
+of the second preceding fortnight as the Reserve Bank may, by notification in the
+Official Gazette, specify from time to time and such assets shall be maintained,
+in such form and manner, as may be specified in such notification.
+(3) For the purpose of ensuring compliance with the provisions of this
+section, every banking company shall, not later than twenty days after the end of
+the month to which it relates, furnish to the Reserve Bank in the prescribed form
+and manner a monthly return showing particulars of its assets maintained in
+accordance with this section, and its demand and time liabilities in India at the
+close of business on each alternate Friday during the month, or if any such Friday
+is a public holiday, at the close of business on the preceding working day:
+Provided that every Reginal Rural Bank shall also furnish a copy of the said
+return to the National Bank.
+(4) (a) If on any alternate Friday or, if such Friday is a public holiday, on
+the preceding working day, the amount maintained by a banking company at the
+close of business on that day falls below the minimum prescribed by or under
+sub-section (2A), such banking company shall be liable to pay to the Reserve Bank
+in respect of that day's default, penal interest for that day at the rate of three per
+cent. per annum above the bank rate on the amount by which the amount actually
+maintained falls short of the prescribed minimum or that day; and
+(b) if the default occurs again on the next succeeding alternate Friday, or, if
+such Friday is a public holiday, on the preceding working day, and continues on
+succeeding alternate Fridays or preceding working days, as the case may be, the
+rate of penal interest shall be increased to a rate of five per cent. per annum above
+the bank rate on each such shortfall in respect of that alternate Friday and each
+succeeding alternate Friday or preceding working day, if such Friday is a public
+holiday, on which the default continues.
+* * * * *
+(7) When under the provisions of clause (b) of sub-section (4), penal interest at the
+increased rate of five per cent. above the bank rate has become payable by a banking
+company, if thereafter the amount required to be maintained on the next succeeding
+alternate Friday, or if such Friday is a public holiday, the next preceding working day, is
+still below the prescribed minimum, every director, manager or secretary of the banking
+company, who is knowingly and wilfully a party to the default, shall be punishable with
+fine which may extend to five hundred rupees and with a further fine which may extend
+to five hundred rupees for each subsequent alternate Friday or the preceding working day,
+as the case may be, on which the default continues.
+* * * * *
+25. (1) The assets in India of every banking company at the close of business Assets in India.
+on the last Friday of every quarter or, if that Friday is a public holiday under the
+26 of 1881. Negotiable Instruments Act, 1881, at the close of the business on the preceding
+working day, shall not be less than seventy-five per cent. of its demand and time
+liabilities in India.
+(2) Every banking company shall, within one month from the end of every quarter,
+submit to the Reserve Bank a return in the prescribed form and manner of the assets and
+liabilities referred to in sub-section (1) as at the close of business on the last Friday of the
+previous quarter, or, if that Friday is a public holiday under the Negotiable Instruments
+26 of 1881. Act, 1881, at the close of business on the preceding working day:
+12
+Provided that every Reginal Rural Bank shall also furnish a copy of the said
+return to the National Bank.
+* * * * *
+Monthly returns 27. (1) Every banking company shall, before the close of the month succeeding
+and power to that to which it relates, submit to the Reserve Bank a return in the prescribed form and
+call for other
+manner showing its assets and liabilities in India as at the close of business on the last
+returns and
+information. Friday of every month or if that Friday is a public holiday under the Negotiable
+Instruments Act, 1881, at the close of business on the preceding working day. 26 of 1881.
+N omination for 4 5 Z A
+*
+. ( 1 ) W h e r e a d
+*
+e p o s i t i s h e l d b y a
+*
+b a n k i n g c o m p a n y
+*
+t o t h e c r e d i t
+*
+o f one or
+payment of more persons, the depositor or, as the case may be, all the depositors together, may
+depositors'
+nominate, in the prescribed manner, one person to whom in the event of the death of
+money.
+the sole depositor or the death of all the depositors, the amount of deposit may be
+returned by the banking company.
+* * * * *
+Nomination for 45ZC. (1) Where any person leaves any article in safe custody with a
+return of
+banking company, such person may nominate, in the prescribed manner, one
+articles kept in
+safe custody person to whom, in the event of the death of the person leaving the article in safe
+with banking custody, such article may be returned by the banking company.
+company.
+* * * * *
+Release 45ZE. (1) Where an individual is the sole hirer of a locker from a banking
+contents of company, whether such locker is located in the safe deposit vault of such banking
+safety Release
+company or elsewhere, such individual may nominate one person to whom, in the
+of lockers.
+event of the death of such individual, the banking company may give access to
+the locker and liberty to remove the contents of the locker.
+* * * * *
+PART V
+APPLICATION OF THE ACT TO CO-OPERATIVE BANKS
+Act to apply to 56. Notwithstanding anything contained in any other law for the time being
+co-operative
+in force, the provisions of this Act, shall apply to, or in relation to, co-operative
+societies
+subject to societies as they apply to, or in relation to, banking companies subject to the
+modifications. following modifications, namely:—
+* * * * *
+(c) in section 5,—
+* * * * *
+(ii) clauses (ff), (h) and (nb) shall be omitted;
+* * * * *
+(j) for section 18, the following section shall be substituted:—
+C ash reserve. 18. (1) Every co-operative bank, not being a co-operative bank for
+the time being included in the Second Schedule to the Reserve Bank of
+India Act, 1934 (hereinafter referred to as a “scheduled State Co-operative 2 of 1934.
+Bank”), shall maintain in India by way of cash reserve with itself or by
+way of balance in a current account with the Reserve Bank or the State
+Co-operative Bank of the State concerned or by way of net balance in
+current accounts, or, in the case of a primary co-operative bank, with the
+central co-operative bank of the district concerned, or in one or more of
+the aforesaid ways, a sum equivalent to such per cent. of the total of its
+demand and time liabilities in India, as on the last Friday of the second
+preceding fortnight as the Reserve Bank may specify, by notification in
+the official Gazette, from time to time having regard to the needs for
+securing the monetary stability in the country and shall submit to the
+Reserve Bank before the fifteenth day of every month a return showing
+13
+the amount so held on alternate Friday during a month with particulars
+of its demand and time liabilities in India on such Fridays or if any
+such Friday is a public holiday under the Negotiable Instruments Act,
+1881, at the close of business on the preceding working day.
+Explanation.—In this section and in section 24—
+* * * * *
+(b) “fortnight” shall mean the period from Saturday to the second
+following Friday, both days inclusive;
+* * * * *
+————
+EXTRACTS FROM THE STATE BANK OF INDIA ACT, 1955
+(23 OF 1955)
+* * * * *
+38A. (1) * * * * T r a n s f e r of
+unpaid or
+(3) Any money transferred to the unpaid dividend account of the State Bank, unclaimed
+in pursuance of this section which remains unpaid or unclaimed for a period of dividend.
+seven years from the date of such transfer shall be transferred by the State Bank
+to the Investor Education and Protection Fund established under sub-section (1)
+of section 205C of the Companies Act, 1956 for being utilised for the purpose and
+1 of 1956.
+in the manner specified in that section.
+* * * *
+41. (1) The affairs of the State Bank shall be audited by two or more auditors Audit.
+duly qualified to act as auditors of companies under section 226 of the Companies
+Act, 1956, who shall be appointed by the State Bank with the previous approval
+1 of 1956.
+of the Reserve Bank.
+(2) The auditors shall receive such remuneration as the Reserve Bank may
+fix in consultation with the Central Government.
+* * * * *
+————
+EXTRACTS FROM THE BANKING COMPANIES (ACQUISITION AND TRANSFER OF
+UNDERTAKINGS) ACT, 1970
+(5 OF 1970)
+* * * * *
+CHAPTER V
+MISCELLANEOUS
+10. (1) * * * * * Closure of
+accounts and
+(2) Every auditor of a corresponding new bank shall be a person who is disposal of
+qualified to act as an auditor of a company under section 226 of the Companies profits.
+1 of 1956. Act, 1956, and shall receive such remuneration as the Reserve Bank may fix in
+consultation with the Central Government.
+* * * * *
+10B. (1) * * * * * Transfer of
+unpaid or
+(3) Any money transferred to the Unpaid Dividend Account of a
+unclaimed
+corresponding new bank in pursuance of this section which remains unpaid or dividend to
+unclaimed for a period of seven years from the date of such transfer, shall be Unpaid
+Dividend
+transferred by the corresponding new bank to the Investor Education and
+Account.
+Protection Fund established under sub-section (1) of section 205C of the
+1 of 1956. Companies Act, 1956.
+14
+(4) The money transferred under sub-section (3) to the Investor Education
+and Protection Fund shall be utilised for the purposes and in the manner specified
+in section 205C of the Companies Act, 1956. 1 of 1956.
+* * * * *
+————
+EXTRACTS FROM THE BANKING COMPANIES (ACQUISITION AND TRANSFER OF
+UNDERTAKINGS) ACT, 1980
+(40 OF 1980)
+* * * * *
+CHAPTER V
+MISCELLANEOUS
+Closure of 10. (1) * * * * *
+accounts and
+disposal of (2) Every auditor of a corresponding new bank shall be a person who is
+profits.
+qualified to act as an auditor of a company under section 226 of the Companies
+Act, 1956 and shall receive such remuneration as the Reserve Bank may fix in 1 of 1956.
+consultation with the Central Government.
+* * * * *
+Transfer of 10B. (1) * * * * *
+unpaid or
+unclaimed (3) Any money transferred to the Unpaid Dividend Account of a
+dividend to corresponding new bank in pursuance of this section which remains Unpaid or
+Unpaid
+unclaimed for a period of seven years from the date of such transfer, shall be
+Dividend
+Account. transferred by the corresponding new bank to the Investor Education and
+Protection Fund established under sub-section (1) of section 205C of the
+Companies Act, 1956. 1 of 1956.
+(4) The money transferred under sub-section (3) to the Investor Education
+and Protection Fund shall be utilised for the purposes and in the manner specified
+in section 205C of the Companies Act, 1956. 1 of 1956.
+* * * * *
+LOK SABHA
+————
+A
+BILL
+further to amend the Reserve Bank of India Act, 1934, the Banking Regulation
+Act, 1949, the State Bank of India Act, 1955, the Banking Companies
+(Acquisition and Transfer of Undertakings) Act, 1970 and the Banking
+Companies (Acquisition and Transfer of Undertakings) Act, 1980.
+————
+(Smt. Nirmala Sitharaman, Minister of Finance and Corporate Affairs.)

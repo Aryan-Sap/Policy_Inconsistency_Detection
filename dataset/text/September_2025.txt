@@ -1,0 +1,554 @@
+Monthly Policy Review
+September 2025
+Highlights of this Issue
+GST Council approves rate rationalisation (p. 2)
+The 56th GST Council meeting simplified the tax structure to two main slabs (5% and 18%) with a 40% demerit
+rate, while cutting rates on several items.
+Supreme Court stays provisions under the Waqf (Amendment) Act, 2025 (p. 3)
+The Court has stayed provisions related to establishing proof of practice of Islam, treatment of government
+property as waqf, and non-Muslin representation in Waqf Council and Boards.
+Draft rules on occupational health and safety released for comments (p. 3)
+The draft rules specify responsibilities of employers regarding provision of safe working conditions and welfare
+facilities for employees.
+Draft bill to promote and regulate civilian drones released for comments (p. 3)
+The Bill mandates registration of all unmanned aircraft systems with the Director General of Civil Aviation. It
+provides for airspace to be separated into different zones, prohibiting drone operations in certain areas.
+National policy on geothermal energy notified (p. 5)
+The policy aims to facilitate joint ventures for geothermal projects, provide concessional loans, and develop a
+single-window regulatory mechanism.
+Comments invited on the draft rules for telecommunication user identification (p. 4)
+The draft rules propose mandatory biometric verification, a biometric identity verification system, and stricter
+rules for SIM transfers.
+Amendment to interception rules notified (p. 5)
+The amendments add that the Union Home Secretary may also issue an order for interception requested by a
+state government beyond its territorial jurisdiction.
+October 1, 2025
+PRS Legislative Research ■ Institute for Policy Research Studies
+3rd Floor, Gandharva Mahavidyalaya ■ 212, Deen Dayal Upadhyaya Marg ■ New Delhi – 110002
+Tel: (011) 23234801, 43434035 ■ www.prsindia.org
+Monthly Policy Review – September 2025 PRS Legislative Research
+Macroeconomic Development approved risk-based provisional refunds arising out of
+inverted duty structures. An inverted duty structure
+Shania Ali (shania@prsindia.org) arises when the tax rate on inputs such as raw materials
+used in production is higher than the tax rate on
+Current account deficit at 0.2% of GDP in the finished goods, leading to unutilised input tax credit.
+first quarter of 2025-26 Registration for small and low-risk businesses has been
+simplified, and Goods and Services Tax Appellate
+India recorded a current account deficit of USD 2.4
+Tribunal would be operationalised by end of September
+billion (0.2% of GDP) in the first quarter (April-June)
+2025. The changes in GST rates of goods and services
+of 2025-26, lower than USD 8.6 billion (0.9% of GDP)
+have become effective from September 22, 2025.
+in the corresponding quarter of 2024-25.1 In the fourth
+quarter (January-March) of 2024-25, India recorded a
+SEBI approves amendments on various
+current account surplus of USD 13.4 billion (1.3%
+subjects
+of GDP).
+The Securities and Exchange Board of India (SEBI)
+Capital account registered a net inflow of USD 7.7
+approved amendments to: (i) minimum public offers
+billion in the first quarter of 2025-26 as compared to a
+(MPO) and minimum public shareholding (MPS)
+net outflow of USD 5.4 billion in the fourth quarter of
+requirements under Securities Contracts (Regulation)
+2024-25. Foreign exchange reserves increased by USD
+Rules of 1957, and (ii) provisions on Related Party
+4.5 billion in the first quarter of 2025-26. In the
+Transactions (RPT) under SEBI (Listing Obligations
+corresponding quarter of 2024-25, foreign exchange
+and Disclosure Requirements) Regulations, 2015 and
+reserves increased by USD 5.2 billion.
+associated circulars. 3,4,5 Key changes are:
+Table 1: Balance of payments, Q1 2025-26 (USD
+▪ MPO and MPS requirements: MPO refers to the
+billion)
+minimum portion of shares a company must offer
+Q1 Q4 Q1
+to the public at the time of listing. MPS refers to
+2024-25 2024-25 2025-26
+the minimum level of public shareholding that
+a. Exports 111.2 116.3 113.1
+must be maintained post-listing. SEBI has
+b. Imports 175.0 175.8 181.6 introduced revised market capitalisation
+c. Trade balance -63.8 -59.5 -68.5 thresholds. It has lowered MPO requirements for
+very large issuers. MPS timelines have also been
+d. Net services 39.7 53.3 47.9
+eased, allowing up to 10 years for some large
+e. Other transfers 15.4 19.6 18.2
+companies to reach 25% public shareholding,
+f. Current account -8.7 13.4 -2.4 instead of five years previously. The 35% retail
+g. Capital account 13.1 -5.4 7.7 quota in IPOs will remain unchanged.
+h. Errors and omissions 0.8 0.8 -0.8 ▪ Related party transactions (RPTs): The
+i. Change in reserves 5.2 8.8 4.5 amendments revise thresholds for determining
+Sources: RBI; PRS. material RPTs undertaken by listed entities and
+their subsidiaries. They also provide relaxation in
+the information to be furnished to the Audit
+Committee and shareholders for the approval of
+Finance RPTs. Amendments provide for codifying validity
+periods for omnibus approvals by shareholders.
+Shania Ali (shania@prsindia.org) Omnibus approvals, in the context of RPTs, are
+standing approvals granted for a class of
+GST Council approves rate rationalisation and transactions that are repetitive or cannot be
+measures for ease of compliance foreseen at the time of approval. Through these,
+companies may avoid the need for seeking
+The GST Council approved rationalisation of GST
+individual approvals for each transaction.
+rates and process reforms aimed at facilitating trade.2
+Amendments also clarify applicability of RPT
+The current four-tiered tax rate structure has been
+provisions for certain kinds of transactions.
+rationalised into a two-rate structure (5% and 18%),
+with a special “demerit rate” of 40% for select goods
+SEBI approves introduction of SWAGAT-FI
+and services. GST on essential items such as groceries,
+framework
+consumer non-durables (shampoos, soap bars, and
+toothbrushes), consumer durables (TVs, air The Securities and Exchange Board of India (SEBI)
+conditioners, and small cars and motorcycles), approved the introduction of the Single Window
+agricultural goods, labour-intensive goods, medicines Automatic & Generalised Access for Trusted Foreign
+and medical equipment, and renewable energy devices Investors (SWAGAT-FI) framework.3 The framework
+has been reduced. will enable a unified registration process across
+All individual life and health insurance policies have multiple investment routes for these investors, and
+been exempted from GST. The GST Council also minimise repeated compliance requirements. Foreign
+- 2 -
+Monthly Policy Review – September 2025 PRS Legislative Research
+investors eligible under this framework include central purposes. However, the Court clarified that the
+banks, sovereign wealth funds, multilateral agencies, authorities will be entitled to verify the authenticity of
+and certain Public Retail Funds. The framework is the Aadhar Card by seeking further proof.
+planned to be fully implemented within six months.
+Labour and Employment
+Law and Justice
+Vaishali Dhariwal (vaishali@prsindia.org)
+Shrusti Singh (shrusti@prsindia.org)
+Draft rules on occupational health and safety
+SC stays certain provisions of Waqf released for comments
+(Amendment) Act, 2025
+The Ministry of Labour and Employment released
+A two-judge bench of the Supreme Court passed an seven draft rules for public consultation.9,10,11,12,13,14,15
+interim order staying certain provisions of the Waqf These are issued under the Occupational Safety, Health
+(Amendment) Act, 2025.6 The Court rejected the and Working Conditions Code, 2020.16 These draft
+appeal for a complete stay on the Amendment Act. It rules apply to: (i) dock workers, (ii) mine workers, (iii)
+issued the following directions in the ruling: motor transport workers, (iv) plantation workers, (v)
+beedi workers, (vi) construction workers, and (vii)
+▪ Declaration of waqf: According to the
+factory workers.
+Amendment Act, only a person practicing Islam
+for at least five years may declare a waqf. The The draft rules specify responsibilities of employers
+Court ruled that this part of the Amendment Act regarding provision of safe working conditions and
+will remain stayed until the state government welfare facilities for employees. These include: (i)
+frames its rules. The rules will have to provide for appointment of welfare officers, (ii) maintaining first
+a mechanism to identify if someone has been aid and medical appliances, (iii) providing creche
+practising Islam for a certain number of years. The facilities, canteen facilities, bathing and washing
+Court observed that in the absence of any facilities, latrine, and urine facilities, (iv) ensuring
+procedure, this provision cannot be given effect. availability of potable drinking water, and (v) ensuring
+protection against breathing harmful substances.
+▪ Government property as waqf: The Amendment
+Act states that in case of uncertainty about Comments are invited until November 6, 2025.
+ownership of a government property identified as
+waqf, the state government will appoint an officer
+to conduct an inquiry and ascertain ownership.
+The Act provides that the property will cease to be Transport
+waqf until the officer submits the report. The
+Supreme Court observed that this provision is Atri Prasad Rout (atri@prsindia.org)
+arbitrary and has put a stay on it.
+Draft Bill to promote and regulate civilian
+▪ Membership in the Central Waqf Council: The
+drones released for public feedback
+Supreme Court directed that the Council should
+not consist of more than four non-Muslim The Ministry of Civil Aviation released the draft Civil
+members out of 22 members. The Court has also Drone (Promotion and Regulation) Bill, 2025 for public
+directed that the Waqf Boards should not have feedback.17 The Bill provides a framework for
+more than three non-Muslim members out of 11. promotion and regulation of civilian unmanned aircraft
+systems. Key features of the Bill include:
+▪ In addition, the Supreme Court recommended that
+the Chief Executive Officer of the Board be ▪ Regulation of UAS: The Bill defines unmanned
+appointed from amongst the Muslim community. aircrafts as aircrafts weighing up to 500 kilogram
+that are either autonomous or operated remotely.
+SC directs Election Commission to accept An unmanned aircraft system (UAS) includes the
+Aadhar Card as identify proof in Bihar aircraft, associated remote pilot stations, and
+control links. Persons owning a UAS must register
+A two-judge bench of the Supreme Court directed the it with the Directorate General of Civil Aviation
+Election Commission to accept Aadhar Card as a proof (DGCA). Assembling or manufacturing of UAS
+of identity for preparing the revised voter list of Bihar.7 will require a certificate from DGCA. All systems
+The Special Intensive Revision (SIR) exercise was held must incorporate mandatory safety and security
+in Bihar to ensure that names of all eligible citizens are features as specified by the central government. A
+included in the electoral roll of the state.8 person operating a UAS must have remote pilot
+training and possess a certificate issued by DGCA
+The Court observed that under Section 23(4) of the
+or an authorized officer.
+Representation of People Act, 1950, Aadhar Card is
+one of the documents enumerated for identification
+- 3 -
+Monthly Policy Review – September 2025 PRS Legislative Research
+▪ Airspace management: The central government Communication
+will publish an airspace map segregating airspace
+into red, yellow, and green zones. In the red zone, Ayush Stephen Toppo (ayush@prsindia.org)
+UAS operations will require permission from the
+central government. Central and state governments Comments invited on the draft rules for
+and agencies authorised by them, will have the telecommunication user identification
+power to notify red zones. Authorities may also
+The Department of Telecommunication has invited
+declare a temporary red zone over an area.
+comments on the draft Telecommunications (User
+Operations in yellow zone will require permission
+Identification) Rules, 2025.19 These Rules seek to
+from the concerned air traffic control authority.
+create a biometric-based identification framework for
+The Bill does not specify any mandatory
+telecom users. Key features include:
+airspace permissions for green zones.
+▪ Mandatory biometric verification: The draft
+▪ Liability and compensation: Violations of
+Rules mandate new telecom users to undergo
+airspace restrictions and misuse of systems will be
+biometric verification. Users with Aadhaar must
+cognisable offences. Operation of a UAS will
+undergo Aadhaar authentication. Users without
+require coverage under a third-party insurance
+Aadhaar, or unable to complete Aadhaar
+policy. Claims for compensation related to UAS
+authentication, will follow an alternate digital KYC
+accidents will be adjudicated by the Motor
+process. Under both processes, a live photograph or
+Accident Claim Tribunals. Appeals against the
+any other specified biological attributes, and user
+award of a Tribunal will lie before the High Court.
+details will be stored in the subscriber databases.
+▪ Emergency powers: In interest of security and For digital KYC, a user will submit documents
+sovereignty, the central government may cancel or relating to proof of identity and proof of address. In
+suspend certificates, prohibit UAS operations, and case of business users, identification of the
+direct delivery of UAS to the government for authorised representative, and of each of the end
+public service. users of that connection will be required. However,
+exemption for verification of each end-user may be
+Cabinet approves schemes to promote sought by the businesses. Telecom entities are
+shipbuilding required to act against false or forged documents
+used during enrolment and inform the government.
+The Union Cabinet approved multiple initiatives
+The entities must initiate a police complaint or file
+aiming to promote domestic capacity in shipbuilding
+an FIR in such cases.
+and maritime trade.18 These initiatives are expected to:
+(i) expand domestic shipbuilding capacity to 4.5 ▪ Biometric based identity verification system:
+million gross tonnage per annum, (ii) attract Every authorised entity providing
+investments worth Rs 4.5 lakh crore in the maritime telecommunication services will individually or
+sector, and (iii) generate 30 lakh jobs. The collectively create and maintain a biometric based
+Shipbuilding Financial Assistance Scheme, approved in identity verification system (BIVS). This system
+2015, has been extended until March 31, 2036. The will contain live photographs or any other
+financial outlay for this scheme is Rs 24,736 crore. To biological attributes specified by the central
+provide long term financing to the sector, the Maritime government on the portal. User information stored
+Development Fund has been allocated Rs 25,000 crore. in BIVS will be shared across authorised telecom
+This comprises of an investment fund of worth Rs entities for real-time verification.
+20,000 crore and an interest incentivisation fund of Rs
+▪ Connection transfers: The Rules mandate re-
+5,000 crore to help reduce the effective cost of debt.
+verification in cases, such as SIM replacement,
+Further, Rs 19,989 crore has been approved for the
+mobile number portability, and on government
+Shipbuilding Development Scheme to support mega
+directions. Transfer of telecom services will only
+shipbuilding clusters, infrastructure expansion, and
+be permitted between blood relatives or legal heirs,
+provide insurance.
+subject to identity re-verification. In case of a
+business connection, the end-user may be changed
+if the authorised representative of the business
+informs the telecom entity immediately, and the
+identification of the new user is done within seven
+days of such change.
+▪ Obligations of users: Users must not provide
+incorrect details. They must not resell or transfer
+connections except when permitted under the Rules.
+Comments are invited until October 19, 2025.
+- 4 -
+Monthly Policy Review – September 2025 PRS Legislative Research
+Amendments to interception Rules notified extension may be considered for geothermal
+projects in high altitude areas. Sites may be
+The Department of Telecommunication has notified the
+allocated for development for power generation or
+Telecommunications (Procedures and Safeguards for
+direct-use applications for up to thirty years.
+Lawful Interception of Messages) Amendment Rules,
+2025.20 It seeks to amend the Telecommunications ▪ Financial support: The Ministry provides
+(Procedures and Safeguards for Lawful Interception of financial support to geothermal research projects
+Messages) Rules, 2024.21 The 2024 Rules provides for under its Renewable Energy Research and
+interception of messages or class of messages over Technology Development Programme. The central
+telecom network by authorised agencies. Key government also allows 100% FDI in renewables.
+amendments include: As per the new policy, the central government aims
+to explore measures such as concessional loans,
+▪ Powers to issue interception orders: Under the
+import duty exemptions on geothermal equipment,
+2024 Rules, orders for interception may be issued
+and property tax exemptions for geothermal users.
+by: (i) Union Home Secretary in the case of the
+central government, or (ii) Secretary in-charge of ▪ Capacity building: The Ministry may establish
+the home department in case of a state government. Centres of Excellence in Geothermal Energy for
+The amendments add that the Union Home technical support, capacity building, and
+Secretary may also issue order for interception implementation of geothermal projects. It also aims
+requested by a state government beyond its to promote technology collaborations with leading
+territorial jurisdiction. Request for such an order countries in the geothermal sector.
+will be made by the Secretary in-charge of a state
+home department. Rules on energy storage system amended
+▪ Number of nodal officers for processing The Ministry of Power has notified the Electricity
+interception orders: Previously, the 2024 Rules (Amendment) Rules, 2025.23 The 2005 Rules provide
+required each authorised agency to designate two for the regulation of energy storage systems (ESS).24
+nodal officers to process interception orders. The ESS refers to a system that store electricity from a
+amendments instead require one or more nodal renewable energy source that can be used later.25 Key
+officers to be designated. changes include:
+▪ Eligible entities: Previously, the 2005 Rules
+allowed specified entities to develop, own, lease, or
+operate ESS. These include: (i) electricity
+Power
+generation companies, (ii) transmission or
+Ayush Stephen Toppo (ayush@prsindia.org) distribution licensees, and (iii) independent energy
+storage service providers. The amendments add
+National policy on geothermal energy notified end-use consumers to this list, clarifying that they
+may also develop, own, lease, or operate ESS.
+The Ministry of New and Renewable Energy has
+notified the National Policy on Geothermal Energy.22 ▪ Sale of energy storage services: Previously,
+The policy aims to facilitate the exploration, owners or developers of ESS could sell energy
+development, and utilisation of geothermal energy in storage services to: (i) a utility engaged in
+the country. It covers both power generation and generation, transmission, and distribution, and (ii) a
+direct-use applications such as ground source heat Load Despatch Centre. The amendments expand
+pumps, cold storage, and district heating. Key features the list to include consumers or any other persons.
+of the policy include:
+▪ Support for project development: The Ministry
+will prioritise the conversion of abandoned oil and Education
+gas wells, and production facilities into geothermal
+plants. It aims to facilitate joint ventures between Jahanvi Choudhary (jahanvi@prsindia.org)
+oil, gas, and mineral companies to develop such
+projects. The Ministry may issue detailed Comments invited on the draft Indian
+guidelines for implementation of geothermal Statistical Institute Bill, 2025
+projects in the country. The central government
+will also explore mechanisms to share geological The Ministry of Statistics and Programme
+risks with developers. Implementation invited comments on the Indian
+Statistical Institute Bill, 2025.26 The draft Bill aims to
+▪ Regulatory mechanism: State governments will replace the Indian Statistical Institute Act, 1959.27 The
+designate nodal agencies to provide clearances and draft Bill recognises the institute as a statutory body.
+land leases through a single-window mechanism.
+State governments may allocate geothermal sites for • Creation of Board of Governance: The draft Bill
+exploration for three years with a provision for an revises the composition, term of offices, and
+extension of two years. An additional two-year functions of the executive body. It establishes a
+- 5 -
+Monthly Policy Review – September 2025 PRS Legislative Research
+Board of Governance as the principle executive Mining
+body at these institutes.
+Vaishali Dhariwal (vaishali@prsindia.org)
+▪ The Board will have 12 members, including: (i)
+chairperson, (ii) representatives from Ministries of
+Cabinet approves scheme to promote recycling
+Statistics, Finance, and Department of Science and
+of critical minerals
+Technology, (iii) experts from statistical fields, (iv)
+director, (v) dean, (vi) head of centres, and (vii) The Union Cabinet approved an incentive scheme for
+registrar of the institute. The term of office of promotion of critical minerals recycling under the
+members of the Board will be of three years, National Critical Mineral Mission.31 The scheme will
+compared to current term of two years. have a financial outlay of Rs 1,500 crore and will run
+for six years from FY 2025-26 to FY 2030-31. Key
+▪ The Board will be responsible for: (i) creating
+features include:
+academic, administrative, and technical posts, (ii)
+specifying regulations for fees and financial ▪ Eligibility requirements: Beneficiaries under the
+accountability, and (iii) reviewing the performance scheme will include large, established recyclers
+of the institute and the faculty. and small and new recyclers. One-third of the
+scheme outlay has been reserved for start-ups. The
+▪ Funds of the institute: The institute will maintain
+scheme will apply to investments in new units,
+a fund, which will consist of grants from the
+capacity expansion, modernisation, and
+Central government, fees and charges, and any
+diversification of existing units. Recycling
+other money received by the institute and revenue
+facilities must be authorised by Central or State
+generated. It will also create a corpus fund for
+Pollution Control Boards, as well as registered
+long term sustainability.
+under the applicable Extended Producer
+Comments are invited until October 24, 2025. Responsibility Rules, to be considered for
+receiving benefits. Eligible feedstock for recycling
+Cabinet approves expansion of UG and PG includes e-waste, lithium-ion battery scrap, and
+seats in medical colleges other scrap such as catalytic converters from end-
+of-life vehicles.
+The Union Cabinet approved the third phase of the
+Centrally Sponsored Scheme to upgrade central and ▪ Incentives under the scheme: The scheme will
+state government colleges, postgraduate institutes, and provide 20% capital expenditure subsidy on plant,
+government hospitals.28 The scheme has a total outlay machinery, equipment, and utilities, given
+of Rs 15,035 crore for the financial year 2025-26 to production starts within the specified timeframe.
+2028-29. Of this, the central share is Rs 10,303 crore, An operational expenditure subsidy will be offered
+with the states contributing Rs 4,731 crore. The on incremental sales over the base year (2025-26).
+scheme targets to add 5,023 undergraduate seats and Of the eligible operational expenditure subsidy,
+5,000 postgraduate seats by 2028-29. There is a ceiling 40% will be paid in the second year, and the
+cost of Rs 1.5 crore per seat. remaining 60% will be paid in the fifth year, upon
+achieving threshold incremental sales. The total
+Guidelines released on co-location of incentive is capped at Rs 50 crore for large entities
+and Rs 25 crore for small entities.
+anganwadi centres with schools
+The Ministry of Education and the Ministry of Women
+and Child Development jointly released guidelines for
+co-location of anganwadi centres with schools. 29,30 Commerce and Industry
+This is released as per the recommendations of the
+National Education Policy, 2020. The guidelines India and Israel sign Bilateral Investment
+specify two models for co-location of anganwadis: Agreement
+(i) physically co-located anganwadis, and (ii) mapping
+Shania Ali (shania@prsindia.org)
+an anganwadi to a nearest school with grade one, if
+space and infrastructure requirements cannot be met.
+India and Israel signed a Bilateral Investment
+The guidelines also require the data related to children
+Agreement to facilitate growth of trade and mutual
+in anganwadis to be reconciled with primary school
+investments.32 The Agreement includes provisions to
+data. Further, all state-level curriculum is required to
+safeguard investments against expropriation, ensure
+align with the National Curriculum Framework for the
+transparency, enable smooth transfers and
+Foundational Stage.
+compensation for losses, and an independent dispute
+resolution mechanism through arbitration.
+- 6 -
+Monthly Policy Review – September 2025 PRS Legislative Research
+India and Australia sign Mutual Recognition organic products covered under the agreement include:
+Arrangement for organic products (i) unprocessed plant products, excluding seaweed,
+aquatic plants, and greenhouse crops, (ii) processed
+Jahanvi Choudhary (jahanvi@prsindia.org)
+food composed of one or more ingredients of plant
+origin, and (iii) organic wine. As of financial year
+India and Australia signed a Mutual Recognition
+2024-25, India’s organic export to Australia is USD
+Arrangement for organic products.33 This arrangement
+8.96 million.
+was signed under the India-Australia Economic
+Cooperation and Trade Agreement. Under the
+arrangement, both countries will recognise each other’s
+organic standards and certification systems. The
+1 Developments in India’s Balance of Payments during the First 13 Draft rule under section 23 and 24 of OSH & WC Code 2020
+Quarter (April-June) of 2025-26, Reserve Bank of India, September related to Beedi and Cigar Workers, Ministry of Labour and
+30, 2025, Employment, September 22, 2025,
+https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=6 https://labour.gov.in/sites/default/files/beedi.pdf.
+1129. 14 Draft rule under section 23 and 24 of OSH & WC Code 2020
+2 “Recommendations of the 56th Meeting of the GST Council held at related to building and other construction workers, Ministry of
+New Delhi today”, Press Information Bureau, Ministry of Finance, Labour and Employment, September 22, 2025,
+September 3, 2025, https://labour.gov.in/sites/default/files/bocw_1.pdf.
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2163555. 15 Draft rule under section 23 and 24 of OSH & WC Code 2020
+3 SEBI Board Meeting, September 12, 2025, related to Factories Workers, Ministry of Labour and Employment,
+https://www.sebi.gov.in/media-and-notifications/press-releases/sep- September 22, 2025,
+2025/sebi-board-meeting_96601.html. https://labour.gov.in/sites/default/files/factories.pdf.
+4 “Consultation Paper on review of requirement of Minimum Public 16 The Occupational Safety, Health and Working Conditions Code,
+Offer and timelines to comply with Minimum Public Shareholding 2020, https://labour.gov.in/sites/default/files/osh_gazette.pdf
+for issuers in terms of Securities Contracts (Regulation) Rules, 17 Draft Civil Drone (Promotion and Regulation) Bill, 2025, Ministry
+1957”, SEBI, August 18, 2025, https://www.sebi.gov.in/reports-and- of Civil Aviation, September 16, 2025,
+statistics/reports/aug-2025/consultation-paper-on-review-of- https://www.civilaviation.gov.in/sites/default/files/2025-
+requirement-of-minimum-public-offer-and-timelines-to-comply- 09/Draft%20Civil%20Drone%20%28Promotion%20and%20Regulati
+with-minimum-public-shareholding-for-issuers-in-terms-of- on%29%20Bill%202025.pdf.
+securities-contracts-regulation-rules-1957_96128.html.
+18 “Comprehensive four pillar approach to strengthen shipbuilding,
+5 “Consultation paper on amendments to provisions relating to related maritime financing and domestic capacity”, Press Information
+party transactions under SEBI (LODR) Regulations, 2015 and Bureau, Cabinet, September 24, 2025,
+circulars thereunder”, SEBI, August 4, 2025, https://www.pib.gov.in/PressReleasePage.aspx?PRID=2170573.
+https://www.sebi.gov.in/reports-and-statistics/reports/aug-
+19 The Telecommunications (User Identification) Rules, 2025,
+2025/consultation-paper-on-amendments-to-provisions-relating-to-
+Department of Telecommunication, September 12, 2025,
+related-party-transactions-under-sebi-lodr-regulations-2015-and-
+https://dot.gov.in/sites/default/files/Gazette%20Notification%20of%2
+circulars-thereunder_95824.html.
+0Draft%20Telecommunications%20User%20Identification%20Rules
+6 Civil Appeal No. 276 of 2025, Supreme Court of India, September %2C%202025.pdf.
+15, 2025,
+20 The Telecommunications (Procedures and Safeguards for Lawful
+https://api.sci.gov.in/supremecourt/2025/18261/18261_2025_1_1501
+Interception of Messages) Amendment Rules, 2025, Department of
+_64403_Judgement_15-Sep-2025.pdf.
+Telecommunication, September 12, 2025,
+7 Civil Appeal No. 640 of 2025, Association for Democratic Reforms https://dot.gov.in/sites/default/files/Telecommunications%20%28Pro
+and ORS. vs Election Commission of India, Supreme Court of India, cedures%20and%20Safeguards%20for%20Lawful%20Interception%
+September 15, 2025, 20of%20Messages%29%20Amendment%20Rules%2C%202.pdf?do
+https://api.sci.gov.in/supremecourt/2025/35785/35785_2025_2_26_6 wnload=1.
+3969_Order_08-Sep-2025.pdf.
+21 The Telecommunications (Procedures and Safeguards for Lawful
+8 No. ECI/PN/233/2025, “ECI to begin Special Intensive Revision of Interception of Messages) Rules, 2024,
+Electoral Rolls in Bihar”, June 24, 2025, https://www.eci.gov.in/eci- https://egazette.gov.in/WriteReadData/2024/256724.pdf.
+backend/public/api/download?url=LMAhAK6sOPBp%2FNFF0iRfX
+22 National Policy on Geothermal Energy, Ministry of New and
+bEB1EVSLT41NNLRjYNJJP1KivrUxbfqkDatmHy12e%2FzIv7%2
+Renewable Energy, September 15, 2025,
+FZQ09etPKoyJV5h%2FcTqdXj7y4XEu54AgUpFYqlgb%2F9owy3x
+https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749
+JkkWNyeb7x3GfQsXQUwCbGU493NshNTgs7UQ%3D%3D.
+f3/uploads/2025/09/202509152136711668.pdf.
+9 Draft rule under section 23 and 24 of OSH & WC Code 2020
+23 Electricity (Amendment) Rules, Ministry of Power, September 19,
+related to Dock Workers, Ministry of Labour and Employment,
+2025,
+September 22, 2025,
+https://powermin.gov.in/sites/default/files/webform/notices/Electricit
+https://labour.gov.in/sites/default/files/dock_workers.pdf.
+y_Amendment_Rules_2025.pdf.
+10 Draft rule under section 23 and 24 of OSH & WC Code 2020
+24 The Electricity Rules, 2005, Ministry of Power, June 8, 2005,
+related to Mines Workers, Ministry of Labour and Employment,
+https://egazette.gov.in/WriteReadData/2005/E_248_2011_024.pdf.
+September 22, 2025,
+https://labour.gov.in/sites/default/files/mines.pdf. 25 “National Framework for Promoting Energy Storage Systems will
+11 Draft rule under section 23 and 24 of OSH & WC Code 2020 encourage an ecosystem for development of Energy Storage, which
+will ensure affordable and clean electricity for everyone: Union
+related to Motor Transport Workers, Ministry of Labour and
+Power and New & Renewable Energy Minister”, Press Information
+Employment, September 22, 2025,
+Bureau, Ministry of Power, December 7, 2023,
+https://labour.gov.in/sites/default/files/motor.pdf.
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1983650#:~:te
+12 Draft rule under section 23 and 24 of OSH & WC Code 2020
+xt=of%20425.5%20GW.-
+related to Plantation Workers, Ministry of Labour and Employment,
+,India's%20energy%20mix%20is%20set%20to%20undergo%20a%2
+September 22, 2025,
+0transition%20from,(Release%20ID:%201983650).
+https://labour.gov.in/sites/default/files/plantation.pdf.
+26 “Ministry of Statistics and Programme Implementation invites
+suggestions on draft ‘The Indian Statistical Institute Bill, 2025’ from
+- 7 -
+Monthly Policy Review – September 2025 PRS Legislative Research
+32 “Government of India and Government of the State of Israel sign
+public within a period of 30 days.”, September 25, 2025,
+Bilateral Investment Agreement (BIA) in New Delhi today”, Press
+https://new.mospi.gov.in/uploads/announcements/announcements_17
+Information Bureau, Ministry of Finance, September 8, 2025,
+58802959275_d014d4be-7dda-4f25-9eeb-
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2164745.
+596c42947921_Inviting_comments_on_draft_ISI_Bill_2025.pdf
+33 “India and Australia sign Mutual Recognition Arrangement (MRA)
+27 The Indian Statistical Institute Act, 1959,
+for Organic Products”, Press Information Bureau, Ministry of
+https://www.indiacode.nic.in/bitstream/123456789/1425/1/A1959-
+Commerce and Industry, September 24, 2025,
+57.pdf.
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2170933.
+28 “Cabinet approves major expansion of postgraduate and
+DISCLAIMER: This document is being furnished to you for your
+undergraduate medical education capacity in the country”, Press
+information. You may choose to reproduce or redistribute this report
+Information Bureau, Ministry of Health and Family Welfare,
+for non-commercial purposes in part or in full to any other person
+September 24, 2025
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2170589. with due acknowledgement of PRS Legislative Research (“PRS”).
+The opinions expressed herein are entirely those of the author(s).
+29 “Shri Dharmendra Pradhan and Smt. Annapurna Devi jointly
+PRS makes every effort to use reliable and comprehensive
+launch the Guidelines for Co-location of Anganwadi Centres with
+information, but PRS does not represent that the contents of the
+Schools”, Press Information Bureau, Ministry of Education,
+report are accurate or complete. PRS is an independent, not-for-
+September 03, 2025,
+profit group. This document has been prepared without regard to the
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=2163452.
+objectives or opinions of those who may receive it.
+30 Guidelines for Co-location of Anganwadi Centres with Schools,
+Ministry of Women and Child Development, September 2, 2025,
+https://dsel.education.gov.in/sites/default/files/update/Guidelines_co-
+location_Anganwadi_Centers_en.pdf.
+31 “Incentive Scheme for Promotion of Critical Minerals Recycling,
+Cabinet”, Press Information Bureau, September 3, 2025,
+https://egazette.gov.in/WriteReadData/2025/266005.pdf.
+- 8 -

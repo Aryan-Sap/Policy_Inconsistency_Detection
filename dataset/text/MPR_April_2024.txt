@@ -1,0 +1,575 @@
+Monthly Policy Review
+April 2024
+Highlights of this Issue
+Consumer Price Index inflation was 5% in the fourth quarter of 2023-24 (p. 2)
+CPI inflation was 6.2% in the fourth quarter of 2022-23 while it was 5.4% in the third quarter of 2023-24. Food
+inflation in the fourth quarter of 2023-24 was 8.5%.
+SC rejects petition for return to paper ballots, 100% counting of VVPAT slips (p. 2)
+The Supreme Court observed that no discrepancy could be proven between votes recorded in the VVPAT trails and
+EVMs. It issued directions for storing symbol loading units and checking EVMs for tampering.
+Repo rate kept unchanged at 6.5% (p. 2)
+The Monetary Policy Committee also decided to retain the standing deposit facility rate and the marginal standing
+facility rate at 6.25% and 6.75%, respectively.
+Committee to recommend measures for the welfare of queer persons constituted (p. 2)
+The Committee will be chaired by the Cabinet secretary and include Secretaries of various departments as members.
+It will make recommendations to address discrimination and violence against queer persons.
+IMD forecasts southwest monsoon 2024 to be above normal (p. 7)
+The southwest seasonal monsoon occurs during June to September. It is expected to be 106% of the long period
+average. Some areas in the northwest, east, and northeast India are expected to receive below normal rainfall.
+Draft guidelines released for implementation of PM - Surya Ghar Muft Bijli Yojana (p. 5)
+The scheme aims to set up rooftop solar plants in one crore houses. The draft guidelines detail the amount of
+assistance to be given and the eligibility to receive such assistance.
+TRAI releases recommendations on various subjects (p. 6)
+TRAI released recommendations on infrastructure and spectrum sharing, and a framework to enable regulatory
+sandboxes in the telecom sector.
+TRAI seeks inputs on formulation of a National Broadcasting Policy (p. 6)
+Inputs have been sought on aspects such as manufacturing of equipment, production of content in India and non-
+discriminatory pricing.
+Note that the Model Code of Conduct is in place from March 16, 2024 till the completion of elections to the 18th Lok
+Sabha. The government cannot make major policy decisions during this period without prior approval of the Election
+Commission of India.
+May 1, 2024
+PRS Legislative Research Institute for Policy Research Studies
+3rd Floor, Gandharva Mahavidyalaya 212, Deen Dayal Upadhyaya Marg  New Delhi – 110002
+Tel: (011) 23234801, 43434035  www.prsindia.org
+Monthly Policy Review – April 2024 PRS Legislative Research
+Macroeconomic Development Law and Justice
+Tushar Chakrabarty (tushar@prsindia.org) Rutvik Upadhyaya (rutvik@prsindia.org)
+Retail inflation averaged 5% in fourth quarter SC rejects petition seeking return to paper
+of 2023-24 ballots, 100% verification of VVPAT slips
+Consumer Price Index (CPI) inflation was 5% in the A two-judge bench of the Supreme Court rejected a
+fourth quarter (January-March) 2023-24, lower than petition seeking certain reforms in the voting process.
+6.2% in the corresponding quarter of 2022-23.1 CPI The petitioners sought: (i) return to the paper ballot
+inflation was 5.4% in the third quarter (October- system of voting, or (ii) physical verification of
+December) of 2023-24. VVPAT slips by voters, and/or (iii) 100% counting of
+VVPAT slips in addition to counting of votes recorded
+Food inflation averaged 8.5% in the fourth quarter of
+in an EVM. 4 VVPAT is a mechanism in which a slip
+2023-24, higher than 5.6% in the fourth quarter of
+recording the vote cast is shown to the voter, allowing
+2022-23. In the third quarter of 2023-24, food inflation
+him to verify his vote. In 2019, the Supreme Court had
+was 8.3%.
+ordered for VVPAT slips from five random polling
+Wholesale Price Index (WPI) inflation averaged 0.4% stations in each assembly constituency or assembly
+in the fourth quarter of 2023-24, lower than 3.4% in the segment in a parliamentary constituency to be matched
+corresponding quarter of 2022-23.2 In the third quarter with votes in the EVM.5
+of 2023-24, WPI inflation was 0.3%.
+In the recent judgement, the Court stated that so far no
+Figure 1: Monthly inflation in Q4 of 2023-24 (% mismatch between VVPAT slips and electronically
+change, year-on-year) recorded votes has been detected.4 It added that 100%
+counting of VVPAT slips would cause delays in
+10% 8.7%
+8.3% 8.5% counting and require manpower involved to be
+8% doubled. It also stated that the EVMs have effectively
+5.1% eliminated issues such as booth capturing and invalid
+6% 5.1% 4.9%
+votes, which were prevalent in the paper ballot system.
+4% It further stated that voters gaining physical access to
+0.2% VVPAT slips will lead to misuse and malpractices.
+2%
+0.3% 0.5%
+The Court issued two directions in this case.4 First,
+0%
+after symbols of all candidates are loaded into the
+CPI Food Inflation WPI
+VVPAT machine, symbol loading units should be
+Jan-24 Feb-24 Mar-24 sealed and stored in a room with the EVMs for at least
+45 days after results are declared. This will apply to
+Sources: MoSPI; Ministry of Commerce and Industry; PRS. the symbol loading process undertaken after May 1,
+2024. Second, the burnt memory/microcontroller of
+Repo rate kept unchanged at 6.5%
+5% of all EVMs in each assembly constituency or
+segment of a parliamentary constituency should be
+The Monetary Policy Committee (MPC) of the Reserve
+checked by a team of engineers from the EVM
+Bank of India kept the policy repo rate (the rate at
+which RBI lends money to banks) unchanged at 6.5%.3 manufacturer for tampering, after results are declared.
+The programme loaded on the EVM is burnt onto the
+Other decisions of the Committee include:
+microcontroller chip. This verification can only be
+ The standing deposit facility rate (the rate at which carried out upon the request of candidates who secured
+RBI borrows from banks without giving collateral) the second and third highest number of votes.
+has been retained at 6.25%.
+ The marginal standing facility rate (the rate at Committee to recommend measures for the
+which banks can borrow additional money from welfare of queer persons constituted
+RBI) and the bank rate (rate at which RBI buys
+The Ministry of Law and Justice constituted a
+bills of exchange) have been retained at 6.75%.
+committee to recommend measures for the welfare and
+The MPC decided to remain focused on withdrawal of protection of queer individuals.6 Queer is an umbrella
+accommodation. This is expected to ensure that term used for persons who are not heterosexual or do
+inflation progressively aligns with the target of 4%, not conform to assigned gender. The Committee has
+while supporting growth. been constituted in pursuance of a Supreme Court
+judgement in October 2023.7
+The question before the Court was whether the Special
+Marriage Act, 1954 violated the fundamental right to
+equality and liberty by not recognising marriage
+between queer couples.7,8 The Court unanimously
+- 2-
+Monthly Policy Review – April 2024 PRS Legislative Research
+agreed that same-sex marriages cannot be read into the borrower, (ii) rescheduling debts payable by the
+1954 Act.7 The Court also called for setting up a borrower, or (iii) any debt to equity conversion.
+Committee chaired by the Union Cabinet Secretary to
+ Securitisation: The Securitisation and
+evaluate the rights and entitlements of queer persons.
+Reconstruction of Financial Assets and
+The Committee will be chaired by the Cabinet Enforcement of Security Interest Act, 2002, allows
+Secretary.6 Members of the Committee include ARCs to issue security receipts (SRs) to raise
+Secretaries of the: (i) Department of Home, (ii) funds.10 It may also be issued to entities in
+Ministry of Women and Child development, and (iii) exchange for acquisition of financial assets. As
+Department of Health and Family Welfare.6 The per the Directions, ARCs must get their SRs rated
+Committee can empanel experts and other officers. within six months of the acquisition. The rating
+should be based on recovery risk, i.e., how much
+The Committee will examine and recommend measures
+can be recovered from the acquired financial asset.
+to ensure that queer persons: (i) are not discriminated
+against while accessing goods, services and welfare
+RBI releases circular for transition of small
+entitlements, (ii) do not face threats of violence or
+finance banks to universal banks
+coercion, and (iii) are not subjected to involuntary
+medical treatments.6 Tushar Chakrabarty (tushar@prsindia.org)
+The Reserve Bank of India (RBI) released a circular to
+provide for the voluntary transition of small finance
+Finance banks to universal banks.11 Small finance banks: (i)
+facilitate savings and (ii) provide credit to small
+RBI releases directions for asset reconstruction
+business units, small and marginal farmers, and other
+companies low-income groups.12 For transitioning into a universal
+bank, small finance banks must meet certain
+Tushar Chakrabarty (tushar@prsindia.org)
+conditions. These include: (i) a satisfactory track
+record of performance for minimum five years, (ii)
+The Reserve Bank of India (RBI) released the RBI
+(Asset Reconstruction Companies) Directions, 2024.9 their shares listed on a recognised stock exchange, (iii)
+a minimum net worth of Rs 1,000 crore at the end of
+Asset Reconstruction Companies (ARCs) take over
+the previous quarter, and (iv) a net profit in last two
+stressed assets from financial institutions (such as
+financial years. It is not mandatory for small finance
+banks) and focus on recovering the dues from such
+banks to have an identified promoter. Any existing
+assets. The directions provide for matters such as the
+promoters must continue as promoters on transitioning
+registration, asset reconstruction, and governance of
+to a universal bank. Addition of new promoters or
+ARCs. Key features include:
+change in promoters will not be allowed during the
+ Registration: ARCs must obtain a certificate of transition. Eligible small finance banks with a
+registration from the RBI. Registered ARCs can diversified loan portfolio will be preferred for
+undertake both securitisation and asset transitioning to universal banks.
+reconstruction activities. Securitisation is the
+acquisition of financial assets by ARCs from other
+SEBI approves various decisions at its board
+entities.10 ARCs must have a minimum net owned
+meeting
+fund (NOF) of Rs 300 crore. Existing ARCs with
+NOF of Rs 100 crore as on October 11, 2022 have Tushar Chakrabarty (tushar@prsindia.org)
+been allowed to raise it to Rs 300 crore by March
+31, 2026. In case ARCs act as resolution The Securities and Exchange Board of India (SEBI)
+applicants under the Insolvency and Bankruptcy approved various decisions at its board meeting.13 Key
+Code, 2016, they must have minimum NOF of Rs decisions include:
+1,000 crore. NOF will not include certain items
+ Flexibility to invest in IFSC-based FPIs:
+such as investments by an ARC in its subsidiaries
+Currently, contribution by a single non-resident
+or group companies.
+Indian (NRI), overseas citizen of India (OCI), or
+ Asset reconstruction: ARCs must frame a board- resident Indian in foreign portfolio investors (FPIs)
+approved policy for acquiring financial assets. should not exceed 25% of the total corpus.14
+This policy must be framed within 90 days of Aggregate contribution by such investors should
+granting the registration certificate. The policy not exceed 50% of the corpus. SEBI approved a
+should specify: (i) the norms and procedure for framework for increasing contribution by NRI,
+acquisition, (ii) types and desirable profile of OCI and resident Indians in FPIs based out of
+assets, and (iii) valuation procedure of assets International Financial Services Centres (IFSCs) to
+acquired. ARCs may formulate a plan for 100%. IFSCs cater to customers outside domestic
+realisation of assets which could provide for: (i) a jurisdiction. FPIs will have to submit pan cards or
+change in management of the business of the other identity documents (if PAN card is not
+available) of their investors. These documents will
+- 3-
+Monthly Policy Review – April 2024 PRS Legislative Research
+not be needed if investment is made in funds grievance redressal, (iv) fraud prevention, and (v) risk
+which: (i) pools all investments into one management.18 The draft directions seek to bring
+investment vehicle, (ii) holds the fund corpus in a offline payment aggregators (facilitating face-to-face
+common portfolio with no segregated portfolios, transactions) under this regulation.19 They also seek to
+(iii) invests up to 20% of the corpus in shares of a amend existing guidelines on the regulation of payment
+listed Indian company, and (iv) has an independent aggregators.20 Key features include:
+investment manager.
+ Offline aggregators: Offline payment
+ Mechanism to prevent market abuse by asset aggregators will be subject to the regulatory
+management companies (AMCs): AMCs (such framework for online payment aggregators unless
+as mutual funds) must adopt institutional specified. Offline non-bank payment aggregators
+mechanisms to identify and deter potential market will need to obtain authorisation from RBI by
+abuse. Such abuse could include front-running and March 31, 2025 to continue offering services.
+fraudulent transactions in securities. Front-running Offline non-bank payment aggregators must also
+is the practice of trading in securities based on have minimum net worth of Rs 15 crore when
+information received ahead of other market seeking authorisation. They must have a minimum
+participants. The institutional mechanism will net worth of Rs 25 crore by March 31, 2028.
+consist of enhanced surveillance systems, internal
+ Due diligence requirements: Payment
+control procedures, and process to identify and
+aggregators are required to undertake certain due
+address various types of misconduct. AMCs will
+diligence for merchants onboarded by them. This
+also have to provide a mechanism for whistle-
+includes verification of bank account details.
+blowers who report misconduct.
+Requirements vary based on the size of the
+merchants. The draft directions require payment
+RBI releases draft guidelines for transparency
+aggregators to monitor transactions of merchants
+in loan aggregation in digital lending
+and implement risk-based payments limits.
+Tushar Chakrabarty (tushar@prsindia.org)
+ Use of agents for onboarding: The draft
+directions seek to allow non-bank payment
+The Reserve Bank of India (RBI) released draft
+aggregators to engage agents to assist in
+guidelines on ‘Digital Lending – Transparency in
+onboarding merchants. Payment aggregators must
+Aggregation of Loan Products from Multiple
+fulfil certain conditions including: (i) having a
+Lenders’.15 RBI observed that many lending service
+board approved policy for engaging agents, (ii)
+providers offer aggregation services for loan products.
+monitor and be responsible for acts of agents, and
+Under this, a loan provider has outsourcing
+(iii) preserve records and maintain confidentiality
+arrangements with several lenders and the digital
+of customers.
+lending platform matches the borrower to one of the
+lenders. In such cases, identity of the potential lender  Storage of card on file (CoF) data: The draft
+may not be known to the borrower upfront. For directions detail the storage of CoF data (such as
+borrowers to have prior information about potential card number, issuer, expiry date, holder) for face-
+lenders, the draft guidelines specify certain measures. to-face transactions. Only the card issuers and
+These include: (i) the lending service providers must card networks will be allowed to store such data
+provide a digital view of loan offers to the borrower from August 1, 2025. Previously stored data must
+from all willing lenders, (ii) the lending service be deleted.
+provider must follow a consistent mechanism to
+Comments are invited until May 31, 2024.17
+determine willingness of lenders to offer a loan, and
+(iii) the content displayed must be unbiased and should
+RBI issues draft directions on electronic
+not promote a particular product through dark patterns
+trading platforms
+to mislead the borrowers.
+Tushar Chakrabarty (tushar@prsindia.org)
+Comments are invited by May 31, 2024.16
+The Reserve Bank of India (RBI) issued draft RBI
+Comments invited on regulations for payment
+(Electronic Trading Platforms) Directions, 2024.21,22
+aggregators
+Electronic trading platforms (ETPs) are electronic
+Pratinav Damani (pratinav@prsindia.org) systems, other than recognised stock exchanges, for
+transacting in eligible instruments. Such instruments
+RBI released draft directions on the regulation of include securities, foreign exchange instruments, and
+payment aggregators for public feedback.17 Payment derivatives. Key features of the Directions include:
+aggregators are intermediaries that facilitate
+ Authorisation: Entities, residents, or non-
+transactions between merchants and customers. Online
+residents can operate an ETP after securing
+payment aggregators are currently regulated under RBI
+authorisation or registering with the RBI.
+guidelines.18 The guidelines include regulations on: (i)
+Authorised/registered operators must transact in
+governance, (ii) merchant on-boarding, (iii) customer
+- 4-
+Monthly Policy Review – April 2024 PRS Legislative Research
+only those instruments on their platform which has internal and external interconnections needed to
+been approved by RBI. Existing ETPs must apply deliver critical operations. This should enable the
+for authorisation/ registration within three months entities to identify vulnerabilities such as difficulty
+of the directions being issued. in substituting service providers. It should also
+help test their ability to deliver critical operations
+ Eligibility criteria: For securing authorisation an
+through disruptions.
+entity must meet certain criteria. These include: (i)
+the entity must be a company incorporated in  Business continuity planning: An entity should
+India, (ii) the entity or its key managerial personnel have business continuity plans to limit losses
+must have at least three years’ experience in during severe business disruption. They should
+operating financial trading infrastructure, (iii) the conduct business continuity exercises under a
+entity must have a minimum net worth of five range of severe but plausible scenarios.
+crore rupees, and (iv) have the capability to
+disseminate trade information on real-time or near
+real-time basis.
+Energy
+ Operating framework: An ETP operator must
+follow certain requirements. These include: (i)
+Pratinav Damani (pratinav@prsindia.org)
+having an objective and transparent membership
+criterion, (ii) conducting due diligence while on- Draft guidelines released for PM Surya Ghar:
+boarding members, (iii) adopting a comprehensive
+Muft Bijli Yojana
+risk management framework, (iv) putting in place
+controls to reduce likelihood of erroneous The Ministry of New and Renewable Energy released
+transactions, and (v) designing an arrangement to draft guidelines on the implementation of PM Surya
+address disputes between members. Ghar: Muft Bijli Yojana for public feedback.25 The
+scheme was launched in February 2024. It aims to
+ Preservation of data: All data relating to
+provide for the installation of rooftop solar in one crore
+activities on the ETP must be maintained for at
+households. The scheme has an estimated outlay of Rs
+least 10 years. The data sought for any
+75,021 crore. It will subsume the existing Grid
+investigation by the RBI or other authorities must
+Connected Solar Rooftop Programme (Phase-II).25,26
+be maintained for three years after the
+The draft guidelines have been issued for the largest
+investigation is completed.
+sub-component i.e. Central Financial Assistance (CFA)
+Comments are invited by May 31, 2024.22 to residential consumers. Rs 65,700 crore is estimated
+to be spent on this component. Other components
+RBI releases guidance note on operational risk include model solar villages, and incentives to discoms
+and local bodies. Key features include:
+management
+ Eligibility for assistance: Only residential
+Tushar Chakrabarty (tushar@prsindia.org)
+consumers of electricity can avail the scheme.
+This includes individual households and housing
+The Reserve Bank of India (RBI) released a guidance
+societies. Households will receive CFA for
+note on operational risk management and operational
+resilience.23 Operational risks can arise from cyber- rooftop solar systems with capacity up to three
+kilowatts (Table 1). The systems must be locally
+attacks, geopolitical conflicts, and frauds. The 2024
+manufactured and meet prescribed specifications.
+note repeals the guidance note on operational risk
+management which was released in 2005.24 The 2005 For special category states such as north-eastern
+states, CFA will be 10% higher. States may
+note was applicable only to scheduled commercial
+provide additional assistance from their end.
+banks. The 2024 note is applicable to all commercial
+banks, non-banking financial companies, co-operative Table 1: Central financial assistance (in rupees)
+banks, and All Indian Financial Institutions (such as
+Residential Segment Capacity CFA per kW
+NABARD, SIDBI). Key features include:
+ Individual  Up to 2 kW 30,000
+ Obligations of entities: Regulated entities must  Housing  Additional 1 kW 18,000
+fulfil certain obligations for managing operational  Up to 3kW per
+ Housing societies 18,000
+risks. These include: (i) identifying and assessing house
+materiality of operational risks, (ii) establishing Source: Draft Guidelines for implementation of PM-Surya Ghar:
+Muft Bijli Yojana, Ministry of New and Renewable Energy; PRS.
+controls to mitigate operational risks, (iii)
+developing and maintaining risk management and  Implementation: Vendors and beneficiaries must
+measurement systems, and (iv) identifying gaps in register on a national portal. Vendors must upload
+risk management framework system offerings, price points, design, and
+specifications. Once a beneficiary chooses a
+ Mapping of interconnections: Entities should
+vendor, the price and other specifications will be
+map operations which are critical to their
+mutually decided by both parties. The Ministry
+businesses. This should be followed by mapping
+will annually publish benchmark prices. Once the
+- 5-
+Monthly Policy Review – April 2024 PRS Legislative Research
+rooftop solar system has been installed, CFA will Consultation paper on National Broadcasting
+be transferred to the beneficiary’s account, or to Policy released for public feedback
+the loan account (in case of financing).
+The Telecom Regulatory Authority of India released a
+consultation paper on “Inputs for Formulation of
+National Broadcasting Policy, 2024”.28 In September
+Communications 2023, TRAI had released a pre-consultation paper
+seeking inputs for formulating a National Broadcasting
+Pratinav Damani (pratinav@prsindia.org) Policy.29 The Ministry of Information and
+Broadcasting had also released a draft Broadcasting
+TRAI releases recommendations on sharing of Services (Regulation) Bill, 2023 for comments in
+telecom infrastructure and spectrum November 2023.30 TRAI has sought views on key
+issues such as:
+The Telecom Regulatory Authority of India (TRAI) has
+released its recommendations on ‘Telecom  Growth of the broadcasting sector: As per
+Infrastructure Sharing, Spectrum Sharing, and TRAI, there are approximately 100 million homes
+Spectrum Leasing’.27 Telecom infrastructure is broadly without television. It has invited suggestions on
+divided into two categories: passive and active strategies for making TV services more affordable.
+infrastructure. Passive infrastructure refers to the non- The consultation paper also observes a heavy
+electronic infrastructure (such as towers, buildings and reliance on imported equipment in the sector. This
+poles), and active infrastructure refers to electronic includes imported devices and components for
+infrastructure (such as radios and transceivers). assembly. Hence, it has sought inputs on
+Spectrum refers to a band of radio frequency used for promoting R&D and domestic manufacturing.
+telecommunication. Key recommendations include:
+ India as a global content hub: The paper cites
+ Infrastructure sharing: TRAI has recommended various methods used by other countries to
+that telecom service licencees should be allowed to promote local content. These include: (i) France’s
+share all types of passive and active infrastructure. requirement of 40% of television shows broadcast
+Passive infrastructure may be shared with all types to be produced locally, and (ii) Brazil’s local
+of licencees; however, active infrastructure may content quota of 210 minutes in prime time
+only be shared based on the scope of the services (content produced by independent Brazilian
+offered. Currently, licencees can share passive producers). Comments have been invited on
+infrastructure and certain specified active measures to promote content produced in India.
+infrastructure (such as antennas and transmission
+ Policy and regulatory changes: Comments have
+systems). The Department of Telecommunications
+been invited on regulatory changes to grow the
+(DoT) designates certain equipment as core
+sector and ensure ease of compliance. The paper
+network elements. Sharing of core network
+gives the example of infrastructure sharing. As per
+elements will not be allowed if there will be less
+TRAI, since the two sectors are converging in
+than two independent core networks after sharing.
+technology, they can share infrastructure. For
+ TRAI recommended that other types of instance, Prasar Bharti infrastructure is currently
+infrastructure, such as interception systems, may shared with radio operators for co-location.
+be shared after permission from the DoT. It has Comments have also been invited on ensuring a
+also recommended that there must be mandatory healthy competitive environment between existing
+sharing of government-funded passive and emerging technologies.
+infrastructure. This includes infrastructure built
+ Piracy and content security: The paper notes
+using the Universal Service Obligation Fund (now
+that piracy causes an annual loss of about Rs
+the Digital Bharat Nidhi).
+20,000 crore to the film industry. Thus, TRAI has
+ Spectrum sharing and leasing: TRAI has sought comments on additional measures to be
+recommended that access providers should be taken to combat piracy and to enhance content
+allowed to share and lease spectrum. Certain security. This is to detect and prevent the
+restrictions have also been recommended. These unauthorised distribution of content.
+include: (i) a two-year lock-in period before
+spectrum sharing or leasing, and (ii) a limit on the TRAI releases recommendations on regulatory
+number of entities with which spectrum can be sandbox
+shared or leased (one additional provider per
+The Telecom Regulatory Authority of India (TRAI) has
+spectrum band). Revenue received from sharing or
+released recommendations on regulatory sandboxes for
+leasing spectrum will be considered a part of
+the telecom sector. It has also proposed a framework
+overall revenue for determining various levies by
+for encouraging innovative technologies and business
+the government. The government will also levy a
+models through the use of regulatory sandboxes.31 A
+fee equal to 0.5% of the value of spectrum shared.
+regulatory sandbox refers to a test environment that
+mimics actual scenarios. Companies are exempt from
+- 6-
+Monthly Policy Review – April 2024 PRS Legislative Research
+certain compliances and regulations in a sandbox. Environment
+They may test products or services on a limited set of
+users. Key recommendations of TRAI include: Tanvi Vipra (tanvi@prsindia.org)
+ Scope and eligibility: New digital
+Long range forecast for southwest monsoon
+communication services or technologies needing
+indicates above normal rainfall
+live or controlled testing can be tested in a
+regulatory sandbox. Permissions to utilise the The Indian Meteorological Department released its
+sandbox will be valid up to 12 months and may be long-range forecast for the 2024 southwest monsoon.32
+extended. All Telecom Service Providers (TSP) The southwest seasonal monsoon occurs during June to
+will be eligible to provide their network for September. It is expected to be 106% of the long
+regulatory sandboxes. Entities willing to utilise a period average. The long period average for the
+sandbox must also fulfil certain conditions such as: country is 87 cm of rainfall.
+(i) being an Indian individual or entity, (ii) having
+Table 2: Forecast probability for southwest
+evidence of conducting limited testing, and (iii)
+monsoon 2024
+providing details of the exemptions sought and the
+scope of testing. Category (as % of long period Forecast
+average) probability
+ Regulation and oversight: The oversight of
+Deficient (less than 90%) 2%
+regulatory sandboxes will be carried out by a body
+created in the National Telecommunications Below normal (90%-96%) 8%
+Institute for Policy Research, Innovation, and Normal (96%-104%) 29%
+Training. Permission for utilising the sandbox will
+Above normal (104%-110%) 31%
+be granted by the Department of
+Excess (more than 110%) 30%
+Telecommunications. Permission may be revoked
+on certain grounds, such as submission of forged Note: This percentage indicates the likelihood of a forecast, i.e.,
+“there is a 31% chance that the rainfall will be between 104% and
+documents or contravention of regulations.
+110% of the long period average”.
+Sources: Indian Meteorological Department; PRS.
+ Funding for projects: Projects utilising the
+regulatory sandbox may be funded through the Spatial distribution of the forecast suggests that above
+Universal Service Obligation Fund (now the normal rainfall is very likely over most parts of the
+Digital Bharat Nidhi). Applicants must indicate country. Areas in the northwest, east, and northeast
+funding sought in their application. However, India are expected to receive below normal rainfall.
+projects not seeking government funding will have
+a higher chance of approval.
+1 Consumer Price Index Numbers on Base 2012=100 For Rural, https://main.sci.gov.in/supremecourt/2022/36593/36593_2022_1_150
+Urban and Combined for the month of March 2024, Ministry of 1_47792_Judgement_17-Oct-2023.pdf.
+Statistics and Programme Implementation, April 12, 2024, 8 Special Marriages Act, 1954,
+https://www.mospi.gov.in/sites/default/files/press_release/CPI_PR_1 https://www.indiacode.nic.in/bitstream/123456789/15480/1/special_
+2apr24.pdf. marriage_act.pdf
+2 “Index Numbers of Wholesale Price in India for the Month of 9 Master Direction – Reserve Bank of India (Asset Reconstruction
+March, 2024 (Base Year: 2011-12)”, Press Information Bureau, Companies) Directions, 2024, Reserve Bank of India, April 24, 2024,
+Ministry of Commerce and Industry, April 15, 2024, https://rbidocs.rbi.org.in/rdocs/notification/PDFs/115MD2404242C4
+https://pib.gov.in/PressReleasePage.aspx?PRID=2017908. 6DA28A8444FAE9BD210D08DC3D1C1.PDF.
+3 Monetary Policy Statement, 2024-25, Resolution of the Monetary 10 The Securitisation and Reconstruction of Financial Assets and
+Policy Committee (MPC) April 3 to 5, 2024, Reserve Bank of India, Enforcement of Security Interest Act, 2002,
+April 5, 2024, https://www.indiacode.nic.in/bitstream/123456789/2006/1/A2002-
+https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR42MPCRESOL 54.pdf.
+UTIONAPR24211178E4E93843C5806A9949673CCBA4.PDF.
+11 Voluntary Transition of Small Finance Banks to Universal Banks,
+4 Writ Petition (Civil) No 434 of 2023, Association for Democratic Reserve Bank of India, April 26, 2024,
+Reforms vs. Election Commissioner of India and Anr, Supreme Court https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRCULARVOLU
+April 26, 2024, NTARYTRANSITIONFROMSFBTOUBDC5035CA4F8C4761AF5
+https://main.sci.gov.in/supremecourt/2023/10857/10857_2023_2_150 A5069859F4340.PDF.
+1_52646_Judgement_26-Apr-2024.pdf
+12 Small Finance Banks: Balancing Financial Inclusion and Viability,
+5 Writ Petition (Civil). 273 of 2019, N Chandrababu Naidu and Ors. RBI Bulletin, Reserve Bank of India, January 21, 2021,
+v. Union of India and Anr, Supreme Court, April 8, 2019, https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=20021.
+https://main.sci.gov.in/supremecourt/2019/7680/7680_2019_Order_0
+13 SEBI Board Meeting, Securities and Exchange Board of India,
+8-Apr-2019.pdf
+April 30, 2024, https://www.sebi.gov.in/media-and-
+6 F. No. 23(45)/2022 -Leg-III(LD), Ministry of Law and Justice, notifications/press-releases/apr-2024/sebi-board-
+April 16, 2024, meeting_83115.html.
+https://egazette.gov.in/WriteReadData/2024/253725.pdf.
+14 Consultation Paper on permitting increased participation of Non –
+7 Writ Petition (c) No. 1011 of 2022, Supriyo @ Supriya Chakraborty Resident Indians (NRIs) and Overseas Citizens of India (OCIs) into
+v. Union of India, Supreme Court, October 17, 2023, SEBI registered Foreign Portfolio Investors (FPIs) based out of
+- 7-
+Monthly Policy Review – April 2024 PRS Legislative Research
+24 Guidance Note on Management of Operational Risk, Reserve Bank
+of India, October 14, 2005,
+International Financial Services Centres (IFSCs) in India and
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/66812.pdf.
+regulated by the International Financial Services Centres Authority
+(IFSCA), Securities and Exchange Board of India, August 25, 2023, 25 Draft Guidelines for implementation of PM-Surya Ghar: Muft Bijli
+https://www.sebi.gov.in/reports-and-statistics/reports/aug- Yojana Central Financial Assistance Component, Ministry of New
+2023/consultation-paper-on-permitting-increased-participation-of- and Renewable Energy, April 16, 2024,
+non-resident-indians-nris-and-overseas-citizens-of-india-ocis-into- https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749
+sebi-registered-foreign-portfolio-investors-fpis-based-out-of-int- f3/uploads/2024/04/202404162127034309.pdf.
+_75915.html. 26 ‘Grid Connected Rooftop Solar Programme’, Ministry of New and
+15 Draft Guidelines on ‘Digital Lending – Transparency in Renewable Energy, as accessed on April 22, 2024,
+Aggregation of Loan Products from Multiple Lenders’, Reserve Bank https://mnre.gov.in/grid-connected-solar-rooftop-programme/.
+of India, 27 Recommendations on Telecommunication Infrastructure Sharing,
+https://rbidocs.rbi.org.in/rdocs/Content/PDFs/DRAFTGUIDELINES Spectrum Sharing and Spectrum Leasing, TRAI, April 24, 2024,
+EFAE1F9E224348ECA734CB893A6A9A52.PDF. https://www.trai.gov.in/sites/default/files/Recommendation_2404202
+16 RBI invites comments on the Draft Circular on “Digital Lending – 4_0.pdf.
+Transparency in Aggregation of Loan Products from Multiple 28 Consultation Paper on Inputs for formulation of National
+Lenders”, Reserve Bank of India, April 26, 2024, Broadcasting Policy-2024, Telecom Regulatory Authority of India,
+https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR194DRAFTCI April 2, 2024,
+RCULARONDIGITALLENDING065E3A8AF53F40C38AD8D21C https://www.trai.gov.in/sites/default/files/CP_02042024_0.pdf.
+E004767D.PDF. 29 Pre-Consultation Paper on Inputs for Formulation of “National
+17 Regulation of Payment Aggregators (PAs) – Draft Directions, Broadcasting Policy”, Telecom Regulatory Authority of India,
+Press Release: 2024-25/116, RBI, April 16, 2024, September 21, 2023,
+https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR116PASDRAF https://www.trai.gov.in/sites/default/files/CP_21092023.pdf.
+T%20DIRECTIONS57D123C3C6CD4EDD97B4318DD39AD865.P 30 Draft Broadcasting Services (Regulation) Bill, 2023, Ministry of
+DF. Information and Broadcasting, November 10, 2023,
+18 Guidelines on Regulation of Payment Aggregators and Payment https://mib.gov.in/sites/default/files/Public%20Notice_07.12.2023.pd
+Gateways, RBI, March 17, 2020, f.
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT17460E0944781 31 Encouraging Innovative Technologies, Services, Use Cases and
+414C47951B6D79AE4B211C.PDF. Business Models through Regulatory Sandbox in Digital
+19 Regulation of Payment Aggregators – physical Point of Sale – Communication Sector, TRAI, April 12, 2024,
+DRAFT, RBI, April 16, 2024, https://www.trai.gov.in/sites/default/files/Recommendation_1204202
+https://rbidocs.rbi.org.in/rdocs/Content/PDFs/DC1RPAP1604202412 4.pdf.
+698E92604843119F606CCDBE6EF31C.PDF. 32 “Long Range Forecast for the 2024 Southwest Monsoon Season
+20 Regulation of Payment Aggregators (PAs) – DRAFT, RBI, April Rainfall”, India Meteorological Department, Ministry of Earth
+16, 2024, Sciences, April 15, 2024,
+https://rbidocs.rbi.org.in/rdocs/Content/PDFs/DC2RPAP160420247D https://internal.imd.gov.in/press_release/20240415_pr_2952.pdf.
+BE432D82074038BBA0AD723EDC5CA4.PDF.
+21 Master Direction – Reserve Bank of India (Electronic Trading DISCLAIMER: This document is being furnished to you for your
+Platforms) Directions, 2024 – Draft, Reserve Bank of India, April 29, information. You may choose to reproduce or redistribute this
+2024, report for non-commercial purposes in part or in full to any other
+https://rbidocs.rbi.org.in/rdocs/Content/PDFs/ETPDIRECTIONDRA person with due acknowledgement of PRS Legislative Research
+FT64281F3CDA204300BEE5753006DCC011.PDF. (“PRS”). The opinions expressed herein are entirely those of the
+22 RBI releases Draft Master Direction – Reserve Bank of India author(s). PRS makes every effort to use reliable and
+(Electronic Trading Platforms) Directions, 2024, Reserve Bank of comprehensive information, but PRS does not represent that the
+India, April 29, 2024, contents of the report are accurate or complete. PRS is an
+https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=5 independent, not-for-profit group. This document has been
+7809. prepared without regard to the objectives or opinions of those
+23 Guidance Note on Operational Risk Management and Operational who may receive it.
+Resilience, Reserve Bank of India, April 30, 2024,
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/GUIDANCENOTE
+ONORMANDORBFDF5D6F62CE430D82E672634B8C4F02.PDF.
+- 8-

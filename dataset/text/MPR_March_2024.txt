@@ -1,0 +1,1523 @@
+Monthly Policy Review
+March 2024
+Highlights of this Issue
+General elections to be held in seven phases between April 19 and June 1 (p. 2)
+The Election Commission of India released the schedule for the general elections to Lok Sabha and four state
+assemblies. Votes for Lok Sabha will be counted on June 4, 2024.
+High Level Committee recommends simultaneous elections (p. 2)
+At the time of the next election for Lok Sabha, all state assemblies and local bodies should be dissolved as a one-time
+measure. Thereafter, in case of a hung legislature, elections to that legislature should be held for a reduced term.
+SC strikes down immunity to legislators for accepting bribes for votes and speeches (p. 3)
+The Court held that immunity for such acts is not integral to the functioning of the House or discharging the
+duties of a legislator. With this, it overturned a 1998 verdict that granted such immunity to legislators.
+Current account deficit at 1.2% of GDP in third quarter of 2023-24 (p. 2)
+Current account deficit in the third quarter of 2023-24 was lower than the 2% of GDP recorded in the corresponding
+quarter of 2022-23.
+Amendment to Citizenship Rules notified (p. 3)
+The amendment specifies the process for obtaining citizenship for the groups that were extended citizenship under the
+Citizenship (Amendment) Act, 2019. It specifies the documents that must be provided with citizenship applications.
+Scheme to encourage domestic manufacturing of electric vehicles notified (p. 9)
+The scheme will offer manufacturers incentives in the form of reduced duties on imported electric vehicles.
+Manufacturers must commit to set up manufacturing in India within five years and invest at least Rs 4,150 crore.
+Committee submits report on digital competition law (p. 5)
+The Committee on Digital Competition Law recommended enacting the Digital Competition Act to regulate
+large digital enterprises in ex-ante manner.
+Cinematograph (Certification) Rules, 2024 notified (p. 3)
+The Rules give to effect provisions of the Cinematograph (Amendment) Act, 2023. These include age markers for
+U/A certification. The Rules also require one-third of the members of the Board of Film Certification to be women.
+Pharmaceuticals Technology Upgradation Assistance Scheme revised (p. 11)
+The revised scheme supports newer technological upgrades such as clean room facilities and effluent treatment.
+In addition to MSMEs, pharma manufacturing units with turnover below Rs 500 crore will also be covered.
+IRDAI issues regulations related to insurance products and policyholders’ interests (p. 7)
+The regulations seek to institute a framework to design insurance products, lay down principles for serving
+policyholders, and set up an online marketplace for insurance policies.
+Guidelines issued for various schemes under the National Green Hydrogen Mission (p. 12)
+Guidelines have been issued for the research and development scheme, electrolyser manufacturing scheme, scheme for
+setting up hydrogen hubs, and the scheme for up-skilling individuals.
+India signs trade agreement with European Free Trade Association (p. 14)
+The EFTA comprises Switzerland, Norway, Iceland and Liechtenstein. The EFTA will commit to FDI of USD 100
+billion in the next 15 years. India will provide tariff concessions on certain goods such as garments and machinery.
+April 1, 2024
+PRS Legislative Research Institute for Policy Research Studies
+3rd Floor, Gandharva Mahavidyalaya 212, Deen Dayal Upadhyaya Marg  New Delhi – 110002
+Tel: (011) 23234801, 43434035  www.prsindia.org
+Monthly Policy Review – March 2024 PRS Legislative Research
+Elections  Currently, a legislature is elected for the term of
+five years. Hence, a hung legislature at any point
+Arpita Mallick (arpita@prsindia.org) of time could necessitate mid-term elections. This
+would render the legislature out of synchronisation
+Schedule of elections to Lok Sabha and four for the next simultaneous election. To address this
+State Assemblies announced issue, the Committee recommended that in such
+cases, fresh elections should be held for a reduced
+The Election Commission of India announced the
+term. The reduced term will be equivalent to the
+schedule for the general elections to Lok Sabha, and
+remaining period of the five-year cycle till the next
+elections to four state Legislative Assemblies.1 The
+simultaneous election. For example, if fresh
+elections to Lok Sabha will be held in seven phases
+elections to a state Assembly or Lok Sabha is held
+from April 19, 2024 to June 1, 2024. Votes will be
+two years after the simultaneous election, its term
+counted on June 4, 2024.
+will be only three years. This will synchronise all
+Elections to the Legislative Assemblies of Andhra elections every five years.
+Pradesh, Arunachal Pradesh, Odisha and Sikkim will
+For a PRS summary of the report, see here.
+take place at the same time as elections to Lok Sabha.
+Votes will be counted on June 4, 2024 for Andhra
+Pradesh and Odisha, and on June 2, 2024 for Arunachal
+Pradesh and Sikkim.2
+Macroeconomic Development
+High Level Committee recommends
+Tushar Chakrabarty (tushar@prsindia.org)
+simultaneous elections
+The High-Level Committee (Chair: Former President Current account deficit at 1.2% of GDP in
+Mr. Ram Nath Kovind) constituted by the central third quarter of 2023-24
+government submitted its report on simultaneous
+elections.3 The committee was constituted in India recorded a current account deficit of USD 10.5
+September 2023. Its terms of reference included billion (1.2% of GDP) in the third quarter (October-
+examining feasibility and suggesting a framework for December) of 2023-24, lower than USD 16.8 billion
+conducting elections to Lok Sabha, state Assemblies, (2% of GDP) in the corresponding quarter of 2022-23.4
+and local bodies at the same time. Key observations In the second quarter (July-September) of 2023-24, the
+and recommendations of the Committee include: current account deficit was USD 11.4 billion (1.3% of
+GDP).
+ Rationale for simultaneous elections: The
+Committee recommended that simultaneous The capital account registered a net inflow of USD 17.4
+elections be held in the country. It observed that billion in the third quarter of 2023-24 as compared to a
+simultaneous elections will help reduce costs. net inflow of USD 28.9 billion in the third quarter of
+Frequent elections create an atmosphere of 2022-23. In the second quarter of 2023-24, net inflow
+uncertainty. Simultaneous elections will ensure into the capital account was USD 13 billion.
+stability and predictability in governance by
+Foreign exchange reserves increased by USD 6 billion
+minimising disruption and policy paralysis caused
+in the third quarter of 2023-24, lower than USD 11.1
+by the enforcement of the Model Code of Conduct.
+billion in the corresponding quarter of 2022-23. In the
+It also noted that voter participation will increase.
+second quarter of 2023-24, foreign exchange reserves
+It cited a research paper which observed that
+increased by USD 2.5 billion.
+simultaneous elections lead to higher economic
+growth, lower inflation, increased investments, and Table 1: Balance of payments, Q3 2023-24 (USD
+improved quality of government expenditure. billion)
+Q3 2022- Q2 2023- Q3 2023-
+ Implementation of simultaneous elections: The
+23 24 24
+Committee recommended a framework for holding a. Exports 105.6 108.3 106.7
+simultaneous elections which will require
+b. Imports 176.9 172.8 178.3
+Constitutional amendments. At the time of the
+c. Trade balance (a-b) -71.3 -64.5 -71.6
+next general election to Lok Sabha, all state
+d. Net services 38.7 39.9 45.0
+assemblies and local bodies should be dissolved,
+irrespective of the remaining term as a one-time e. Other transfers 15.8 13.2 16.1
+measure. This will synchronise all elections. The f. Current account -16.8 -11.4 -10.5
+Committee recommended holding elections for (c+d+e)
+Lok Sabha and all state assemblies at the same g. Capital account 28.9 13.0 17.4
+time, and that of local bodies within 100 days from h. Errors and omissions -1.0 0.9 -0.8
+these elections. i. Change in reserves 11.1 2.5 6.0
+(f+g+h)
+Source: RBI; PRS.
+- 2-
+Monthly Policy Review – March 2024 PRS Legislative Research
+Law and Justice Bangladesh. These include copy of passport, birth
+certificate, any type of identity document, license
+Rutvik Upadhyaya (rutvik@prsindia.org) or land records. The applicant must also provide
+any one of the specified documents that proves he
+Supreme Court strikes down immunity to entered India on or before December 31, 2014.
+legislators for accepting bribes for votes or These include copy of the visa and immigration
+speeches inside a legislature stamp on arrival in India, ration card issued in
+India, rental agreement registered in India,
+The Constitution grants Members of Parliament (MPs)
+insurance policies issued in India, or any letter
+and Members of State Legislatures (MLAs/MLCs)
+issued by the government or Court to the applicant
+immunity from criminal prosecution for their speeches
+with official stamp. All such records will be
+and votes in the legislature (under Articles 105 and
+admissible even beyond their validity. An
+194).5 In 1998, the Supreme Court heard a case of
+applicant must also submit an eligibility certificate
+bribes given to MPs for a vote on a no-confidence
+declaring their religion. This must be attested by a
+motion in Parliament.6 It held that MPs who took a
+locally reputed community institution.
+bribe to cast their vote in the House have immunity
+from criminal prosecution under Article 105(2). The  Verification and grant of citizenship: A District-
+reasoning was that the act of taking the bribe and level Committee, headed by the jurisdictional
+casting the vote are related, and therefore, the immunity Senior Superintendent or Superintendent of Post,
+for the vote is extended to the bribe. The court further will verify the application and administer the oath
+said that an MP who took a bribe but abstained from of allegiance.11 It will submit the relevant
+voting in the House does not enjoy such immunity. documents to an Empowered Committee, headed
+by the Director of Census Operations of a State or
+In a separate case related to allegation of bribery on a UT, for verification.11 If satisfied, the Empowered
+MLA, a seven-judge bench of the Court has analysed
+Committee will grant citizenship to the applicant.
+the 1998 judgement. It has overruled the 1998
+Under the 2009 Rules, applications are submitted
+judgement.7 It noted that the 1998 judgement creates a
+to the relevant Collector. He verifies the
+paradox where a legislator has immunity when he
+application and then forwards it to the state
+accepts a bribe and votes as agreed upon. However, a
+government or UT administration. The application
+legislator who agrees to accept a bribe, but eventually
+is then sent to the central government, which
+votes independently is prosecuted.
+grants citizenship after completing all inquiries.
+The Court has held that a legislator cannot seek
+immunity under Articles 105 and 194 from prosecution
+on a charge of bribery in connection with a vote or
+speech in the legislature. The offence of bribery is
+Information and Broadcasting
+independent of the performance of the agreed action. It
+does not matter whether the vote is cast as agreed or if
+Pratinav Damani (pratinav@prsindia.org)
+the vote is cast at all. The offence of bribery is
+complete when the legislator accepts the bribe. Cinematograph (Certification) Rules, 2024
+notified
+The Ministry of Information and Broadcasting notified
+the Cinematograph (Certification) Rules, 2024.12 The
+Home Affairs
+Rules replace the Cinematograph (Certification) Rules,
+1983 and retain most of its provisions.13 The Rules
+Rutvik Upadhyaya (rutvik@prsindia.org)
+have been framed under the Cinematograph Act,
+1952.14 They give effect to the provisions of the
+Amendment to Citizenship Rules notified
+Cinematograph (Amendment) Act, 2023.15 Key
+The Ministry of Home Affairs notified the Citizenship features of the Rules include:
+(Amendment) Rules, 2024.8 These amend the
+ UA certification: The Cinematograph
+Citizenship Rules, 2009 to provide the process for
+(Amendment) Act, 2023 introduced markers
+citizenship as per the Citizenship (Amendment) Act,
+indicating age appropriateness for UA certification.
+2019.9,10 The 2019 Amendment Act makes illegal
+These are: (i) UA 7+, (ii) UA13+, and (iii) UA
+migrants, who are Hindus, Parsis, Buddhists, Jains,
+16+. These allow for unrestricted public
+Christians, or Sikhs from Afghanistan, Pakistan, or
+exhibition, subject to guidance of parents, for
+Bangladesh, eligible for citizenship. They must have
+children below the specified age threshold. The
+entered India on or before December 31, 2014. Key
+Rules give effect to these changes under the Act.
+features of the 2024 Rules include:
+ Approving authority for content: The 2024
+ Documents required: The applicant must provide
+Rules add that the approving authority for
+a copy of any one proof of nationality issued by
+certification will be different based on the type and
+the government of Afghanistan, Pakistan or
+- 3-
+Monthly Policy Review – March 2024 PRS Legislative Research
+length of the content. For instance, long theatrical  Appellate process: Appeals against orders of
+releases (more than 72 minutes) will be approved authorised officers may be made before the
+by the Chairperson of the Board, whereas the appellate authority. The appellate authority
+dubbed version of the same will be approved by appointed must be the level of: (i) Deputy
+the concerned Regional Officer. Currently, the Secretary or Deputy Director of the central
+Board has nine regional offices. government, or (ii) District Magistrate of the
+relevant district. Appeals must be filed within 30
+ Representation of women in Board: The 1983
+days of the order by the authorised officer. The
+Rules stated that the central government may take
+appellate authority, where possible, shall decide
+steps to ensure the representation of women in the
+appeals within six months.
+Board and advisory panels. Advisory panels are
+constituted at a regional level for the examination Comments are invited until April 14, 2024.
+of films. The 2024 Rules specify that one-third of
+the members of the Board and advisory panels Guidelines for accessibility standards for
+must be women. Also, women should preferably public exhibition of films released
+comprise half of the Board and advisory panels.
+The Ministry of Information and Broadcasting released
+ Invitation of experts for certification: The Rules Guidelines for Accessibility Standards in the Public
+allow the Regional Officer to invite one or more Exhibition of Feature Films in Cinema Theatres for
+subject or language experts in the field of film for Persons with Hearing and Visual Impairment.18 The
+the examination of a film. If the experts are not Guidelines have been issued under the Rights of
+invited for the initial screening, the content may be Persons with Disabilities Act, 2016.19 The Guidelines
+re-screened for the experts, without any additional are applicable to films certified by the Board of Film
+cost to the applicant. Certification for exhibition in cinemas. Key features of
+the Guidelines include:
+Comments invited on draft Cinematograph
+ Accessibility standards: The Guidelines
+(Adjudication of Penalty) Rules 2024
+prescribe standards for audio descriptions and
+The Ministry of Information and Broadcasting has closed/open captions. Standards include: (i)
+released the draft Cinematograph (Adjudication of keeping audio descriptions concise, and (ii)
+Penalty) Rules, 2024 for public feedback.16 The Rules ensuring that captions are accurate, synchronised
+prescribe the manner in which penalties will be levied with video, and complete. The Guidelines also lay
+by an authorised officer and the procedure for appeals. down standards for the use of sign language
+Penalties are levied for violations of the provisions of superimposed in movies.
+the Cinematograph Act, 1952.17 These include: (i)
+ Implementation of standards: Accessibility
+tampering a film after certification, (ii) exhibition of a
+features will be provided by the producer of the
+non-certified film, and (iii) showcasing films rated ‘A’
+film. While applying for certification, the digital
+to minors. Key features of the draft Rules include:
+cinema package must contain relevant files for
+ Officers authorised to decide penalties: The audio descriptions, closed/open captioning, and
+central and state government may authorise sign language. The Guidelines also prescribe
+officers at Under-Secretary level or above, for methods of deploying the features in theatres using
+deciding penalties. State governments may also additional equipment. These include: (i) using
+authorise officers equal to or above the rank of: (i) headphones/earphones for audio captions, (ii)
+Additional District Magistrates, (ii) Additional using mobile apps for captions or descriptions, or
+Collectors, or (iii) Additional Deputy (iii) smart glasses for captions. At least two to five
+Commissioners of a district. equipment must be available per 200 seats. The
+equipment must be provided by the theatre.
+ Powers of authorised officers: Authorised
+officers shall exercise certain powers to investigate  Feature films must include accessibility features,
+violations. These include: (i) entering or and cinema theatres must provide accessibility
+authorising another officer to enter a place of equipment, within two years of the Guidelines
+exhibition, (ii) summoning individuals related to being issued. However, feature films that require
+the case, and (iii) order for evidence considered certification in more than one language must
+relevant, such as CCTV footage and ticket scans. include at least one accessibility feature for the
+hearing and visually impaired (each) within six
+ Factors determining quantum of penalty:
+months of the issuance of the Guidelines. Films
+Authorised officers must give due regard to the
+submitted for consideration at film festivals
+following factors while deciding a penalty under
+organised by the Ministry of Information and
+the Act: (i) nature of the violation, (ii) amount of
+Broadcasting must include closed captions and
+disproportionate gain or advantage made due to the
+audio descriptions by January 1, 2025.
+violation, and (iii) repetition of the violation. The
+order deciding the penalty must be passed within
+90 days of issuing the notice.
+- 4-
+Monthly Policy Review – March 2024 PRS Legislative Research
+Corporate Affairs Comments on the report and the draft bill are invited by
+April 15, 2024.21
+Tushar Chakrabarty (tushar@prsindia.org)
+For a PRS summary of the report, see here.
+Report on digital competition law submitted,
+Competition Commission of India notifies
+along with a draft Digital Competition Bill
+commitment and settlement regulations
+The Committee on Digital Competition Law was
+The Competition Commission of India (CCI) notified
+constituted to evaluate the need for an ex-ante
+competition framework for digital markets in India.20 the Competition Commission of India (Commitment)
+Regulations, 2024, and the Competition Commission of
+In its report, the Committee also published a draft Bill
+India (Settlement) Regulations, 2024.22,23 These
+to give effect to its recommendations. Observations
+Regulations have been notified under the Competition
+and recommendations of the Committee include:
+Act, 2002, which was amended in 2023 to provide for
+ Need for ex-ante regulation of digital the commitment and settlement commitment
+competition: The Committee noted that the framework.24,25 The amended Act allows enterprises to
+current ex-post framework (intervening after an offer certain commitments (such as change in market
+event occurs) under the Competition Act, 2002, behaviour) or pay settlement. This applies to entities
+does not facilitate timely redressal of anti- against whom inquiry has been initiated by CCI for
+competitive conduct by digital enterprises. It anti-competitive agreements or abusing their dominant
+observed that the present framework may not be position. Key features of the 2024 Regulations include:
+effective to address the irreversible tipping of
+▪ Commitment: A commitment application must
+markets in favour of large digital enterprises
+be filed with CCI within 45 days from receiving
+(permanent dominance of a firm in relevant
+the order passed by CCI to initiate investigation.
+market). The Committee recommended enacting
+The CCI may pass orders agreeing to or rejecting
+the Digital Competition Act to enable the
+the commitments offered. The entire process must
+Competition Commission of India (CCI) to
+be completed in 130 working days from the receipt
+selectively regulate large digital enterprises in an
+of the commitment application. CCI’s order on the
+ex-ante manner (intervening before an event
+commitment will not be considered as a finding of
+occurs). The proposed legislation should only
+contravention against the applicant. The
+regulate enterprises that have a significant presence
+effectiveness of the commitments offered will be
+and the ability to influence Indian digital market.
+measured against factors such as: (i) nature,
+ Systemically Significant Digital Enterprises duration, and extent of the alleged contravention,
+(SSDEs): The Committee noted that certain (ii) if the commitment terms address the
+features of digital markets allow digital enterprises competition concerns, and (iii) if the commitment
+to swiftly gain influence. These features include: terms make the markets more competitive.
+(i) collection of user data which can allow large
+▪ Settlement: A settlement application must be
+incumbent enterprises to enter related markets, (ii)
+made within 45 days from receiving the
+network effects where utility of a service increases
+investigation report of the Director General of CCI
+when number of users consuming the service
+into the alleged contraventions. CCI can pass
+increases, and (iii) economies of scale wherein
+orders agreeing to or rejecting the settlement
+incumbents can offer digital services at lower costs
+proposal. The entire process must be completed
+as compared to new entrants. The Committee
+within 180 working days from the receipt of the
+recommended designating entities offering certain
+settlement application. The settlement amount
+core digital services as SSDEs for ex-ante
+would be determined by applying a discount of
+regulation, which are susceptible to market
+15% on a base amount. This base amount can
+concentration. These include search engines,
+extend to the maximum penalty that can be levied
+social networking services, operating systems, and
+by CCI in cases of anti-competitive agreements or
+web browsers.
+abuse of dominant position. The settlement order
+ Obligations of SSDEs: The draft Digital passed by the CCI will not be considered as a
+Competition Bill, 2024, as recommended by the finding of contravention against the applicant.
+Committee, prohibits SSDEs from carrying out
+certain practices. These include: (i) favouring their Ministry of Corporate Affairs revises threshold
+own products and services or those of related
+for regulation of combinations
+parties, (ii) use non-public data of business users
+operating on their core digital service to compete The Ministry of Corporate Affairs revised the
+with those users, (iii) restrict users from using minimum threshold of assets and turnover for
+third-party applications on their core digital regulation of combinations under the Competition Act,
+services, and (iv) requiring or incentivising users 2002.24,26,27 The Act provides the minimum threshold
+of an identified core digital service to use other value of assets and turnover for combinations
+products or services offered by the SSDE. (implying mergers, acquisitions, or amalgamation of
+- 5-
+Monthly Policy Review – March 2024 PRS Legislative Research
+enterprises). Combinations falling above this threshold issued to a customer is decided by the issuer. RBI has
+are examined by the Competition Commission of India observed that some arrangements between card
+to ensure that they would not lead to an adverse effect networks and card issuers are not conducive for
+on market competition. The Act empowers the central customer choice. RBI has decided that: (i) issuers will
+government to change this threshold every two years not enter into agreements with card networks that
+based on wholesale price index, fluctuations in restrain the issuers to avail services of other card
+exchange rate, or other relevant factors. networks, and (ii) issuers must provide an option to
+eligible customers to choose from multiple card
+Table 2: Changes in thresholds for domestic
+networks at the time of issue. These directions will not
+combinations (Rs crore)
+apply to issuers who issue credit cards on their own
+Criterion Old New
+card networks. Issuers with up to 10 lakh active cards
+Enterprise Level will also not be required to provide the option to their
+Assets 2,000 2,500 customers to choose their card networks.
+Turnover 6,000 7,500
+Group level RBI issues framework for self-regulatory
+Assets 8,000 24,000 organisations
+Turnover 10,000 30,000
+The Reserve Bank of India (RBI) released a framework
+Source: S.O. 1130(E), Ministry of Corporate Affairs.
+for recognising self-regulatory organisations (SROs)
+for regulated entities.31 RBI noted that with the
+increase in number and scale of regulated entities, a
+need was felt to develop better industry standards for
+Finance self-regulation. Entities regulated by the RBI include
+banks, non-banking finance companies, and payment
+Tushar Chakrabarty (tushar@prsindia.org) system operators. SROs can improve effectiveness of
+regulations through technical expertise and aid in
+RBI amends directions for issuance and framing regulatory policies. Key features include:
+conduct for credit and debit cards
+ Process for recognition: An interested SRO may
+The Reserve Bank of India (RBI) notified amendments apply to RBI for recognition. For this, it must
+to the RBI (Credit Card and Debit Card – Issuance and meet certain eligibility criteria. These include: (i)
+Conduct) Directions, 2022.28,29 The 2022 Directions being registered as a not-for-profit company, (ii)
+provide the framework for issuance and conduct of representing the sector and having specified
+credit and debit card business. Key features of the membership, and (iii) its directors must have
+amendments include: professional competence and have general
+reputation of fairness and integrity.
+▪ Business credit cards: The Directions allow
+issuers to issue business credit cards to business  Adherence to specified principles: An SRO
+entities/individuals for business expenses. The should: (i) derive authority from membership
+amendments specify that issuers must put in place agreements to set ethical and governance
+mechanisms to monitor the end use of funds. standards, (ii) establish objective and consultative
+processes to make rules for conduct of its
+▪ Form of credit cards: Currently, banks are
+members, (iii) develop standards for improving
+allowed to issue debit cards to users in other forms
+compliance culture, and (iv) have surveillance
+such as wearables instead of plastic cards. The
+methods for effective monitoring of the sector.
+amendments allow banks to issue credit cards in
+other forms as well.  Responsibilities towards members: The primary
+responsibility of the SRO towards its members will
+▪ Blocking of cards: If issuers block, deactivate, or
+be to promote best business practices. Other
+suspend a card at their discretion, they must follow
+responsibilities include: (i) framing and monitoring
+a standard operating procedure. Such actions must
+adherence to the code of conduct for its members,
+also be immediately communicated to the
+(ii) developing a uniform and non-discriminatory
+cardholder along with reasons through electronic
+membership fee structure, (iii) establishing a
+and other modes.
+grievance redressal and dispute
+resolution/arbitration framework for its members,
+RBI allows customers to choose card networks
+and (iv) promoting knowledge of statutory/
+for credit cards regulatory provisions.
+The Reserve Bank of India (RBI) has allowed  Membership criteria: SROs should have a good
+customers to choose card networks for credit cards.30 mix of members at all levels to represent the sector
+Currently, authorised card networks (such as holistically. The membership criteria will be
+MasterCard and Visa) tie-up with banks and non-banks prescribed by RBI. Membership to an SRO will be
+for issuance of credit cards. The network for a card voluntary. The minimum prescribed membership
+- 6-
+Monthly Policy Review – March 2024 PRS Legislative Research
+must be attained within two years from the grant of  Free look period: Policyholders of life and
+recognition to the SRO. individual health insurance policies must be
+provided with a 30-day free look period from the
+IRDAI notifies regulations for insurance date of receiving the policy document. If the
+products policyholder disagrees with any conditions of the
+policy within this period, he may choose to cancel
+The Insurance Regulatory and Development Authority the policy. On cancellation of the policy, the
+of India (IRDAI) notified the IRDAI (Insurance premium paid must be refunded to the
+Products) Regulations, 2024.32 The Regulations policyholder. Currently, a free look period of 15
+provide a framework for designing insurance products days is allowed in case of physical policies and 30
+and sets up committees to design the products. It seeks days for electronic policies and those obtained
+to repeal several regulations including: (i) the IRDAI through distance mode.37
+(Micro Insurance) Regulations, 2015, (ii) the IRDAI
+(Health Insurance) Regulations, 2016, and (iii) the  Issuance of insurance policies: All insurers must
+IRDAI (Unit Linked Insurance Products) Regulations, have a board-approved policy regarding issuance
+2019.33,34,35 Key features include: of insurance policies in the electronic form. It
+should cover: (i) measures to safeguard data
+ Design and pricing: Design and pricing of privacy, (ii) framework on data security, and (iii)
+insurance products must adhere to certain criteria. continuous review and upgradation of cyber
+These include: (i) ensuring evolving risk coverage security safeguards.
+needs of customers, (ii) simple-to-understand
+products, (iii) premium rates not being excessive,
+IRDAI issues insurance electronic marketplace
+inadequate, or discriminatory, and (iv) factoring in
+regulations
+all relevant risks while pricing products.
+The Insurance Regulatory and Development Authority
+ Product Management Committee: The Board of
+of India (IRDAI) notified the IRDAI (Bima Sugam –
+every insurer must constitute a Product
+Insurance Electronic Marketplace) Regulations, 2024.38
+Management Committee. Responsibilities of the
+Bima Sugam will be a digital public infrastructure for
+Committee include ensuring: (i) appropriate
+purchasing insurance policies, settling claims, and
+product design for the target market, (ii) regulatory
+grievance redressal. Key features include:
+compliance, (iii) periodic reviews of product
+performance, and (iv) modification or withdrawal  Establishment: Bima Sugam will be established
+of the product, if required. by a not-for-profit company formed under the
+Companies Act, 2013. The company will be
+ Review of products: All insurance products must
+responsible for operating and maintaining the
+be reviewed at least once a year by the appointed
+electronic marketplace. The company’s
+actuary. The review should consider: (i)
+shareholding will be distributed amongst life
+reasonable expectations of all stakeholders, (ii)
+insurers, general insurers, and health insurers.
+financial viability of the product, (iii) emerging
+risk and experience under the product, and (iv) any  Functions: The functions of the electronic
+other relevant factors. marketplace and the company include: (i) creating
+end-to-end digital solutions for the insurance
+IRDAI issues regulations for protection of sector, (ii) implementing consent-based
+interest of policyholders architecture for its services, (iii) storing,
+maintaining, and processing data as per applicable
+The Insurance Regulatory and Development Authority laws, and (iv) allowing fair and open access to its
+of India (IRDAI) notified the IRDAI (Protection of services. The company must have a self-
+Policyholders’ Interests, Operations and Allied Matters sustainable revenue model. Customers will not be
+of Insurers) Regulations, 2024.36 The Regulations charged for using the marketplace.
+propose to supersede multiple regulations dealing with
+subjects such as insurance premiums, issuance of
+SEBI approves various decisions at board
+insurance policies, and protection of policyholders’
+meeting
+interests. The Regulations will apply to all insurers and
+distributors, barring entities engaged exclusively in the The Securities and Exchange Board of India (SEBI)
+reinsurance business. Key features include: approved various decisions at its board meeting.39 Key
+decisions include:
+ Principles for serving policyholders: Insurers
+must follow certain principles for servicing ▪ Same-day settlement: SEBI approved the launch
+policyholders. These include: (i) providing the of same-day settlement for certain securities on a
+necessary information about various services, (ii) pilot basis. The new framework will be reviewed
+delivering services within a reasonable time, and at the end of three months and six months from the
+(iii) not pressuring policyholders to change date of implementation, based on which SEBI will
+products or switch providers. decide the future course of action.
+- 7-
+Monthly Policy Review – March 2024 PRS Legislative Research
+▪ Exemption from additional disclosures for will consist of individuals with experience and
+certain FPIs: SEBI approved exempting knowledge in the subject. Functions of the
+additional disclosures for certain foreign portfolio committee include: (i) reviewing the need for
+investors (FPIs). These FPIs must have more than change in index design or computation
+50% of their Indian equity investments in a single methodology, (ii) overseeing the introduction of
+corporate group. The disclosures relate to new financial benchmarks, and (iii) reviewing the
+ownership, economic interest, or control in the procedures for discontinuation of an index.
+FPI.40 In case of concentrated holding of FPIs in
+▪ Quality of the index: The index design must
+listed companies with no identified promoters, two
+represent the underlying interest which the index
+conditions must be met for exemption from
+seeks to measure. The index must be calculated
+additional disclosures. The first condition is that
+using data that is sufficient to represent the
+the FPI does not hold more than 50% of its Indian
+underlying interest. Guidelines regarding data
+equity investments in the corporate group. This
+inputs and the manner of using the data must be
+would exclude its investment in the parent
+available in the public domain.
+company with no promoter. The second condition
+is that the composite FPI holdings in the company ▪ Dispute resolution: The index provider must
+with no identified promoter is less than 3% of its create a dispute resolution mechanism for disputes
+total equity capital. between the index provider and subscribers.
+▪ Relaxations for listed companies: Amendments
+SEBI introduces framework for small and
+to the SEBI (Listing Obligations and Disclosure
+medium REITs
+Requirements) Regulations, 2015 were approved
+to facilitate ease of doing business. These include:
+The Securities and Exchange Board of India (SEBI)
+(i) determining market capitalisation based
+notified amendments to the SEBI (Real Estate
+compliances for listed companies on the basis of Investment Trusts) Regulations, 2014.42,43 Real Estate
+average market capitalisation of six months instead
+Investment Trusts (REITs) pool money from investors
+of a single day, (ii) extending the timeline for
+to invest in real estate assets. Income from such assets
+filling vacancies of key managerial personnel from
+is then distributed among the investors. Key changes
+three months to six months, and (iii) increasing the
+under the 2024 amendments include:
+permitted gap between two consecutive meetings
+of the risk management committee from 180 days ▪ Definition of REIT: The 2014 Regulations define
+to 210 days. REIT as a trust registered under the regulations.
+The 2024 amendment specifies that REIT refers to
+SEBI notifies regulations for index providers a person who pools at least Rs 50 crore from at
+least 200 investors to acquire and manage real
+The Securities and Exchange Board of India (SEBI) estate assets or properties. This would entitle the
+notified the SEBI (Index Providers) Regulations, investors to receive income generated from such
+2024.41 Index providers are persons who control the assets without giving them management control.
+creation, operation, and administration of a benchmark
+▪ Small and medium REIT: Assets that can be
+or index (such as those tracking stocks or
+acquired under a scheme of small and medium
+commodities). It includes: (i) calculation of the index,
+REITs will be of value between Rs 50 crore and Rs
+(ii) determining the index methodology, and (iii)
+500 crore. It should have at least 200 unitholders,
+dissemination of the index. The Regulations will apply
+excluding the investment manager of the REIT, its
+to index providers that administer significant indices of
+related parties, and associates.
+securities listed on a recognised Indian stock exchange
+for use in Indian securities market. Significant indices ▪ Eligibility: For registration, the small and
+are those that are tracked by mutual fund schemes with medium REIT must meet certain criteria such as:
+a specified amount of assets under management. Key (i) the registration application being made by the
+features include: investment manager on the trust’s behalf, (ii) the
+investment manager having a net worth of at least
+▪ Registration: Index providers must register with
+Rs 20 crore with at least two years’ experience in
+SEBI. Existing index providers will have six
+the real estate industry or in real estate fund
+months to apply for the registration. Applicants
+management, and (iii) at least half of the directors
+must meet certain eligibility criteria such as: (i)
+of the investment manager are independent.
+must be an entity incorporated under the
+Companies Act, 2013, (ii) have a minimum net
+worth of Rs 25 crore, and (iii) they possess the
+necessary infrastructure and human resources to
+conduct the business of an index provider.
+▪ Oversight committee: The index provider must
+form an oversight committee to govern the
+benchmark determination process. The committee
+- 8-
+Monthly Policy Review – March 2024 PRS Legislative Research
+Industry category of the EV. The scheme will mainly cover
+commercial vehicles and those used for public
+transport. However, two wheeler EVs owned
+Scheme to promote domestic manufacturing of
+privately or by corporates will also be incentivised.
+electric vehicles notified
+ Claiming incentives: In order to claim the
+Pratinav Damani (pratinav@prsindia.org)
+incentive from the government, manufacturers
+must meet certain criteria. These include: (i)
+The Ministry of Heavy Industries notified the Scheme
+registration with the Ministry of Heavy Industries
+to Promote Manufacturing of Electric Passenger Cars
+and approval for each of their electric vehicle
+in India.44 The scheme will offer reduced import duty
+models, (ii) each vehicle model satisfying
+on Electric Vehicles (EVs) to global manufacturers,
+minimum technical eligibility criteria for
+provided that manufacturers commit to domestic
+performance and efficiency, and (iii) the vehicle
+manufacturing. Key features of the scheme include:
+must be manufactured in India.
+ Eligibility: The scheme is open to global
+automotive manufacturers with a minimum annual
+revenue of Rs 10,000 crore. The manufacturer
+must commit to invest at least Rs 4,150 crore
+Environment
+(~USD 500 million) over a period of three years
+for manufacturing EVs in India. The manufacturer
+Tanvi Vipra (tanvi@prsindia.org)
+must achieve 25% domestic value addition within
+three years of approval, and 50% within five years.
+Amendments to Plastic Waste Management
+ Incentive: The scheme offers manufacturers a Rules, 2016 notified
+reduced import duty of 15% on completely
+The Ministry of Environment, Forest and Climate
+imported EVs for five years from the date of
+Change notified amendments to the Plastic Waste
+approval. Currently, import duties range from
+Management Rules, 2016.46,47 The Rules specify
+70% to 100%. The imported EVs must have a
+responsibilities of entities engaged in production and
+minimum Cost, Insurance and Freight (CIF) value
+sale of plastics. The amendments add obligations for
+of USD 35,000. The number of EVs a
+manufacturers of biodegradable plastic. Key features
+manufacturer can import will be determined based
+of the amendments include:
+on: (i) the maximum duty foregone, and (ii) the
+amount of committed investment.  Biodegradable plastic manufacturers: The
+amendments change the definition of
+ Bank guarantee: The manufacturer will be
+biodegradable plastics from ‘plastic that
+required to submit a bank guarantee of Rs 4,150
+decomposes in ambient environment’ to plastic
+crore or the quantum of duty forgone, whichever is
+that decomposes in specific environments such as
+higher. The guarantee will be invoked if the
+landfills. Such plastics must bear separate
+manufacturer fails to meet targets regarding
+markings and labels issued by the Bureau of Indian
+investment and domestic value addition.
+Standards and the Food Safety and Standards
+Authority of India. Manufacturers of
+Electric Mobility Promotion Scheme notified
+compostable/biodegradable plastic products must
+Tushar Chakrabarty (tushar@prsindia.org) obtain a certificate from the Central Pollution
+Control Board (CPCB) before marketing or selling.
+The Ministry of Heavy Industries notified the Electric
+ Entities obligated to fulfil EPR: Sellers and
+Mobility Promotion Scheme, 2024.45 The scheme aims
+manufacturers of plastic products are required to
+to promote faster adoption of electric two and three-
+fulfil extended producer responsibility (EPR)
+wheeler vehicles (EVs) (including e-rickshaws). It will
+obligations. These include reusing and recycling
+have an outlay of Rs 500 crore. It will be implemented
+plastic packaging, and disposing end-of-life
+over four months between April and July 2024. This
+plastics. The amendments also change which
+scheme will be implemented on the conclusion of the
+entities will be obligated to fulfil these
+second phase of Faster Adoption and Manufacturing of
+responsibilities. Under the 2016 Rules, obligated
+Hybrid & Electric Vehicles in India (FAME) scheme
+entities included producers of plastic packaging.
+on March 31, 2024. Key features include:
+The amendments exempt MSME producers.
+ Incentive to consumers: Consumers will be able Certain obligations of MSME will be fulfilled by
+to purchase EVs at a reduced price. The their raw material suppliers. However, the
+manufacturer will be reimbursed by the central MSMEs will have to meet targets related to using
+government for the sale of vehicles at such reduced recycled plastic. The amendments add
+prices. Incentive of Rs 5,000 per kWh will be manufacturers/ importers of plastic raw material,
+provided for two and three-wheeler EVs. The and manufacturers of biodegradable/ compostable
+incentives will be capped depending on the plastic items as obligated entities.
+- 9-
+Monthly Policy Review – March 2024 PRS Legislative Research
+ Trading EPR certificates: The Rules permit Health
+trading EPR certificates. The amendments specify
+that the price of the certificate will be determined
+Uniform Code for pharmaceutical marketing
+by the CPCB, subject to certain limits. The
+practices released
+minimum price will be 30% of the compensation
+payable by non-complying entities, and the Rutvik Upadhyaya (rutvik@prsindia.org)
+maximum price will be 100% of the compensation.
+The Department of Pharmaceuticals released the
+ Raw material for single use plastics: The
+Uniform Code for Pharmaceutical Marketing Practices,
+amendments prohibit manufacturers and importers
+2024.51 The Code regulates the branding and
+of plastic raw material from supplying to entities
+promotion of pharmaceutical products in the country,
+that manufacture single use plastic items that are
+and establishes a committee to handle related
+prohibited by law.
+grievances. All Indian Pharmaceutical Associations are
+required to upload the Code and provide the detailed
+Amendments to Battery Waste Management
+procedure for lodging complaints under the same, on
+Rules, 2022 notified
+their websites. Key features of the Code include:
+The Ministry of Environment, Forest and Climate
+ Promotion: Promotional material aimed at
+Change notified amendments to the Battery Waste
+healthcare professionals must contain details such
+Management Rules, 2022.48,49,50 The Rules require
+as: (i) the name of the relevant drug, (ii) active
+battery producers to meet extended producer
+ingredients, (iii) recommended dosage and method
+responsibility (EPR) obligations related to recycling
+of use, and (iv) possible side effects. Promotional
+and refurbishing battery waste. EPR certificates may
+material published in journals must not resemble
+be traded to fulfil EPR obligations. Key features of the
+their subject matter. No promotional material can
+Amendments are:
+use identifiers of any healthcare professional.
+ Price of EPR certificates: Under the 2022 Rules,
+ Brand reminders can only be disseminated through
+the Central Pollution Control Board (CPCB) is
+educational items (such as books and diaries)
+responsible for regulating price of EPR certificates.
+worth less than Rs 1,000 each and free drug
+The CPCB must specify the minimum price and
+samples. Brand reminders are items handed out by
+the maximum price for the EPR certificates. The
+a company to promote its products. Free samples
+price must factor in the cost of collection,
+should be handed over directly to a person who is
+environmental compensation, and sound
+qualified to prescribe it or someone authorised to
+management of waste batteries.
+receive it on their behalf. The quantity of such
+ The amendments specify that the price of EPR samples must not exceed the prescribed dosage for
+certificates will entirely depend on the three patients.
+compensation to be levied on non-complying
+ Claims: Claims about the usefulness of a drug
+producers. Under the 2022 Rules, guidelines for
+must be based on the latest evidence. Prohibited
+the compensation are prepared by the CPCB and
+claims include: (i) calling a drug or therapeutic
+fixed by the Ministry. It is based on the ‘polluter
+practice new if it has been generally available for
+pays’ principle. As per the amendments, the
+over a year, (ii) calling a drug safe without
+minimum price of an EPR certificate will be 30%
+qualification, and (iii) claiming it to be without
+of the compensation, and the maximum price will
+side-effects. The Code also prohibits non-
+be 100% of compensation.
+consensual use of brand names of products of other
+ Guidelines on compensation: Under the 2022 companies, and deprecating them.
+Rules, the CPCB is empowered to levy a
+ Ethics Committee: An Ethics Committee for
+compensation in case of non-compliance with EPR
+pharma marketing practices must be set up in each
+obligations. An implementation committee,
+pharmaceutical association to address complaints
+constituted by CPCB prepares and recommends
+regarding compliance with the Code. It will
+guidelines for imposing and collecting the
+consist of three to five members. The Committee
+compensation. As per the 2024 amendments,
+should pass an order within 90 days of receiving a
+CPCB will prepare and recommend the guidelines.
+complaint. Violation of the Code will be punished
+CPCB may consult the implementation committee
+with penalties including: (i) monetary recovery, (ii)
+during the process.
+corrective statements in the media, or (iii)
+expulsion from the association. An appeal against
+the Committee’s decision can be filed within 15
+days before an Apex Committee headed by the
+secretary of the Department of Pharmaceuticals.
+- 10-
+Monthly Policy Review – March 2024 PRS Legislative Research
+Revamped Pharmaceuticals Technology Secretary General of the Indian Pharmaceutical
+Upgradation Assistance Scheme approved Alliance, and the Chief Executive Officer of the Indian
+Drugs Manufacturer’s Association will be special
+Tanvi Vipra (tanvi@prsindia.org)
+invitees to the Committee.
+The Ministry of Chemicals and Fertilisers approved the Terms of Reference of the Committee include: (i)
+Revamped Pharmaceuticals Technology Upgradation institutional reforms in the NPPA, (ii) designing a price
+Assistance Scheme.52 The original scheme sought to moderation framework for medical devices and
+facilitate pharmaceutical MSMEs to meet national and emerging therapies, and (iii) balancing price and
+international regulatory standards. It also provided availability of essential medicines. It will also draft a
+interest subvention on capital loans.53 Key features of New Drugs and Medical Devices (Control) Order to
+the revamped scheme include: give effect to its recommendations. The Committee
+will submit its report in three months.
+▪ Applicability expanded: Under the original
+scheme, MSMEs were provided with interest
+Regulations for new homoeopathic colleges,
+subvention for meeting regulatory standards. The
+courses, and expansion of seats notified
+revamped scheme expands eligibility to include
+pharmaceutical manufacturing units include those Rutvik Upadhyaya (rutvik@prsindia.org)
+whose average three-year turnover is below Rs 500
+crore. However, preference will be given to The National Commission for Homoeopathy released
+MSMEs. An enterprise whose turnover is below the Establishment of New Homoeopathic Medical
+Rs 250 crore is classified as an MSME.54 Institution (Opening of New or Higher Course of Study
+or Training and Increase of Intake Capacity by a
+▪ Support for complying with new standards:
+Medical Institution), Regulations, 2024.56 These have
+The revamped scheme supports a broader range of
+been notified under the National Commission for
+technological upgrades as global manufacturing
+Homoeopathy Act, 2020 and replace the 2011
+standards have been revised. Under the original
+regulations.57,58 They provide criteria and norms to be
+scheme, support was provided for upgrades such as
+adhered to while opening new homoeopathic colleges,
+heating, ventilation and air conditioning (HVAC)
+offering new courses, and expanding academic intake.
+systems, stability testing chambers, and automatic
+Key features of the 2024 Regulations include:
+particle counters for sterile areas. In addition to
+support for these upgrades, the revised scheme will  Eligibility: For the purposes stated above, an
+cover clean room facilities, effluent treatment, and institution must possess a no-objection certificate
+water and steam utilities. from the state department of AYUSH or health.
+Certificates granted for opening a new institution
+▪ Turnover-based incentive structure: Incentive
+or starting another course shall have a validity of
+will be calculated as a percentage of actual
+three years. Institutions must also obtain a consent
+investment made. It will also be linked to the
+of affiliation from a university. To introduce a
+average turnover in the past three years (see Table
+new course or expand intake, an institution must be
+3). The incentive per entity will be capped at one
+offering undergraduate courses for 5.5 years and
+crore rupees.
+post-graduate courses for three years.
+Table 3: Incentive structure under the
+ Institutions must also furnish bank guarantees to
+Revamped Pharmaceuticals Scheme
+the Commission depending upon the purpose of
+Incentive (as % of
+Turnover application. For instance, a guarantee of Rs 2.5
+investment)
+crore should be furnished for opening a new
+Less than Rs 50 crore 20% institution. For expanding intake, this guarantee
+Rs 50 - 250 crore 15% should be of five lakh rupees per postgraduate seat
+Rs 250 - 500 crore 10% (PG) and four lakh rupees per 10 undergraduate
+Sources: Press Information Bureau; PRS. seats (UG).
+ Intake: The annual intake capacity will be a
+Committee for reforms in pricing framework
+maximum of 100 seats for UG courses and 10 seats
+of drugs and medical devices constituted
+for PG courses. The first permission for expanding
+PG seats will be granted for seven seats.
+Rutvik Upadhyaya (rutvik@prsindia.org)
+ Infrastructure and staff: All medical institutions
+The Department of Pharmaceuticals constituted a are required to comply with minimum standards of
+committee for reforms in the pricing framework for infrastructure and staffing. These are specified
+drugs and medical devices.55 The Committee will have under regulations governing minimum essential
+three core members. These are the Secretary and standards for homoeopathic colleges and attached
+Senior Economic Advisor of the Department of hospitals.59 New medical colleges must comply
+Pharmaceuticals, and the Chairman of the National with these in a phased manner. For instance,
+Pharmaceutical Pricing Authority (NPPA). The before the admission of the first batch of students,
+- 11-
+Monthly Policy Review – March 2024 PRS Legislative Research
+an institution must have facilities such as: (i) a Homoeopathy. Providing forged information,
+fully functioning homoeopathic hospital for at least having ghost teachers, or failing to rectify
+one year, (ii) a fully functional pharmacy, (iii) all deficiencies in time can attract a monetary penalty.
+teachers with requisite qualifications, and (iv)
+round the clock availability of medical services.
+Regulations for assessment of new and existing
+New and Renewable Energy
+homoeopathic colleges released
+Rutvik Upadhyaya (rutvik@prsindia.org) Pratinav Damani (pratinav@prsindia.org)
+The National Commission for Homoeopathy released Guidelines issued for schemes under the
+the National Commission for Homoeopathy National Green Hydrogen Mission
+(Assessment and Rating of Medical Institutions)
+The Ministry of New and Renewable Energy has issued
+Regulations, 2024.60 These Regulations have been
+guidelines for various schemes under the National
+notified under the National Commission for
+Green Hydrogen Mission.64 The National Green
+Homoeopathy Act, 2020 and replace the Homoeopathy
+Hydrogen Mission was launched in January 2023 to
+Central Council (Inspectors and Visitors) Regulations,
+boost the production and development of green
+1982.61,62 The Act sets up the National Commission for
+hydrogen. Schemes under the Mission include: (i)
+Homoeopathy to regulate education and practice of
+research and development (R&D), (ii) incentives for
+homoeopathy. The Regulations provide a process for
+electrolyser manufacturing (a device to convert water
+assessing new and existing homoeopathic medical
+into hydrogen and oxygen), (iii) skill development, and
+colleges in their compliance with minimum standards
+(iv) setting up of hydrogen hubs.65,66,67,68 Key features
+of education and infrastructure. This assessment will
+of the guidelines include:
+be done by the Medical Assessment and Rating Board
+for Homoeopathy. Key features of the 2024  R&D scheme: Financial support (for the cost of
+regulations include: the project) will be provided for R&D in areas
+such as hydrogen production, storage, testing, and
+ Process of assessment: All eligible homoeopathic
+transportation. Entities eligible to receive support
+medical institutions must undergo assessment five
+include academic institutions, R&D institutions,
+years after establishment and every year thereafter.
+and government institutions/public sector
+Along with the application, they must submit a fee
+undertakings. Projects will be divided into short
+to the Medical Assessment and Rating Board that
+term (up to five years), mid-term (up to eight
+ranges from Rs 25,000 to five lakh rupees,
+years), and long term (up to 15 years), depending
+depending upon the purpose of assessment and
+on existing capabilities. The scheme will have a
+level of education being assessed. Based on the
+budgetary outlay of Rs 400 crore till 2025-26.
+assessment, institutions will be rated. Rating
+should be based on criteria such as: (i)  Electrolyser manufacturing: The scheme
+infrastructure, (ii) human and financial resources, provides financial incentives to support domestic
+(iii) teaching pedagogy and (iv) staff and student manufacturing of electrolysers. The scheme will
+welfare. Standards for the same are notified in have a total outlay of Rs 4,440 crore, and provide
+specific regulations for the same.63 Failure to an incentive per kilowatt of manufacturing
+comply with standards may lead to the Board: (i) capacity. Companies must have a net worth of one
+reducing the intake of seats, (ii) denying further crore rupees per megawatt of manufacturing
+admissions, or (iii) recommending de-recognition capacity to be eligible. Smaller manufacturers
+of the college. (with a net worth of Rs 30 lakh per megawatt or
+higher) are also eligible under a separate tranche of
+ Existing institutions that have been established for
+the scheme.
+over five years and have received approval during
+previous three years can get an extension. The  Setting up hydrogen hubs: Regions that can
+extension will be for another year of admissions support large scale production/ utilisation of
+based on self-declaration. hydrogen will be identified and developed as
+hydrogen hubs. Support will be provided for core
+ Inspection: For assigning ratings, institutions will
+infrastructure such as storage and transportation
+be assessed via inspections. Inspections will be
+and water treatment facilities. The scheme has an
+carried out by inspectors or independent rating
+outlay of Rs 200 crore till 2025-26.
+agencies. Inspectors must possess a recognised
+post-graduate degree in homoeopathy and at least  Skill development: This scheme seeks to carry
+five years of professional experience with the out skilling, and design curricula for schools and
+government or an autonomous body. Inspections higher educational institutions. Individuals aged
+can be conducted in a physical, online, or hybrid between 18-45 years, who fulfil the required job
+mode. Ratings must be published annually on the criteria, will be eligible for training. Training
+website of the National Commission for institutes include higher education institutions, PM
+- 12-
+Monthly Policy Review – March 2024 PRS Legislative Research
+Kaushal Kendras, and industrial enterprises. The developing local infrastructure (up to Rs 10 lakh
+outlay for the scheme is Rs 35 crore until 2029-30. per megawatt of installed capacity).
+Power Road Transport and Highways
+Tanvi Vipra (tanvi@prsindia.org) Tanvi Vipra (tanvi@prsindia.org)
+Tariff regulations for generation and Vehicle scrapping rules amended
+transmission notified
+The Ministry of Road Transport and Highways notified
+The Central Electricity Regulatory Commission amendments to the Central Motor Vehicles
+(CERC) notified the CERC (Terms and Conditions of (Registration and Functions of Vehicle Scrapping
+Tariff) Regulations, 2024.69 These Regulations have Facility) Rules, 2021.72,73 The Rules have been made
+been notified under the Electricity Act, 2003, which under the Motor Vehicles Act, 1988.74 The Act
+regulates generation, transmission, and distribution of provides for registration of motor vehicles. The Rules
+power.70 The 2024 Regulations will apply to tariff provide for scrapping end of life vehicles. Key features
+determination by CERC in cases of: (i) purchase of of the Amendments are:
+power from central public sector generators and other
+ Obtaining consent to establish: Vehicle
+generators operating in more than one state, and (ii) use
+scrapping facilities must obtain consent before
+of inter-state transmission systems. The 2024
+establishing a facility. The Amendments change
+Regulations will be applicable from April 2024 to
+the authority that will provide this consent from
+March 2029. Several aspects in the 2024 Regulations
+the Transport Commissioner of a state/UT
+are similar to the 2019 Regulations, which were
+government, to the Pollution Control Board of the
+applicable between April 2019 and March 2024.71 Key
+state/UT. Under the Rules, a facility could be
+features of the 2024 Regulations are as follows:
+established even if an application has been made
+ Rate of return: The CERC sets a tariff structure for obtaining consent. The Amendments remove
+that provides for a fixed rate of return on this provision.
+investments besides recovering all other costs
+ Obtaining consent to operate: Under the Rules,
+incurred. For changes in the rate of return, see
+scrapping facilities must obtain a consent to
+Table 4.
+operate from the State/UT Pollution Control Board
+Table 4: Rate of return on investments within six months of beginning operations. The
+Amendments provides that scrapping facilities
+Projects
+must apply for a consent to operate at least 60 days
+Existing commissioned
+Project category Projects on or after April before beginning operations.
+1, 2024
+ Transfer of registration: Under the 2021 Rules,
+Transmission 15.5% 15.0% the registration of scrapping facilities is non-
+Thermal power 15.5% 15.5% transferable. The Amendments allow the transfer
+of registration.
+Hydro power 15.5% 15.5%
+Storage-type hydro  Certificate of deposit: The scrapping facility
+power including pump 16.5% 17.0% issues a Certificate of Deposit to a vehicle owner.
+storage systems The certificate acknowledges the transfer of
+Sources: CERC; PRS. ownership of the vehicle. The certificate is
+mandatory for vehicle owners to avail incentives
+ Capital costs: Power tariff has two parts, fixed
+and benefits while purchasing a new vehicle. It is
+and variable. Fixed costs include return on
+electronically tradeable. The Amendments extends
+investment, depreciation, and interest on capital.
+the validity of the certificate from two years to
+Capital costs for a project include any capital cost
+three years. Certificates issued to government
+approved by CERC, including capital expenditure
+owned vehicles or impounded vehicles will not
+on account of modernisation. The Regulations add
+have any incentives. Certificates issued to such
+that capital costs for existing thermal power
+vehicles will also not be electronically tradeable.
+projects will also include expenditure on account
+of biomass handling equipment, and any changes
+Rules for automated testing stations amended
+in law. For new projects, these costs were already
+included under the 2019 Regulations, and the 2024 The Ministry of Road Transport and Highway notified
+Regulations maintain that. For hydro projects, amendments to the Central Motor Vehicles Rules,
+capital costs will also include spending towards 1989.75,76 The Rules have been framed under the
+Motor Vehicles Act, 1988.74 The Act empowers the
+- 13-
+Monthly Policy Review – March 2024 PRS Legislative Research
+central government to recognise and regulate be divided into two parts: (i) Rs 9,737 crore for
+automated testing stations. These stations conduct incentives to eligible units and (ii) Rs 300 crore for
+fitness tests on transport vehicles. Key features of the implementation and institutional arrangements.
+amendments include:
+Incentives that will be provided under the scheme
+ Registration certificates for operators to be include: (i) capital investment incentive for new and
+transferable: Under the Rules, automated testing expanding units, (ii) interest subvention for new and
+stations required a registration certificate to expanding units, and (iii) incentives linked to
+commence operations. The certificate was non- manufacturing for new units. The following
+transferable. The amendments allow the transfer committees will be constituted to oversee the
+of the certificate between operators after six implementation: (i) a Steering Committee, that will
+months from the date of its issuance. decide any interpretation of the scheme and issue
+guidelines for implementation, (ii) a State Level
+ Eligibility of owners to open testing stations:
+Committee, that will monitor the implementation, and
+Under the Rules, owners or operators of automated
+(iii) a Secretary Level Committee, that will be
+testing stations were required to have a net worth
+responsible for its implementation.
+of at least three crore rupees. The amendments
+remove this requirement.
+India signs trade agreement with European
+ Re-testing for vehicles: Under the earlier Rules, Free Trade Association
+if a vehicle failed the fitness test, the owner could
+India signed a trade and economic partnership
+apply for a retest within 30 days from the initial
+agreement with the European Free Trade Association
+test. The amendments extend the window to 180
+(EFTA).78 The EFTA comprises Switzerland, Iceland,
+days, also allowing multiple re-tests.
+Norway, and Liechtenstein. Under the agreement,
+ Removal of appellate authority to appeal EFTA would aim to increase foreign direct investment
+against test results: The Rules provide for an in India by USD 100 billion in the next 15 years. India
+appellate authority to address grievances arising will have market access covering all non-agricultural
+from test results. The authority consists of an products and tariff concession on processed agricultural
+officer, who must be at least at a Regional products in the EFTA. India will provide tariff
+Transport Officer level. The amendments remove concessions on goods such as certain items of iron and
+the provision for appellate authority. It instead steel, garments, and building machinery.
+provides for the Regional Transport Officer to
+ensure efficient operations of the station and the
+integrity of test results.
+ Application to light motor vehicle: The Rules
+Telecommunications
+provided for testing of light, medium and heavy
+commercial vehicles. The amendments expand the Pratinav Damani (pratinav@prsindia.org)
+scope to include light motor vehicles.
+TRAI releases recommendations on usage of
+ Testing stations to not conduct vehicle
+scrapping: Automated testing stations can only embedded-SIMs
+conduct vehicle fitness tests. They are prohibited
+The Telecom Regulatory Authority of India (TRAI)
+from providing services related to repair,
+released its recommendations on the usage of
+manufacture, or sale. The amendments add that
+embedded SIM (eSIM) for machine-to machine
+these stations will also be prohibited from
+communication.79 Machine to machine communication
+providing any vehicle scrapping services.
+refers to technologies that allows devices to
+communicate with other devices. An eSIM is
+analogous to a physical SIM card; however, it is
+embedded directly into a device and can be
+reprogrammed to support different service providers.
+Commerce
+Recommendations include:
+Tushar Chakrabarty (tushar@prsindia.org)
+ Management of eSIMs: eSIMs can support
+multiple profiles; however, only one profile can be
+Cabinet approves Uttar Poorva
+used at a time. A profile is the configuration data
+Transformation Industrialisation Scheme
+that allows the eSIM to connect to a mobile
+network. A part of the network architecture
+The Union Cabinet approved the Uttar Poorva
+controls the loading, enabling, disabling and
+Transformative Industrialisation Scheme (UNNATI),
+2024.77 The central sector scheme will be implemented deletion of profiles on an eSIM based device. This
+is called the Subscription Manager – Secure
+over a 10-year period with a total cost of Rs 10,037
+Routing (SM-SR). Currently, only Telecom
+crore. The scheme aims to develop industries and
+Service Providers (TSPs) can manage SM-SRs.
+generate employment in the north-eastern states. It will
+- 14-
+Monthly Policy Review – March 2024 PRS Legislative Research
+TRAI has recommended that other entities also be the central government in consultation with the
+allowed to manage SM-SRs. These include Chief Controller of Explosives. To import
+entities with: (i) access service and machine to petroleum, the licencee will have to declare the
+machine authorisations under unified licence, and import of petroleum prior to its import to the
+(ii) registration as Machine to Machine Service officer in charge of the airport and to the
+Providers (who will require specific permission). Commissioner of Customs. Persons seeking the
+Such providers include: supply chain management, permission to import petroleum by air must furnish
+fleet management, and agriculture automation. certain information. This includes: (i) an import
+declaration, (ii) a copy of their licence, and (iii) a
+ Device to device transfer of eSIMs: There is
+landing permit by the Director General of Civil
+currently no method to transfer an eSIM from one
+Aviation. The permission of the Commissioner of
+device to another. In contrast, a physical SIM can
+Customs will be required to unload the petroleum.
+be removed from one device and simply put into
+another. Hence, TRAI recommended that the
+Department of Telecommunications examine the
+possibility of developing such a standard.
+Mines
+ Reconfiguring international eSIMs: TRAI had
+previously recommended that foreign eSIMs must
+Pratinav Damani (pratinav@prsindia.org)
+be allowed roaming on Indian networks for a
+specified period. This period is three years, or on
+Comments invited on the Offshore Areas
+the change of the ownership of device, whichever
+Operating Right Rules
+is earlier. After this, the device must be
+reconfigured with an Indian service provider’s The Ministry of Mines invited comments on the draft
+eSIM. TRAI has recommended reducing this Offshore Areas Operating Rules, 2024.83 The draft
+threshold to six months, or on change of Rules have been issued under the Offshore Areas
+ownership, whichever is earlier. Mineral (Development and Regulation) Act, 2002.84
+The Act regulates mining in the maritime zones of
+India. The draft Rules seek to give to effect provisions
+of the 2023 amendments to the Act.85 Operating rights
+may be granted to private companies and government
+Petroleum
+companies. They may be granted as a composite
+licence (a combined licence for exploration and
+Pratinav Damani (pratinav@prsindia.org)
+production) or a production lease. Key features of the
+draft Rules include:
+Rules amended to regulate the import of
+petroleum and ISO containers by air  Consultation before offering concessions:
+Before making available offshore areas for grant of
+The Ministry of Petroleum and Natural Gas notified the
+operating rights, the administering authority must
+Petroleum (Amendment) Rules, 2024.80 The Rules
+consult with several ministries on such grant. The
+amend the Petroleum Rules, 2002.81 The Rules have
+administering authority will be notified by the
+been made under the Petroleum Act, 1934, which
+central government. These include the: (i)
+regulates the import, transport, storage, refinement and
+Ministry of Defence, (ii) Ministry of Environment,
+blending of petroleum.82 The amended Rules restrict
+Forests and Climate Change, (iii) Ministry of
+the import of petroleum by air and the import of ISO
+Home Affairs, (iv) Ministry of External Affairs,
+tank containers. ISO tank containers are a type of
+and (v) Department of Atomic Energy.
+petroleum freight container used for the transport of
+liquified petroleum. Key features of the Rules include:  Conditions for operating rights: A production
+lease will be valid for a period of 50 years.
+ Restriction on the import of ISO tank
+Holders of the operating rights must fulfil certain
+containers: The amended Rules prohibit the
+obligations. These include: (i) making efforts to
+import of such containers unless permission has
+rehabilitate the natural seabed, (ii) mining the
+been obtained from the Controller or Chief
+specified quantity of minerals, and (iii) allowing
+Controller of Explosives. Persons seeking such
+authorised officers to board vessels or structures
+permission must furnish certain information. This
+when required.
+includes: (i) a valid licence, and (ii)
+manufacturer’s inspection and documents detailing  Lapse, surrender or termination of licence:
+the design of the container. However, these rules Composite licences and production leases can
+do not apply to ISO containers that contain lapse, be surrendered, or be terminated. If the
+petroleum imported for research and development. licensee/ lessee fails to undertake exploration
+within a year or production within two years, their
+ Restriction on the import of petroleum by air:
+licence/lease can lapse. Licensees and lessees can
+The amended Rules restrict the import of
+also surrender their operating rights. The surrender
+petroleum by air, except to airports authorised by
+- 15-
+Monthly Policy Review – March 2024 PRS Legislative Research
+of licence can be refused by the administering sector. Thus, the Committee recommended that
+authority. The central government has the power more coking coal should be supplied to the steel
+to terminate operating rights after consultation sector. The Committee also recommended that
+with the administering authority. Grounds could the washing capacity be increased. Washing refers
+include: (i) public interest, (ii) strategic interest of to removing impurities (such as sulphur and ash)
+the country, (iii) preservation of the environment, from coal. It also recommended that coal
+and (iv) violation of terms and conditions of gasification be used for the production of direct
+licence/lease. reduced iron (DRI). DRI contains lower amounts
+of impurities and is preferred for steelmaking.
+Comments are invited until April 10, 2024.
+Coal gasification converts carbon into syngas
+(mostly carbon monoxide and hydrogen), and can
+be used to produce DRI.
+ Reduction of non-coking coal imports: Non-
+Coal
+coking coal is used in the production of power.
+The Committee observed that boilers could use
+Pratinav Damani (pratinav@prsindia.org)
+domestic coal for power production. Imported coal
+is subject to price fluctuations; however, the price
+Inter-Ministerial Committee releases report on
+of power produced cannot be escalated
+coal import substitution
+proportionally. Thus, the Committee
+An Inter-Ministerial Committee constituted by the recommended that boilers use domestic coal and
+Ministry of Coal released a report on coal import be retrofitted to make them compatible with
+substitution.86 In 2023, India produced 893 million domestic coal.
+tonnes (MT) of coal, of which 833 MT is non-coking
+ GST compensation cess on coal: The Committee
+coal (used in power). India also imported 237 MT of
+recommended rationalising GST compensation
+coal in 2023. Coal is largely used for power generation
+cess on coal. Cess is levied at a flat rate of Rs 400
+(64%), steel production (8%) and cement production
+per tonne. This is regardless of the origin
+(5%). The demand for coal is projected to be 1.6
+(domestic or imported), quality, or source. This
+billion tonnes by 2030. Key observations and
+leads to a higher cost for domestic coal per unit of
+recommendations include:
+energy, as domestic coal is generally inferior in
+ Reduction of coking coal imports: Coking coal energy content as compared to imported coal.
+is primarily used in the production of steel. The Hence, it recommended that the cess be charged as
+steel industry fulfils 90% of its coking coal a percentage of the value of coal. This is expected
+requirements through imports. In 2022-23, the to make domestic coal cheaper.
+domestic production of coking coal was 56 MT,
+out of which only 11 MT was supplied to steel
+sector. The rest was mainly supplied to the power
+1 Current Elections, Election Commission of India, 9 Citizenship Rules, 2009, Ministry of Home Affairs, February 25,
+https://www.eci.gov.in/election-management. 2009, https://www.mha.gov.in/PDF_Other/Citi_Rule-2009.pdf.
+2 Revised Schedule, Current Elections, Election Commission of 10 Citizenship Amendment Act, 2019,
+India, https://www.eci.gov.in/eci- https://prsindia.org/files/bills_acts/bills_parliament/2019/Citizenship
+backend/public/api/download?url=LMAhAK6sOPBp%2FNFF0iRfX %20(Amendment)%20Bill,%202019.pdf.
+bEB1EVSLT41NNLRjYNJJP1KivrUxbfqkDatmHy12e%2FzBiU51z 11 S.O. 1231(E), Ministry of Home Affairs, March 11, 2024,
+PFZI5qMtjV1qgjFsK5bO1Fe8raUy8r%2B3VvV90xGp1Km%2F8Iq https://egazette.gov.in/WriteReadData/2024/252848.pdf.
+5yoAXpUIkspCSv%2B1yJkuMeCkTzY9fhBvw%3D%3D
+12 Cinematograph (Certification) Rules, 2024, Ministry of
+3 High Level Committee Report on Simultaneous Elections in India, Information and Broadcasting, March 15, 2024,
+March 14, 2024, https://onoe.gov.in/report-web/Hlc-report-en.pdf. https://mib.gov.in/sites/default/files/Final%20Cinematograph%20Cer
+4 Developments in India’s Balance of Payments during the Third tification%20Rules%2014032024-Accessible.pdf.
+Quarter (October-December) of 2023-24, Reserve Bank of India, 13 The Cinematograph (Certification) Rules, 1983, Ministry of
+March 26, 2024, Information and Broadcasting, May 9, 1983,
+https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR2116BOPBA74 https://upload.indiacode.nic.in/showfile?actid=AC_CEN_29_41_000
+774CAC8142C39C136C429CC509BE.PDF. 11_195237_1517807328551&type=rule&filename=Cinematograph%
+5 Article 105(1) and Article 194(2), The Indian Constitution. 20Certification%20Rules%201983.pdf.
+6 Criminal Appeal No. 1207 of 1997, P.V. Narasimha Rao vs. State 14 The Cinematograph Act, 1952,
+(CBI/SPE), April 17, 1998, https://www.indiacode.nic.in/bitstream/123456789/2170/5/a1952-
+https://main.sci.gov.in/jonew/judis/13282.pdf. 37.pdf.
+7 Criminal Appeal No. 451 of 2019, Sita Soren vs. Union of India, 15 The Cinematograph (Amendment) Act, 2023,
+March 4, 2024, https://egazette.gov.in/WriteReadData/2023/247867.pdf.
+https://main.sci.gov.in/supremecourt/2014/10177/10177_2014_1_150 16 Draft Cinematograph (Adjudication of Penalty) Rules, 2024,
+1_51211_Judgement_04-Mar-2024.pdf. Ministry of Information and Broadcasting, March 15, 2024,
+8 Citizenship (Amendment) Rules, 2024, Ministry of Home Affairs, https://mib.gov.in/sites/default/files/Notice%20dated%2015-03-
+March 11, 2024, 2024%20-
+https://egazette.gov.in/WriteReadData/2024/252847.pdf. %20Inviting%20Comments%20for%20Cinematograph%20%28Adju
+dication%20of%20Penalty%29%20Rules%2C%202024.pdf.
+- 16-
+Monthly Policy Review – March 2024 PRS Legislative Research
+35 Insurance Regulatory and Development Authority of India (Unit
+Linked Insurance Products) Regulations, 2019,
+17 The Cinematograph Act, 1952,
+https://irdai.gov.in/document-detail?documentId=604874.
+https://www.indiacode.nic.in/bitstream/123456789/2170/5/a1952-
+37.pdf. 36 Insurance Regulatory and Development Authority of India
+(Protection of Policyholders’ Interests, Operations and Allied Matters
+18 Guidelines of Accessibility Standards in the Public Exhibition of
+of Insurers) Regulations, 2024, Insurance Regulatory and
+Feature Films in Cinema Theatres for Persons with Hearing and
+Development Authority of India, March 20, 2024,
+Visual Impairment, Ministry of Information and Broadcasting, March
+https://egazette.gov.in/WriteReadData/2024/253330.pdf.
+15, 2024,
+https://mib.gov.in/sites/default/files/O.M.%20dated%2015.03.2024% 37 Insurance Regulatory and Development Authority of India
+20regarding%20Guidelines%20of%20Accessibilty%20Standards.%2 (Protection of Policyholders’ Interests) Regulations, 2017, Insurance
+0-%20Accessible.pdf. Regulatory and Development Authority of India, June 22, 2017,
+https://irdai.gov.in/document-detail?documentId=385593.
+19 The Rights of Persons With Disabilities Act, 2016,
+https://www.indiacode.nic.in/bitstream/123456789/15939/1/the_right 38 Insurance Regulatory and Development Authority of India (Bima
+s_of_persons_with_disabilities_act%2C_2016.pdf. Sugam - Insurance Electronic Marketplace) Regulations, 2024,
+Insurance Regulatory and Development Authority of India, March
+20 Report of the Committee on Digital Competition Law, Ministry of
+20, 2024, https://egazette.gov.in/WriteReadData/2024/253321.pdf.
+Corporate Affairs,
+https://www.mca.gov.in/bin/dms/getdocument?mds=gzGtvSkE3zIVh 39 SEBI Board Meeting, Securities and Exchange Board of India,
+AuBe2pbow%253D%253D&type=open. March 15, 2024, https://www.sebi.gov.in/media-and-
+notifications/press-releases/mar-2024/sebi-board-
+21 “MCA invites public comments on Report of Committee on Digital
+meeting_82286.html.
+Competition Law and Draft Bill on Digital Competition Law”, Press
+Information Bureau, Ministry of Corporate Affairs, March 12, 2024, 40 SEBI (Foreign Portfolio Investors) (Second Amendment)
+https://pib.gov.in/PressReleasePage.aspx?PRID=2013947. Regulations, 2023, Securities and Exchange Board of India, August
+10, 2023, https://egazette.gov.in/WriteReadData/2023/248012.pdf.
+22 No. CCI/Reg-C.R./2024, The Competition Commission of India,
+March 6, 2024, https://www.cci.gov.in/images/whatsnew/en/gazette- 41 Securities and Exchange Board of India (Index Providers)
+notification-published-on-06-march-2024-regarding-the-competition- Regulations, 2024, Securities and Exchange Board of India, March
+commission-of-india-co1709739461.pdf. 11, 2024, https://www.sebi.gov.in/legal/regulations/mar-
+2024/securities-and-exchange-board-of-india-index-providers-
+23 No. CCI/Reg-S.R./2024, The Competition Commission of India,
+regulations-2024_82144.html.
+March 6, 2024, https://www.cci.gov.in/images/whatsnew/en/gazette-
+notification-published-on-06-march-2024-regarding-the-competition- 42 Securities and Exchange Board of India (Real Estate Investment
+commission-of-india-se1709738701.pdf. Trusts) (Amendment) Regulations, 2024, Securities and Exchange
+Board of India, March 8, 2024,
+24 The Competition Act, 2002,
+https://www.sebi.gov.in/legal/regulations/mar-2024/securities-and-
+https://www.indiacode.nic.in/bitstream/123456789/2010/3/A2003-
+exchange-board-of-india-real-estate-investment-trusts-amendment-
+12.pdf.
+regulations-2024_82138.html.
+25 The Competition (Amendment) Bill, 2023,
+43 Securities and Exchange Board of India (Real Estate Investment
+https://sansad.in/getFile/BillsTexts/LSBillTexts/PassedBothHouses/T
+Trusts) Regulations 2014, Securities and Exchange Board of India,
+he%20Competition419202351513PM.pdf?source=legislation.
+https://www.sebi.gov.in/legal/regulations/feb-2023/securities-and-
+26 S.O. 1130(E), Ministry of Corporate Affairs, March 7, 2024, exchange-board-of-india-real-estate-investment-trusts-regulations-
+https://egazette.gov.in/WriteReadData/2024/252733.pdf. 2014-last-amended-on-february-14-2023-_68061.html.
+27 “Ministry of Corporate Affairs revises threshold limits for value of 44 S.O. 1363(E), Ministry of Heavy Industries, March 15, 2024,
+Assets and Turnover for purposes of combination filings under https://egazette.gov.in/WriteReadData/2024/253042.pdf.
+Competition Act, 2002 as a step towards ‘Ease of doing Business’”,
+45 S.O. 1334(E), Ministry of Heavy Industries, March 13, 2024,
+Press Information Bureau, Ministry of Corporate Affairs, March 8,
+https://egazette.gov.in/WriteReadData/2024/252967.pdf.
+2024, https://pib.gov.in/PressReleasePage.aspx?PRID=2012821.
+46 G.S.R. 201(E), Plastic Waste Management (Amendment) Rules,
+28 Reserve Bank of India (Credit Card and Debit Card – Issuance and
+2024, Ministry of Environment, Forest and Climate Change, March
+Conduct) Directions, 2022, Reserve Bank of India, April 21, 2022,
+14, 2024, https://egazette.gov.in/WriteReadData/2024/253031.pdf.
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/92MDCREDITDE
+BITCARDC423AFFB5E7945149C95CDD2F71E9158.PDF. 47 Plastic Waste Management Rules, 2016.
+29 Amendment to the Master Direction - Credit Card and Debit Card 48 G.S.R. 190(E), Battery Waste Management (Amendment) Rules,
+– Issuance and Conduct Directions, 2022, Reserve Bank of India, 2024, Ministry of Environment, Forest and Climate Change, March
+March 7, 2024, 14, 2024, https://egazette.gov.in/WriteReadData/2024/252990.pdf.
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/CIRCULARAMEN 49 S.O. 4669(E), Battery Waste Management (Amendment) Rules,
+DMENTTOMDA5CCCE00D45C4B6E8990BCEEE5810A87.PDF. 2023, Ministry of Environment, Forest and Climate Change, October
+30 Arrangements with Card Networks for issue of Credit Cards, 25, 2023, https://egazette.gov.in/WriteReadData/2023/249699.pdf.
+Reserve Bank of India, March 6, 2024, 50 S.O. 3984(E), Battery Waste Management Rules, 2022, Ministry of
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/FINALCIRCULAR Environment, Forest and Climate Change, August 22, 2022,
+DPSSC622292228054F9BB686657192C0D8F9.PDF. https://cpcb.nic.in/uploads/hwmd/Battery-WasteManagementRules-
+31 Omnibus Framework for recognition of Self-Regulatory 2022.pdf.
+Organisations for Regulated Entities of the Reserve Bank, Reserve 51 ‘Uniform Code for Pharmaceutical Marketing Practices’,
+Bank of India, March 21, 2024, Department of Pharmaceuticals, March 12, 20024,
+https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=5 https://pharmaceuticals.gov.in/sites/default/files/UCPMP%202024%
+7534. 20for%20website_0.pdf
+32 Insurance Regulatory and Development Authority of India 52 “Department of Pharmaceuticals announces the Revamped
+(Insurance Products) Regulations, 2024, Insurance Regulatory and Pharmaceuticals Technology Upgradation Assistance Scheme”,
+Development Authority of India, March 20, 2024, Ministry of Chemicals and Fertilizers, Press Information Bureau,
+https://egazette.gov.in/WriteReadData/2024/253325.pdf. March 11, 2024,
+33 Insurance Regulatory and Development Authority of India (Micro https://www.pib.gov.in/PressReleasePage.aspx?PRID=2013379.
+Insurance) Regulations, 2015, https://irdai.gov.in/document- 53 Pharmaceutical Technology Upgradation Assistance Scheme,
+detail?documentId=617801. Department of Pharmaceuticals,
+34 Insurance Regulatory and Development Authority of India (Health https://pharmaceuticals.gov.in/sites/default/files/Pharmaceutical%20
+Insurance) Regulations, 2016, https://irdai.gov.in/document- Technology%20Upgradation%20Assistance%20Scheme%20%28PT
+detail?documentId=602887. UAS%29_0_0.pdf.
+- 17-
+Monthly Policy Review – March 2024 PRS Legislative Research
+70 The Electricity Act, 2003,
+https://www.indiacode.nic.in/bitstream/123456789/2058/1/A2003-
+54 CG-DL-E-01062020-219680, Ministry of Micro Small and
+36.pdf.
+Medium Enterprises, June 1, 2020,
+https://msme.gov.in/sites/default/files/MSME_gazette_of_india.pdf. 71 Central Electricity Regulatory Commission (Terms and Conditions
+of Tariff) Regulations, 2019, Central Electricity Regulatory
+55 Constitution of a Committee for Reforms in the Pricing Framework
+Commission, March 7, 2019,
+for Drugs and Medical Devices, Department of Pharmaceuticals,
+https://cercind.gov.in/2019/regulation/Tariff%20Regulations-
+March 12, 2024,
+2019.pdf.
+https://pharmaceuticals.gov.in/sites/default/files/Reforms%20in%20t
+he%20Pricing%20Framework_0.pdf 72 G.S.R 212 (E), Motor Vehicles (Registration and Function s of
+Vehicle Scrapping Facility) Amendment Rules, 2024, Ministry of
+56 ‘Establishment of New Homoeopathic Medical Institution
+Road Transport and Highways, March 15, 2024,
+(Opening of New or Higher Course of Study or Training and Increase
+https://egazette.gov.in/WriteReadData/2024/253120.pdf.
+of Intake Capacity by a Medical Institution), Regulations, 2024’,
+National Commission for Homoeopathy, March 12, 2024, 73 Motor Vehicles (Registration and Functions of Vehicle Scrapping
+https://nch.org.in/upload/MSR-New-College.pdf Facility) Rules, 2021, https://morth.nic.in/gsr-653e-regarding-motor-
+vehicles-registration-and-functions-vehicle-scrapping-facility-rules-
+57 National Commission for Homoeopathy Act, 2020,
+2021.
+https://www.indiacode.nic.in/bitstream/123456789/15621/1/A2020-
+15.pdf 74 The Motor Vehicles Act, 1988,
+https://www.indiacode.nic.in/bitstream/123456789/9460/1/a1988-
+58 Establishment of New Medical College, (Opening of New or
+59.pdf.
+Higher Course of Study or Training and Increase of Admissions
+Capacity by a Medical College) Regulations, 2011, 75 G.S.R. 195 (E), Central Motor Vehicles (Seventh Amendment)
+https://upload.indiacode.nic.in/showfile?actid=AC_CEN_23_62_000 Rules, 2024, Ministry of Road Transport and Highways, March 14,
+02_197359_1517807322021&type=regulation&filename=Establishm 2024, https://egazette.gov.in/WriteReadData/2024/253055.pdf.
+ent%20of%20new%20colleges%20regulations.pdf 76 Central Motor Vehicles Rules, 1989, https://morth.nic.in/central-
+59 The National Commission for Homoeopathy (Minimum Essential motor-vehicles-rules-1989-1.
+Standards for Homoeopathic Colleges and Attached Hospitals) 77 “Cabinet approves Uttar Poorva Transformative Industrialization
+Regulations, 2024. National Commission for Homoeopathy, March Scheme, 2024”, Press Information Bureau, Ministry of Commerce
+11, 2024, https://nch.org.in/upload/MES-regulaiton-final.pdf and Industry, March 7, 2024,
+60 National Commission for Homoeopathy (Assessment and Rating of https://pib.gov.in/PressReleasePage.aspx?PRID=2012362.
+Medical Institutions)Regulations, 2024, March 12, 2024, 78 “India-EFTA Trade and Economic Partnership Agreement”, Press
+https://nch.org.in/upload/Assessment-and-Rating-of-Medical- Information Bureau, Ministry of Commerce and Industry, March 10,
+Institutions.pdf 2024, https://pib.gov.in/PressReleasePage.aspx?PRID=2013169.
+61 Homoeopathy Central Council (Inspectors and Visitors) 79 Recommendations on Usage of Embedded SIM for Machine-to-
+Regulation, 1982, Machine (M2M) Communications, TRAI, March 21, 2024,
+https://nch.org.in/upload/Inspector_and_Visitor_1983.pdf https://www.trai.gov.in/sites/default/files/Recommendations_210320
+62 National Commission for Homoeopathy Act, 2020, 24_0.pdf.
+https://www.indiacode.nic.in/bitstream/123456789/15621/1/A2020- 80 G.S.R 154 (E), Ministry of Petroleum and Natural Gas, March 4,
+15.pdf. 2024, https://egazette.gov.in/WriteReadData/2024/252609.pdf.
+63 The National Commission for Homoeopathy (Minimum Essential 81 G.S.R 204 (E), Ministry of Petroleum and Natural Gas, March 13,
+Standards for Homoeopathic Colleges and Attached Hospitals) 2002,
+Regulations, 2024. National Commission for Homoeopathy, March https://mopng.gov.in/files/TableManagements/Rules2002_0.pdf.
+11, 2024, https://nch.org.in/upload/MES-regulaiton-final.pdf 82 The Petroleum Act, 1934,
+64 “Cabinet approves National Green Hydrogen Mission”, PIB, https://www.indiacode.nic.in/bitstream/123456789/2401/1/A1934-
+January 4, 2023, 30.pdf.
+https://pib.gov.in/PressReleasePage.aspx?PRID=1888547. 83 Draft Offshore Areas Operating Rights Rules, 2024, Ministry of
+65 Guidelines for implementation of R&D Scheme under the National Mines, March 10, 2024,
+Green Hydrogen Mission, Ministry of New and Renewable Energy, https://mines.gov.in/admin/storage/app/uploads/65eea7f9621cc17101
+March 15, 2024, 39385.pdf.
+https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749 84 The Offshore Areas Mineral (Development and Regulation) Act,
+f3/uploads/2024/03/20240316152774043.pdf. 2002,
+66 Scheme Guidelines for implementation of “Strategic Interventions https://www.indiacode.nic.in/bitstream/123456789/2040/3/A2003-
+for Green Hydrogen Transitions (SIGHT) Programme – Component 17.pdf.
+I: Incentive Scheme for Electrolyser Manufacturing Tranche – II” 85 The Offshore Areas Mineral (Development and Regulation)
+under the National Green Hydrogen Mission , Ministry of New and Amendment Act, 2023,
+Renewable Energy, March 16, 2024, https://egazette.gov.in/WriteReadData/2023/248041.pdf.
+https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749 86 Strategy Paper on Coal Import Substitution, Inter Ministerial
+f3/uploads/2024/03/20240316314427038.pdf.
+Committee Report, Ministry of Coal, March 7, 2024,
+67 Guidelines for scheme on skilling, up-skilling and re-skilling under https://coal.gov.in/sites/default/files/2024-03/07-03-2024a-wn.pdf.
+the National Green Hydrogen Mission, Ministry of New and
+Renewable Energy, March 16, 2024,
+DISCLAIMER: This document is being furnished to you for your
+https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749
+information. You may choose to reproduce or redistribute this
+f3/uploads/2024/03/202403161721417787.pdf.
+report for non-commercial purposes in part or in full to any other
+68 Scheme Guidelines for setting up Hydrogen Hubs in India under
+person with due acknowledgement of PRS Legislative Research
+the National Green Hydrogen Mission, Ministry of New and
+(“PRS”). The opinions expressed herein are entirely those of the
+Renewable Energy, March 15, 2024,
+author(s). PRS makes every effort to use reliable and
+https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749
+comprehensive information, but PRS does not represent that the
+f3/uploads/2024/03/20240316695795641.pdf.
+contents of the report are accurate or complete. PRS is an
+69 Central Electricity Regulatory Commission (Terms and Conditions independent, not-for-profit group. This document has been
+of Tariff) Regulations, 2024, Central Electricity Regulatory prepared without regard to the objectives or opinions of those
+Commission, March 15, 2024, who may receive it.
+https://cercind.gov.in/regulations/notification-2024.pdf.
+- 18-

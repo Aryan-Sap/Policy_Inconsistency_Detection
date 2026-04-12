@@ -1,0 +1,1018 @@
+Monthly Policy Review
+November 2023
+Highlights of this Issue
+GDP grows at 7.6% in second quarter of 2023-24 (p. 2)
+Growth in all sectors was positive in the second quarter of 2023-24 with manufacturing sector registering the highest
+growth rate at 13.9%, followed by construction and electricity sectors.
+Cabinet approves Terms of Reference of the 16th Finance Commission (p. 4)
+The Commission will provide its recommendation for a period of five years beginning April 1, 2026. Its
+recommendations will provide for the distribution of tax proceeds between the central government and states.
+Standing Committee submits report on Bills seeking to replace three criminal laws (p. 2)
+Key recommendations include: (i) replacing unsound mind with mental illness, (ii) redrafting the provision on petty
+organised crime, (iii) granting bail to undertrial prisoners, and (iv) clarifying the admissibility of electronic evidence.
+Cabinet extends the Pradhan Mantri Garib Kalyan Anna Yojana by five years (p. 5)
+The extension will come into force from January 1, 2024. The scheme provides about 81 crore beneficiaries with free
+foodgrains. These include rice, wheat, and coarse grains/millet.
+Regulations governing Foreign Higher Educational in India, released (p. 6)
+Regulations delineate: (i) eligibility criteria for foreign HEIs, (ii) the process for obtaining approval to set up campuses
+in India, and (iii) powers of foreign HEIs to offer programmes, levy fees and admit students in India.
+Comments invited on the draft Broadcasting Services (Regulation) Bill, 2023 (p. 5)
+The draft Bill seeks to regulate broadcasters and broadcasting network operators including OTT platforms. A three-
+tier structure for regulation of content has been proposed.
+Rules under the Van (Sanrakshan Evam Smavardhan) Adhiniyam, notified (p. 8)
+The Rules specify procedure and timeline for approval of projects by the central government, compensatory
+afforestation, and initiation of proceedings against offences.
+Draft National Pharmacy Commission Bill released for consultation (p. 7)
+The Commission will regulate the education and practice of pharmacy. The Bill seeks to replace the Pharmacy Act,
+1948.
+The Model Prisons and Correctional Services Act, 2023 released (p. 3)
+The Model Act provides for classification and segregation of prisoners, constitution of an Undertrial Review
+Committee in every district, and security and surveillance measures for prisons.
+RBI increases risk weights for certain loan categories (p. 4)
+The revised risk weights would apply primarily to unsecured consumer loans such as personal loans. Risk weights
+determine the minimum amount of capital that lending entities must hold as per risk profile of a loan.
+Cabinet approves continuation of scheme for Fast Track Special Courts (p. 8)
+The scheme was implemented to provided dedicated court machinery to victims of sexual crimes. It has been
+extended for three years, with an outlay of Rs 1,952 crore.
+Digital Advertisement Policy 2023 released (p. 6)
+The Policy lays out the framework for advertisements by the government on digital media platforms. These include
+OTT platforms, social media platforms and digital audio platforms.
+December 1, 2023
+PRS Legislative Research Institute for Policy Research Studies
+3rd Floor, Gandharva Mahavidyalaya 212, Deen Dayal Upadhyaya Marg  New Delhi – 110002
+Tel: (011) 23234801, 43434035  www.prsindia.org
+Monthly Policy Review – November 2023 PRS Legislative Research
+Macroeconomic Development manufacturing sector, which has a 78% weightage in
+the IIP, grew at 6.2% over the corresponding quarter a
+Tushar Chakrabarty (tushar@prsindia.org) year ago.
+Figure 2: Growth in IIP (%, year-on-year)
+GDP grows at 7.6% in July-Sep 2023-24
+18%
+Gross Domestic Product (GDP) (at constant prices)
+16%
+grew at 7.6% in the second-quarter (July-September) of
+14%
+2023-24, over the corresponding quarter in 2022-23.1 11.5% 11.1%
+12%
+In the second quarter of 2022-23, GDP had grown by
+10%
+6.2%. In the first quarter (April-June) of 2022-23, 7.4%
+8% 6.2%
+GDP had grown by 7.8%.
+6%
+Figure 1: GDP growth at constant 2011-12 prices (in 4%
+percentage, year-on-year) 2%
+0%
+25%
+21.6% IIP Mining Manufacturing Electricity
+20%
+Jul-23 Aug-23 Sep-23 Jul-Sep 23
+15% 13.1%
+Note: Figures for September 2023 are quick estimates.
+10%
+9.1%
+7.8%7.6% Sources: Ministry of Statistics and Programme Implementation; PRS.
+5.2% 6.2% 6.1%
+5%
+4.0% 4.5%
+0%
+Home Affairs
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2
+2021-22 2022-23 2023-24 Alaya Purewal (alaya@prsindia.org)
+Note: In the first quarter of 2021-22, GDP had increased on a low
+base after contracting by 23.4% in the first quarter of 2020-21. Standing Committee submits report on the
+Sources: Ministry of Statistics and Programme Implementation; PRS. Bills seeking to replace three criminal laws
+GDP across economic sectors is measured in terms of
+The Standing Committee on Home Affairs (Chair: Mr.
+Gross Value Added (GVA). Growth in all sectors was
+Brij Lal) submitted its report on the Bharatiya Nyaya
+positive in the second quarter of 2023-24.
+Sanhita, 2023 (BNS), the Bharatiya Nagarik Suraksha
+Manufacturing registered the highest growth in the
+Sanhita, 2023 (BNSS) and the Bharatiya Sakshya Bill,
+second quarter of 2023-24 (13.9%) after contracting by
+2023 (BSB).3,4,5 The BNS replaces the Indian Penal
+3.8% in the corresponding quarter of 2022-23. This
+Code, 1860 (IPC), which is the principal law on
+was followed by construction (13.3%), electricity
+criminal offences.6,7 The BNSS replaces the Code of
+(10.1%), and mining (10%).
+Criminal Procedure, 1973 (CrPC), which is the
+Table 1: Growth in GVA across sectors in Q2 of principal law on criminal procedure.8,9 The BSB
+2023-24 (in percentage, year-on-year) replaces the Indian Evidence Act, 1872 (IEA), which
+governs the admissibility of evidence in courts.10,11 All
+Sector 2023-24 Q1 2023-24 Q2
+three Bills largely retain the provisions of the Acts they
+Agriculture 3.5% 1.2%
+seek to repeal. The Bills were referred to the Standing
+Mining 5.8% 10.0%
+Committee on Home Affairs on August 11, 2023. The
+Manufacturing 4.7% 13.9%
+Committee has recommended changes to certain
+Electricity 2.9% 10.1% provisions of the three Bills. Eight members of the
+Construction 7.9% 13.3% Committee submitted dissent notes. Key
+Trade 9.2% 4.3% recommendations of the Committee include:
+Financial services 12.2% 6.0%
+Bharatiya Nyaya Sanhita, 2023
+Public services 7.9% 7.6%
+ Offences removed by the BNS: The BNS
+GVA 7.8% 7.4%
+removes offences related to adultery and same-sex
+GDP 7.8% 7.6%
+sexual activities (Section 377 of the IPC). The
+Note: GVA is measured at basic prices (2011-12).
+Committee noted that in 2018, the Supreme Court
+Sources: Ministry of Statistics and Programme Implementation; PRS.
+had struck down the provision on adultery in the
+Industrial production grew by 7.4% in the IPC. The Court had held that the provision was
+archaic, arbitrary, and paternalistic as it infringed
+second quarter of 2023-24
+upon a woman’s autonomy, dignity, and privacy.
+The Index of Industrial Production (IIP) grew by 7.4% Acknowledging the sanctity of marriage in Indian
+in the second quarter (July-September) of 2023-24 over society, the Committee recommended retaining the
+the corresponding period a year ago.2 In the second section on adultery and applying it to all genders.
+quarter of 2022-23, IIP had grown by 1.6%. The
+- 2-
+Monthly Policy Review – November 2023 PRS Legislative Research
+It recommended retaining Section 377 to ensure parts during the initial 40, 60, or 90 days. The
+that non-consensual sexual offences against men, Committee noted that this clause could be
+transgenders, and acts of bestiality are penalised. susceptible to misuse by authorities, as it does not
+clarify why the custody was not taken in the first
+ Mental illness: Under the IPC, any act performed
+15 days. It recommended clarifying the clause.
+by a person of unsound mind cannot constitute an
+offence. The BNS retains this provision, but For a PRS summary, please see here.
+replaces the term ‘unsound mind’ with ‘mental
+illness’. The Committee noted that the definition Bharatiya Sakshya Bill, 2023
+of mental illness is wider compared to unsound
+ Tampering of electronic evidence: Under the
+mind, as it includes conditions such as mood
+IEA, electronic records are admissible as
+swings or voluntary intoxication. It recommended
+secondary evidence. Under the BSB, electronic
+reverting to the term ‘unsound mind’ instead of
+records are classified as primary evidence.
+‘mental illness’.
+Primary evidence includes the original document
+ Organised crime: The BNS defines organised and its parts. Secondary evidence contains
+crime as a continuing unlawful activity. It is documents that can prove the contents of the
+carried out by three or more persons acting alone original. The Committee noted that it is essential
+or jointly as members or on behalf of a crime to safeguard the authenticity and integrity of
+syndicate. Attempting or committing organised electronic and digital records as they are prone to
+crime will be punishable by death or life tampering. It recommended mandating that all
+imprisonment and a fine of at least Rs 10 lakh, if it electronic and digital records collected as evidence
+causes death. The Committee opined that there must be securely handled and processed through a
+was no distinction between committing an offence proper chain of custody. The Committee has also
+and attempting to commit it. It recommended suggested similar amendments concerning the
+separating the two for clarity and proposed audio-video recording of evidence in the Bharatiya
+replacing ‘group of three or more persons’ with Nagarik Suraksha Sanhita, which will replace the
+‘two or more persons’ to widen its scope. Code of Criminal Procedure, 1973.
+For a PRS summary, please see here.  Admissibility of electronic evidence: As per the
+IEA, the admissibility of electronic evidence must
+Bharatiya Nagarik Suraksha Sanhita, 2023 be authenticated by a certificate. The Committee
+noted that the BSB specifies that electronic records
+ Power to investigate cognisable cases: Under the
+must be proved by primary evidence, which would
+BNSS, any officer in charge of a police station
+not require a certificate. However, the BSB also
+may investigate any cognisable case within its
+retains the section from the IEA on the
+jurisdiction without a Magistrate’s order.
+admissibility of electronic records, which requires
+However, for grave offences, the Superintendent of
+authentication through a certificate. The
+Police (SP) or Deputy Superintendent of Police
+Committee recommended proving the
+will be required to investigate the offence.
+admissibility of electronic records through the
+Recognising that the SP is in charge of the district
+current certificate authentication.
+and has a supervisory role, the Committee
+recommended that subordinate officers should For a PRS summary, please see here.
+handle such investigations.
+Ministry of Home Affairs adopts the Model
+ Undertrial prisoners: Under the CrPC, if an
+Prisons and Correctional Services Act, 2023
+undertrial has spent half of the maximum period of
+imprisonment for an offence in detention, he must The Ministry of Home Affairs adopted the Model
+be released on a personal bond. This does not Prisons and Correctional Services Act, 2023 and
+apply to offences which are punishable by death. circulated it to the state governments.12 Under the
+BNSS adds that this provision will also not apply Constitution, prisons are a state subject.13 While, states
+to: (i) offences punishable by life imprisonment, have their own laws on the management and
+and (ii) persons who have proceedings pending in administration of prisons, most of them are based on
+more than one offence. The Committee suggested the Prisons Act, 1894 and the Prisoners Act, 1900.14,15
+that bail be granted to undertrials who have served The 2023 Model Act aims to modernise the
+the maximum sentence for the most serious administration and management of prisons and align it
+offence they were charged with. This will not with prisons reforms. It covers the organisation,
+apply if there are consecutive sentences for classification, management, administration, and welfare
+multiple offences.
+ Police custody: Under the CrPC, a Judicial
+Magistrate may authorise the detention of an
+accused person for up to 15 days. BNSS adds that
+the 15-day detention period may be carried out in
+- 3-
+Monthly Policy Review – November 2023 PRS Legislative Research
+of prisons and prisoners. Key features of the Model paid as grants-in-aid to states, and (iv) measures needed
+Act include: to augment state revenues to supplement the resources
+of local governments. Additionally, it may review the
+ Classification of prisoners: The Model Act
+arrangements in financing disaster management
+constitutes a Committee for the classification and
+initiatives. The recommendations will be applicable for
+security assessments of prisoners. Prisoners may
+a five-year period starting April 1, 2026. The
+be classified under broad categories including: (i)
+Commission will submit its report by October 31, 2025.
+civil, (ii) criminal, (iii) convicted, and (iv)
+undertrial. Within these categories, prisoners may
+RBI increases risk weights for certain loan
+be further classified into sub-categories and lodged
+categories
+separately. Sub-categories include: (i) drug
+addicts, (ii) first-time offenders, (iii) foreign Tushar Chakrabarty (tushar@prsindia.org)
+prisoners, (iv) prisoners suffering from mental
+illness, and (v) prisoners sentenced to death. The Reserve Bank of India (RBI) increased the risk
+Prisons may also have separate sections for male, weights associated with certain consumer loan
+females, and transgender individuals. categories.17 The revised risk weights would apply
+primarily to unsecured consumer loans such as personal
+ Undertrial Review Committee: The Model Act
+loans. Risk weights determine the minimum amount of
+requires the establishment of an Undertrial Review
+capital that lending entities must hold in relation to the
+Committee in every district. The Committee will
+risk profile of a loan.
+be headed by the District and Sessions Judge. It
+will meet periodically and review the cases of Table 2: Revised risk weights for consumer loans
+prisoners eligible for bail in all prisons of the Current Revised
+Loan
+district. It will make necessary recommendations Lending Entity Risk Risk
+Category
+for each case. Weight Weight
+ Special watch and surveillance measures: Commercial Consumer
+100% 125%
+Prisons and Correctional Institutions will ensure Banks Loans*
+special watch and surveillance measures on
+Consumer
+inmates to prevent organised crime and gang NBFCs Loans* 100% 125%
+activity. To address this concern, prisons and
+Scheduled
+correctional services may gather intelligence from Credit card
+Commercial 125% 150%
+prisoners and monitor them in coordination with receivables
+Banks
+the Intelligence Wing of the state/UT police
+Credit card
+department. The state/UT will also ensure the NBFCs 100% 125%
+receivables
+integration of appropriate technology (including
+Note: *excludes housing loans, education loans, vehicle loans, loans
+CCTV systems, and biometrics) to effectively
+secured by gold and gold jewellery, and microfinance loans.
+manage, secure, and supervise prisons. Sources: RBI; PRS.
+ Healthcare: All prisoners will have access to Regulated entities must review their sectoral exposure
+adequate and gender-responsive health care limits for consumer credit. They must also put in place
+facilities as prescribed. The government may board-approved limits for sub-segments under
+transfer any prisoner with mental illness from the consumer credit. Limits must be prescribed for all
+place of detention to a mental health establishment unsecured consumer credit exposures.
+in the state/UT, with permission from the Mental
+Health Review Board. RBI releases directions on information
+technology governance and risks
+Tushar Chakrabarty (tushar@prsindia.org)
+Finance
+The Reserve Bank of India (RBI) released the RBI
+Cabinet approves terms of reference of the 16th (Information Technology Governance, Risk, Controls
+Finance Commission and Assurance Practices) Directions, 2023.18 The
+directions provide the framework for IT governance,
+Pratinav Damani (pratinav@prsindia.org) risk, controls, and business continuity/disaster recovery
+management. These will apply to entities such as
+The Union Cabinet approved the terms of reference for banks, non-banking financial companies, credit
+the 16th Finance Commission.16 The terms of reference information companies, the National Bank for
+require the Commission to make recommendations on Agriculture and Rural Development, and the National
+the following matters: (i) distribution of the net
+Bank for Financing Infrastructure and Development.
+proceeds of taxes between the central government and
+the states, (ii) allocation of these proceeds among Regulated entities must establish a board-level IT
+states, (iii) principles that should govern and the sums Strategy Committee (ITSC) headed by an independent
+director with IT expertise. An Information Security
+- 4-
+Monthly Policy Review – November 2023 PRS Legislative Research
+Committee (ISC) must be formed for managing central government has incurred a subsidy expenditure
+cyber/information security. The Business Continuity of Rs 3.4 lakh crore under PMGKAY.22
+Plan and the Disaster Recovery Policy must adopt best
+PMGKAY was introduced in March 2020, under which
+practices to reduce the likelihood as well as the impact
+beneficiaries of the National Food Security Act
+of disruptive incidents.
+(NFSA) are provided an additional five kg of
+foodgrains above their monthly entitlements.21 Under
+SEBI approves changes to framework for
+NFSA, beneficiaries are provided subsidised
+index providers and social stock exchanges foodgrains. In December 2022, the central government
+decided to provide these foodgrains free of cost to all
+Pratinav Damani (pratinav@prsindia.org)
+NFSA beneficiaries for one year, until January 2024.23
+The Securities and Exchange Board of India (SEBI)
+took certain decisions at its board meeting.19 Key
+decisions include:
+Media and Broadcasting
+ Social Stock Exchange: The Social Stock
+Exchange (SSE) allows non-profit and for-profit Pratinav Damani (pratinav@prsindia.org)
+social enterprises to raise funds. Not-for-profit
+organisations (NPOs) can raise funds by issuing Draft Broadcasting Services (Regulation) Bill,
+zero coupon zero principal (ZCZP) instruments on 2023 released for public feedback
+the SSE. The ZCZP instrument has no coupon
+The Ministry of Information and Broadcasting invited
+payment or principal repayment at maturity. SEBI
+comments on the draft Broadcasting Services
+has decided to halve the minimum issue size for
+(Regulation) Bill, 2023.24 The draft Bill seeks to
+these instruments from one crore rupees to Rs 50
+replace the Cable Television Networks (Regulation)
+lakh. The minimum application size for public
+Act, 1995.25 Key features of the draft Bill include:
+issuance of such instruments will also be reduced
+from two lakh rupees to Rs 10,000. Entities must  Applicability: The draft Bill seeks to regulate
+be registered as charitable trusts under the relevant broadcasters and broadcast network operators.
+statute or a Section 8 company (company for a Broadcasters are persons that provide
+charitable purpose). SEBI has allowed more non- programming services. Broadcast network
+profits to be eligible for registration on the SSE. operators are entities that utilise different systems
+These include educational and medical institutions. for the transmission of programmes. These
+include DTH and cable services, OTT platforms
+ Introduction of regulatory framework for index
+and radio. Entities will be required to be registered
+providers: SEBI has approved a regulatory
+with the government. Registration can be in the
+framework for index providers. An index is made
+form of a licence, authorisation, intimation or
+of a group of securities and measures the change in
+permission. For instance, OTTs are required to
+the value of those securities. Under the
+submit an intimation while cable operators require
+framework, index providers who licence
+a licence. Broadcasters and broadcast network
+significant indices will be notified by SEBI based
+operators will have to comply with certain
+on objective criteria. Notified index providers will
+requirements. These include: (i) adherence to the
+be required to register with SEBI.
+programme code, the advertisement code, and
+accessibility guidelines as may be prescribed, and
+(ii) self-certification of their content (for
+broadcasters), and implementing access controls
+Food and Public Distribution
+(for network operators).
+Tanvi Vipra (tanvi@prsindia.org)
+ Three-tier structure for content regulation:
+Every broadcaster and network operator must
+Cabinet extends free foodgrain scheme by five
+appoint a grievance redressal officer. This officer
+years will hear complaints regarding contravention of the
+programme and advertisement codes.
+The Union Cabinet approved the extension of Pradhan
+Mantri Garib Kalyan Anna Yojana (PMGKAY) by five  Every broadcaster/network operator must be a
+years.20 PMGKAY provides about 81 crore member of a self-regulatory organisation (SRO)
+beneficiaries with free foodgrains.21 These include registered with the central government. The SRO
+rice, wheat, and coarse grains/millet. The duration of will: (i) address grievances which have not been
+the scheme has been extended by five years, beginning addressed by the members, (ii) hear appeals against
+from January 1, 2024. It is expected to cost the central the decisions of members, and (iii) issue guidance
+government Rs 11.8 lakh crore over the five-year or advisories to its members for adherence to the
+period. Between April 2020 and March 2023, the programme and advertisement codes.
+- 5-
+Monthly Policy Review – November 2023 PRS Legislative Research
+ The central government will constitute the Operation of Foreign Higher Educational Institutions in
+Broadcasting Advisory Council (BAC) to hear and India) Regulations, 2023”.27 These regulations apply to
+make recommendations on appeals against the foreign Higher Educational Institutions (HEIs) that
+decisions of SROs. BAC will also hear complaints seek to establish a campus in India to offer courses.
+referred to it by the central government. The Foreign HEIs include those institutions that are
+central government will issue orders or directions authorised by the country of their origin to offer
+in relation to these appeals/complaints, after academic programmes at the undergraduate level and
+considering the recommendation of the BAC. above. Key features of the Regulations include:
+Comments are invited until December 9, 2023.  Eligibility: To establish a campus in India, a
+foreign HEI must be: (i) ranked within the top 500
+Digital Advertisement Policy, 2023 released global rankings at the time of application, (ii)
+ranked within the top 500 in the subject-wise
+The Ministry of Information and Broadcasting has
+category of global rankings, or (iii) have expertise
+released the Digital Advertisement Policy, 2023.26 It
+in a particular subject area.
+provides the framework for the Central Bureau of
+Communication (CBC) to undertake advertisement  Procedure for approval: To start a campus in
+campaigns on digital media. The CBC is the nodal India, prior approval of UGC will be required. The
+agency for advertisements by ministries, departments, interested institution must provide the following
+undertakings, and autonomous bodies of the central information along with the application: (i)
+government. The Policy covers advertisement on permission from the Governing Body to establish
+platforms such as OTT platforms, websites, mobile campuses in India, (ii) details about the proposed
+applications, podcasts, and digital audio platforms. It location, infrastructural facilities, and fee structure,
+provides that all advertisements on such platforms by (iii) latest accreditation or quality assurance report
+government entities will be through CBC. The CBC from a recognised body, and (iv) approach to
+will empanel entities for this purpose. Key features of ensure consistency in the quality of education and
+the Policy include: recognition of qualifications between the main
+campus and the Indian campus. The UGC will
+ Eligibility for empanelment: Entities offering
+constitute a Standing Committee to assess each
+advertising services must meet certain eligibility
+application. The Committee will make
+criteria for empanelment with CBC. These include
+recommendations to the UGC within 60 days of
+being at least one year old and in continuous
+receiving the application. The UGC will grant its
+operation (six months for social media) and having
+approval (with or without conditions) within 60
+a minimum unique user base of 2.5 lakh per
+days of receiving the recommendations.
+month for website and 5 lakh for OTT and digital
+audio platforms.  Admission and fees: A foreign HEI will decide its
+own fee structure, which must be transparent and
+ Process of empanelment: Private entities offering
+reasonable. They are required to make their
+such services will be empanelled through auction
+prospectus available on their website 60 days
+for a period of three years. Government entities
+before the commencement of admission. The
+may be empanelled directly subject to acceptance
+prospectus should include details such as the fee
+of the rate discovered through auction.
+structure, refund policy, number of seats in a
+ Performance criteria: The Policy also specifies programme. Foreign HEIs may also offer: (i)
+the performance metrics that will be used to merit-based or need-based scholarships, or (ii)
+evaluate advertisements. These include click- concessions to Indian students.
+through rates, view-through rates (for OTT
+ Appointment of faculty: A foreign HEI may
+platforms), and listen-through rates. These rates
+decide the qualifications, pay and other conditions
+are the number of interactions with advertisements
+of service for its faculty and staff. However, the
+per 1,000 impressions. Failure to meet the
+qualifications of the appointed faculty and
+performance criteria will result in a reduction in
+curricula must be on par with those in the main
+the amount paid.
+campus in the country of origin.
+ Online mode/distance learning: Foreign HEIs
+cannot offer their programmes through Open
+Education Distance Learning modes. However, up to 10% of
+lectures may be offered online.
+Rutvik Upadhyaya (rutvik@prsindia.org)
+UGC notifies regulations on campuses of
+foreign higher educational institutes in India
+The University Grants Commission (UGC) notified the
+“University Grants Commission (Setting up and
+- 6-
+Monthly Policy Review – November 2023 PRS Legislative Research
+Health Consumer Affairs
+Rutvik Upadhyaya (rutvik@prsindia.org) Tanvi Vipra (tanvi@prsindia.org)
+Comments invited on the Draft National Guidelines for regulating dark patterns in e-
+Pharmacy Commission Bill, 2023 commerce notified
+The Ministry of Health and Family Welfare released The Central Consumer Protection Authority (CCPA)
+the draft National Pharmacy Commission Bill, 2023 for notified Guidelines for Prevention and Regulation of
+public feedback.28 The draft Bill seeks to regulate and Dark Patterns, 2023.30 Dark patterns refer to practices
+improve access to pharmacy education. It seeks to or deceptive design patterns in user interface or user
+repeal the Pharmacy Act, 1948.29 Key features include: experience (UI/UX) interactions of platforms, designed
+to mislead or trick users into performing unintended
+ Functions: Functions of the National Pharmacy
+actions. These patterns impair consumer autonomy,
+Commission include: (i) regulating standards of
+decision making or choice, and amount to misleading
+governance of pharmacy education and training,
+advertisement, unfair trade practices, or violation of
+(ii) regulating pharma institutions and
+consumer rights. Key features of the Guidelines are:
+professionals, and (iii) providing a uniform
+mechanism for admissions into pharmacy  Engaging in dark patterns prohibited: The
+institutions. Three Boards will be instituted to guidelines prohibit engaging in any dark pattern
+carry out these functions under the supervision of practices. These will apply to: (i) all platforms
+the Commission. An Advisory Council will also offering goods or services in India, (ii) advertisers,
+advise the Commission on these matters. and (iii) sellers. The CCPA, established under the
+Consumer Protection Act, 2019, will be
+ Composition: The Commission will consist of 28
+responsible for settling ambiguities or disputes
+members in total. The chairperson must be a
+related to the interpretation of dark
+pharmacy academician and a registered pharmacist
+patterns.31 Under the Act, failure to comply with
+with experience of at least 15 years in pharmacy.
+the direction of the CCPA is punishable with
+Ex-officio members of the Commission include: (i)
+imprisonment up to six months, a fine of up to Rs
+the Drug Controller General of India, (ii)
+20 lakh, or both.
+Presidents of the three Boards under the
+Commission, and (iii) a representative of the  Types of dark patterns: The Guidelines define
+Ministry of Health and Family Welfare, not below various dark patterns. Certain key patterns are
+the rank of joint secretary. Part-time members of listed in the table below.
+the Commission include: (i) six chairpersons of
+Table 3: Certain examples of dark patterns
+State Pharmacy chapters, and (ii) members of
+Pattern Description Example
+eminence in the pharmacy sector. The chairperson
+Falsely stating or
+and members will be selected based on the Falsely describing a
+False implying the sense of
+recommendation of a search-cum-selection sale as ‘exclusive’ for a
+Urgency urgency or scarcity of
+committee, headed by the Secretary of the Ministry a product/service limited set of users
+of Health and Family Welfare. Using a phrase, video, A platform for booking
+audio or any other flight tickets uses the
+ Boards: Three Boards will be constituted under
+Confirm means to create a phrase ‘I will stay
+the supervision of the Commission. These include:
+Shaming sense of fear, shame, unsecured’ if the user
+(i) the Pharmacy Education Board – to regulate
+guilt, or ridicule in the does not add insurance
+standards of education and practice of pharmacy, mind of the consumer to the cart
+(ii) the Pharmacy Assessment and Rating Board – Confusing options such
+The deliberate use of
+to assess pharmacy institutions and grant as ‘Yes I would like to
+confusing or vague
+permission for establishing new institutions, and Trick receive updates’ and
+language to misguide
+(iii) the Pharmacy Ethics and Registration Board – Question ‘Not Now’ are provided
+a user from taking
+to maintain the National Register for all pharmacy to discontinue an
+desired action
+update service.
+professionals, review applications for registration,
+Sources: Guidelines on Prevention and Regulation of Dark
+and regulate professional conduct in pharmacy.
+Patterns, 2023; PRS.
+ Pharmacy Advisory Council: The Council will
+advise the Commission on measures to enhance
+equitable access to pharmacy education, services,
+training, and research. It will also be the primary
+platform through which the states/union territories
+can raise concerns before the Commission. The
+Council will be chaired by the Chairperson of the
+National Pharmacy Commission.
+Comments are invited until December 10, 2023.
+- 7-
+Monthly Policy Review – November 2023 PRS Legislative Research
+Law and Justice Environment
+Alaya Purewal (alaya@prsindia.org) The Van (Sanrakshan Evam Samvardhan)
+Rules, 2023 notified
+Cabinet approves continuation of scheme for
+Mandvi Gaur (mandvi@prsindia.org)
+Fast Track Special Courts for three years
+The Cabinet approved the continuation of the Centrally The Ministry of Environment, Forest, and Climate
+Sponsored Scheme for Fast Track Special Court Change notified the Van (Sanrakshan Evam
+(FTSCs) until March 2026.32 Over the next three years, Samvardhan) Rules, 2023.34 These Rules replace the
+the scheme will have a total outlay of Rs 1,952 crore Forest (Conservation) Rules, 2022.35 The Rules have
+with the central share being Rs 1,207 crore and the been notified under the Van (Sanrakshan Evam
+state share being Rs 745 crore. The central share will Samvardhan) Adhiniyam, 1980 (i.e., the Forest
+be funded from the Nirbhaya Fund. Conservation Act, 1980).36,37 The Act restricts the de-
+reservation of forest or use of forest land for certain
+FTSCs were implemented to provided dedicated court
+non-forest purposes. Such restrictions may be lifted
+machinery to victims of sexual crimes. The Scheme
+with the prior approval of the central government. The
+commenced in October 2019 and was extended until
+2023 Rules specify procedure and timeline for approval
+March 2023.32 Expected outcomes of the scheme
+of projects by the central government, compensatory
+include: (i) reduced burden of cases, (ii) significantly
+afforestation, and initiation of proceedings against
+decreased pending cases of rape and offences under the
+offences. Key features of the Rules include:
+Protection of Children from Sexual Offences Act,
+2012, and (iii) prompt access to justice for victims of  Process for in-principle approval: The central
+sexual crimes through expedited trials. government will provide approval in two stages: (i)
+in-principle approval, and (ii) final approval. It
+will set up Regional Offices for in-principle
+approval for certain types of projects. These
+Tribal Affairs include: (i) linear projects, (ii) hydro-electric
+power projects up to 25 MW capacity subject to
+Alaya Purewal (alaya@prsindia.org) certain other conditions, and (iii) forest land up to
+40 hectares. In-principle approval for certain other
+Cabinet approves the Pradhan Mantri Janjati types of projects will be provided by the central
+Adivasi Nyaya Maha Abhiyan government. These include: (i) mining, (ii) de-
+reservation, (iii) hydro-electric power projects
+The Cabinet approved the Pradhan Mantri Janjati
+above 25 MW capacity, and (iv) regularisation of
+Adivasi Nyaya Maha Abhiyan (PM JANMAN), with a
+encroachment. The central government will
+total outlay of Rs 24,104 crore.33 The central share will
+constitute an Advisory Committee for this purpose.
+be Rs 15,336 crore, while the state share will be Rs
+The Committee will be chaired by the Director
+8,768 crore. PM JANMAN aims to improve the socio-
+General of Forests. It will have certain officials
+economic conditions of the Particularly Vulnerable
+and experts as members.
+Tribal Groups (PVTGs). Based on the 2011 Census,
+India has a Scheduled Tribe population of around 10.5  Final approval: The central government will
+crore, of which, 75 communities located in 19 states provide the final approval after receiving a
+and UTs have been categorised as PVTGs. PM- compliance report from the state government. The
+JANMAN aims to provide essential facilities such as report will ascertain the payment of compensatory
+safe housing, clean drinking water, road connectivity, levies and award for land for compensatory
+and sustainable livelihood opportunities for PVTGs. afforestation under the Compensatory
+Afforestation Fund Act, 2016.38
+PM-JANMAN will focus on 11 critical interventions,
+including: (i) connecting roads, (ii) provision of pucca  Proceedings against offences: For filing
+houses, (iii) piped and community water supply, (iv) complaints of violation of the Act in the Court, the
+vocation education, and (v) the construction of hostels. central government may authorise an officer of the
+rank of Divisional Forest Officer, or Deputy
+Conservator of Forests of the state government,
+and above.
+Guidelines to specify forest land exemptions
+issued
+Mandvi Gaur (mandvi@prsindia.org)
+The Ministry of Environment, Forest and Climate
+Change issued guidelines to specify lands that will be
+- 8-
+Monthly Policy Review – November 2023 PRS Legislative Research
+exempt from the purview of the Van (Sarakshan Evam surveys, that fulfil specified conditions will be
+Samvardhan) Adhiniyam, 1980 (i.e., the Forest excluded from non-forest purposes. Conditions
+(Conservation) Act, 1980). The Act provides for specified include: (i) prohibiting deforestation or
+conservation of forest land, and was amended in 2023 breaking of forest land, (ii) digging bore holes and
+to exempt certain categories of land from its trenches to a specified limit, and (iii) drilling that
+purview.39,40,41 The Guidelines specify the conditions doesn’t result into permanent change in forest land
+for applying such exemptions. Key features include: or production of hydrocarbon.
+ Security related exemptions: The Act exempts  Survey parameters: Survey activities must be
+specified forest land to be used for construction of carried out temporarily, and permanent change in
+security infrastructure or public utility projects. the land use is prohibited. After completing the
+The Guidelines specify that this exemption must be survey, the forest land will be reclaimed and
+considered exclusively for left-wing extremism restored to its original state. Building new roads
+(LWE) affected districts notified by the central for transporting machinery and materials into
+government. Exemptions for strategic linear forests is prohibited.
+projects concerning national security is allowed
+ Mineral mining surveys prohibited in protected
+only in areas notified as such. The central
+areas such as National Parks, Tiger Reserves, and
+government in consultation with the respective
+Wildlife Sanctuaries. Surveys for development
+state government/UT will notify such areas as
+projects in such areas will require approval from
+strategic and concerning national security.
+the Standing Committee of the National Board for
+ Exemptions for projects in LWE areas: The Act Wildlife or as per central government guidelines.
+exempts specified forest land to be used for
+ Compensation for damage: Survey induced
+construction of public utility projects in LWE
+damage such as felled trees or dug holes must be
+affected areas. The Guidelines limit public utility
+compensated through afforestation. For instance,
+projects to twelve projects such as schools,
+user agencies must pay for 100 trees for each bore
+educational institutes, hospitals.
+hole dug, and the maintenance costs of the plants
+ Conditions for examining project proposals: the for 10 years. These funds will be directed to the
+state government must consider following criteria State Compensatory Afforestation Fund
+for examining project proposals: (i) use of forest Management and Planning Authority.
+land is for site- specific use, and not for
+ Timeline for survey completion: User agencies
+agriculture, office, or residential purposes, (ii) all
+must commence and complete the surveys within
+other alternatives have been considered and no
+two years. In case no work is undertaken during
+other alternative is feasible, (iii) the required area
+this period, the approval acquired will stand
+is the minimum needed, (iv) the direct and indirect
+rejected and possession of forest land will be taken
+impact of diverting the forest land is considered by
+over by the local Forest Department.
+the authorities, (v) the user agency undertakes to
+provide the land and cost of compensatory
+Rules to regulate waste generated from water
+afforestation, and (vi) conformance to the National
+purification systems notified
+Forest Policy.
+For a PRS analysis of the 2023 Amendment to the Mandvi Gaur (mandvi@prsindia.org)
+Forest (Conservation) Act, 1980, please see here.
+The Ministry of Environment, Forest and Climate
+Change notified the Water Purification System
+Conditions for surveys on forest lands notified
+(Regulation of Use) Rules, 2023.45 The Rules have
+Arpita Mallick (arpita@prsindia.org) been framed under the Environment Protection Act,
+1986.46 The Rules seek to regulate waste generated
+The Ministry of Environment, Forest and Climate from water purification systems. The respective State
+Change notified an Order under the Forest Pollution Control Board or the Pollution Control
+Conservation Act, 1980.42,43,44 The Order specifies the Committee in a Union Territory will be the nodal
+terms and conditions for conducting surveys on forest agency for the implementation of these Rules. Key
+land. Surveys such as reconnaissance, prospecting, features of the Rules include:
+investigation or exploration fulfilling certain conditions
+ Guidelines by CPCB: The Central Pollution
+will be excluded from ‘non-forest purpose surveys’.
+Control Board (CBCB) will issue guidelines for
+Key features of the Order are as follows:
+managing rejected water and discarded elements
+ Conditions for excluding surveys from non- from water purification systems. Discarded
+forest purposes: Under the Act, a non-forest elements include elements discarded due to wear,
+purpose refers to breaking up or clearing of any tear, and loss of utility. Both domestic and
+portion of a forest land for any purpose other than
+reforestation. As per the Order, seismic, mining,
+and exploratory drilling of petroleum mining
+- 9-
+Monthly Policy Review – November 2023 PRS Legislative Research
+commercial water purification systems must recycled materials. Grants will be available to
+comply with these guidelines. support research which may be translated into
+practical technologies and products. Grant will be
+ Systems for domestic use to have standard
+provided to those projects which have reached at
+mark: A manufacturer of a domestic water
+least proof of concept level. Grant can be spent on
+purification system must obtain the standard mark
+R&D, prototyping, testing, and commercialisation.
+and certification from the Indian Bureau of
+Incubation centres supporting startups in the
+Standards. Domestic systems must also have a
+specified areas will be eligible for grants up to Rs
+conformance label with information including
+10 crore.
+details of manufacturers or importers, license
+number, and waste water generated. Existing rules  Implementation: The implementation will be
+concerning the management of plastic waste, e- overseen by an Inter-Ministerial Committee,
+waste, and hazardous waste will also apply to headed by the Secretary of the Ministry of Mines.
+discarded elements from domestic systems.47,48,49 Other members include: (i) secretaries of
+These rules encompass the responsibility to collect, Ministries of Earth Science, and Science and
+transport, dispose, and recycle waste. Technology, (ii) the Controller General of the
+Indian Bureau of Mines, (iii) the Director General
+ Obligations of manufacturers of commercial
+of the Geological Survey of India, and (iv)
+systems: The nodal agency will register
+representatives from academia. A Technical
+manufacturers and importers of commercial water
+Expert Committee will be constituted to select
+purification systems under the Rules on the
+beneficiaries and recommend release of grants.
+management of plastic waste, and e-waste.47,48
+This Committee will consist of representatives
+ Obligations of users of commercial systems: from academic institutions, public sector
+Users of commercial systems must obtain prior undertakings, and eminent persons from the
+authorisation from the nodal agency. Existing mining sector.
+users must also get consent to operate from the
+nodal agency. Authorisations must be obtained Comments invited on amendments to mining
+within six months of the notification of the Rules. rules concerning exploration licence
+Users must also comply with the provisions of the
+The Ministry of Mines invited comments on the draft
+Water (Prevention and Control of Pollution) Act,
+1974.50 These include the responsibility to: (i) amendments to Rules framed under the Mines and
+Minerals (Development and Regulation) Act, 1957.52,53
+obtain permission before setting up a plant, (ii)
+These include Rules concerning: (i) auction of mineral
+report any new outlets for discharge of sewage,
+blocks, (ii) award of mineral concessions, and (iii)
+and, (iii) cooperate with CPCB for inspection.
+conservation and development of mining area.54 The
+proposed amendments seek to provide for the
+implementation of provisions on exploration licence.
+Mines
+The 1957 Act was amended in August 2023 to
+introduce an exploration licence for specified critical
+Mandvi Gaur (mandvi@prsindia.org)
+and strategic minerals.55 These include lithium, gold,
+silver, nickel, and cobalt. The exploration licence
+Guidelines on support for R&D to startups and
+allows for: (i) reconnaissance, i.e., a preliminary survey
+MSMEs in the mining sector notified
+to determine mineral resources, and (ii) prospecting,
+The Ministry of Mines has issued guidelines for the which includes exploring, locating, or proving mineral
+‘Promotion of Research and Innovation in Startups and deposits. Key features of the draft amendments are:
+MSMEs in Mining, Mineral Processing, Metallurgy,
+ Identification of blocks for exploration: The
+and Recycling Sector’.51 These Guidelines provide for
+state government will form a committee to identify
+financial support to startups and Micro, Small and
+and recommend blocks for exploration. The State
+Medium Enterprises (MSMEs) in the mining and metal
+Mining and Geology Secretary will chair the
+industry for initial phases of technology development.
+Committee. The state government must obtain
+Key features of the Guidelines include:
+approval of the central government before
+ Applicability: Startups and MSMEs in the notifying the blocks.
+specified areas will be eligible to receive up to two
+ Auction process: The exploration licence for a
+crore rupees as grants. These include: (i) exploring
+notified block will be awarded through competitive
+rare minerals, (ii) technologies for mineral
+bidding. The state government will specify a
+exploration on land and in the deep sea, (iii)
+ceiling price, which will be in terms of the
+improving mining methods for safety, and
+maximum percentage share in the auction premium
+environmental protection, (iv) extracting value
+payable by the future holder of the mining lease for
+added products from mine waste and plant tailings,
+that block. The ceiling price must not be set below
+and (v) environmental sustainability and use of
+- 10-
+Monthly Policy Review – November 2023 PRS Legislative Research
+25%. The licence will be awarded to the lowest date of issuance.
+percentage quoted below the ceiling price.
+ Eligibility of owners to open testing stations:
+ Obligations of licencee: The licencee must Under the Rules, owners or operators of automated
+present a plan for exploration within 90 days of testing stations are required to have a net worth of
+obtaining the licence. The plan should outline how at least three crore rupees. The draft amendments
+they intend to conduct exploration in the remove this requirement.
+designated area. They must submit a modified
+ Re-testing for vehicles: Currently, if a vehicle
+plan after three years, if they retain any area for
+fails the fitness test, the owner may apply for a
+further exploration. The licencee must also submit
+retest within thirty days from the initial test. The
+a half-yearly progress report. The licencee will be
+draft amendments extend the window to 180 days,
+prohibited from disclosing information or findings
+allowing multiple re-tests within this timeframe.
+related to exploration. Prior approval from the
+central government will be required for any  Removal of appellate authority to appeal
+disclosure to persons other than the government against test results: The Rules provide for an
+and authorities specified under the Rules. appellate authority to address grievances arising
+from test results. The authority consists of an
+Comments are invited until December 13, 2023.
+officer, who must be at least at a Regional
+Transport Officer level. The draft amendments
+remove the provision for appellate authority. It
+instead provides for the Regional Transport Officer
+Road and Transport
+to ensure efficient operations of the station and the
+integrity of test results.
+Priyadarshini Jain (priyadarshini@prsindia.org)
+ Application to light motor vehicle: The Rules
+Comments invited on draft amendment to
+provided for testing of light, medium and heavy
+Central Motor Vehicles Rules commercial vehicles. The draft amendments
+expand the scope to include light motor vehicles.
+The Ministry of Road Transport and Highway invited
+comments on the draft amendments to the Central  Testing stations to not conduct vehicle
+Motor Vehicles Rules, 1989.56,57 The Rules have been scrapping: Automated testing stations are required
+framed under the Motor Vehicles Act, 1988.58 The Act to conduct vehicle fitness tests. They are
+empowers the central government to recognise and prohibited from providing services related to
+regulate automated testing stations. These stations repair, manufacture, or sale. The draft
+conduct fitness tests on transport vehicles. Key amendments add that these stations will also be
+features of the draft amendments include: prohibited from providing any vehicle
+scrapping services.
+ Registration certificates for operators to be
+transferable: Under the Rules, automated testing Comments are invited until December 3, 2023.
+stations require a registration certificate to
+commence operations. The certificate is non-
+transferable. The draft amendments allow the
+transfer of the certificate after six months from the
+1 Press Note on Estimates of Gross Domestic Product for the Second 6 The Bharatiya Nyaya Sanhita, 2023, as introduced in Lok Sabha on
+Quarter (July-September) 2023-24, Ministry of Statistics and August 11, 2023,
+Programme Implementation, November 30, 2023, https://prsindia.org/files/bills_acts/bills_parliament/2023/Bharatiya_
+https://www.mospi.gov.in/sites/default/files/press_release/NA Nyaya_Sanhita,_2023.pdf.
+D_PR_Q2_30112023.pdf. 7 The Indian Penal Code, 1860,
+2 “India's IIP Grows by 5.8 Per Cent in September 2023”, Press https://www.indiacode.nic.in/bitstream/123456789/2263/1/aA1860-
+Information Bureau, Ministry of Statistics and Programme 45.pdf.
+Implementation, November 10, 2023, 8 The Bharatiya Nagarik Suraksha Sanhita, 2023, as introduced in
+https://pib.gov.in/PressReleasePage.aspx?PRID=1976207. Lok Sabha on August 11, 2023,
+3 Report No. 246, The Bharatiya Nyaya Sanhita, 2023, Standing https://prsindia.org/files/bills_acts/bills_parliament/2023/Bharatiya_
+Committee on Home Affairs, Rajya Sabha, November 10, 2023, Nagarik_Suraksha_Sanhita,_2023.pdf.
+https://prsindia.org/files/bills_acts/bills_parliament/2023/SC_Report_ 9 The Code of Criminal Procedure, 1973,
+Bharatiya_Nyaya_Sanhita_2023.pdf https://www.indiacode.nic.in/bitstream/123456789/15272/1/the_code
+4 Report No. 247, The Bharatiya Nagarik Suraksha Sanhita, 2023, _of_criminal_procedure%2C_1973.pdf.
+Standing Committee on Home Affairs, Rajya Sabha, November 10, 10 The Bharatiya Sakshya Bill, 2023, as introduced in Lok Sabha on
+2023, August 11, 2023,
+https://prsindia.org/files/bills_acts/bills_parliament/2023/SC_Report_ https://prsindia.org/files/bills_acts/bills_parliament/2023/BHARATI
+Bharatiya_Nagarik_Suraksha_Sanhita_2023.pdf YA_SAKSHYA_BILL,%202023.pdf.
+5 Report No. 248, The Bharatiya Sakshya Bill, 2023, Standing 11 The Indian Evidence Act, 1872,
+Committee on Home Affairs, Rajya Sabha, November 10, 2023, https://www.indiacode.nic.in/bitstream/123456789/15351/1/iea_1872
+https://prsindia.org/files/bills_acts/bills_parliament/2023/SC_Report_ .pdf.
+Bharatiya_Sakshya_Bill_2023.pdf
+- 11-
+Monthly Policy Review – November 2023 PRS Legislative Research
+32 ‘Cabinet approves continuation of Centrally Sponsored Scheme for
+Fast Track Special Courts for further three years’, Press Information
+12 The Model Prisons Act, 2023, Ministry of Home Affairs,
+Bureau, Cabinet, November 29, 2023,
+https://www.mha.gov.in/sites/default/files/advisory_10112023
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1980685.
+.pdf.
+33 ‘Cabinet approves Pradhan Mantri Janjati Adivasi Nyaya Maha
+13 Entry 4, List II, Seventh Schedule, The Constitution of India.
+Abhiyan’, Press Information Bureau, Ministry of Tribal Affairs,
+14 The Prisons Act, 1894, November 29, 2023,
+https://www.indiacode.nic.in/bitstream/123456789/18475/1/ https://www.pib.gov.in/PressReleasePage.aspx?PRID=1980692.
+prisons_act_1894.pdf.
+34 G.S.R. 869 (E), The Gazette of India, Ministry of Environment,
+15 The Prisoners Act, 1900, Forest, and Climate Change, November 29, 2023,
+https://www.indiacode.nic.in/bitstream/123456789/14992/1/t https://egazette.gov.in/WriteReadData/2023/250333.pdf.
+he_prisoners_act_1900.pdf. 35 G.S.R. 480 (E), The Forest (Conservation) Rules, 2022, The
+16 “Cabinet approves Terms of Reference for Sixteenth Finance Gazette of India, Ministry of Environment, Forest, and Climate
+Commission”, Press Information Bureau, Union Cabinet, November Change, June 28, 2022,
+29, 2023, https://parivesh.nic.in/writereaddata/FCRule2022Notificationd
+https://pib.gov.in/PressReleasePage.aspx?PRID=1980688. ated28062022.pdf.
+17 Regulatory measures towards consumer credit and bank credit to 36 The Forest Conservation Act, 1980,
+NBFCs, Reserve Bank of India, November 16, 2023, https://www.indiacode.nic.in/bitstream/123456789/1760/1/fo
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/REGULATORYM restAA1980.pdf.
+EASURES8785E7886A044B678FB8AF2C6C051807.PDF.
+37 The Forest Conservation (Amendment) Act, 2023,
+18 Master Direction on Information Technology Governance, Risk, https://prsindia.org/files/bills_acts/bills_parliament/2023/Fore
+Controls and Assurance Practices, Reserve Bank of India, November st_(Conservation)_Amendment_Act_2023.pdf.
+7, 2023,
+38 The Compensatory Afforestation Fund Act, 2016,
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/107MDITGOVER
+https://prsindia.org/files/bills_acts/bills_parliament/2015/CAM
+NANCE3303572008604C67AC25B84292D85567.PDF.
+PA_act,_2016_1.pdf.
+19 Press Release No. 27 of 2023, SEBI, November 25, 2023, 39 S.O. 5074 (E), Ministry of Environment, Forest and Climate
+https://www.sebi.gov.in/media-and-notifications/press-
+Change, The Gazette of India, November 29, 2023,
+releases/nov-2023/sebi-board-meeting_79337.html.
+https://egazette.gov.in/WriteReadData/2023/250312.pdf.
+20 “Free Foodgrains for 81.35 crore beneficiaries for five years:
+40 The Forest (Conservation) Act,
+Cabinet Decision”, Union Cabinet, Press Information Bureau,
+1980,https://www.indiacode.nic.in/bitstream/123456789/1760
+November 29, 2023,
+/1/forestAA1980.pdf.
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1980686.
+41 The Forest (Conservation) Amendment Act, 2023,
+21 Unstarred Question 1994, Rajya Sabha, December 23, 2022,
+https://egazette.gov.in/WriteReadData/2023/247866.pdf.
+https://pqars.nic.in/annex/258/AU1994.pdf.
+42 “Terms and Conditions for Surveys on Forest Lands”, Ministry of
+22 Unstarred Question Number 1833, Rajya Sabha, August 4, 2023,
+Environment, Forest and Climate Change, November 30, 2023,
+https://sansad.in/getFile/annex/260/AU1833.pdf?source=pqars
+https://egazette.gov.in/WriteReadData/2023/250313.pdf
+23 “Free foodgrains to 81.35 crore beneficiaries under National Food
+43 “The Forest (Conservation Act), 1980”,
+Security Act: Cabinet Decision”, Ministry of Consumer Affairs, Food
+https://www.indiacode.nic.in/bitstream/123456789/1760/1/fo
+and Public Distribution, Press Information Bureau, December 23,
+restAA1980.pdf
+2022,
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=1886215. 44 “The Forest Conservation Amendment Act, 2023”,
+https://prsindia.org/files/bills_acts/bills_parliament/2023/Fore
+24 Draft Broadcasting Services (Regulation) Bill, 2023, Ministry of
+st_(Conservation)_Amendment_Act_2023.pdf
+Information and Broadcasting, November 10, 2023,
+https://mib.gov.in/sites/default/files/Public%20Notice_0.pdf. 45 The Water Purification System (Regulation of Use) Rules, 2023,
+Ministry of Environment, Forest and Climate Change, November 10,
+25 Cable Television Networks (Regulation) Act, 1995,
+2023, https://egazette.gov.in/WriteReadData/2023/250019.pdf.
+https://www.indiacode.nic.in/bitstream/123456789/15345/1/t
+he_cable_television_networks_%28regulation%29.pdf.
+46 The Environment (Protection) Act, 1986,
+https://cpcb.nic.in/displaypdf.php?id=aG9tZS9lcGEvZXByb3RlY3R
+26 AD(NM)/Digital Policy/2023/NM, Ministry of Information and
+fYWN0XzE5ODYucGRm.
+Broadcasting, November 9, 2023,
+47 The Plastic Waste Management Rules, 2016,
+https://cbcindia.gov.in/cbc/public/uploads/website_advisory/1699597
+723-1217-advisoryFile.pdf.
+https://cpcb.nic.in/displaypdf.php?id=cGxhc3RpY3dhc3RlL1BXTV9
+HYXpldHRlLnBkZg==.
+27 The University Grants Commission (Setting up and Operation of
+48 The E-Waste (Management) Rules, 2022,
+Foreign Higher Educational Institutions in India) Regulations, 2023,
+https://cpcb.nic.in/uploads/Projects/E-Waste/e-waste_rules_2022.pdf.
+University Grants Commission,
+https://www.ugc.gov.in/pdfnews/Setting%20up%20and%20Operatio 49 The Hazardous and Other Waste (Management and Transboundary
+n%20of%20Campuses%20of%20Foreign%20Higher%20Educational Movement) Rules, 2016,
+%20Institutions%20in%20India.pdf. https://cpcb.nic.in/displaypdf.php?id=aHdtZC9IV01fUnVsZXNfMjA
+xNi5wZGY=.
+28 Draft National Pharmacy Commission Bill, 2023, Ministry of
+Health and Family Welfare, November 10, 2023, 50 The Water (Prevention and Control of Pollution) Act, 1974,
+https://main.mohfw.gov.in/sites/default/files/Public%20notice%20Dr https://www.indiacode.nic.in/bitstream/123456789/15429/1/the_wate
+aft%20National%20Pharmacy%20Commission%20Bill.pdf. r_%28prevention_and_control_of_pollution%29_act%2C_1974.pdf.
+51 The Guidelines for Promotion of Research and Innovation in
+29 Pharmacy Act, 1948,
+Startups and MSMEs in Mining, Mineral Processing, Metallurgy and
+https://www.indiacode.nic.in/bitstream/123456789/1364/1/a1948-
+Recycling Sector (S&T-PRISM), Ministry of Mines, November 13,
+08.pdf
+2023,
+30 CG-DL-E-30112023-250339, Guidelines for Prevention and
+https://mines.gov.in/admin/storage/app/uploads/655212bdb9
+Regulation of Dark Patterns, 2023, Central Consumer Protection
+e5b1699877565.pdf.
+Authority, November 30, 2023,
+52 No. M.VI-1/3/2023-Mines VI, Ministry of Mines, November 13,
+https://egazette.gov.in/(S(5o2k3hl0cm5vmbw5z4ptwv1o))/Vie
+2023,
+wPDF.aspx.
+https://mines.gov.in/admin/storage/app/uploads/655213f7d8c
+31 The Consumer Protection Act, 2019, August 9, 2023,
+a21699877879.pdf.
+https://www.indiacode.nic.in/bitstream/123456789/15256/1/
+a2019- 35.pdf.
+- 12-
+Monthly Policy Review – November 2023 PRS Legislative Research
+https://morth.nic.in/sites/default/files/circulars_document/GSR-
+815%28E%29-dt-03-11-2023.pdf.
+53 The Mines and Minerals (Development and Regulation) Act, 1957,
+https://www.indiacode.nic.in/bitstream/123456789/1421/3/A 57 Central Motor Vehicles Rules, 1989, Ministry of Road Transport
+1957-67.pdf. and Highway.
+54 The Mineral (Auction) Rules, 2015, 58 Motor Vehicles Act, 1988, Ministry of Road Transport and
+https://ibm.gov.in/writereaddata/files/02032022162140Miner Highways,
+al_Auction_Rules_2015.pdf; https://www.indiacode.nic.in/bitstream/123456789/9460/1/a1988-
+59.pdf.
+The Minerals (Other than Atomic and Hydro Carbons Energy
+Minerals) Concession Rules, 2016, DISCLAIMER: This document is being furnished to you for your information.
+https://ibm.gov.in/writereaddata/files/10202016094948MCR_2016_1 You may choose to reproduce or redistribute this report for non-commercial
+8092016%20from%20SKS.pdf; The Mineral Conservation and purposes in part or in full to any other person with due acknowledgement of
+Development Rules, 2017, PRS Legislative Research (“PRS”). The opinions expressed herein are entirely
+https://ibm.gov.in/writereaddata/files/02032022105704MCDR those of the author(s). PRS makes every effort to use reliable and
+_2017.pdf; for a list of more recent amendments to these principal comprehensive information, but PRS does not represent that the contents of the
+Rules, see here: https://mines.gov.in/webportal/rules. report are accurate or complete. PRS is an independent, not-for-profit group.
+55 Section 9, The Mines and Minerals (Development and Regulation) This document has been prepared without regard to the objectives or opinions
+of those who may receive it.
+Amendment Act, 2023,
+https://prsindia.org/files/bills_acts/bills_parliament/2023/Mine
+s_and_Minerals_(Development_and_Regulation)_Amendment_Act,
+_2023.pdf.
+56 G.S.R. 815(E), Ministry of Road Transport and Highways,
+November 3, 2023,
+- 13-

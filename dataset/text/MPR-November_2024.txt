@@ -1,0 +1,503 @@
+Monthly Policy Review
+November 2024
+Highlights of this Issue
+Winter Session Commences (p. 2)
+The Winter Session of Parliament commenced on November 25. The session is scheduled to have 19 sittings,
+and end on December 20, 2024.
+GDP grows at 5.4% in second quarter of 2024-25 (p. 2)
+Public administration, defence, and other services registered the highest growth (9.2%), followed by
+construction (7.7%). Manufacturing grew 2.2%. Mining sector registered a contraction (-0.1%).
+Supreme Court issues directives on demolition of properties (p. 3)
+Before deciding on demolition, the state designated authorities must satisfy itself that demolition is the only
+available option. It must also give affected parties a prior notice of at least 15 days.
+Law Ministry issues Draft Bill amending the Commercial Courts Act, 2015 (p. 3)
+The Bill constitutes exclusive courts for trying arbitration matters. It extends the period of appealing an order
+by 30 days, if a party can justify delay. An appeal can only be filed after issuing a notice to another party.
+Draft Bill issued to replace law disqualifying MPs for holding an office of profit (p. 3)
+The draft Bill removes list of offices which would result in disqualification of MPs. It empowers the central
+government to amend the list of offices exempt from disqualification.
+Cabinet approves National Mission for Natural Farming (p. 4)
+The scheme will be implemented as a centrally sponsored scheme. It aims to promote natural farming practices
+with an outlay of Rs 2,481 crore till 2025-26.
+Cabinet approves scheme to support meritorious students in higher education (p. 4)
+The scheme will extend collateral and guarantor free loans covering tuition and other expenses to meritorious
+students pursuing higher education. The scheme will cover about 22 lakh students and 860 institutions.
+Comments invited on draft amendments to insurance laws (p. 4)
+The draft amendments increase the limit on FDI to 100% from 74%. They allow insurance companies to engage
+in multiple types of insurance business, and increase the limit of foreign investment.
+Ministry of Coal releases drafts amendments to the Coal Bearing Areas Act (p. 5)
+The Bill provides for lifetime leases for coal mines. Key features of the Bill include compensation and
+rehabilitation according to law, and reassigning land for alternative uses.
+December 2, 2024
+PRS Legislative Research ■ Institute for Policy Research Studies
+3rd Floor, Gandharva Mahavidyalaya ■ 212, Deen Dayal Upadhyaya Marg ■ New Delhi – 110002
+Tel: (011) 23234801, 43434035 ■ www.prsindia.org
+Monthly Policy Review – November 2024 PRS Legislative Research
+Parliament real estate and professional services (6.7%).
+Manufacturing registered a growth (2.2%). Mining
+Atri Prasad Rout (atri@prsindia.org) sector registered a contraction (-0.1%).
+Table 1: Quarterly growth in GVA across sectors at
+Winter Session commences
+constant 2011-12 prices (%, year-on-year)
+The Winter Session of Parliament commenced on Q2
+November 25. The session is scheduled to have 19 Sector
+2022-23 2023-24 2024-25
+sittings, and end on December 20, 2024.
+Agriculture 2.3% 1.7% 3.5%
+Eleven Bills have been listed for consideration and
+Mining -4.1% 11.1% -0.1%
+passing. These include the Banking Laws
+(Amendment) Bill, 2024, the Boilers Bill, 2024, the Manufacturing -7.2% 14.3% 2.2%
+Bharatiya Vayuyan Vidheyak, 2024, and the Waqf Electricity 6.4% 10.5% 3.3%
+(Amendment) Bill, 2024. However, Parliament has
+Construction 6.9% 13.6% 7.7%
+extended the term of the Joint Parliamentary
+Trade 13.2% 4.5% 6.0%
+Committee examining the Waqf (Amendment) Bill to
+the Budget Session of 2025. Five Bills have been listed Financial services 8.7% 6.2% 6.7%
+for introduction, consideration and passing. These are, Public administration 7.3% 7.7% 9.2%
+the Merchant Shipping Bill, 2024, the Coastal Shipping
+GVA 5.0% 7.7% 5.6%
+Bill, 2024, the Indian Ports Bill, 2024, the Punjab
+GDP 5.5% 8.1% 5.4%
+Courts (Amendment) Bill, 2024, and the Rashtriya
+Sources: Ministry of Statistics and Programme Implementation; PRS.
+Sahkari Vishwavidyalaya Bill, 2024.
+For more details on the legislative business to be taken Industrial production grew by 2.6% in the
+up during Winter Session 2024, please see here. second quarter of 2024-25
+The Index of Industrial Production (IIP) grew by 2.6%
+in the second quarter (July-September) of 2024-25,
+lower than the growth in the same period last year
+Macroeconomic Development
+(7.8%).2,3 The mining sector contracted by 0.1% in the
+Tushar Chakrabarty (tushar@prsindia.org) first quarter of 2024-25. In the corresponding quarter
+of 2023-24, mining had increased by 11.5%. In the
+GDP grows at 5.4% in the second quarter of first quarter of 2024-25, manufacturing increased by
+2024-25 3.1%, while electricity increased by 1.4%. Note that
+manufacturing (78%) has the highest weightage in the
+India’s GDP grew at 5.4% in the second quarter (July- calculation of the IIP, followed by mining (14%) and
+September) of 2024-25. The growth rate was lower electricity (8%).
+than the corresponding quarter last year (8.1%).1 In the
+Figure 2: Growth in IIP (%, year-on-year)
+first quarter (April-June) of 2024-25, GDP had grown
+by 6.7%. 10%
+Figure 1: GDP growth at constant 2011-12 prices 8%
+(%, year-on-year)
+6%
+14% 12.8%
+4% 3.1%
+12% 2.6%
+2% 1.4%
+10% 8.2%8.1% 8.6% 7.8%
+0%
+8% 6.7%
+6% 5.5% 6.2% 5.4% -2% -0.1%
+4.3%
+4% -4%
+2%
+-6%
+0% Mining Mfg Electricity IIP
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2
+Jul-24 Aug-24 Sep-24 Jul-Sep 24
+2022-23 2023-24 2024-25
+Sources: Ministry of Statistics and Programme Implementation; PRS.
+Sources: Ministry of Statistics and Programme Implementation; PRS.
+GDP is Gross Value Added (GVA) in producing goods
+and services, adjusted for taxes and subsidies. GVA
+for the quarter grew 5.6% year-on-year. Public
+administration, defence, and other services registered
+the highest growth in the second quarter of 2024-25
+(9.2%), followed by construction (7.7%), and financial,
+- 2 -
+Monthly Policy Review – November 2024 PRS Legislative Research
+Law and Justice the jurisdiction of district commercial courts in
+trying these matters.
+Anmol Kohli (anmol@prsindia.org)
+▪ Appeal: Under the Act, decisions of commercial
+Supreme Court issues directives on demolition courts or commercial divisions of High Courts can
+of properties of accused individuals be appealed within sixty days. The draft Bill
+allows extending the period of appeal by 30 days if
+The Supreme Court ruled that demolishing the
+a party can provide sufficient cause justifying the
+properties of citizens without following the due process
+delay. It adds that appeal can only be filed after
+of law, for the sole reason that they may be involved in
+issuing a notice to another party.
+a crime, is contrary to the rule of law.4 The Court also
+issued directives that must be complied with before the ▪ Injunctions: An injunction directs a party to
+properties are demolished. perform or refrain from performing an action. The
+The Court held that before deciding on demolition, the draft Bill requires a commercial court to dispose an
+concerned authority (municipal body or state application for injunction within 90 days.
+designated body) must satisfy itself that demolition is
+▪ Electronic communication: The draft Bill allows
+the only available option. This includes identifying
+some processes to be carried out electronically.
+that options such as compounding and part-demolition
+This includes: (i) court proceedings, (ii) filing of
+of property are not available. The affected party must
+appeals, (iii) serving summons, and (iv) electronic
+be given a prior notice of at least 15 days. The notice
+should specify the nature of unauthorised construction copies of judgments.
+and the grounds for demolition.
+Draft Bill issued to replace law on MPs holding
+The Court, however, clarified that these directions will
+an office for profit
+not apply to unauthorised structures in public places, or
+if the demolition is ordered by a court of law.5 The Ministry of Law and Justice issued the draft
+Parliament (Prevention of Disqualification) Bill,
+Supreme Court rules that government entities 2024.10 The draft Bill seeks to replace the Parliament
+cannot unilaterally appoint arbitrators (Prevention of Disqualification) Act, 1959.11
+According to the Constitution, an MP or a state
+A five-judge bench of the Supreme Court ruled that
+legislator will be disqualified for holding an office of
+government entities and PSUs cannot unilaterally
+profit under the government, unless that office has been
+appoint arbitrators in public-private arbitration exempted by law.12 An office of profit is a position
+agreements. It held that such clauses violate equality
+that yields financial gain or advantage to its holder.
+and equal protection before law (Article 14).6,7
+The 1959 Act lists offices whose holders are exempt
+The Court examined whether: (i) unilateral
+from being disqualified as MPs. It also specifies
+appointment of arbitrator is legally valid, (ii) such
+positions that would result in disqualification. Key
+appointment is constitutional, if done by the
+features of the draft Bill include:
+government in a public-private contract, and (iii) the
+principle of equal treatment of parties extends to ▪ List of offices: Under the Act, offices that are
+appointment of arbitrators. exempt from disqualification include: (i) offices
+held by a Minister, (ii) offices of the Leader of
+The Court held that the principle of equal treatment of
+Opposition and a Whip, and (iii) Chairpersons of
+parties applies to all stages of arbitration, including
+the National Commission for Scheduled Castes
+appointment of arbitrator. It further held that allowing
+and Tribes, Women and Minorities. The draft Bill
+one party to unilaterally appoint an arbitrator raises
+questions about impartiality of the arbitrator. This also adds a faculty or senior member of a university to
+hinders the other party from equally participating in the list. It also lists offices whose members are
+dispute resolution. exempted from disqualification. The Act also lists
+offices that are not exempt from disqualification.
+Law Ministry issues Draft Bill amending the The draft Bill removes this list.
+Commercial Courts Act, 2015
+▪ Power to amend the list: The draft Bill
+The Ministry of Law and Justice issued the draft empowers the central government to amend the list
+Commercial Courts (Amendment) Bill, 2024.8 It of offices exempt from disqualification.
+amends the Commercial Courts Act.9 The Act provides
+▪ Temporary suspension: The Act prevents an MP
+for constituting commercial courts at the district level.
+Key features of the Bill include: from disqualification if he held an office that was
+exempt prior to the Act, but was reversed later.
+▪ Commercial courts for arbitration: The draft
+The MP must resign from such office in six
+Bill provides for constituting commercial courts to
+months. The draft Bill removes this provision.
+exclusively try arbitration matters. They replace
+- 3 -
+Monthly Policy Review – November 2024 PRS Legislative Research
+Agriculture Education
+Shrusti Singh (shrusti@prsindia.org) Rutvik Upadhyaya (rutvik@prsindia.org)
+Cabinet approves launch of National Mission Cabinet approves scheme to provide financial
+on Natural Farming support to meritorious students
+The Union Cabinet approved the National Mission on The Union Cabinet approved the PM Vidyalakshmi
+Natural Farming as a centrally sponsored scheme. It scheme to financially support meritorious students in
+will have an outlay of Rs 2,481 crore until 2025-26.13 pursuing higher education.15 The scheme will extend
+collateral and guarantor free loans covering tuition and
+The Mission aims at promoting natural farming
+other expenses to students who get admission in quality
+methods such as chemical free farming, farming using
+higher education institution. For loans up to Rs 7.5
+local livestock methods, and diversified crop systems.
+lakh, 75% of the outstanding amount will be covered
+In 2024-25 and 2025-26, the scheme will be
+by a credit guarantee. The scheme will apply to
+implemented in 15,000 clusters in gram panchayats.
+students in: (i) top 100 institutions in each field, (ii)
+The scheme aims to cover one crore farmers and an
+state government institutions ranked 101-200, and (iii)
+area of 7.5 lakh hectares.
+all central government institutions. Rankings would be
+based on the National Institutional Ranking Framework
+(NIRF). The scheme is expected to cover about 22
+lakh students across 860 institutions.
+Power
+Further, the scheme will provide interest subvention of
+Nripendra Singh (nripendra@prsindia.org) 3% on loans up to Rs 10 lakh to students with a family
+income of up to eight lakh rupees. Beneficiaries must
+CERC invites comments on regulations for not be covered under any other government scholarship
+carbon credit certificates or interest subvention scheme. Interest subvention will
+be provided to one lakh students every year.
+The Central Electricity Regulatory Commission
+(CERC) released draft Regulations on trading of carbon
+credit certificates for public feedback.14 One certificate
+will represent reduction, removal, or avoidance of
+Finance
+greenhouse gas emissions equal to one ton of carbon
+dioxide. The Regulations will apply to trading of
+Tushar Chakrabarty (tushar@prsindia.org)
+carbon credit certificates on power exchanges. The
+Grid Controller of India will act as Registry for the
+Comments invited on draft amendments to
+exchange of certificates. The Bureau of Energy
+insurance laws
+Efficiency (BEE) will be the administrator for the
+certificates. BEE will develop the detailed The Ministry of Finance has invited comments on draft
+implementation procedure for carbon credit trading. amendments to the Insurance Act, 1938, the Life
+Key features include: Insurance Corporation Act, 1956, and the Insurance
+Regulatory and Development Authority Act,
+▪ Trading of certificates: There will be two
+1999.16,17,18,19 The 1938 Act regulates the conduct of
+different markets for trading: (i) compliance
+insurance business in India while the other two laws set
+market for obligated entities, and (ii) offset market
+up the Life Insurance Corporation of India, and the
+for non-obligated entities. Obligated entities are
+Insurance Regulatory and Development Authority of
+entities required to cap their emissions and buy
+India, respectively. Key features include:
+certificates if they fall short of emission targets.
+Non-obligated entities refer to those that can ▪ Insurance business: The 1938 Act defines an
+purchase certificates on a voluntary basis. Indian insurance company as an entity whose
+purpose is to engage in any one class of insurance
+▪ Pricing: The price of certificates will be decided
+business such as life insurance, general insurance,
+through bidding. It will be subject to a minimum
+or health insurance. The draft amendments remove
+and a maximum price approved by CERC.
+this provision, and thus allow insurers to engage in
+Comments are invited until December 15, 2024. multiple types of insurance business.
+▪ Foreign investment: The draft amendments allow
+foreign investments of up to 100% in Indian
+insurance companies. Currently, foreign direct
+investment of up to 74% is allowed in the
+insurance sector.20
+▪ Other businesses that insurers may undertake:
+The draft amendments allow insurers to engage in
+- 4 -
+Monthly Policy Review – November 2024 PRS Legislative Research
+certain other businesses in addition to insurance. Annexure
+These include: (i) guarantee and indemnity, (ii)
+managing property which the insurer may obtain Parliament has constituted some of its Departmentally
+by settling claims, and (iii) establishing Related Standing Committees. The subjects identified
+associations, institutions, and trusts for the benefit for examination for 2024-25 by the Committees are
+of employees. given below. For details on subjects identified by
+various other Committees, please see the PRS Monthly
+▪ Requirement of capital: The 1938 Act provides
+Policy Review for August and October 2024.
+capital requirements for different classes of
+insurance business. The amendment provides that Table 2: Subjects identified for examination by
+for entities engaged in more than one class of Departmentally Related Standing Committees
+insurance business, the IRDAI may specify the Rural Development and Panchayati Raj
+capital requirements. This should not be less than Department of Rural Development
+the sum of capital required for carrying out each 1. Review of the Progress made under Pradhan Mantri
+class of business separately. In addition, IRDAI Gram Sadak Yojana (PMGSY)
+can also reduce the minimum capital required to up 2. Rural Employment through Mahatma Gandhi National
+to Rs 50 crore. This can be done for insurers Rural Employment Guarantee Act (MGNREGA)
+serving underserved or special segments prescribed 3. Housing for All – Status of Pradhan Mantri Awaas
+through regulations. Yojana –Gramin (PMAY-G)
+4. Effective functioning of DISHA Committees and
+Implementation of Sansad Adarsh Gram Yojana
+5. Impact of National Social Assistance Programme
+Coal (NSAP) on the poor and destitute in the villages
+6. Impact of Deendayal Antyodaya Yojana - National
+Vaishali Dhariwal (vaishali@prsindia.org) Rural Livelihoods Mission (DAY-NRLM)
+7. Implementation of e-Governance in Rural
+Ministry of Coal releases draft bill on coal Development and Panchayati Raj – Schemes
+bearing areas 8. Role of National Bank for Agriculture and Rural
+Development (NABARD) and other Public Sector
+The Ministry of Coal has released draft amendments to Banks in the implementation of Rural Development
+the Coal Bearing Areas (Acquisition and Development) schemes
+Act, 1957.21 The Act governs the acquisition and Department of Land Resources
+development of land for coal mining by the Central 1. Right to Fair Compensation and Transparency in
+Government. The proposed amendments aim to Land Acquisition, Rehabilitation and Resettlement
+modernize the Act, improve operational clarity, and Act, 2013 - Implementation and
+align with current legal frameworks. Key features of Effectiveness
+the draft amendments include: 2. Implementation of Digital India Land Records
+Modernization Programme (DILRMP)
+Key features of the draft bill include:
+3. Status of Watershed Development Component of
+Pradhan Mantri Krishi Sinchayee Yojana (WDC-
+▪ Lifetime leases for coal mines: Under the
+PMKSY)
+existing Act, mining lease duration is not
+Ministry of Panchayati Raj
+explicitly defined. The draft amendment
+specifies that mining leases will now be valid 1. Devolution of Funds under Panchayati Raj System
+for the entire operational life of the mine. 2. Clean and Green Village: Role of Panchayats
+3. Gram Urja Swaraj: Promoting Renewable Energy in
+▪ Compensation and resettlement provisions:
+Rural Areas
+The current Act provides for compensation but
+4. Status of Rashtriya Gram Swaraj Abhiyan (RGSA)
+lacks comprehensive provisions for
+5. SVAMITVA (Survey of Villages Abadi and Mapping
+rehabilitation or resettlement. The draft
+with Improvised Technology in Village Areas) Scheme
+amendments integrate compensation,
+Industries
+rehabilitation, and resettlement guidelines
+Ministry of Micro, Small and Medium Enterprises
+from the Right to Fair Compensation and
+1. Review of Performance of Prime Minister's
+Transparency in Land Acquisition,
+Employment Generation Programme (PMEGP)
+Rehabilitation, and Resettlement Act, 2013.
+Ministry of Heavy Industries
+▪ Denotification and alternative land use: 1. Enhancement of Competitiveness in the Indian
+The Act currently does not provide for Capital Goods Sector
+releasing land that is no longer required for 2. Automotive Sector & Implementation of PLI Scheme.
+coal mining. The draft proposes a mechanism
+3. Measures to Revive Sick Industrial Units - A case
+to denotify such land and reassign it for study of Heavy Engineering Corporation, Ranchi
+alternative uses.
+Personnel, Public Grievances
+Department of Personnel & Training
+1. Filling up of vacancies in the Central Government
+- 5 -
+Monthly Policy Review – November 2024 PRS Legislative Research
+2. Review of the Right to Information Act, 2005, and 3. Contribution of the Department of Science and
+Working of the Central Information Commission Technology in the National Action Plan on Climate
+3. Effectiveness of vigilance administration Change;
+4. Functioning of the Central Administrative Tribunal 4. Functioning of various scientific
+organizations/laboratories/institutions under the
+5. Lateral entry in Civil Services
+Department of Scientific and Industrial Research;
+Department of Administrative Reforms & Public Grievances
+5. Extent and management of marine pollution; and
+1. Effective redressal of Grievances by Strengthening
+6. Research activities in the field of Nuclear Medicines.
+the Public Grievances redressal System
+Finance
+2. Implementation of the Citizen's Charter in the Central
+Government 1. Performance Appraisal of the Banking System and
+3. Digital Transformation in the Central Government Strengthening of Credit Flow Dynamics across the
+Economy.
+4. Redressal of Grievances related to Scheduled Castes
+and Scheduled Tribes 2. Performance Review and regulation of Insurance
+Sector.
+Law and Justice
+3. Performance Review of SIDBI in financing and
+Department of Legal Affairs
+strengthening the MSME Sector and the start-up
+1. Review of functioning of Tribunal System in the ecosystem.
+Country
+4. Performance Review of NABARD in empowering and
+2. Creation and Development of Institutional Mechanism providing credit to the agriculture and rural sector.
+to support the Alternative Dispute Resolution
+5. Non-Banking Financial Companies (NBFCs):
+ecosystem
+Performance Review, Regulatory Gaps and Way
+3. Appointment in Higher Judiciary Forward.
+Department of Justice 6. Financial Digitalisation: Challenges and
+1. Review of Judicial Infrastructure Achievements.
+2. Judicial Processes and their reform 7. Functioning of Grievances Redressal Mechanism in
+Commerce Financial Sector.
+1. Performance Evaluation and Review of some 8. Review of working of Insolvency and Bankruptcy
+Commodity Boards; Code and Emerging Issues.
+2. Issue of Compliance of Law of the Land in 9. Evolving Role of Competition Commission of India in
+Government Procurement through e-market the Economy, particularly the Digital Landscape.
+place/GeM Portal; 10. Performance review of National Statistical
+3. Comprehensive Review of Foreign Trade Commission (NSC).
+Agreements & Bilateral Agreements; 11. Tax Reforms: Simplification, Rationalisation and Ease
+4. Doing Business in India: The Way Forward; and of Compliance.
+5. Indian Leather Industry: Current Analysis & 12. Role of NITI Aayog in Performance Appraisal of
+Future Prospects. Central Government Schemes / Programmes and
+Chalking Out Road Map in Different Sectors of the
+Health and Family Welfare
+Economy.
+1. Affordability of healthcare in the private sector - A
+13. Roadmap for $5 Trillion economy in light of global
+study;
+economic and geopolitical circumstances.
+2. Review of National Organ Transplant Programme and
+14. Social Security for Informal Sector.
+related legislative framework;
+15. Review of long-term public finances and debt at
+3. Prevalence of chronic kidney disease in India -
+Centre and States.
+Diagnosis, Prevention and Management;
+16. Performance Evaluation of SEBI: Capital Market
+4. Shortage of teaching faculty in allied medical
+Regulation and Ensuring Investor Protection.
+services: Challenges in medical education;
+17. Monetization of Public Sector Assets including
+5. Working of All India Institute of Medical Sciences
+Disinvestment and Asset Recycling.
+(AIIMS), New Delhi and problems faced by patients in
+18. RBI’s Evolving Role in India’s Dynamic Economy.
+availing healthcare and treatment;
+19. Review of Members of Parliament Local Area
+6. Implementation of Ayushman Bharat with focus on
+Development Scheme (MPLADS) in light of revised
+Geriatric care and Ayushman Arogya Mandir (AAM);
+guidelines.
+7. A study of vector-borne diseases in North-East India;
+20. The Role of Environmental, Social and Governance
+8. Propagation and popularization of treatment under
+(ESG) and Corporate Social Responsibility (CSR) in
+Ayush across the country.
+enhancing Corporate Valuation.
+Science & Tech, Environment, Forests and Climate Change
+21. Initiatives to promote Green Financing and
+1. Environmental Pollution in the country and steps Sustainable Investments in India.
+taken by various agencies for its mitigation with
+22. Public Financial Management and Capital
+special thrust on Air/Water Pollution in Delhi – NCR;
+Expenditure: Allocation and Utilisation.
+2. Development of new species of climate resilient crops
+to address the concerns of climate change on food
+security of India;
+- 6 -
+Monthly Policy Review – November 2024 PRS Legislative Research
+1 Press Note on Estimates of Gross Domestic Product for the Second 14 No RA-14026(13)/1/2024-CERC, Central Electricity Regulatory
+Quarter (July-September) of 2024-25, National Statistics Office, Commission, November 13, 2024,
+Ministry of Statistics and Programme Implementation, November 29, https://cercind.gov.in/2024/draft_reg/DN-PoCCC-2024.pdf.
+2024, 15 “Cabinet approves PM-Vidyalaxmi scheme to provide financial
+https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024 support to meritorious students so that financial constraints do not
+/nov/doc20241129461201.pdf. prevent any youth of India from pursuing quality higher education”,
+2 “India's Index of Industrial Production recorded growth of 3.1% in Ministry of Education, Press Information Bureau, November 6, 2024,
+September 2024”, Press Information Bureau, Ministry of Statistics https://pib.gov.in/PressReleasePage.aspx?PRID=2071134.
+and Programme Implementation, November 12, 2024, 16 Inviting comments on proposed amendments to the Insurance Act,
+https://pib.gov.in/PressReleasePage.aspx?PRID=2072709. 1938, https://financialservices.gov.in/beta/sites/default/files/2024-
+3 Statement I: Index of Industrial Production - Sectoral, Ministry of 11/OM.pdf.
+Statistics and Programme Implementation, 17 The Insurance Act, 1938,
+https://static.pib.gov.in/WriteReadData/specificdocs/documents/2023 https://www.indiacode.nic.in/bitstream/123456789/2304/1/a1938-
+/may/doc2023512197401.pdf. 04.pdf.
+4 Writ Petition (Civil) No. 295 of 2022, Supreme Court of India, 13 18 The Life Insurance Corporation Act, 1956,
+November 2024, https://www.sci.gov.in/wp-admin/admin- https://www.indiacode.nic.in/bitstream/123456789/1632/1/A1956-
+ajax.php?action=get_court_pdf&diary_no=122392022&type=j&orde 31.pdf.
+r_date=2024-11-13&from=latest_judgements_order.
+19 The Insurance Regulatory and Development Authority Act, 1999,
+5 Writ Petition (Civil) No. 295 of 2022, Interim Order, Supreme
+https://www.indiacode.nic.in/bitstream/123456789/1893/1/A1999_41
+Court of India, 17 September 2024,
+.pdf.
+https://api.sci.gov.in/supremecourt/2022/12239/12239_2022_3_61_5
+20 “Year End Review – 2021 for Department for Promotion of
+5688_Order_17-Sep-2024.pdf.
+6 Civil Appeal Nos. 9486-9487 of 2019, Supreme Court of India, 8 Industry & Internal Trade, Ministry of Commerce and Industry”,
+Press Information Bureau, Ministry of Commerce and Industry,
+November 2024,
+December 29, 2021,
+https://api.sci.gov.in/supremecourt/2019/28531/28531_2019_1_1502
+https://pib.gov.in/PressReleasePage.aspx?PRID=1786148.
+_57055_Judgement_08-Nov-2024.pdf.
+7 Article 14, Part 3, Constitution of India, 21 Draft Coal Bearing Areas (Acquisition and Development)
+https://www.indiacode.nic.in/bitstream/123456789/15240/1/constituti Amendment Bill, 2024, https://coal.nic.in/sites/default/files/2024-
+on_of_india.pdf. 11/26-11-2024b-wn.pdf.
+8 Draft Commercial Courts (Amendment) Bill, 2024,
+https://legalaffairs.gov.in/sites/default/files/Final_Public_Notice.pdf. DISCLAIMER: This document is being furnished to you for your
+9 The Commercial Courts Act, 2015, information. You may choose to reproduce or redistribute this
+https://www.indiacode.nic.in/bitstream/123456789/2156/1/a2016- report for non-commercial purposes in part or in full to any other
+04.pdf. person with due acknowledgement of PRS Legislative Research
+10 Draft Parliament (Prevention of Disqualification) Bill, 2024, (“PRS”). The opinions expressed herein are entirely those of the
+https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8 author(s). PRS makes every effort to use reliable and
+f/uploads/2024/11/20241112518889495.pdf. comprehensive information, but PRS does not represent that the
+11 The Parliament (Prevention of Disqualification) Act, 1959, contents of the report are accurate or complete. PRS is an
+https://www.indiacode.nic.in/bitstream/123456789/1368/1/a1959- independent, not-for-profit group. This document has been
+10.pdf. prepared without regard to the objectives or opinions of those
+12 Article 102, Part 5, Constitution of India. who may receive it.
+13 “Launch of National Mission on Natural Farming”, Press
+Information Bureau, Cabinet, November 25, 2024,
+https://pib.gov.in/PressReleasePage.aspx?PRID=2077094.
+- 7 -

@@ -1,0 +1,428 @@
+Monthly Policy Review
+September 2024
+Highlights of this Issue
+SC clarifies that browsing or storing child pornography is an offence (p. 2)
+It held that any possession of child pornographic material and failure to delete or report it is an offence.
+Bombay HC strikes down IT Rules enabling a government fact check unit (p. 2)
+The amendment provided for fact check unit to identify false information against the Centre. The HC ruled the
+amendment to be in violation of freedom of speech.
+Cabinet approves PMGSY-IV (p. 5)
+The rural roads scheme will be for five years, and connect all habitations with population of 500 persons.
+Cabinet approves various schemes (p. 2, p. 4, p. 5)
+The Union Cabinet has approved various schemes for: (i) expanding health insurance coverage, (ii) promoting
+electric mobility, (iii) Tribal development, and (iv) enhancing climate research services.
+Finance Ministry launches pension scheme for minors (p. 3)
+After a contribution of Rs 1,000, all minors up to 18 years of age can open a National Pension Scheme Vatsalya
+account. Thereafter, an annual contribution of Rs 1,000 can be deposited in the account.
+Cabinet extends duration of certain schemes (p. 5)
+The Union Cabinet approved continuation of schemes for: (i) preventing volatility in prices of essential
+commodities, and (ii) promoting R&D in Biotechnology.
+October 1, 2024
+PRS Legislative Research ■ Institute for Policy Research Studies
+3rd Floor, Gandharva Mahavidyalaya ■ 212, Deen Dayal Upadhyaya Marg ■ New Delhi – 110002
+Tel: (011) 23234801, 43434035 ■ www.prsindia.org
+Monthly Policy Review – September 2024 PRS Legislative Research
+Macroeconomic Development education, (iii) creating an online portal for registering
+complaints under the POCSO Act.
+Tushar Chakrabarty (tushar@prsindia.org)
+Bombay HC strikes down IT Rules establishing
+Current account deficit at 1.1% of GDP in first fact check unit
+quarter of 2024-25
+The Bombay High Court struck down a 2023
+India recorded a current account deficit of USD 9.8 amendment to the Information Technology
+billion (1.1% of GDP) in the first quarter (April-June) (Intermediary Guidelines and Digital Media Ethics
+of 2024-25, marginally higher than USD 9.0 billion Code) Rules, 2021.4,5 The Rules require digital
+(1% of GDP) in the corresponding quarter of 2023-24.1 intermediaries (such as social media websites) to
+In the fourth quarter (January-March) of 2023-24, India exercise due diligence in preventing users from
+recorded a current account surplus of USD 4.6 billion intentionally spreading false or misleading information.
+(0.5% of GDP). The amendment expanded this to prohibit any
+information regarding business of the central
+Capital account registered a net inflow of USD 14.4
+government which a fact-check unit (FCU) of the
+billion, and consequently, foreign exchange reserves
+government identifies as false or misleading.6 The
+increased by USD 5.2 billion in the quarter.
+Court held that the amended Rules violated the right to
+Table 1: Balance of payments, Q1 2024-25 (USD freedom of speech and expression under Article 19 of
+b illion) the Constitution. Any restriction placed on this right
+Q1 2023- Q4 2023- Q1 2024- must be reasonable and conform to the restrictions
+24 24 25 under provided under the Constitution.
+a. Exports 104.9 121.6 111.2
+The Court further held that as the FCU will be
+b. Imports 161.6 173.6 176.3
+appointed by the executive, the Centre will become the
+c. Trade balance
+-56.7 -52.0 -65.1 final arbiter of what constitutes false or misleading.
+(a-b)
+This violates the principle of natural justice. In
+d. Net services 35.1 42.7 39.7
+addition, the Court found the terms ‘false or
+e. Other transfers 12.6 13.9 15.6 misleading’ to be vague and overbroad in the absence
+f. Current account of any guidelines to identify such items. The Court
+-9.0 4.6 -9.8
+(c+d+e) also noted that the amendment was beyond the scope of
+g. Capital account 33.8 25.6 14.4 the Information Technology Act, 2000 and therefore
+h. Errors and omissions -0.4 0.6 0.6 could not be a part of the Rules under this Act.7
+i. Change in reserves
+24.4 30.8 5.2
+(f+g+h) 23rd Law Commission constituted
+Sources: RBI; PRS.
+The Ministry of Law and Justice constituted the 23rd
+Law Commission of India.8 The tenure of the 23rd Law
+Commission will last from September 1, 2024 to
+Law and Justice August 31, 2027. However, the Chairperson and
+Members have not been appointed yet.
+Rutvik Upadhyaya (rutvik@prsindia.org)
+SC clarifies that browsing or storing child
+pornography is an offence Health
+The POCSO Act, 2012 criminalises storage or Shirin Pajnoo (shirin@prsindia.org)
+possession of pornographic material under these
+conditions: (i) with the intention to share or transmit, Cabinet expands Ayushman Bharat to include
+(ii) for displaying (unless for the purpose of reporting),
+all senior citizens
+and (iii) for commercial purposes.2
+The Union Cabinet approved expansion of Ayushman
+The Madras High Court, in January 2024, had held that
+Bharat Pradhan Mantri Jan Arogya Yojana (AB PM-
+mere possession was not an offence, as there is no
+JAY) to all citizens aged 70 years and above.9 The
+intent to share. The SC overruled this judgement. It
+scheme provides cashless treatment of up to five lakh
+said that possession was the first step before sharing.
+rupees per family per year, for hospitalisation at an
+Failure to delete or report it signalled intention.3
+empanelled facility.10 Currently, 11 crore families
+The Court further provided certain suggestions to the (roughly 50 crore persons) are eligible for inclusion in
+Parliament, and the central government. These include: the scheme.11 Senior citizens already covered under
+(i) substituting the term ‘child pornography’ with ‘child the scheme will individually receive an extra five lakh
+sexual exploitation and abuse material’ in the POCSO rupees as health insurance.
+Act, (ii) constituting a committee to devise a
+comprehensive programme for health and sex
+- 2 -
+Monthly Policy Review – September 2024 PRS Legislative Research
+Expansion of the scheme will extend insurance prescribe it or someone authorised to receive it on
+coverage to 4.5 crore families (six crore senior their behalf. Demonstration products (products
+citizens). This will also include senior citizens who are that help explain functions of a medical device)
+already availing benefits of other public and private should be taken back by companies after the
+insurance schemes. demonstration period is over.
+▪ Ethics Committee: An Ethics Committee for
+Comments invited on draft Rules amending
+marketing practices in medical devices must be
+tobacco regulation on OTT platforms
+established in all Indian medical device
+The Ministry of Health and Family Welfare issued draft associations. It will address grievances regarding
+amendments to the Cigarettes and Other Tobacco compliance with the Code. The Committee should
+Products Rules, 2004.12 pass an order within 90 days of receiving a
+complaint. Violation of the Code will result in
+Currently, all content on OTT platforms must: (i) penalties such as : (i) expulsion from the
+display anti-tobacco health messages at the start and association, (ii) issuing a corrective statement in
+middle (at least 30 seconds each), (ii) display a health the media, or (iii) monetary recovery. The
+warning when tobacco products are shown, and (iii) Committee’s decision can be appealed before the
+include a 20-second audio-visual disclaimer about the Apex Committee within 15 days. The Apex
+dangers of tobacco use at the beginning.13 The draft Committee will be headed by Secretary of the
+amendment restricts this provision to films published Department of Pharmaceuticals.
+on OTT platforms. This will only apply to films
+released on or after September 1, 2023.
+Additionally, the draft amendment requires all OTT
+platforms to display: (i) non-skippable anti-tobacco Finance
+messages (minimum 30 seconds) on all content, and (ii)
+Tushar Chakrabarty (tushar@prsindia.org)
+a static health warning during any tobacco usage in
+content published on or after September 1, 2023. It
+Finance Ministry launches pension scheme for
+also requires non-skippable disclaimers of at least 20
+seconds on opening such platforms. minors
+Comments are invited until October 13, 2024. The Ministry of Finance announced the National
+Pension System (NPS) Vatsalya scheme for minors.15
+Uniform Code for marketing practices in It will be regulated and administered by the Pension
+Fund Regulatory Authority of India (PFRDA). All
+medical devices released
+minor citizens up to the age of 18 years can open an
+The Department of Pharmaceuticals released the account. A minimum contribution of Rs 1,000 will be
+Uniform Code for Marketing Practices in Medical needed to open the account. Thereafter, a minimum
+Devices, 2024.14 The Code regulates the branding and annual contribution of Rs 1,000 can be deposited in the
+promotion of medical devices in the country. Key account. The account will be opened in the name of the
+features of the Code include: minor and managed by their guardian till adulthood.
+On completing 18 years of age, the NPS Vatsalya
+▪ Claims: Claims made by medical devices
+account will transition to a regular account under NPS.
+companies regarding the usefulness of a medical
+device must be based on the latest evidence.
+SEBI approves various decisions at board
+Prohibited claims include: (i) using other brand
+meeting
+names without prior consent of the respective
+companies, (ii) calling a medical device safe
+The Securities and Exchange Board of India (SEBI)
+without qualification, and (iii) claiming it to be approved various decisions at its meeting.16 Key
+without side-effects.
+decisions include:
+▪ Promotion: Any promotional material must
+▪ Same-day settlement: SEBI increased the scope
+contain details including: (i) generic/brand name of
+of the optional same-day settlement cycle for
+the medical device, (ii) name/address of the
+securities. The securities for same day settlement
+manufacturer/importer and the business
+will be increased from 25 to top 500 companies
+name/address of the marketeer, (iii) warnings and
+based on market capitalisation in a phased manner.
+precautions for use, and (iv) a statement stating
+Same-day settlement will co-exist with the current
+that additional information is available on request.
+next-day (T+1) settlement cycle.
+No promotional material can use identifiers of any
+healthcare professional. ▪ Approval for new mutual fund product: SEBI
+approved the introduction of a new investment
+▪ Only brand reminders (such as books, diaries,
+product under the current mutual fund framework.
+dummy models) worth less than Rs 1,000 each can
+It seeks to bridge the gap between mutual funds
+be circulated. Free evaluation samples must not be
+and portfolio management services by offering
+circulated to anyone except the person qualified to
+greater flexibility in portfolio construction. It will
+- 3 -
+Monthly Policy Review – September 2024 PRS Legislative Research
+have a minimum investment limit of Rs 10 lakh ▪ Upgradation of test agencies: The electric
+per investor across products offered by a single vehicle testing agencies under the Ministry of
+asset management company. Heavy Industries, will be modernised under the
+scheme. The proposed outlay is Rs 780 crore.
+▪ Regulatory framework for passive mutual
+Some examples of these testing agencies include:
+funds: SEBI also approved a new regulatory
+(i) Automotive Research Association of India
+framework for passively managed mutual funds.
+(ARAI) and (ii) International Centre for
+Passive funds follow a rule-based investment
+Automotive Technology (ICAT).18
+strategy and provide negligible discretion
+regarding asset allocation (such as index funds).
+The framework provides for relaxed criteria for the
+sponsors of a mutual fund in term of net worth,
+Tribal Affairs
+track record, profitability, and disclosures.
+▪ Funds for sustainable finance: SEBI decided to Shirin Pajnoo (shirin@prsindia.org)
+expand the scope of instruments that can be used
+by corporates to raise funds for sustainable finance. Cabinet approves Tribal development scheme
+It will specify frameworks for issuing: (i) social
+The Union Cabinet approved the Pradhan Mantri
+bonds, (ii) sustainability bonds, and (iii)
+Janjatiya Unnat Gram Abhiyan.19 The programme
+sustainability-linked bonds.
+aims to uplift tribal communities by addressing gaps in
+key sectors such as: (i) social infrastructure, (ii) health,
+(iii) education, and (iv) livelihood. It comprises of 25
+interventions that will be implemented by ministries
+Automobiles
+governing relevant sectors. The programme will cover
+about 63,000 villages, and aims to benefit about five
+Anirudh TR (anirudh@prsindia.org)
+crore tribal people. The programme will receive an
+outlay of Rs 79,156 crore, to be spent over five years.
+Cabinet approves PM E-DRIVE scheme to
+Key features of the programme include:
+promote electric mobility
+▪ Goals of the programme: The goals are to be
+The Union Cabinet approved the ‘PM Electric Drive
+achieved in coordination with other departments
+Revolution in Innovative Vehicle Enhancement’
+and their schemes. These goals are: (i) building
+scheme (PM E-DRIVE) for promotion of electric
+enabling infrastructure, (ii) promoting skill
+mobility in the country.17 The proposed outlay for the
+development and self-employment, and (iii)
+scheme is Rs 10,900 crore over a period of two years.
+improving access to quality education and
+Subsidies worth Rs 3,679 crore will be provided to
+affordable healthcare.
+incentivise various types of electric vehicles. Key
+features of the scheme include: ▪ Targets: Targets have been set under various
+existing schemes, including: (i) Pradhan Mantri
+▪ E-vouchers: Consumers will be provided with e-
+Awas Yojana, (ii) Pradhan Mantri Gram Sadak
+vouchers at the time of purchase of the electric
+Yojana, (iii) Jal Jeevan Mission, (iv) National
+vehicle. These vouchers can be used to avail
+Health Mission, (v) Poshan Abhiyan. Some of
+subsidies on the purchase price of the vehicle from
+these targets include: (i) building 20 lakh houses,
+the dealership. Manufacturers can then use these
+(ii) 25,000 km road, (iii) water supply to every
+vouchers to claim reimbursement from the
+eligible village, (iv) creating up to 1,000 Mobile
+government.
+Medical Units, (v) establishing 2,000 new
+▪ Allocation for electric ambulances, trucks, and Anganwadi centres.
+buses: Rs 500 crore each, has been allocated
+▪ Schemes: Certain initiatives under the programme
+under the scheme for deploying electric
+include: (i) 1000 tribal home stays, (ii) sustainable
+ambulances and trucks. Rs 4,391 crore has been
+livelihood for 22 lakh forest rights holders, (iii)
+allocated for the procurement of electric buses by
+improvement of infrastructure in tribal and
+public transport agencies of various states. Priority
+government residential schools, (iv) affordable
+will be given to states that procure electric buses
+management of sickle cell disease, and (v) 100
+after scrapping existing buses at authorised
+multipurpose marketing centres for promoting
+scrapping centres.
+tribal products.
+▪ Installation of public charging stations: Public
+charging stations will be installed in cities with
+high EV usage. The scheme targets the installation
+of: (i) 22,100 fast chargers for four wheelers, (ii)
+1,800 fast chargers for buses and (iii) 48,400 fast
+chargers for two and three wheelers. The proposed
+outlay under the scheme is Rs 2,000 crore.
+- 4 -
+Monthly Policy Review – September 2024 PRS Legislative Research
+Rural Development
+Atri Prasad Rout (atri@prsindia.org)
+Earth Sciences
+Cabinet approves implementation of Pradhan
+Atri Prasad Rout (atri@prsindia.org)
+Mantri Gram Sadak Yojana - IV
+The Union Cabinet approved implementation of the Cabinet approves Mission Mausam to enhance
+Pradhan Mantri Gram Sadak Yojana – IV (PMGSY – weather research and services
+IV) between 2024-25 and 2028-29.20 Under this phase,
+The Union Cabinet approved Mission Mausam to
+financial assistance will be provided for constructing
+improve weather and climate related research and
+62,500 km of all-weather roads that will connect
+services in the country.23 Rs 2,000 crore has been
+25,000 unconnected habitations. This will cover
+sanctioned for the programme for two years. This will
+habitations with a population exceeding: (i) 500 in
+be used for supporting research and development in
+plain areas, (ii) 250 in North Eastern and hilly states,
+weather surveillance, modelling, forecasting and
+and (ii) 100 in districts affected by left-wing
+management. It will help deal with extreme weather
+extremism. PMGSY-IV will receive a total outlay of
+events and impact of climate change.
+Rs 70,125 crore for five years, which will be borne
+between centre and states in a 70:30 ratio. The programme will facilitate use of technologies in
+weather research and forecasting. These will include
+use of: (i) artificial intelligence and machine learning,
+(ii) next-generation radars and satellite systems, and
+Agriculture (iii) high-performance supercomputers. Three
+institutes under the Ministry of Earth Sciences will be
+Atri Prasad Rout (atri@prsindia.org) responsible for implementing the Mission. These are:
+(i) the India Meteorological Department, (ii) the Indian
+Cabinet approves Nutrient Based Subsidy rates Institute of Tropical Meteorology, and (iii) the National
+on fertilisers for Rabi season 2024 Centre for Medium-Range Weather Forecasting.
+The Union Cabinet approved Nutrient Based Subsidy
+rates for phosphatic and potassic (P&K) fertilisers for
+the Rabi season 2024 (October 2024 to March 2025).21
+Biotechnology
+The budgetary requirement for the subsidy is estimated
+to be around Rs 24,476 crore.
+Anirudh TR (anirudh@prsindia.org)
+Cabinet approves continuation of schemes to
+Cabinet approves continuation of Bio-RIDE
+prevent volatility in prices
+scheme to promote R&D in Biotechnology
+The Union Cabinet approved continuation of schemes
+The Union Cabinet approved the continuation of the
+under the Pradhan Mantri Annadata Aay Sanrakshan
+two umbrella schemes of the Department of
+Abhiyan (PM-AASHA).22 These schemes include: (i)
+Biotechnology, merged as one scheme, namely
+Price Support Scheme, (ii) Price Stabilisation Fund,
+‘Biotechnology Research Innovation and
+(iii) Price Deficit Payment Scheme, and (iv) Market
+Entrepreneurship Development’ (Bio- RIDE).24 The
+Intervention Scheme. The objective of these schemes
+proposed outlay for the implementation of the scheme
+is to provide remunerative prices to farmers and control
+is Rs 9,197 crore.
+price volatility of essential commodities for consumers.
+The government has estimated total outlay for these The scheme aims to promote bio-entrepreneurship and
+schemes till 2025-26 to be Rs 35,000 crore. advanced research through: (i) grants and incentives,
+(ii) academia-industry collaborations, (iii) extra-mural
+Under the Price Support Scheme for notified pulses,
+funding and (iv) capacity building.
+oilseeds, and copra, the Centre has decided to procure
+25% of national production at minimum support price A new component of the scheme will also focus on
+from 2024-25 onwards. The Centre has also enhanced Biomanufacturing and Biofoundry. Under this
+government guarantee for procurement of these crops component, indigenous solutions will be promoted to
+to Rs 45,000 crore. To encourage states to implement enhance: (i) healthcare outcomes, (ii) agriculture
+Price Deficit Payment Scheme for notified oilseeds, the productivity, (iii) the state of the bioeconomy, and (iv)
+Centre has increased support by enhancing coverage of the commercialisation of bio-based products like bio-
+the scheme from 25% to 40% of state production of fuels, pharmaceuticals, and bio-plastics.
+oilseeds. Under the Market Intervention Scheme, the
+support has been increased from 20% to 25% of
+production for perishable horticulture crops such as
+onion and tomatoes.
+- 5 -
+Monthly Policy Review – September 2024 PRS Legislative Research
+1 Developments in India’s Balance of Payments during the First 14 F. No. 31026/23/2022, Department of Pharmaceuticals, Ministry of
+Quarter (April-June) of 2024-25, Reserve Bank of India, September Chemicals and Fertilizers, September 6, 2024,
+30, 2024, https://pharmaceuticals.gov.in/sites/default/files/UCMPMD_0.pdf.
+https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR118562050476 15 “NPS Vatsalya: A Groundbreaking Pension Scheme for Minors”,
+26764844945BB7D76A8D8C45.PDF. Press Information Bureau, Ministry of Finance, September 20, 2024,
+2 The Protection of Children from Sexual Offences (POCSO) Act, https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024
+2012, /sep/doc2024920398401.pdf.
+https://www.indiacode.nic.in/bitstream/123456789/2079/1/AA2012- 16 SEBI Board Meeting, Securities and Exchange Board of India,
+32.pdf. September 30, 2024, https://www.sebi.gov.in/media-and-
+3 Criminal Appeal No. 2161-2162 of 2024, Justice Rights for notifications/press-releases/sep-2024/sebi-board-
+Children Alliance and Anr vs. S Harish and Ors, September 23, 2024, meeting_87154.html.
+Supreme Court, 17 Cabinet approves PM Electric Drive Revolution in Innovative
+https://api.sci.gov.in/supremecourt/2024/8562/8562_2024_1_1501_5 Vehicle Enhancement (PM E-DRIVE) Scheme with an outlay of
+6073_Judgement_23-Sep-2024.pdf. Rs.10,900 crore over a period of two years, Press Information
+4 The Information Technology (Intermediary Guidelines and Digital Bureau, Ministry of Heavy Industries, September 11, 2024,
+Media Ethics Code) Rules, 2021, https://pib.gov.in/PressReleasePage.aspx?PRID=2053959
+https://prsindia.org/files/bills_acts/bills_parliament/2021/Intermediar 18 Operational Guidelines for Electric Mobility Promotion Scheme -
+y_Guidelines_and_Digital_Media_Ethics_Code_Rules-2021.pdf. 2024, Ministry of Heavy Industries,
+5 Writ Petition (L) No. 9792 of 2023, Kunal Kamra vs. Union of https://heavyindustries.gov.in/sites/default/files/2024-
+India, Bombay High Court, September 20, 2024, 03/operational_guidelines_of_emps_2024.pdf
+https://bombayhighcourt.nic.in/generatenewauth.php?bhcpar=cGF0a 19 “Cabinet approves Pradhan Mantri Janjatiya Unnat Gram
+D0uL3dyaXRlcmVhZGRhdGEvZGF0YS9qdWRnZW1lbnRzLzIwM Abhiyan”, Press Release, Cabinet, Press Information Bureau,
+jQvJmZuYW1lPUYyNTYwMDAwOTc5MjIwMjNfNDAucGRmJn September 18, 2024,
+NtZmxhZz1OJnJqdWRkYXRlPSZ1cGxvYWRkdD0yMC8wOS8yM https://pib.gov.in/PressReleasePage.aspx?PRID=2055995.
+DI0JnNwYXNzcGhyYXNlPTI1MDkyNDE1MTYzMiZuY2l0YXRp 20 Cabinet approves implementation of Pradhan Mantri Gram Sadak
+b249MjAyNDpCSEMtT1M6MTQzNzEtREImc21jaXRhdGlvbj0mZ Yojana – IV (PMGSY-IV) during FY 2024-25 to 2028-29, Cabinet,
+GlnY2VydGZsZz1ZJmludGVyZmFjZT1P. Press Information Bureau, September 11, 2024,
+6 CG-DL-E-06042023-244980, Information Technology https://pib.gov.in/PressReleasePage.aspx?PRID=2053894.
+(Intermediary Guidelines and Digital Media Ethics Code) 21 “Cabinet approves Nutrient Based Subsidy rates for Rabi Season,
+Amendment Rules, 2023, Ministry of Electronics and Information 2024 on Phosphatic and Potassic fertilisers”, Press Information
+Technology, April 6, 2023, Bureau, September 18, 2024,
+https://egazette.nic.in/WriteReadData/2023/244980.pdf. https://pib.gov.in/PressReleasePage.aspx?PRID=2055984.
+7 Information Technology Act, 2000, 22 “Cabinet approves continuation of schemes of Pradhan Mantri
+https://www.indiacode.nic.in/bitstream/123456789/13116/1/it_act_20 Annadata Aay Sanrakshan Abhiyan”, Press Information Bureau,
+00_updated.pdf. Cabinet, September 18, 2024,
+https://pib.gov.in/PressReleasePage.aspx?PRID=2055990.
+8 “Constitution of 23rd Law Commission of India for a term of three
+23 “Cabinet approves Mission Mausam to create more weather-ready
+years from 01st September, 2024 to 31st August, 2027”, Ministry of
+and climate-smart Bharat with an outlay of Rs 2,000 crore over two
+Law and Justice, September 2, 2024,
+years”, Press Information Bureau, Ministry of Earth Sciences,
+https://egazette.gov.in/WriteReadData/2024/256849.pdf.
+September 11, 2024,
+9 “Cabinet approves health coverage to all senior citizens of the age
+https://pib.gov.in/PressReleasePage.aspx?PRID=2053896.
+70 years under Ayushman Bharat Pradhan Mantri Jan Arogya Yojana
+24 Cabinet approves ‘Bio-RIDE’ scheme to support cutting edge
+(AB PM-JAY)”, Press Information Bureau, September 11, 2024,
+research and development in Biotechnology, Press Information
+https://pib.gov.in/PressReleasePage.aspx?PRID=2053883.
+Bureau, Ministry of Science and Technology, September 18, 2024,
+10 “About Ayushman Bharat”, Ministry of Health and Family
+https://pib.gov.in/PressReleasePage.aspx?PRID=2056004
+Welfare, accessed on December 15, 2023, https://nha.gov.in/PM-
+JAY#.
+11 “Ayushman Bharat –Pradhan Mantri Jan Aarogya Yojana (AB- DISCLAIMER: This document is being furnished to you for your
+PMJAY) to be launched by Prime Minister Shri Narendra Modi in information. You may choose to reproduce or redistribute this report
+Ranchi, Jharkhand on September 23, 2018”, Press Information for non-commercial purposes in part or in full to any other person
+Bureau, September 22, 2018, with due acknowledgment of PRS Legislative Research (“PRS”).
+https://pib.gov.in/Pressreleaseshare.aspx?PRID=1546948. The opinions expressed herein are entirely those of the author(s).
+12 G.S.R. 572(E), Department of Health and Family Welfare, The PRS makes every effort to use reliable and comprehensive
+Gazette of India, September 13, 2024, information, but PRS does not represent that the contents of the
+https://egazette.gov.in/WriteReadData/2024/257180.pdf. report are accurate or complete. PRS is an independent, not-for-
+13 G.S.R 400 (E), Department of Health and Family Welfare, May 31, profit group. This document has been prepared without regard to the
+2023, https://egazette.gov.in/WriteReadData/2023/246178.pdf objectives or opinions of those who may receive it.
+- 6 -

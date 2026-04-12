@@ -1,0 +1,1013 @@
+Monthly Policy Review
+October 2023
+Highlights of this Issue
+Repo rate remains unchanged at 6.5% (p. 2)
+The Monetary Policy Committee of the Reserve Bank of India retained the policy repo rate at 6.5%. Other policy
+rates also remain unchanged.
+Supreme Court rejects plea for same-sex marriage (p. 4)
+The five-judge Bench unanimously agreed that there is no fundamental right to marry and same-sex marriage cannot
+be read into the Special Marriage Act, 1954.
+Renewable energy consumption obligation notified for 2024-2030 period (p. 5)
+It will apply to designated consumers specified under the Energy Conservation Act, 2001 which includes electricity
+distribution licensees (discoms). It will override renewable purchase obligation for discoms.
+R&D roadmap for green hydrogen released (p. 5)
+The roadmap makes recommendations to achieve the objectives of National Green Hydrogen Mission. These include,
+setting up a dedicated R&D fund and establishing centres of excellence in the area of green hydrogen.
+RBI releases circular to regulate cross-border payment aggregators (p. 2)
+The circular requires non-bank payment aggregators to register with the RBI to carry out cross-border payments for
+import and export of permissible goods and services.
+Guidelines for equitable and inclusive education, released (p. 9)
+Recommendations include ensuring foundational literacy and numeracy, early identification of disability, creating
+socially accommodating curriculum and adopting teaching pedagogy that uses signs and tactile teaching aid.
+SEBI revises framework for debt issuance by large corporates (p. 2)
+The revised framework has increased the threshold for identifying large corporates from entities having outstanding
+long-term borrowing of Rs 100 crore to Rs 1,000 crore.
+RBI releases draft master directions on risk management of outsourced activities (p. 3)
+The draft master directions outline which activities can be outsourced by regulated entities. Entities must take
+measures to manage risk while outsourcing activities.
+Supreme Court permits use of donor gametes for surrogacy (p. 4)
+In an order, the Court held that restrictions on surrogacy cannot contradict the right of a woman to avail surrogacy in
+certain medical conditions. These include having a missing or an abnormal uterus.
+Report of working groups on Artificial Intelligence released (p. 8)
+The report lists out recommendations of seven working groups on subjects including government data management,
+skill development, infrastructure, and chipsets for AI.
+Draft notification of renewable generation obligation released (p. 5)
+The draft notification will require coal/lignite based power plants to procure or generate at least 10% of their energy
+from renewable sources. By April 1, 2028, all such plants will have to comply with this obligation.
+Amendment to determine prices of lithium, rare earth elements, and niobium, notified (p. 7)
+The Amendment lays down a standardised approach for determining prices of lithium, rare earth oxide and niobium.
+November 1, 2023
+PRS Legislative Research Institute for Policy Research Studies
+3rd Floor, Gandharva Mahavidyalaya 212, Deen Dayal Upadhyaya Marg  New Delhi – 110002
+Tel: (011) 23234801, 43434035  www.prsindia.org
+Monthly Policy Review – October 2023 PRS Legislative Research
+Macroeconomic Development Finance
+Repo rate kept unchanged at 6.5% RBI releases circular to regulate cross border
+payment aggregators
+Pratinav Damani (pratinav@prsindia.org)
+Pratinav Damani (pratinav@prsindia.org)
+The Monetary Policy Committee (MPC) of the Reserve
+Bank of India (RBI) retained the policy repo rate (the The Reserve Bank of India (RBI) released a circular on
+rate at which RBI lends money to banks) at 6.5%.1 the regulation of cross-border payment aggregators
+Other decisions of the Committee are as follows: (PA-CB).4 These entities facilitate online cross-border
+transactions for the import and export of permissible
+ The standing deposit facility rate (the rate at which
+goods and services. The regulations will apply to non-
+the RBI borrows from banks without giving
+bank payment aggregators. Key features include:
+collateral) has been retained at 6.25%.
+ Applicability and scope: Non-bank aggregators
+ The marginal standing facility rate (the rate at
+will be required to apply with RBI for
+which banks can borrow additional money from
+authorisation by April 30, 2024. Aggregators can
+RBI), and the bank rate (rate at which RBI buys
+continue to offer services until receiving
+bills of exchange) have been retained at 6.75%.
+authorisation from the RBI. However, they must
+The MPC decided to remain focused on withdrawal of comply with the 2020 Guidelines on Regulation of
+accommodation. This is expected to ensure that Payment Aggregators and Payment Gateways by
+inflation progressively aligns with the target of 4%, January 31, 2024.5 Existing non-bank aggregators
+while supporting growth. will be required to wind-up operations by July 31,
+2024 if they do not apply for authorisation or meet
+Retail inflation was 6.4% in the second quarter certain other requirements.
+of 2023-24
+ Requirements for aggregators: The circular
+Tushar Chakrabarty (tushar@prsindia.org) requires existing non-bank aggregators to have a
+minimum net worth of Rs 15 crore when they
+Consumer Price Index (CPI) inflation was 6.4% in the submit their application for authorisation. They
+second quarter (July-September) of 2023-24.2 This was must have a minimum net worth of Rs 25 crore by
+lower than the CPI inflation of 7% in the corresponding March 31, 2026. New aggregators must have a net
+quarter of 2022-23, and 4.6% in the first quarter (April- worth of Rs 25 crore by the third financial year of
+June) of 2023-24. In the first quarter of 2023-24, CPI operations. Import and export transactions
+inflation decreased from 7.4% in July 2023 to 5% in processed by PA-CBs cannot exceed a value of Rs
+September 2023. 25 lakh per unit of goods or services
+purchased/sold.
+Food inflation averaged 9.3% in the second quarter of
+2023-24, higher than 7.6% in the same quarter last
+SEBI revises framework for debt issuance by
+year. In the first quarter of 2023-24, food inflation
+large corporates
+averaged 3.8%.
+Tushar Chakrabarty (tushar@prsindia.org)
+Wholesale Price Index (WPI) inflation was -0.7% in
+the second quarter of 2023-24, as compared to 12.4%
+The Securities and Exchange Board of India (SEBI)
+in the corresponding quarter of 2022-23.3 In the first
+revised the framework for debt issuances by large
+quarter of 2023-24, WPI inflation was -2.9%.
+corporates.6,7 Under the SEBI regulations, large
+Figure 1: Inflation in Q2 2023-24, (% change, year- corporates must raise 25% of their incremental
+on-year) borrowings in a financial year by issuing debt securities
+(such as bonds). Large corporates include all listed
+15%
+11.5% entities (excluding banks) that have an outstanding
+9.9%
+10% 7.4% 6.8% 6.6% long-term borrowing of at least Rs 100 crore, among
+5.0% other criteria. This amount does not include external
+5%
+commercial borrowings and borrowings between a
+0% parent entity and its subsidiaries. The revised
+-1.2% -0.5% -0.3% framework increases this threshold to Rs 1,000 crore.
+-5%
+In addition, the following will not be considered a part
+Jul-23 Aug-23 Sep-23
+of the outstanding long-term borrowing: (i) grants or
+deposits received as per the directions of the central
+CPI Inflation Food Infaltion WPI Inflation
+government, (ii) borrowings arising on account of
+Note: CPI data for September 2023 is provisional. WPI data for interest capitalisation, and (iii) borrowings for the
+August and September 2023 is provisional. purposes of mergers and acquisitions. The revised
+Sources: MoSPI; Ministry of Commerce and Industry; PRS.
+framework will be applicable from April 1, 2024 or
+- 2-
+Monthly Policy Review – October 2023 PRS Legislative Research
+January 1, 2024, depending on the financial year SEBI constitutes working groups to
+followed by an entity. recommend simplification of regulations
+Pratinav Damani (pratinav@prsindia.org)
+Value of term deposits eligible for premature
+withdrawal increased
+The Securities and Exchange Board of India (SEBI) has
+Pratinav Damani (pratinav@prsindia.org) constituted 16 working groups to provide
+recommendations on the simplification of existing
+The Reserve Bank of India (RBI) has amended the regulations and review compliance requirements under
+Master Direction on Interest Rate on Deposits and the such regulations.13 These regulations apply to various
+Master Direction on Co-operative Banks – Interest Rate SEBI-regulated entities. These include: (i) equity listed
+on Deposits.8,9,10 Under these directions, banks are and debt issuer companies, (ii) mutual funds, (iii) stock
+allowed to accept term deposits without a premature brokers, (iv) alternative investment funds, and (v)
+withdrawal option. However, term deposits up to Rs portfolio managers.
+15 lakh must have a premature withdrawal facility. A
+Comments on aforesaid subjects are invited by
+term deposit is a deposit for a fixed term in which a
+November 6, 2023.
+bank pays interest on the deposit.11 As per the
+amendments, term deposits up to one crore rupees must
+Draft directions on risk mitigation of
+offer a premature withdrawal option. This shall also
+outsourced financial services released
+apply to Non-Resident (External) Deposit (NRE) and
+Non-Resident Ordinary Deposit (NRO) accounts. Pratinav Damani (pratinav@prsindia.org)
+Guidelines for Bima Vahaks released The Reserve Bank of India (RBI) has released the draft
+Reserve Bank of India (Managing Risks and Code of
+Pratinav Damani (pratinav@prsindia.org)
+Conduct in Outsourcing of Financial Services)
+Directions, 2023 for comments.14 The draft directions
+The Insurance Regulatory and Development Authority
+will apply to regulated entities such as commercial
+of India (IRDAI) released the Insurance Regulatory and
+banks, non-banking financial companies, and credit
+Development Authority of India (Bima Vahak)
+information companies. The draft directions seek to
+Guidelines, 2023.12 The guidelines will come into
+manage risks in activities that are outsourced by
+force when the Bima Vistaar scheme will be launched.
+regulated entities which can have a material impact on
+Bima Vistaar seeks to provide insurance cover for rural
+business. Regulated entities use outsourcing to reduce
+population. A Bima Vahak is an individual engaged
+costs or avail expertise not available internally. Key
+for providing insurance services. The guidelines aim to
+features of the draft directions include:
+deploy Bima Vahaks in every Gram Panchayat before
+December 31, 2024. Key features include:  Applicability: The directions will apply to
+material outsourcing arrangements. In such
+ Appointment and engagement: The Bima Vahak
+arrangements, certain activities are outsourced to
+can be a corporate or an individual appointed by
+third parties. In the event of failure of service or a
+the insurer for the sale of Bima Vistaar and other
+security breach, such arrangements can: (i) impact
+insurance products, and to facilitate policy and
+business operations, reputations, strategies, or
+claims servicing. The insurer will be responsible
+profitability, (ii) affect the ability of the entity to
+for the actions and conduct of Bima Vahaks
+comply with laws, or (iii) have a material impact
+engaged by them. Various consumer protection
+on consumers of the entity. Activities that can be
+measures will be implemented. These include: (i)
+outsourced include: (i) application processing (for
+Bima Vahaks will only collect insurance
+loans or credit cards), (ii) middle and bank office
+premiums, (ii) ID cards will be issued to the Bima
+operations (electronic funds transfer, custody
+Vahaks, (iii) collection of premiums will be done
+operations, and order processing), and (iii) cash
+through electronic handheld devices, and (iv)
+management. Activities that cannot be outsourced
+contact details of the grievance redressal officer
+include core management functions such as policy
+shall be prominently displayed at retail outlets of
+formulation, according sanctions for loans,
+corporate Bima Vahaks.
+management of investment portfolios, compliance
+ Formulation of policy: The Life Insurance functions, and internal audits.
+Council and the General Insurance Council will
+ Regulation of outsourced activities: The draft
+develop a common set of operational and conduct
+directions do not require entities to seek approval
+standard for Bima Vahaks. These standards must
+from RBI before outsourcing. However, activities
+include: (i) minimum educational qualifications,
+outsourced will be scrutinised by the appropriate
+(ii) training requirements such as the KYC process
+supervisory authority (RBI, NABARD or NHB).
+and personal data protection, and (iii) the
+Entities will have to establish an inventory of
+maintenance of database including confidentiality
+services provided to them and their dependency on
+of data of all policies.
+- 3-
+Monthly Policy Review – October 2023 PRS Legislative Research
+third parties. They must also ensure that: (i) the option to marry under the 1954 Act. As marriage is a
+service provider does not interfere or impede in the concurrent subject, the Court concluded that it is within
+activities of the entity, (ii) the service provider is the domain of Parliament and the State Legislatures to
+not owned or controlled by director or key enact laws recognising same-sex marriage.18
+managerial personnel of the entity, and (iii)
+Further, in a 3:2 majority, the bench held that queer
+outsourcing arrangements do not affect the rights
+people cannot: (i) enter into civil unions and (ii) adopt
+of consumers. Regulated entities will be
+children. The Bench unanimously agreed that
+responsible for activities carried out in an
+transgender people in heterosexual relationships have
+outsourcing arrangement.
+the right to marry under the current legal framework.
+Comments are invited until November 28, 2023. Additionally, the Bench called for setting up a high-
+powered Committee chaired by the Cabinet Secretary,
+to evaluate the entitlements and rights of queer persons.
+Queer is an umbrella term used for individuals who are
+Agriculture not heterosexual.
+Tushar Chakrabarty (tushar@prsindia.org)
+Cabinet approves minimum support prices for Health
+Rabi crops for 2024-25
+Rutvik Upadhyaya (rutvik@prsindia.org)
+The Cabinet Committee on Economic Affairs approved
+the minimum support prices (MSP) for Rabi crops for
+Supreme Court permits use of donor gametes
+the 2024-25 marketing season.15 The MSP for wheat
+for surrogacy
+has been fixed at Rs 2,275 per quintal, an increase of
+7.1% over 2023-24. The following table shows the In an order, the Supreme Court permitted the use of
+MSPs notified for the marketing season 2024-25, donor gametes for surrogacy.19 It read down the
+compared to MSPs for 2023-24. Surrogacy (Regulation) Amendment Rules, 2023, that
+prohibited the use of donor gametes for an intending
+Table 1: MSPs approved for Rabi crops for the
+couple.20 An intending couple is one that has a medical
+2024-25 season (in Rs per quintal)
+condition that necessitates surrogacy.
+Crop 2023-24 2024-25 % change
+Wheat 2,125 2,275 7.1% Gametes are reproductive cells. Male gametes are
+Barley 1,735 1,850 6.6% sperm, whereas female gametes are eggs or oocytes.21
+Gram 5,335 5,440 2.0% In India, surrogacy is regulated under the Surrogacy
+Lentil (Regulation) Act, 2021 and the Surrogacy (Regulation)
+6,000 6,425 7.1%
+(Masur) Rules, 2022.21,22 The Act defines surrogacy as a
+Rapeseed practice where a woman gives birth to a child for an
+5,450 5,650 3.7%
+and Mustard intending couple or woman, and agrees to hand the
+Safflower 5,650 5,800 2.7% child over to them after the birth.21
+Sources: Press Information Bureau, Ministry of Agriculture and
+The Rules state that a woman may choose surrogacy if
+Farmers Welfare; PRS.
+she is faced with medical conditions such as a missing
+or abnormal uterus.22 The Court observed that such
+situations could also include the inability to produce
+Law and Justice her own eggs. It held the 2023 amendment to be in
+contradiction to this provision. It further held that
+Alaya Purewal (alaya@prsindia.org) restrictions on surrogacy cannot contradict the right of
+a woman to avail surrogacy in aforesaid circumstances.
+Supreme Court’s verdict on the same-sex
+The Act necessitates a child born out of surrogacy to be
+marriage plea
+genetically related to the intending couple. The Court
+The Supreme Court gave its verdict over the right to held genetic linkage with the father to be sufficient in
+marriage for same-sex couples.16 The question before cases where surrogacy medically requires donor eggs.
+the Court was whether the Special Marriage Act, 1954
+violated the fundamental right to equality and liberty by
+not recognising marriage between queer couples.17 The
+Supreme Court rejected the plea for a queer couple’s
+right to marry. The five-judge Bench unanimously
+agreed that there is no fundamental right to marry and
+same-sex marriages cannot be read into the 1954 Act.
+It stated that the intention of Parliament was to provide
+heterosexual couples belonging to different faiths the
+- 4-
+Monthly Policy Review – October 2023 PRS Legislative Research
+Power released under sub-section section (x) of section 14 of
+the Energy Conservation Act, 2001.27 The Act
+Renewable energy consumption obligation mandates that a certain amount of energy must be
+notified for the 2024-30 period consumed from non-fossil sources. The notification
+requires the coal/lignite-based power plants to supply a
+Priyadarshini Jain (priyadarshini@prsindia.org)
+minimum percentage of renewable energy (Table 3).
+For meeting this obligation, the plant operators may
+The Ministry of Power notified the minimum
+establish renewable energy generation capacity, or
+renewable energy consumption obligation for the 2024-
+procure from other generators and supply. The
+2030 period (as shown in Table 1).23 The notification
+obligation will be computed in terms of annual share of
+has been issued under the Energy Conservation Act,
+RE generation in the total generation by the plant (both
+2001.24 The Act empowers the central government to
+conventional and RE generation taken together).
+mandate certain consumers to use a minimum amount
+of energy from non-fossil sources. The obligation will Table 3: Proposed timeline to meet renewable
+have to be met directly, or through purchase of generation obligation
+renewable energy certificates (issued to those Minimum
+Commercial
+surpassing their target). renewable Date for
+operation date of
+generation compliance
+generating station
+Table 2: Year-wise and source-wise minimum obligation (%)
+renewable energy consumption obligation On or before March 6% April 1, 2026
+Year Wind Hydro Dist. Other Total 31, 2023 10% April 1, 2028
+RE
+April 1, 2023 to
+2024-25 0.7% 0.4% 1.5% 27.4% 29.9% 10% April 1, 2025
+March 31, 2025
+2025-26 1.5% 1.2% 2.1% 28.2% 33.0%
+From the date of
+2026-27 2.0% 1.3% 2.7% 29.9% 36.0% April 1, 2025 10% commercial
+onwards
+2027-28 2.5% 1.4% 3.3% 31.6% 38.8% operation
+2028-29 3.0% 1.4% 3.9% 33.1% 41.4% Sources: No. 09/02/2022-RCM/NRE, Draft Notification on
+2029-30 3.5% 1.3% 4.5% 34.0% 43.3% Renewable Generation Obligation, Ministry of Power; PRS.
+Note: Dist. refers to Distributed. The renewable energy may be supplied on commercial
+Sources: S.O. 4617 (E), Ministry of Power; PRS.
+principles, independent of existing agreements for
+Key features of the notification include: purchase of its conventional power. The obligation
+will not apply to captive generators. Captive
+ Applicability: The obligation will apply to: (i)
+generators are entities which produce power for their
+electricity distribution licensees, and (ii) open
+own consumption. Failure to fulfil the obligation will
+access consumers and captive users among other
+attract a penalty as specified in the Act (up to Rs 10
+designated consumers under the Act. Designated
+lakh).27 Every subsequent non-compliance will attract
+consumers include industries such as mining
+a maximum penalty of Rs 10,000 per day.
+transport, and commercial buildings. Open access
+consumers are those who procure power from
+R&D roadmap for green hydrogen released
+generators directly. Captive users are entities that
+generate electricity for their own consumption. Priyadarshini Jain (priyadarshini@prsindia.org)
+ From April 1, 2024, renewable purchase obligation
+The Ministry of New and Renewable Energy released
+(RPO) for distribution licensees under the
+an R&D roadmap for a green hydrogen ecosystem in
+Electricity Act, 2003 will cease to exist.25 Note
+India.28 This roadmap has been proposed under the
+that RPO also includes an obligation to utilise
+National Green Hydrogen Mission. The Mission has
+energy storage systems.
+been set up to promote green hydrogen and its derived
+ For open-access consumers and captive users, the products such as green ammonia and green methanol.29
+consumption obligation will apply to the extent of The roadmap identifies R&D projects in the areas of
+consumption from sources other than distribution green hydrogen production, storage, transport, end-use
+licensees. Further, source-specific targets will not applications, and safety. It focuses on developing new
+apply to them. materials, technologies, and infrastructure to improve
+the efficiency, reliability, and cost-effectiveness of
+Draft notification on renewable generation green hydrogen.
+obligation released for feedback
+The roadmap seeks to facilitate a public-private
+Pratinav Damani (pratinav@prsindia.org) partnership framework for R&D. It recommends
+setting up a dedicated R&D fund and attracting venture
+The Ministry of Power released a draft notification on capital. It proposes to establish centres of excellence in
+the renewable generation obligation for coal/lignite- the area of green hydrogen. It also recommends
+based power plants.26 The notification has been fostering a network of industry, academia, and
+- 5-
+Monthly Policy Review – October 2023 PRS Legislative Research
+government, to ensure seamless transfer and Draft Rules to label eco-friendly products *
+commercialisation of new technology.
+The Ministry of Environment, Forest and Climate
+Change notified the Draft Ecomark Certification Rules,
+2023 under the Environment Protection Act, 1986.33
+The Rules have been framed in pursuance of the
+Environment
+‘Ecomark’ Scheme, 1991.34 The Scheme provides for
+Mandvi Gaur (mandvi@prsindia.org) the accreditation of consumer products meeting certain
+environmental standards. The Draft Rules seek to
+Rules to enhance battery waste management promote eco-friendly products. Key features include:
+regulations notified
+ Criteria for Ecomark: Criteria for each
+product/product category will be notified by the
+The Ministry of Environment, Forest and Climate
+central government. Certification for quality and
+Change notified amendments to the Battery Waste
+Management Rules, 2022.30,31 The Rules have been safety from national or international Standards
+framed under the Environment Protection Act, 1986.32 bodies, or mandate of quality control orders will be
+pre-requisite for Ecomark. Products will be
+The Rules introduced Extended Producer
+examined on grounds such as use of natural
+Responsibility (EPR) for battery producers, to ensure
+resources and emissions and waste from
+environmentally sound management of batteries. The
+production processes as compared to similar
+Amendment includes mandatory waste battery
+products, and suitability for recycling.
+collection, recycling or refurbishment targets for
+electric vehicles battery among other changes. Key  Role of CPCB: The Central Pollution Control
+features of the Amendment include: Board (CPCB) will administer the Rules.
+Responsibilities of the CPCB include: (i)
+ Functions of producer: Under the 2022 Rules,
+identifying products to be covered, (ii) constituting
+producers are responsible for recycling or
+technical committees to develop criteria for
+refurbishing batteries they introduced to the
+certification, (iii) empanelling and registering
+market. The Amendments widen the ambit to
+Ecomark verifiers, and (iv) issuing E certificate.
+include batteries used by producers for their own
+CPCB may also review, suspend, or cancel a
+purposes. They introduce mandatory waste battery
+certificate. Under the Rules, Ecomark verifiers
+collection, recycling or refurbishment targets for
+may be designated to verify compliance, undertake
+electric vehicle battery of three wheelers, including
+conformity assessment, and submit report to CPCB
+e-rickshaw and e-cart. For instance, for the year
+for grant or renewal of certificate.
+2026-2027, the mandatory waste battery collection
+target and 100% of refurbishment or recycling of  Steering committee: The Rules constitute a
+the collection target in terms of weight, must be at Steering Committee to oversee the
+least 70% of the quantity of battery placed in the implementation. The Committee may also levy
+market in 2021-22. penalties for false disclosures or claims.
+ EPR certification: As per the Amendments, the  Market surveillance: The Rules require CPCB to
+CPCB will ensure that each EPR certificate is conduct market surveillance by itself or through
+issued based on the weight of processed or empanelled third-parties. This will include picking
+refurbished waste batteries. It will also set the samples from market and raiding suspected places.
+highest and lowest prices for EPR certificates. The
+cost associated with obtaining an EPR certificate
+Rules on award of green credits to incentivise
+depends on size, and nature of the business.
+environmental actions notified
+Electronic trading platforms for EPR certificates
+may be established for trading between obligated The Ministry of Environment, Forest and Climate
+entities, following CPCB guidelines. Producers Change notified the Green Credit Rules, 2023.35 The
+are automatically registered as producer of waste Rules seek to create a market mechanism to incentivise
+battery, if the CPCB does not reject their actions relating to protection, preservation, or
+application within two weeks. Further, the CPCB conservation of the environment. Green credits will be
+will prepare an annual report, which will include awarded for voluntary action in specified areas
+EPR targets, recycling, and environmental including: (i) tree plantation, (ii) waste management,
+compensation utilisation. The CPCB will also (iii) sustainable building and infrastructure, and (iv)
+share relevant producer information with the State reducing air pollution. Such credits may subsequently
+Pollution Control Boards through an online portal. be traded. Key features of the Rules include:
+ Methodology: Thresholds and benchmarks will
+be developed for each activity for the issuance of
+* Corrections made on November 2, 2023.
+- 6-
+Monthly Policy Review – October 2023 PRS Legislative Research
+green credits. The value of green credit will be the market, and (ii) pre-consumer waste generated.
+based on factors quantifying the environmental The Bureau of Indian Standards will prescribe
+impact of these activities. Such factors include separate colour/ marking for these plastics. Each
+resource requirements, scale, and scope. item must bear labelling of the time and site
+required by it to biodegrade.
+ Steering Committee: A Steering Committee will
+be set up which will be responsible for the  Role of local authorities: Every local body and
+governance of the programme. It will consist of Panchayati Raj Institution at district level will
+members from certain Ministries, domain experts, perform multiple duties including: (i) assessing
+industry associations, and other stakeholders. the plastic waste management infrastructure, (ii)
+projection of plastic waste to be generated, and (iii)
+ Implementing agency: The Indian Council of
+framing and implementing byelaws.
+Forestry Research and Education will implement
+the programme. It will develop guidelines,
+processes, and procedures for the award and the
+trading of green credits. It will create a green
+Mines
+credit registry containing all information relating to
+the issuance, transfer, and acquisition of green
+Mandvi Gaur (mandvi@prsindia.org)
+credits. It will also accredit entities as Accredited
+Green Credit Verifiers to conduct verification for Amendment to determine prices of lithium,
+the grant of green credits.
+rare earth elements and niobium notified
+Draft methodology on green plantation was released for
+The Ministry of Mines notified amendments to the
+comments until November 6, 2023.
+Minerals (Other than Atomic and Hydro Carbons
+Energy Mineral) Concession Rules, 2016.39 The Rules
+Draft rules to enhance plastic waste
+lay down the processes and criteria for acquiring a
+management regulations, released prospecting license and mining lease. The Rules are
+framed under the Mines and Minerals (Development
+Mandvi Gaur (mandvi@prsindia.org)
+and Regulation) Act, 1957.40 The 2023 Amendment
+delisted six minerals, including lithium, niobium and
+The Ministry of Environment, Forest and Climate
+Change released draft amendment to the Plastic Waste
+rare earth elements from the list of atomic minerals.41
+Management Rules, 2016.36,37 The Rules have been This enables auction of these minerals to the private
+framed under the Environment Protection Act, 1986.38 sector. Key features of the Amendment Rules include:
+The Rules specify responsibilities for producers and  Calculation of Metal Prices: The Amendment
+manufacturers of plastic such as: (i) collection of used Rules provide the manner for calculation of
+multi-layered plastic, (ii) obtaining valid registration average sale price (ASP) of lithium, rare earth
+from Central/ State Pollution Control Board prior to elements and niobium. ASP is the key parameter
+production. The Draft Rules seek to update and for determining the value of minerals for which the
+enhance regulatory measures such as extended mineral block is being auctioned. It is an
+producer responsibility (EPR), management of pre- important factor for auctions, calculating revenue
+consumer plastic waste, and usage of compostable and for government, among other things.
+biodegradable plastics. Manufacturers will be required
+to register on the centralised online portal to sell/  The Indian Bureau of Mines (IBM) publishes the
+provide/ arrange plastic to be used as raw material. ASP of all metals in Indian Rupees. It is
+Key features of the Draft Rules include: determined by multiplying the price of metals by
+the average reference rate of the RBI for the
+ EPR Obligations: The Draft Rules extend EPR corresponding month, using prices published by
+obligations to manufacturers and importers of reputable metal exchange sources.
+plastic raw materials, including those dealing with
+micro and small enterprises. To avoid mixing of  Additionally, a recent amendment to the act makes
+plastic waste with solid waste, the EPR obligated changes in the second schedule of the Act.42 It sets
+entities, including the producers and importers of the royalty for lithium and niobium mining at 3%
+plastic raw material, can operate schemes to of average sale price (ASP), and for rare earth
+facilitate waste collection such as deposit refund oxide at 1% of the ASP.
+system. The scheme allows consumers to bring
+back their waste to collect a refundable deposit.
+ Management of compostable and biodegradable
+plastics: The Draft Rules introduces regulatory
+measures for compostable and biodegradable
+plastics. The manufacturers of these plastics must
+report on the quantum of: (i) plastics introduced in
+- 7-
+Monthly Policy Review – October 2023 PRS Legislative Research
+Table 4: Calculation of Prices locations. Geo-fencing is suggested to be applied
+ Metal  Basis  Marketplace to mine boundaries, unloading points, internal
+ Lithium weekly prices of London transportation routes, and other critical areas. This
+specified lithium Metal may allow for detection of any unusual activity.
+compounds Exchange
+ Blockchain for accounting: The Committee
+published monthly
+noted that the mining industry faces challenges in
+ Rare earth the percentage of United terms of manual processes, right from the
+elements individual rare States extraction to utilisation of mineral. It observed
+earth oxide Geological
+that blockchain technology can address these
+contained in the Survey
+issues by providing a transparent and secure
+ore multiplied by (USGS) or
+database for tracking the value chain and supply
+the average sale other
+chain of minerals. The Committee recommends
+price of such rare reputable
+earth oxide sources adopting blockchain technology in the mining
+ Niobium prices published United sector, starting with a pilot project for high-value
+by the USGS or States minerals like gold, copper, and zinc.
+other trusted Geological
+sources multiplied Survey
+by the average (USGS) or
+reference rate. other
+Information Technology
+reputable
+sources
+Pratinav Damani (pratinav@prsindia.org)
+Source: G.S.R 737(E), ‘The Minerals (Other than Atomic and Hydro
+Carbons Energy Mineral) Concession (Amendment) Rules, 2023’,
+Ministry of Mines; PRS. Report of working groups on AI released
+Committee submits report on misclassification The Ministry of Electronics and Information
+Technology had set up seven working groups to
+of iron ore grades and other minerals
+provide recommendations on various facets of
+The Committee constituted by Ministry of Mines Artificial Intelligence (AI) for India.44 These include
+(Chair: Dr. Veena Kumari Dermal) to examine the government data management, startups ecosystem
+issue of ‘misclassification of grades of iron ore and development, centres of excellence, skill development,
+other minerals’, submitted its report on October 4, computational infrastructure, and chipsets for AI. The
+2023.43 Misreporting of mineral grades, mis- Ministry released a report on the recommendations of
+representation of production data, and illegal these working groups. Key observations and
+transportation of minerals, affects state revenues. Key recommendations include:
+recommendations include:
+ Government data: The Draft National Data
+ System for mineral sampling and analysis: The Governance Policy, released by the Ministry in
+Committee noted that the major iron ore-producing 2022, had proposed setting up: (i) the India Dataset
+states (Odisha, Chhattisgarh, Jharkhand, and Platform, for making public datasets accessible for
+Karnataka) account for around 96% of India’s AI, and (ii) the National Data Management Office,
+iron-ore production. It observed that mineral a nodal agency for governing data collection,
+sampling and analysis should include: (i) an IT- processing, and management by the government.45
+enabled system for minimal human intervention, Two working groups have worked out the details
+(ii) technology suitable for large and small mines, for operationalising these initiatives. Key
+and (iii) a system that reduces time-taken in recommendations include: (i) setting up the
+sampling. The Committee recommended that state NDMO as an executive agency, (ii) the functions
+governments develop: (i) an IT-based grade of NDMO to include developing processes,
+information system for unbiased sampling, (ii) on standards, and guidelines for handling of data by
+the spot and automated sampling and (iii) various government entities, and (iii) encouraging
+mandatory videography of sampling process. non-government entities to contribute datasets to
+the Platform.
+ Transportation of minerals: The Committee
+suggested implementing GPS-enabled vehicles  Infrastructure: The working group on
+equipped with radio frequency identification computational infrastructure recommended setting
+(RFID) tags in mining operations. These RFID up best-in-class infrastructure at five locations in
+tags provide unique identification and record India. It also recommended that infrastructure
+information such as vehicle number, time, and should be offered as a service and transparent
+tonnage. This information can be checked online pricing models should be implemented. Further,
+at various points, including government private-sector investment in AI-based
+weighbridges, and plant locations. Further, it infrastructure should be encouraged with
+suggested using CCTV system at various mining
+- 8-
+Monthly Policy Review – October 2023 PRS Legislative Research
+incentives such as tax breaks, subsidies, and psychologists in school. To implement this, the
+public-private partnerships. guidelines recommend setting up Equitable and
+Inclusive Education Cells in districts, blocks,
+ Skill development: The working group on skills
+school clusters and schools. The Cell will be
+recommended integrating AI-related education
+responsible for: (i) supporting schools with
+starting from the secondary school level. It
+financial resources and (ii) monitoring activities
+observed that the curriculum needs rapid
+according to the guidelines.
+upgradation given the fast pace of development of
+the technology. It recommended setting up a  Home-based education: The guidelines
+central curriculum repository, from which a model recommend: (i) creating a record of students opting
+curriculum may be selected. It also observed that for home-based education at the district level, (ii)
+the quality of faculty is a significant concern, conducting audits of such students by a teacher,
+hence, training and upskilling programs should be (iii) equipping the home learning space with
+introduced for them. A mechanism for faculties to infrastructure for children with disabilities.
+intern with the industry should be developed.
+Draft Guidelines for suicide prevention in
+schools, released
+Education The Department of School Education and Literacy
+released guidelines for the prevention of suicide in
+Rutvik Upadhyaya (rutvik@prsindia.org) schools.47 The guidelines delineate risk factors
+associated with suicide and provide an action plan for
+Guidelines for equitable and inclusive schools to: (i) promote a positive environment, (ii)
+education, released build capacity for suicide prevention, and (iii) support
+students at risk. Key recommendations include:
+The Ministry of Education released the ‘Guidelines and
+Implementation Framework for Equitable and Inclusive  School Wellness Team: The guidelines
+Education’.46 These Guidelines are based on recommend setting up a School Wellness Team
+recommendations of the National Education Policy (SWT) in each school to aid students identified to
+(NEP), 2020. Under the NEP, recommendations for be at the risk of suicide. Such students are
+achieving equitable and inclusive education include: (i) identified based on warning signs that include
+ensuring universal access to early childhood care and withdrawal from social interaction, talk about self-
+education, (ii) improving children’s health and nutrition harm. If a student is identified as being at risk, the
+through community involvement in the schooling SWT will take immediate action that includes
+system, and (iii) curtailing dropout rates by offering approaching the student with care and preventing
+open and distance learning programmes. The self-harm. The SWT will also organise activities
+Guidelines are aimed at private schools, home based creating awareness about mental well-being. It
+education, open system of schooling and alternative will be headed by the school principal and will
+forms of schooling. Key recommendations include: include: (i) the school counsellor, (ii) one teacher
+from each school level (including middle and
+ Early Childhood Care and Education (ECCE):
+secondary), (iii) a parent representative, and (iv) a
+The NEP outlines that ECCE will be delivered
+school medical staff.
+through anganwadis, pre-schools, and the first and
+second grades of primary school. The Guidelines  Capacity building: The guidelines recommend
+recommend: (i) early identification and steps to build the capacity of stakeholders such as
+intervention for children with disabilities, (ii) teachers, students and parents, in preventing
+imparting foundational literacy and numeracy suicide. These include conducting orientation
+through local languages, signs, play-based programmes throughout the academic year that
+activities, and (iii) introducing ECCE programmes help: (i) recognise risk factors associated with
+in alternative forms of schooling, especially in suicide and identify warning signs in students, (ii)
+tribal areas. To implements these effectively use resources for mental health, such as
+recommendations, the Guidelines suggest counselling helplines, (iii) support students during
+sensitising and training teachers and anganwadi stressful experiences, such as exams. Such
+workers through certified ECCE courses. capacity building exercises for parents and school
+teachers will be conducted by school counsellors
+ Creating inclusive schools: Schools are
+or identified social workers.
+recommended to ensure the inclusion of all
+children by: (i) making the curriculum flexible and  Immediate response for students at risk: The
+socially accommodative, (ii) using oral, auditory guidelines delineate responses that can be directed
+and tactile aids in teaching, (iii) not rejecting towards students displaying warning signs of self-
+children due to lack of resources, and (iv) harm. Responses include: (i) approaching the
+providing access to speech therapists and student with care, (ii) speaking to them gently, (iii)
+- 9-
+Monthly Policy Review – October 2023 PRS Legislative Research
+listening to them attentively, (iv) suggesting they  Display of false lights: The 1937 Rules prohibit
+speak to a teacher or counsellor, (v) informing the display of any light which may be mistaken for
+members of the SWT about the situation. an aeronautical ground light or beacon in a five-
+kilometre radius of an aerodrome. The amended
+ Appraisal: The experience of implementing these
+Rules increase the radius where such lights are
+guidelines will be periodically analysed by the
+prohibited from five kilometres to around nine
+SWT and various stakeholders such as teachers
+kilometres (five nautical miles). The period to
+and parents. Insights gained from this review will
+extinguish such lights after notice is served has
+be used to improve existing plan of implementing
+been reduced from seven days to 24 hours. It also
+these guidelines.
+specifies that such lights will include lantern lights,
+wish kites, and laser lights.
+Commerce
+Annexure
+Pratinav Damani (pratinav@prsindia.org)
+The subjects identified by various Parliamentary
+National Turmeric Board constituted
+Standing Committees for examination are given below
+The Department of Commerce has constituted a in the table below. For a list of subjects identified by
+National Turmeric Board.48 India is the largest other committees, see our Monthly Policy Review of
+producer, consumer, and exporter of turmeric in the September 2023.
+world. The objectives of the Board include: (i)
+Table 5: Subjects identified by the Standing
+promote new product development and value addition
+Committees for examination during 2023-24
+in turmeric, (ii) facilitate market research in potential
+Housing and Urban Affairs
+international markets, (iii) facilitate creation and
+improvement of infrastructure and logistics for exports 1. Smart Cities Mission: An evaluation.
+2. Atal Mission for Rejuvenation and Urban Transformation
+of turmeric products, (iv) promote quality compliance
+(AMRUT) & AMRUT 2.0
+and safety standards, and (v) encourage studies, clinical
+3. Regional Rapid Transit System and role of NCRTC.
+trials, and research on the benefits of turmeric.
+4. Poverty Alleviation and creation of employment
+The 18-member Board includes: (i) a chairperson opportunities in Urban Areas: Deen Dayal Antyodaya
+Yojana- NULM.
+appointed by the central government, (ii) four members
+5. Swachh Bharat Mission (Urban).
+representing the Ministries/Departments of Commerce,
+6. Implementation of The Real Estate (Regulation &
+Agriculture, AYUSH and, Pharmaceuticals, (iii) three
+Development) Act, 2016 (RERA) in urban areas-A Review.
+members representing turmeric producing states on a 7. Redevelopment of General Pool Residential
+rotation basis, (iv) three members (nominated by the Accommodation (GPRA) colonies and measures for
+central government) representing turmeric growers, and augmentation of Government residential quarters.
+(v) the secretary of the Spices Board. The term of the 8. Review of functioning of NBCC, HUDCO, Hindustan Prefab
+chairperson and members shall be a maximum of three Limited (HPL), Directorate of Estates (DoE), Land and
+Development Office, NCRPB and DUAC.
+years from the date of appointment. The Board shall
+9. Review of functioning of DDA.
+hold at least two meetings in a year.
+10. Review of functioning of CPWD.
+11. Improving the standard and quality of living in urban cities-
+Decent housing, air quality, sewage treatment and drainage
+system, traffic management, etc.
+Civil Aviation 12. Slums - Redevelopment, Improvement, Resettlement,
+Rehabilitation: the way forward.
+Priyadarshini Jain (priyadarshini@prsindia.org) 13. Need for formulating Master Plans for every city in the
+country for holistic development and Review of
+Amendments to Aircraft rules notified Implementation of Previous Master Plan with special
+emphasis on Cities of religious importance.
+The Ministry of Civil Aviation notified amendments to 14. Regularization of illegal colonies.
+the Aircraft Rules, 1937.49,50 The 1937 Rules have 15. People Centric Training, Capacity Building and sources of
+been notified under the Aircraft Act, 1934.51 The Rules funding of the Urban Local Bodies (ULBs)/Municipal
+provide for licensing various aviation personnel Bodies.
+including pilots, air traffic controllers and aircraft 16. Review of progress of various schemes of the Ministry viz.
+maintenance engineers.50 Key amendments include: PMAY (U), PM SVANidhi, etc..
+ Extension of license validity: The validity of the Railways
+license to operate aircraft for airline transport 1. New lines/gauge conversion/ doubling/electrification and
+pilots and commercial pilots has been increased signalling in Indian Railways.
+2. Safety measures in Railway Operations.
+from five to 10 years. The validation of foreign
+3. Performance of Production Units and Railway Workshops
+licenses for operating is cancelled.
+of Indian Railways.
+- 10-
+Monthly Policy Review – October 2023 PRS Legislative Research
+4. Corporate Social Responsibilities (CSR) related activities of MSMEs in the changed economic scenario.
+PSUs of Indian Railways. 3. Initiatives taken for attracting investment and creating more
+5. Digitization in Indian Railways. job opportunities in the MSME Sector.
+6. Introduction of High Speed Trains. 4. Review of implementation of the policies and various
+7. National Projects and Strategic Lines of Indian Railways. programmes/ schemes for providing infrastructure and
+8. Last Mile Port connectivity with Indian Railways. support service to MSMEs.
+9. Increasing freight related earnings of Indian Railways. 5. Finding the ways to plug the shortcomings in the MSME
+10. Sub-urban train services of Indian Railways. Sector.
+11. Staff welfare measures in Indian Railways
+12. Financing of projects of Indian Railways. Ministry of Heavy Industries
+Consumer Affairs, Food and Public Distribution 1. Review of functioning of the Scheme on Enhancement of
+Competitiveness in the Indian Capital Goods Sector.
+Ministry of Consumer Affairs, Food & Public Distribution
+2. Reasons for low performance in the industrial sector and
+(Department of Food and Public Distribution)
+the measures taken by the Ministry to address the problem.
+3. Reasons for Industries becoming sick and alternative
+1. Food Security in India.
+measures to revive them.
+2. Post-harvest Management of Foodgrains: Storage,
+Transport and Distribution.
+Health and Family Welfare
+3. A Review of Foodgrains Procurement Scheme.
+1. Geriatric Healthcare in India.
+4. PMGKAY (Integrated Food Security Scheme): A new
+2. Cardio-vascular diseases in India-Preventive and Curative.
+paradigm in Food Security.
+3. Disease Surveillance System in the Country.
+5. Functioning of Warehousing Development and Regulatory
+4. Organ Transplantation in India.
+Authority (WDRA).
+5. Micronutrient Deficiency Diseases in Children- Control and
+6. Edible Oil Industry – A Review.
+Management.
+7. Strengthening Targeted Public Distribution System.
+6. Anti-Microbial Resistance in India.
+8. Transforming Fair Price Shops.
+7. Educational and Training Infrastructure in Nursing and
+Paramedics.
+Ministry of Consumer Affairs, Food & Public
+8. Ayushman Bharat-Health and Wellness Centers.
+Distribution (Department of Consumer Affairs)
+9. Implementation of Ayushman Bharat- Pradhan Mantri Jan
+Aarogya Yojana
+1. Protection of Consumer Rights on online platforms: e-
+10. Quality of Medical Education in India.
+commerce, dark patterns and social media influencers.
+11. Functioning of Central Government Health Scheme.
+2. Regulation of Packaged Commodities.
+12. Review of National Ayush Mission.
+3. Price Monitoring System of Essential Commodities.
+4. Initiatives in the North-East in the field of Consumer Rights Personnel, Public Grievances, Law and Justice
+Protection. 1. Review of functioning of Tribunal System in the Country.
+5. Regulation of Weights and Measures with specific 2. Strengthening Legal Education in view of emerging
+reference to Dispensing Machines at Fuel Stations. challenges before the Legal Profession.
+6. Management Systems Certifications by BIS. 3. Appointment of Notaries.
+7. NTH Testing and calibration of products. 4. Strengthening of Institutional Arbitration in India.
+8. Consumer Commissions in India. 5. Handling of Litigation by the Central Government.
+9. Technological interventions in consumer outreach program. 6. Review of the working of Legal Aid under the Legal
+10. Assaying and Hallmarking Centers: An Assessment. Services Authorities Act, 1987.
+11. Consumer Cooperatives. 7. Review of Judicial Infrastructure.
+12. Prevention of misuse of Emblems and Names. 8. Review of Personal Laws.
+9. Strengthening the Process of Legislative Drafting.
+Industry 10. Review of the Right to Information Act, 2005, and Working
+Ministry of Power of the Central Information Commission.
+11. Effectiveness of vigilance administration.
+1. Energy Security in India – Emerging Scenario. 12. Functioning of the Central Administrative Tribunal (CAT).
+2. Energy Transition and Sustainability. 13. Functioning of the Central Vigilance Commission (CVC).
+3. Electrification of Rural India – Targets and Achievements. 14. Effective redressal of Grievances by Strengthening the
+4. Energy Efficiency and Conservation. Public Grievances System.
+5. Prospects of Thermal Power Plants in the light of enhanced 15. Judicial Processes and their reform:
+Renewable Energy Target. (i) Court proceedings and Judgements in regional
+6. Performance Review of Major Hydro Projects. languages.
+7. Evaluation of Power Transmission Sector – Development of (ii) Pendency of cases under Contempt of Court.
+Transmission Network and its Management. (iii) 24 x 7 Virtual Courts.
+8. Revamped Distribution Sector Scheme. (iv) Availability of Supreme Court and High Court
+9. Role of Power Sector Statutory Bodies, PSUs and Judgements in scheduled languages.
+Institutions in Development of Power Sector. (v) Live streaming of Supreme Court and High Court
+10. Promotion of Electric Vehicles in India. proceedings.
+16. Specific aspects of Election Processes and their reform:
+Ministry of New and Renewable Energy
+(i) Initiatives for improving voter turnouts.
+1. Innovation and Technology adoption in MSMEs to enhance (ii) Remote voting/e-postal ballets for Indians residing
+competitiveness and sustainability. overseas.
+2. Development and enhancement of competitiveness of
+- 11-
+Monthly Policy Review – October 2023 PRS Legislative Research
+Finance 5. Review of long-term public finances and debt at Centre and
+1. Performance review and regulation of insurance and States.
+banking sectors. 6. Monetization of public sector assets including
+2. Roadmap for $5 Trillion economy in light of global disinvestment and asset recycling.
+economic and geopolitical circumstances. 7. Formal and informal employment trends.
+3. India’s investment requirements for sustainable growth, 8. Global competitiveness of India’s direct tax regime.
+particularly for climate adaptation and mitigation. 9. Issues relating to Non-Banking Financial Companies
+4. Providing credit to the agricultural and rural sector including (NBFCs).
+appraisal of NABARD’s role.
+1 Resolution of the Monetary Policy Committee (MPC), Monetary 13 PR 24/2023: Working Groups to recommend on simplification,
+Policy Statement, 2023-24, October 6, 2023, ease of compliance and reduction in cost of compliance; suggestions
+https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1052MPCA4D invited, SEBI, October 4, 2023, https://www.sebi.gov.in/media-and-
+05BE856254A358DDF3ABB23E1BEC9.PDF. notifications/press-releases/oct-2023/working-groups-to-recommend-
+2 “Retail Inflation Eases To 5 Per Cent in September, 2023”, Press on-simplification-ease-of-compliance-and-reduction-in-cost-of-
+Information Bureau, Ministry of Statistics and Programme compliance-suggestions-invited_77632.html.
+Implementation, October 12, 2023, 14 Draft Master Direction on Managing Risks and Code of Conduct in
+https://pib.gov.in/PressReleasePage.aspx?PRID=1967118. Outsourcing of Financial Services, RBI, October 26, 2023,
+3 “Index Numbers of Wholesale Prices in India for the Month of https://rbidocs.rbi.org.in/rdocs/Content/PDFs/DRAFTMDOUTSOUR
+September, 2023(Base Year: 2011-12)”, Press Information Bureau, CING5EEA56E884E74229A857FF37AC470C2D.PDF.
+Ministry of Commerce and Industry, October 16, 2023, 15 “Cabinet approves Minimum Support Prices (MSP) for Rabi Crops
+https://pib.gov.in/PressReleasePage.aspx?PRID=1968013. for Marketing Season 2024-25”, Press Information Bureau, Ministry
+4 Regulation of PA-CBs, RBI, October 31, 2023, of Agriculture and Farmers Welfare, October 18, 2023,
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/PACBCIRCULAR https://pib.gov.in/PressReleasePage.aspx?PRID=1968731.
+DB9DB5A2DA544A44968A009E5CA07983.PDF. 16 Writ Petition (c) No. 1011 of 2022, Supriyo @ Supriya
+5 Guidelines on Regulation of Payment Aggregators and Payment Chakraborty v. Union of India, Supreme Court, October 17,
+Gateways, RBI, March 17, 2020, 2023,https://main.sci.gov.in/supremecourt/2022/36593/36593_2022_
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT17460E0944781 1_1501_47792_Judgement_17-Oct-2023.pdf.
+414C47951B6D79AE4B211C.PDF. 17 The Special Marriage Act, 1954,
+6 Ease of doing business and development of corporate bond markets https://www.indiacode.nic.in/bitstream/123456789/15480/1/special_
+– revision in the framework for fund raising by issuance of debt marriage_act.pdf.
+securities by large corporates (LCs), Securities and Exchange Board 18 Entry 5, List III, Seventh Schedule, The Constitution of India,
+of India, October 19, 2023, https://www.mea.gov.in/Images/pdf1/S7.pdf.
+https://www.sebi.gov.in/legal/circulars/oct-2023/ease-of-doing- 19 Writ Petition (Civil) no. 830/2023, ABC vs. Union of India,
+business-and-development-of-corporate-bond-markets-revision-in- Supreme Court, October 18, 2023,
+the-framework-for-fund-raising-by-issuance-of-debt-securities-by- https://main.sci.gov.in/supremecourt/2022/26590/26590_2022_15_50
+large-corporates-lcs-_78237.html. _47762_Order_18-Oct-2023.pdf.
+7 Consultation paper on review of framework for borrowings by 20 G.S.R.179(E)., Ministry of Health and Family Welfare, March 14,
+Large Corporates, Securities and Exchange Board of India, August 2023,
+10, 2023, https://www.sebi.gov.in/reports-and-statistics/reports/aug- https://egazette.gov.in/(S(cbueuuunl230guwxtycybqra))/ViewPDF.as
+2023/consultation-paper-on-review-of-framework-for-borrowings- px.
+by-large-corporates_75179.html.
+21 Surrogacy (Regulation) Act, 2021, Ministry of Health and Family
+8 Non-Callable Deposits - Master Direction on Interest Rate on Welfare,
+Deposits, RBI, October 26, 2023, https://www.indiacode.nic.in/bitstream/123456789/17046/1/A2021-
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NONCALLALBET 47.pdf
+ERMDEPOSITS71750C5E1EB24693A092BEE2620995B0.PDF.
+22 Surrogacy (Regulation) Rules, 2022, Ministry of Health and
+9 Master Direction - Reserve Bank of India (Interest Rate on Family Welfare,
+Deposits) Directions, 2016, RBI, March 3, 2016, https://upload.indiacode.nic.in/showfile?actid=AC_CEN_12_72_000
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/19MD136AF73A74 02_202147_1643711958603&type=rule&filename=surrogacy_rules.
+2648C4B28FDEADCBA16D23.PDF. pdf.
+10 Master Direction - Reserve Bank of India (Co-operative Banks - 23 S.O. 4617 (E), Ministry of Power, The Gazette of India, October
+Interest Rate on Deposits) Directions, 2016, RBI, 20, 2023, https://egazette.gov.in/WriteReadData/2023/249637.pdf.
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/DCBRMD110516C
+24 Section 14 (g), The Energy Conservation Act 2001,
+62F00D1128942A6A27D6CB408554D4C.PDF.
+https://www.indiacode.nic.in/bitstream/123456789/2003/1/A2001-
+11 FAQs: Domestic Deposits, RBI, September 15, 2005, 52.pdf.
+https://www.rbi.org.in/commonperson/English/Scripts/FAQs.aspx?Id
+25 F. No. 09/13/2021-RCM, Ministry of Power, July 22, 2022,
+=3371#:~:text=The%20term%20deposit%20is%20a,the%20request%
+https://powermin.gov.in/sites/default/files/webform/notices/Renewab
+20of%20the%20customer..
+le_Purchase_Obligation_and_Energy_Storage_Obligation_Trajectory
+12 Insurance Regulatory and Development Authority of India (Bima
+_till_2029_30.pdf.
+Vahak) Guidelines, 2023, IRDAI, October 9, 2023,
+26 No. 09/02/2022-RCM/NRE, Draft Notification on Renewable
+https://irdai.gov.in/documents/37343/366029/%E0%A4%86%E0%A
+Generation Obligation, Ministry of Power, October 6, 2023,
+4%88%E0%A4%86%E0%A4%B0%E0%A4%A1%E0%A5%80%E
+https://powermin.gov.in/sites/default/files/webform/notices/Draft_No
+0%A4%8F%E0%A4%86%E0%A4%88+%E0%A4%AC%E0%A5%
+tification_on_Renewable_Generation_Obligation.pdf.
+80%E0%A4%AE%E0%A4%BE+%E0%A4%B5%E0%A4%BE%E0
+%A4%B9%E0%A4%95+%E0%A4%A6%E0%A4%BF%E0%A4% 27 The Energy Conservation Act, 2001,
+B6%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0 https://www.indiacode.nic.in/bitstream/123456789/2003/1/A2001-
+%A5%8D%E0%A4%A6%E0%A5%87%E0%A4%B6%2C+2023+_ 52.pdf.
++IRDAI+Bima+Vahak+Guidelines%2C+2023.pdf/5e7364ec-bb19-
+8667-1ebd-6bdee101df6a?version=1.0&t=1696857828607.
+- 12-
+Monthly Policy Review – October 2023 PRS Legislative Research
+41 The Mines and Minerals (Development and Regulation)
+Amendment Act, 2023, Ministry of Law and Justice, August 9, 2023,
+28 R&D Roadmap for National Green Hydrogen Mission, Ministry of
+https://mines.gov.in/admin/download/64dc579c4f9e31692161948.pdf
+New and Renewable Energy, October 8, 2023,
+https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749 42 G.S.R. 736(E), Amendment to the Second Schedule to the Mines
+f3/uploads/2023/10/202310131572744879.pdf. and Minerals (Development and Regulation) Act, 1957, Ministry of
+Mines, October 12, 2023,
+29 National Green Hydrogen Mission, Ministry of New and
+https://mines.gov.in/admin/storage/app/uploads/652cc1d44e23a1697
+Renewable Energy, January 13, 2023,
+432020.pdf.
+https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749
+f3/uploads/2023/01/2023011390.pdf 43 “First Report of the Committee constituted by Ministry of Mines to
+examine the issue of misclassification of different grades of iron ore
+30 S.O. 4669 (E), ‘The Battery Waste Management (Amendment)
+and other minerals”, Committee on Mines, October 4, 2023,
+Rules, 2023’, The Gazette of India, Ministry of Environment, Forest
+https://mines.gov.in/admin/storage/app/uploads/651d24016fd6a1696
+and Climate Change, October 25, 2023,
+408577.pdf.
+https://egazette.gov.in/(S(10nh2hr53ubezp3u14hqqjem))/ViewPDF.a
+spx. 44 IndiaAI 2023: Expert Group Report – First Edition, Ministry of
+Electronics and Information Technology, October 14, 2023,
+31 The Battery Waste Management Rules, 2022, Central Pollution
+https://www.meity.gov.in/writereaddata/files/IndiaAI-Expert-Group-
+Control Boards, August 22, 2022,
+Report-First-Edition.pdf.
+https://cpcb.nic.in/uploads/hwmd/Battery-WasteManagementRules-
+2022.pdf. 45 Draft National Data Governance Framework Policy, Ministry of
+Electronic and Information Technology, May 2022,
+32 The Environment (Protection) Act, 1986, Central Pollution Control
+https://www.meity.gov.in/writereaddata/files/National-Data-
+Board, May 23, 1986,
+Governance-Framework-Policy.pdf.
+https://cpcb.nic.in/displaypdf.php?id=aG9tZS9lcGEvZXByb3RlY3R
+fYWN0XzE5ODYucGRm. 46 National Guidelines and Implementation Framework on Equitable
+and Inclusive Education, National Council of Educational Research
+33 The Ecomark Certification Rules, 2023, Ministry of Environment,
+and Training,
+Forest and Climate Change eGazette, October 11, 2023,
+https://dsel.education.gov.in/sites/default/files/guidelines/NGIFEIE_d
+https://egazette.gov.in/WriteReadData/2023/249354.pdf , The
+osel.pdf.
+Environment (Protection) Act, 1986, Central Pollution Control
+Board, May 23, 1986, 47 Understand, Motivate, Manage, Empathize, Empower, Develop
+https://cpcb.nic.in/displaypdf.php?id=aG9tZS9lcGEvZXByb3RlY3R (UMMEED): Prevention of Suicide - Guidelines for Schools,
+fYWN0XzE5ODYucGRm. Department of School Education & Literacy, Ministry of Education,
+https://dsel.education.gov.in/sites/default/files/update/Draft_UMMEE
+34 Scheme on Labelling of Environment Friendly Products
+D_Guielines.pdf.
+(Ecomark), 1991, Ministry of Environment & Forests, February 20,
+1991, 48 F.No. 2/2/2023-Plant-D, Ministry of Commerce and Industry,
+https://nagarikmancha.org/images/SCHEME%20ON%20LABELLIN October 4, 2023,
+G%20OF%20ENVIRONMENT%20FRIENDLY%20PRODUCTS% https://egazette.gov.in/WriteReadData/2023/249157.pdf.
+20%28ECO-MARK%29.pdf. 49 G.S.R. 733 (E), Ministry of Civil Aviation, October 10, 2023,
+35 S.O. 4458 (E), ‘The Green Credit Rules, 2023’, The Gazette of https://egazette.gov.in/WriteReadData/2023/249315.pdf.
+India, Ministry of Environment, Forest and Climate Change, October 50 The Aircraft Rules, 1937, Ministry of Civil Aviation,
+12, 2023, https://egazette.gov.in/WriteReadData/2023/249377.pdf. https://upload.indiacode.nic.in/showfile?actid=AC_CEN_36_0_0001
+36 G.S.R. 744(E), ‘The Plastic Waste Management (Second 3_193422_1523351174422&type=rule&filename=Aircraft%20Rules
+Amendment) Rules, 2023’, The Gazette of India, Ministry of %201937.pdf.
+Environment, Forest and Climate Change, October 16, 2023, 51 The Aircraft Act, 1934, Ministry of Civil Aviation,
+https://egazette.gov.in/WriteReadData/2023/249510.pdf. https://lddashboard.legislative.gov.in/sites/default/files/A1934-
+37 The Plastic Waste (Management and Handling) Rules, 2016, Tamil 22_0.pdf.
+Nadu Pollution Control Board, February, 16, 2022,
+DISCLAIMER: This document is being furnished to you for your
+https://tnpcb.gov.in/pdf_2022/PWMAmendmentsRules4522.pdf.
+information. You may choose to reproduce or redistribute this
+38 The Environment (Protection) Act, 1986, Central Pollution Control report for non-commercial purposes in part or in full to any other
+Board, May 23, 1986, person with due acknowledgement of PRS Legislative Research
+https://cpcb.nic.in/displaypdf.php?id=aG9tZS9lcGEvZXByb3RlY3R (“PRS”). The opinions expressed herein are entirely those of the
+fYWN0XzE5ODYucGRm. author(s). PRS makes every effort to use reliable and
+39 G.S.R. 737(E), ‘The Minerals (Other than Atomic and Hydro comprehensive information, but PRS does not represent that the
+Carbons Energy Mineral) Concession (Amendment) Rules, 2023’, contents of the report are accurate or complete. PRS is an
+The Gazette of India, Ministry of Mines, October 12, 2023, independent, not-for-profit group. This document has been
+https://mines.gov.in/admin/storage/app/uploads/652cc16a446b81697 prepared without regard to the objectives or opinions of those who
+431914.pdf. may receive it
+40 The Mines and Minerals (Development and Regulation) Act, 1957,
+Indian Bureau of Mines, Nagpur, August, 2012,
+https://ibm.gov.in/writereaddata/files/07102014115602MMDR%20A
+ct%201957_10052012.pdf.
+- 13-

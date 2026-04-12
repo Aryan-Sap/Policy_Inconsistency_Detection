@@ -1,0 +1,138 @@
+{
+  "created_at": "2026-04-12T16:14:21",
+  "claims_checked": [
+    "Online money gaming services shall be permitted without restriction."
+  ],
+  "retrieved_candidates": 8,
+  "conflicts_found": 1,
+  "results": [
+    {
+      "claim": "Online money gaming services shall be permitted without restriction.",
+      "source_file": "Bill_Text-Online_Gaming_Bill_2025.txt",
+      "doc_type": "bill",
+      "chunk": 17,
+      "retrieval_score": 0.7915767431259155,
+      "nli_label": "not_entailment",
+      "nli_score": 0.5256732106208801,
+      "heuristic_score": 0.55,
+      "conflict": true,
+      "conflict_type": "direct",
+      "candidate_text": "No person shall offer, aid, abet, induce or otherwise indulge or engage in Prohibition of the offering of online money game and online money gaming service.",
+      "source_path": "C:\\Users\\aryan\\OneDrive\\Desktop\\project\\dataset\\text\\Bill_Text-Online_Gaming_Bill_2025.txt"
+    }
+  ],
+  "all_candidates": [
+    {
+      "claim": "Online money gaming services shall be permitted without restriction.",
+      "source_file": "Bill_Text-Online_Gaming_Bill_2025.txt",
+      "doc_type": "bill",
+      "chunk": 17,
+      "retrieval_score": 0.7915767431259155,
+      "nli_label": "not_entailment",
+      "nli_score": 0.5256732106208801,
+      "heuristic_score": 0.55,
+      "conflict": true,
+      "conflict_type": "direct",
+      "candidate_text": "No person shall offer, aid, abet, induce or otherwise indulge or engage in Prohibition of the offering of online money game and online money gaming service.",
+      "source_path": "C:\\Users\\aryan\\OneDrive\\Desktop\\project\\dataset\\text\\Bill_Text-Online_Gaming_Bill_2025.txt"
+    },
+    {
+      "claim": "Online money gaming services shall be permitted without restriction.",
+      "source_file": "MPR_August_2025.txt",
+      "doc_type": "policy_report",
+      "chunk": 15,
+      "retrieval_score": 0.7031663656234741,
+      "nli_label": "not_entailment",
+      "nli_score": 0.9991100430488586,
+      "heuristic_score": 0.1,
+      "conflict": false,
+      "conflict_type": "none",
+      "candidate_text": "Bill to prohibit online money gaming passed by Parliament (p. 11) The Bill prohibits online money gaming and related services.",
+      "source_path": "C:\\Users\\aryan\\OneDrive\\Desktop\\project\\dataset\\text\\MPR_August_2025.txt"
+    },
+    {
+      "claim": "Online money gaming services shall be permitted without restriction.",
+      "source_file": "MPR_August_2025.txt",
+      "doc_type": "policy_report",
+      "chunk": 16,
+      "retrieval_score": 0.6574082374572754,
+      "nli_label": "not_entailment",
+      "nli_score": 0.9995744824409485,
+      "heuristic_score": 0.0,
+      "conflict": false,
+      "conflict_type": "none",
+      "candidate_text": "The prohibition pertains to games that involve users paying money or other stakes in expectation of receiving monetary or other enrichment.",
+      "source_path": "C:\\Users\\aryan\\OneDrive\\Desktop\\project\\dataset\\text\\MPR_August_2025.txt"
+    },
+    {
+      "claim": "Online money gaming services shall be permitted without restriction.",
+      "source_file": "Bill_Text-Online_Gaming_Bill_2025.txt",
+      "doc_type": "bill",
+      "chunk": 85,
+      "retrieval_score": 0.6548705697059631,
+      "nli_label": "not_entailment",
+      "nli_score": 0.9997434020042419,
+      "heuristic_score": 0.25,
+      "conflict": false,
+      "conflict_type": "none",
+      "candidate_text": "12.Accordingly, the Bill proposes to establish a robust legal framework, not only prohibit online money gaming in the country but also to regulate, promote and encourage the sector for innovation and economic growth and ensure a developed, safe and responsible digital environment for all citizens.",
+      "source_path": "C:\\Users\\aryan\\OneDrive\\Desktop\\project\\dataset\\text\\Bill_Text-Online_Gaming_Bill_2025.txt"
+    },
+    {
+      "claim": "Online money gaming services shall be permitted without restriction.",
+      "source_file": "Bill_Text-Online_Gaming_Bill_2025.txt",
+      "doc_type": "bill",
+      "chunk": 19,
+      "retrieval_score": 0.6469260454177856,
+      "nli_label": "not_entailment",
+      "nli_score": 0.9846199154853821,
+      "heuristic_score": 0.0,
+      "conflict": false,
+      "conflict_type": "none",
+      "candidate_text": "or induces any person to play any online money game or indulge in any activity promoting online money gaming.",
+      "source_path": "C:\\Users\\aryan\\OneDrive\\Desktop\\project\\dataset\\text\\Bill_Text-Online_Gaming_Bill_2025.txt"
+    },
+    {
+      "claim": "Online money gaming services shall be permitted without restriction.",
+      "source_file": "Bill_Text-Online_Gaming_Bill_2025.txt",
+      "doc_type": "bill",
+      "chunk": 3,
+      "retrieval_score": 0.6338471174240112,
+      "nli_label": "not_entailment",
+      "nli_score": 0.9907229542732239,
+      "heuristic_score": 0.0,
+      "conflict": false,
+      "conflict_type": "none",
+      "candidate_text": "AND WHEREAS considering the deleterious and negative impact of online money games on the individuals, families, society and the nation and given the technical aspects including the very nature of the electronic medium used for online money games, the algorithms applied and the national and transnational networks involved therein; AND WHEREAS many such services operate from offshore jurisdictions, bypassing domestic laws, undermining state-level regulations, and presenting significant enforcement challenges in terms of extra-territorial jurisdiction and inter-State inconsistencies; AND WHEREAS it is expedient in the public interest for the Union Government to assume legislative competence over the online gaming sector to ensure the creation of a secure, structured and innovation-friendly digital environment, while addressing the associated risks to public health, consumer safety, public morality and financial sovereignty; AND WHEREAS it is necessary to clearly delineate and categorise the various forms of online games and to provide a tailored legal framework to govern each sub-sector of the industry appropriately; BE it enacted by Parliament in the Seventy-sixth Year of the Republic of India as follows:–– CHAPTER I PRELIMINARY Short title, 1.",
+      "source_path": "C:\\Users\\aryan\\OneDrive\\Desktop\\project\\dataset\\text\\Bill_Text-Online_Gaming_Bill_2025.txt"
+    },
+    {
+      "claim": "Online money gaming services shall be permitted without restriction.",
+      "source_file": "Bill_Text-Online_Gaming_Bill_2025.txt",
+      "doc_type": "bill",
+      "chunk": 82,
+      "retrieval_score": 0.6324776411056519,
+      "nli_label": "not_entailment",
+      "nli_score": 0.9999103546142578,
+      "heuristic_score": 0.1,
+      "conflict": false,
+      "conflict_type": "none",
+      "candidate_text": "10 11 9.Considering the deleterious and negative impact of online money games on the individuals, families, society and the nation as outlined in the foregoing paragraphs and given the technical aspects including the very nature of the electronic medium used for online money games, the algorithms applied and the national and transnational networks involved, it is prudent and practical in the interest of general public to completely prohibit the activity of online money gaming, rather than attempts to regulation.",
+      "source_path": "C:\\Users\\aryan\\OneDrive\\Desktop\\project\\dataset\\text\\Bill_Text-Online_Gaming_Bill_2025.txt"
+    },
+    {
+      "claim": "Online money gaming services shall be permitted without restriction.",
+      "source_file": "Bill_Text-Online_Gaming_Bill_2025.txt",
+      "doc_type": "bill",
+      "chunk": 43,
+      "retrieval_score": 0.6253805160522461,
+      "nli_label": "not_entailment",
+      "nli_score": 0.99964439868927,
+      "heuristic_score": 0.0,
+      "conflict": false,
+      "conflict_type": "none",
+      "candidate_text": "Every person shall comply with any direction issued by the Central Compliance with Government in relation to online money gaming services.",
+      "source_path": "C:\\Users\\aryan\\OneDrive\\Desktop\\project\\dataset\\text\\Bill_Text-Online_Gaming_Bill_2025.txt"
+    }
+  ]
+}

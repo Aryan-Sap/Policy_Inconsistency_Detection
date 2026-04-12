@@ -1,0 +1,2524 @@
+AS INTRODUCED IN LOK SABHA
+Bill No. 65 of 2025
+THE INDIAN PORTS BILL, 2025
+ARRANGEMENT OF CLAUSES
+————
+CHAPTER I
+PRELIMINARY
+CLAUSES
+1. Short title, commencement and application.
+2. Definitions.
+CHAPTER II
+MARITIME STATE DEVELOPMENT COUNCIL
+3. Establishment of Council.
+4. Powers of Chairperson.
+5. Vacancies, etc., not to invalidate proceedings of Council.
+6. Functions of Council.
+7. Employees of Council.
+8. Grants by Central Government.
+9. Delegation of powers of Council.
+CHAPTER III
+PORT AND PORT LIMITS
+10. Port operations.
+11. Notification of new port and alteration of port limits.
+12. Adherence to national perspective plan and guidelines issued by the
+Council.
+CHAPTER IV
+STATE MARITIME BOARDS
+13. Establishment of State Maritime Board.
+14. Transfer of assets and liabilities, etc.
+15. Functions of State Maritime Board.
+CHAPTER V
+ADJUDICATION OF DISPUTES
+16. Resolution of disputes.
+17. Civil court not to have jurisdiction.
+CHAPTER VI
+PORT OFFICERS
+18. Appointment of conservator, harbour master and other port officers.
+19. Powers of conservator to issue directions.
+20. Removal of obstructions within port limits.
+21. Power to specify restrictions on activities within port limits.
+22. Fouling of moorings.
+23. Power to board vessels and enter buildings.
+(ii)
+CLAUSES
+24. Appointment and powers of health officer and prevention of contagious
+diseases.
+25. Indemnity of Government against act or default of port officers or pilot.
+CHAPTER VII
+SAFETY AND CONSERVATION OF PORTS
+26. Damage to property of port.
+27. Warping.
+28. Master to take order to extinguish fire.
+29. Offences in connection with safety of vessels, etc.
+30. Unauthorised person not to search for lost stores.
+31. Injuring banks or shores of port prohibited.
+32. Moving of vessels without pilot or permission of harbour master or port
+officer.
+33. Port officer to co-operate in manoeuvres for defence of port.
+34. Authority and Director-General to regulate certain activities.
+CHAPTER VIII
+PREVENTION, CONTAINMENT OF POLLUTION AND RESPONSE
+35. Definitions.
+36. Reception facilities.
+37. Direction to provide adequate reception facilities.
+38. Port waste reception and handling plans.
+39. Advance waste notice.
+40. Delivery of vessel-generated waste.
+41. Charges for vessel-generated waste.
+42. Audit of ports.
+43. Maintenance of information on portal.
+44. Measures for prevention or containment of pollution.
+45. Directions for securing compliance.
+CHAPTER IX
+LEVY OF FEES AND OTHER CHARGES
+46. Levy of fees and other charges.
+47. Port tariff.
+48. Receipt of fees or other charges.
+49. Owner, agent or master to report arrival.
+50. Detention and sale on refusal to pay fees or other charges.
+51. Grant of port-clearance.
+52. Master not to evade payment of fees or other charges.
+(iii)
+CHAPTER X
+PENALTIES AND PROCEDURES
+CLAUSES
+53.Offences and penalties.
+54.Authority for imposition of penalty and procedure therefor.
+55.Cognizance of offences.
+56.Penalty for wilful failure to comply with orders of Dispute Resolution
+Committee.
+57.Penalty for failure to furnish information, etc.
+58.Recovery of fine or penalty.
+59.Recovery of expenses and damages.
+60.Cost of distress.
+61.Magistrate to determine amount to be levied in case of dispute.
+62.Place of trial and jurisdiction.
+63.Offences by companies.
+CHAPTER XI
+MISCELLANEOUS
+64.Service of documents.
+65.Hoisting unlawful colours in port.
+66.Emergency preparedness and response plan.
+67.Reporting of incident.
+68.Shore based welfare services for seafarers.
+69.Port community system and vessel traffic service.
+70.Order for securing compliance.
+71.Prior clearance.
+72.Obligations of ports under international conventions.
+73.Notification of mega port.
+74.Chairperson, members, officers and employees of Council, etc., to be
+public servants.
+75.Application of certain laws.
+76.Power of Central Government to make rules.
+77.Power of State Government to make rules.
+78.Power of Central Government to make rules in consultation with State
+Governments.
+79.Power of Council to make regulations.
+80.Power of Council to issue guidelines.
+81.Laying of rules and regulations before Parliament and State Legislature.
+82.Protection of action taken in good faith.
+(iv)
+CLAUSES
+83.Power to amend Second Schedule.
+84.Power to remove difficulties.
+85.Repeal and savings.
+THE FIRST SCHEDULE.
+THE SECOND SCHEDULE.
+THE THIRD SCHEDULE.
+1
+AS INTRODUCED IN LOK SABHA
+Bill No. 65 of 2025
+THE INDIAN PORTS BILL, 2025
+A
+BILL
+to consolidate the law relating to ports, promote integrated port development,
+facilitate ease of doing business and ensure the optimum utilisation of India's
+coastline; establish and empower State Maritime Boards for effective
+management of ports other than major ports; establish the Maritime State
+Development Council for fostering structured growth and development of the
+port sector; provide for the management of pollution, disaster, emergencies,
+security, safety, navigation, and data at ports; ensure compliance with India’s
+obligations under international instruments to which it is a party; take
+measures for the conservation of ports; provide for adjudicatory mechanisms
+for the redressal of port-related disputes; and address matters connected
+therewith or incidental thereto.
+BE it enacted by Parliament in the Seventy-sixth Year of the Republic of India
+as follows:—
+CHAPTER I
+PRELIMINARY
+5 1. (1) This Act may be called the Indian Ports Act, 2025. Short title,
+commencement
+and application.
+2
+(2) It shall come into force on such date as the Central Government may, by
+notification in the Official Gazette, appoint; and different dates may be appointed
+for different provisions of this Act and any reference in any such provision to the
+commencement of this Act shall be construed as a reference to the commencement
+of that provision. 5
+(3) Save as otherwise provided in this Act, the provisions of this Act,—
+(a) shall apply to—
+(i) all ports to which the provisions of the Indian Ports Act, 1908 15 of 1908.
+applied immediately before the date of commencement of this Act;
+(ii) all new ports notified under sub-section (1) of section 11; 10
+(iii) any part of the navigable rivers or channels leading to such
+ports as may be notified by the appropriate Government in such form
+and manner as may be prescribed by the Central Government in
+consultation with the State Government;
+(iv) all vessels within port limits; and 15
+(v) all aircrafts making use of any part of the port, while on water,
+as they apply in relation to vessels; and
+(b) shall not apply to—
+(i) such port or navigable rivers or channels or vessels or class thereof,
+as the Central Government may, by notification, specify in this behalf; 20
+(ii) any vessel or aircraft making use of any part of the port
+belonging to or exclusively servicing, for military or non-commercial
+service of the Government, the Indian Navy, Indian Coast Guard,
+customs authorities, Central Armed Forces and police and other agencies
+as may be notified by the Central Government; 25
+(iii) any vessel belonging to or in the service of the Central
+Government or the State Government; or
+(iv) any foreign vessel of war.
+Definitions. 2. (1) In this Act, unless the context otherwise requires,—
+(a) “appropriate Government” or “Government”, in relation to major 30
+ports, means the Central Government; and in relation to ports other than major
+ports, means the State Government;
+(b) “Authority”, in relation to—
+(i) major ports, means—
+(A) the Board of Major Port Authority; or 35
+(B) the board of directors, in case a port is registered as a
+company under the Companies Act, 2013; and 18 of 2013.
+(ii) ports other than major ports, means the State Maritime Board
+of each State;
+(c) “Board of Major Port Authority” means the Board constituted by the 40
+Central Government under sub-section (1) of section 3 of the Major Port
+Authorities Act, 2021, for each major port; 1 of 2021.
+(d) “Chairperson” means the Chairperson of the Council;
+3
+(e) “coastal waters” means any part of the territorial waters of India, along
+with any part of the adjoining maritime zones of India within the meaning of the
+Territorial Waters, Continental Shelf, Exclusive Economic Zone and Other
+80 of 1976. Maritime Zones Act, 1976, or any other law for the time being in force;
+5 (f) “concessionaire” means any person who has been granted any right,
+licence, permit or authorisation, by whatever name called, by the Government
+or the Authority, including by way of a concession agreement, for conducting
+all or any activity within a port;
+(g) “conservator” means a person or body of persons appointed for each port
+10 or two or more ports by the Government under sub-section (1) of section 18;
+(h) “convention” means an international convention to which India is a party;
+(i) “Council” means the Maritime State Development Council
+established under section 3;
+(j) “equipment”, in relation to a vessel, includes boats, tackle,
+15 machinery, boilers, cargo handling gear, pumps and any fitting, anchor,
+propeller, apparels, furniture, life-saving appliances of every description,
+spars, masts, rigging and sails, fog signals, lights, shapes and signals of
+distress, medicines and medical and surgical stores and appliances, charts,
+radio installations, appliances for preventing, detecting or extinguishing fires,
+20 buckets, compasses, axes, lanterns, loading and discharging gears and
+appliances of all kinds and all other stores and spares or articles belonging to
+or to be used in connection with or necessary for navigation, propulsion,
+security, pollution prevention and safety of the vessel;
+(k) “existing port” means every port to which the provisions of the Indian
+15 of 1908. 25 Ports Act, 1908 applied, immediately before the commencement of this Act;
+(l) “Magistrate” means a person exercising powers of the Magistrate
+46 of 2023. under the Bharatiya Nagarik Suraksha Sanhita, 2023;
+(m) “major port” means any port declared as such by the Central
+Government by notification in the Official Gazette, to be a major port;
+30 (n) “master”, in relation to any vessel or aircraft making use of any port,
+means any person having for the time being the command or charge of the vessel
+or the aircraft, not being a pilot or harbour master or conservator of the port;
+(o) “mega port” means major port or port other than major port,
+classified as a mega port under section 73;
+35 (p) “mooring” means a fixed or floating structure or device which is used
+for the berthing and unberthing of any vessel or aircraft making use of a port,
+including shifting along the quayside, or is required for the safe operation of a
+waterborne vessel in the port or in the waterway access to the port;
+(q) “new port” means any port, other than an existing port, notified under
+40 sub-section (1) of section 11;
+(r) “notification” means a notification published in the Official Gazette
+and the term “notify” or “notified”, shall be construed accordingly;
+(s) “owner”, in relation to––
+(i) goods, includes any consignor, consignee, shipper or agent for
+45 the sale, custody, loading or unloading of such goods; and
+(ii) any vessel or aircraft making use of any port, includes any
+registered owner, charterer, consignee or mortgagee in possession
+thereof;
+4
+(t) “pilot” means any person for the time being authorised by the
+Government to pilot vessels;
+(u) “port” includes any terminal, offshore terminal, shipyard, repair yard,
+ship breaking yard, bunkering station, captive jetties or roadstead or port
+facility or single buoy mooring which is normally used for the fuelling, 5
+re-fuelling, loading, unloading, embarkation or disembarkation of passengers,
+warehousing, building or repair or anchoring of vessels, or any other place at
+which a vessel can call, and any part of the navigable river or channel to which
+this Act extends, but shall not include any ship recycling activities;
+(v) “port facility” means any location or area including anchorages or awaiting 10
+berths or approaches from seaward as determined by the Central Government, or
+such designated authority as the Central Government may, by notification, specify,
+where interface between vessels or a vessel and a port takes place;
+(w) “port limits” means the defined boundaries of the area of a port
+notified under sub-section (1) of section 11; 15
+(x) “port officer” means the conservator or harbour master or such other
+officers appointed under sub-sections (1) and (2) of section 18;
+(y) “port service provider” means a person who carries out all or any of
+the port works;
+(z) “port tariff” means a scale of rates published under sub-section (2) of 20
+section 47 for the fees or other charges leviable under section 46;
+(za) “port user” means any person who avails the services of a port
+including port works;
+(zb) “port works” includes,––
+(i) designing, constructing, extending, maintaining, removing or 25
+demolishing—
+(a) maritime structures and other buildings, structures,
+machineries, equipment and enclosures;
+(b) railways, roads, bridges and embankments;
+(ii) reclaiming land from the sea or a river and dredging; 30
+(iii) supplying water, fuel or electricity to the port;
+(iv) providing labour to the port;
+(v) construction of dry docks, cruise terminal and water transport
+terminal;
+(vi) construction of port infrastructure; and 35
+(vii) any other services as may be notified by the Government;
+(zc) “prescribed” means prescribed by rules made by the appropriate
+Government or by the Central Government in consultation with the State
+Government under this Act;
+(zd) “regulations” means regulations made by the Council under this Act; 40
+(ze) “Schedule” means a Schedule annexed to this Act;
+(zf) “security” means maritime security and includes any measures
+undertaken by the owners or operators or persons in charge of the vessels or
+management of port facilities, offshore installations and other marine
+organisations or establishments, or undertaken by the Central Government, to
+45
+protect ports or vessels or any person or thing relating directly or indirectly to
+maritime navigation,—
+5
+(i) against terrorism, sabotage, stowaways, illegal migrants,
+asylum seekers, piracy, armed robbery, seizure or pilferage; and
+(ii) against any other hostile act or influence, which threatens the
+security in the maritime transport sector;
+5 (zg) “State” means any State or Union territory in India having coastal
+location;
+(zh) “State Government”, in relation to a Union territory, means the
+Administrator thereof;
+(zi) “State Maritime Board” means the State Maritime Board referred to
+10 in sub-section (1) of section 13;
+(zj) “vessel” includes every description of water craft used or capable of
+being used in the marine environment, such as ship, boat, sailing vessel,
+fishing vessel, submersible, semi-submersible, hydrofoils, non-displacement
+crafts, amphibious crafts, wing-in-ground crafts, pleasure crafts, barges,
+15 lighters, mobile offshore drilling units, mobile offshore units, or of any other
+description whether fitted with mechanical means of propulsion or not.
+(2) Words and expressions used and not defined in this Act but defined in the
+1 of 2021. Major Port Authorities Act, 2021 or the Merchant Shipping Act, 1958, shall have
+44 of 1958. the meanings respectively assigned to them in those Acts.
+20 CHAPTER II
+MARITIME STATE DEVELOPMENT COUNCIL
+3. (1) The Central Government shall, by notification, establish, for the Establishment of
+purposes of this Act, a Council to be called the Maritime State Development Council.
+Council.
+25 (2) The Council shall consist of the following members, ex officio, namely:—
+(a) the Union Minister for Ports, Shipping and Waterways who shall be
+the Chairperson;
+(b) the Minister-in-charge of ports of each State;
+(c) the Minister-in-charge of the Union territory of Puducherry and the
+30 Administrators of all other coastal Union territories;
+(d) the Secretary or equivalent rank to the Government of India in the
+Indian Navy dealing with coastal security, to be nominated by the Central
+Government in the Ministry of Defence;
+(e) the Secretary or equivalent rank to the Government of India in the
+35 Indian Coast Guard dealing with coastal security, to be nominated by the
+Central Government in the Ministry of Defence;
+(f) the Secretary to the Government of India in the Ministry of Ports,
+Shipping and Waterways, who shall be the Member Secretary of the Council.
+(3) The Chairperson may invite such persons to the meetings of the Council,
+40 in such manner and subject to such conditions as may be specified by regulations.
+(4) The Council shall transact business at its meetings in such manner as may
+be specified by regulations.
+(5) No member shall receive any remuneration for the performance of its
+functions under this Act.
+45 (6) Notwithstanding anything in any other law for the time being in force, the
+office of a member of the Council shall not be deemed to be an office of profit.
+6
+Powers of 4. The Chairperson shall have the powers of general superintendence and
+Chairperson. directions in the conduct of the affairs of the Council and shall discharge other
+powers and functions of the Council as may be assigned to him under this Act.
+Vacancies etc., 5. No act or proceeding of the Council shall be invalid merely by reason of,—
+not to invalidate
+proceedings of (a) any vacancy in, or any defect in the constitution of, the Council; or 5
+Council.
+(b) any defect in the appointment of a person acting as a member of the
+Council; or
+(c) any irregularity in the procedure of the Council not affecting the
+merits of the case.
+'
+10
+Functions of 6. (1) The Council shall,—
+Council.
+(a) make recommendations to the Government on,—
+(i) the adequacy of the existing legal framework or statutory
+compliances, with a view to provide for a more efficient and conducive
+framework for ports in India;
+(ii) measures to facilitate growth of the port sector and to promote 15
+competition and efficiency in the operation of ports;
+(iii) port connectivity and assessing the requirement of other
+infrastructure through road, rail, inland waterways transport, pipeline
+and conveyor;
+(iv) any other matter relating to ports, as the Council may decide; and 20
+(v) any other matter as may be referred to it by the Central
+Government or the State Government;
+(b) discharge the following functions, in consultation with the Central
+Government and the State Governments, namely:—
+(i) to advise the Central Government on the formulation of the 25
+national perspective plan referred to in section 12;
+(ii) issue guidelines in respect of the following, namely:—
+(A) the data or information to be collected by ports and the
+manner of collection, storage, updation and submission of such
+30
+data or information to the Council;
+(B) to provide for the manner in which any information,
+records, data and research studies relating to ports, shall be
+disseminated, including the grant of public access thereto;
+(C) for ensuring transparency of port tariff;
+(c) perform such other functions including administrative and financial 35
+functions as may be entrusted to it by the Central Government.
+(2) While discharging its functions, the Council shall exercise transparency
+and take into account the optimum management and utilisation of the available
+coastline, appropriate cost of logistics through multi-modality, national
+development priorities, sustainability and issues of national security. 40
+(3) Where the Council considers it expedient so to do for the purpose of
+discharging its functions under sub-section (1), it may, by order in writing, call upon
+the Authority, port or any person, at any time to furnish in writing, such information
+as the Council may require.
+7
+7. (1) The Central Government may make available to the Council such Employees of
+officers and employees as it considers necessary for the efficient discharge of the Council.
+functions of the Council under this Act.
+(2) The salary and allowances payable to, and the other conditions of service
+5
+of the employees of the Council shall be such as may be prescribed by the Central
+Government.
+8. The Central Government may, after due appropriation made by Parliament Grants by
+Central
+by law in this behalf, make to the Council grants of such sums of money as are
+Government.
+' required by it to discharge its functions under this Act.
+10 9. The Council may, by general or special order in writing, delegate to any Delegation of
+member or employee of the Council, subject to such conditions, if any, as may be powers of
+Council.
+specified in the order, such of its powers and functions under this Act, except the
+power to make regulations or to issue guidelines, as it may deem necessary.
+CHAPTER III
+15 PORT AND PORT LIMITS
+10. No port shall commence or carry on operations therein unless it is,— Port operations.
+(a) an existing port; or
+(b) a new port notified under sub-section (1) of section 11:
+Provided that the Government may, by notification, declare a port or part
+20 thereof non-operational in the following cases, namely:—
+(i) if such port or part thereof has been non-operational for a continuous
+period of ten years; or
+(ii) in the interest of national security; or
+(iii) for any other reason, as the Government may deem fit.
+25 11. (1) The Government may notify a new port and alter the limits of any port: Notification of
+new port and
+Provided that any notification issued under this sub-section for alteration of alteration of port
+port limits shall not have retrospective effect. limits.
+(2) The Central Government in consultation with State Government shall
+prescribe the norms, form and manner for declaring a new port and for altering the
+30 port limits under sub-section (1).
+12. (1) The Central Government may formulate a national perspective plan so Adherence to
+national
+as to meet the requirements of the maritime trade and to prioritise associated
+perspective plan
+infrastructure development. and guidelines
+issued by the
+(2) The Central Government, State Governments and the Authority shall Council.
+35 endeavor to adhere to the national perspective plan formulated by the Central
+Government and the guidelines issued by the Council.
+CHAPTER IV
+STATE MARITIME BOARDS
+13. (1) Every State Maritime Board established or constituted by the State Establishment of
+State Maritime
+40 Government under the Acts specified in the Third Schedule, shall be deemed to be
+Board.
+duly established or constituted for the purposes of this Act:
+Provided that where the State Maritime Board has not been established or
+constituted, the State Government may, by notification, establish a State Maritime
+Board within six months from the date of commencement of this Act:
+8
+Provided further that where the functions of the State Maritime Board are
+discharged by a body of persons or a department of the State Government, that
+Government may notify such body of persons or department, as the State Maritime
+Board for the purposes of this Act.
+(2) The State Maritime Board shall be a distinct legal entity, having perpetual 5
+succession and a common seal, with power, subject to the provisions of this Act, to
+acquire, hold and dispose of property, both movable and immovable, and to contract
+and shall, by the said name, sue or be sued.
+(3) The head office of the State Maritime Board shall be at such place as the
+State Government may, by notification, specify in this behalf. 10
+14. (1) On and from the date of establishment or the date of notification of the
+Transfer of
+assets and State Maritime Board under sub-section (1) of section 13, the State Government
+liabilities, etc. shall transfer to the State Maritime Board, and vest, amongst other things,—
+(a) all port land, property, assets, funds, interest in property and all rights
+to levy rates vested in the State Government; 15
+(b) all rates, fees, rents and other sums of money due to the State
+Government; and
+(c) every employee serving under the State Government before such date
+solely or mainly for or in connection with affairs of the port.
+(2) All debts, obligations and liabilities incurred, all contracts entered into and 20
+all matters and things engaged to be done with or for the State Government till the
+date of establishment or the date of notification of the State Maritime Board under
+sub-section (1) of section 13, shall be deemed to have been incurred, entered into or
+done by, with or for the State Maritime Board, and all suits or other legal
+proceedings instituted by or against the State Government till the date of 25
+establishment or the date of notification of the State Maritime Board, be continued
+or instituted by or against the State Maritime Board.
+Functions of 15. (1) Every State Maritime Board shall be responsible for the effective
+State Maritime administration, control and management of ports other than major ports within the
+Board.
+territory of the respective State and for the said purpose, shall perform the following
+30
+functions, namely:—
+(a) initiating plans for development of ports;
+(b) promoting the use, development and improvement of ports;
+(c) executing such works within or outside the limits of ports and providing
+such appliances to ports, as the Board may deem expedient or necessary;
+35
+(d) exercising licensing functions in respect of infrastructure and
+services of ports;
+(e) exercising supervision and control over all port works, including port
+works contracted out to third parties;
+(f) regulating and controlling navigation within the limits and the
+40
+approaches to the ports;
+(g) fixing of port tariff;
+(h) developing new ports, subject to obtaining security clearance as per
+the guidelines issued by the Central Government;
+(i) protecting ecological balance and safeguarding social and 45
+environmental issues;
+(j) advising or issuing directions in relation to matters referred to the
+Board by the State Government;
+(k) providing or ensuring the provision of such other services and facilities
+which may be considered necessary for the efficient operation of ports;
+50
+(l) ensuring compliance with the provisions of this Act and the rules
+made thereunder;
+9
+(m) carrying out all other functions that are or may be notified by the
+State Government.
+(2) The State Maritime Board shall ensure transparency in the exercise of its
+powers and discharging of its functions.
+5 (3) The State Maritime Board may, for the purposes of discharging its
+functions under sub-section (1), issue such directions from time to time, in writing,
+to any port or port officer, as it may consider necessary, and such port or port officer
+shall comply with such directions.
+CHAPTER V
+10 ADJUDICATION OF DISPUTES
+16. (1) Every State Government shall, by notification, constitute a Dispute Resolution of
+Resolution Committee consisting of not less than three members, for the purposes
+disputes.
+of adjudicating any dispute arising between ports other than major ports,
+concessionaires, port users and port service providers within the State, unless the
+15 parties have agreed to arbitration or any other dispute resolution mechanism forming
+part of the concession agreement, licence, permit or authorisation.
+(2) An application for adjudication of any dispute referred to in
+sub-section (1) shall be made to the State Maritime Board in such form and manner
+as may be prescribed by the State Government and the State Maritime Board shall
+20 refer the application to the Dispute Resolution Committee.
+(3) The Dispute Resolution Committee shall, after giving the parties an
+opportunity of being heard, pass an order in writing within a period of six months
+from the date of receipt of the application by it:
+Provided that where the Dispute Resolution Committee is unable to dispose
+25 of such dispute within the stipulated period of six months, it may extend the period
+of disposal upto three months at a time, with reasons to be recorded in writing, but
+such period including extended period, shall not exceed twelve months in any case.
+(4) The Dispute Resolution Committee shall, for the purposes of discharging
+its function under sub-section (1), have the same powers as are vested in a civil court
+5 of 1908. 30 under the Code of Civil Procedure, 1908, while trying a suit in respect of the
+following matters, namely:—
+(a) the discovery and production of books of account and other
+documents;
+(b) summoning and enforcing the attendance of persons and examining
+35 them on oath;
+(c) issuing commissions for the examination of witnesses or documents; and
+(d) any other matter which may be prescribed by the State Government.
+(5) Any party aggrieved by an order of the Dispute Resolution Committee under
+sub-section (3), may prefer an appeal to the High Court of the appropriate jurisdiction,
+40 within sixty days from the date on which a copy of the order is received by the party.
+17. No civil court shall have jurisdiction to entertain any suit or proceeding in Civil court not to
+respect of any matter which the Dispute Resolution Committee is empowered by or have
+jurisdiction.
+under this Act to determine.
+CHAPTER VI
+45 PORT OFFICERS
+18. (1) The Government shall appoint such officers or body of persons to be Appointment of
+the conservator for every port, or for two or more ports. conservator,
+harbour master
+(2) Every port shall appoint a harbour master or such other officers of the port and other port
+as may be prescribed by the appropriate Government. officers.
+50 (3) The terms and condition of service of the officers appointed under
+sub-sections (1) and (2) shall be such as may be prescribed by the appropriate Government.
+10
+(4) The conservator shall be subject to the control of the Government and the
+Authority.
+(5) All officers operating in a port shall be subject to the supervision and
+control of the conservator.
+(6) The conservator may, with the approval of the Government, delegate such 5
+of its powers to such persons, as may be prescribed by the appropriate Government.
+Powers of
+19. (1) Subject to the provisions of this Act, the conservator may, with respect
+conservator to to any vessel within the port, issue such directions as may be necessary for carrying
+issue directions. out the provisions of this Act or the rules made thereunder.
+(2) Without prejudice to the generality of the foregoing power, the conservator 10
+may issue directions relating to all or any of the following matters, namely:—
+(a) the berthing, mooring or anchoring including the method of
+anchoring, of a vessel;
+(b) the removal of the vessel from any place within the port to any other
+place and the time within which such removal is to be effected;
+15
+(c) the regulation, restriction or prohibition of movement of vessels in
+the port and the approaches to the port;
+(d) requiring the master of any vessel to place at his disposal, such
+number of crew as may be deemed fit, for the purpose of preventing or
+extinguishing fire or for any other matter under this Act; 20
+(e) prohibiting any vessel from entering or leaving the port, where such
+vessel fails to comply with the provisions of this Act or any other law for the
+time being in force or the rules, regulations or directions issued thereunder;
+(f) cutting, or causing to be cut, any warp or rope endangering the safety
+of any vessel in the port. 25
+(3) If any person refuses or neglects to obey any direction of the conservator
+under this section, the conservator may cause or cause to be done, all necessary acts
+for execution of the directions and may hire and employ suitable persons for this
+purpose, and all expenses incurred in this behalf shall be recoverable from the
+person for such refusal or neglect. 30
+Removal of 20. (1) The conservator may remove, or cause to be removed, either on his
+obstructions own or through external agency or through a port officer, any obstruction in any part
+within port
+of a port, which in his opinion obstructs the operation of a port or part thereof or any
+limits.
+other work on any part of the shore or bank within the port limits.
+(2) The owner of any such obstruction shall be liable to pay the reasonable 35
+expenses of the removal thereof.
+(3) If the owner of any such obstruction fails to pay the reasonable expenses
+incurred in the removal thereof, the conservator may sell the vessels, wreck, material
+or any other thing forming the obstruction in public auction and recover expenses
+incurred for such removal from the proceeds of the sale, and shall pay the surplus 40
+of such proceeds, or deliver the unsold parts of the obstruction, to the person entitled
+to receive the same and if no such person is available, the conservator shall cause
+the same to be kept and deposited in such manner as the Government directs.
+(4) The conservator may, if necessary, from time to time, realise the expenses
+of keeping the obstruction, together with the expenses of sale, by a further sale of 45
+such part of the obstruction as may remain unsold.
+(5) If the obstruction exists on account of any permit, grant, licence or other
+lawful instrument issued by the Government, then the conservator shall report the
+same to the Government, and, with the previous sanction of the Government, cause
+the same to be removed or altered in such manner, making reasonable compensation 50
+to the owner of such obstruction, to be determined on the basis of such factors, as
+may be prescribed by the appropriate Government.
+11
+Explanation.— For the purposes of this section, the term “obstruction”
+includes any structure or a vessel or wreck or part thereof, or any material such as
+cargo, bunker or pollutant or such other thing or any public nuisance, impeding or
+likely to impede the operation of the port.
+5 21. The Government may, by notification, specify restrictions on certain activities Power to specify
+within port limits which may cause any impediment to the navigation in a port. restrictions on
+activities within
+port limits.
+22. (1) If any vessel hooks or gets foul of any of the buoys or moorings laid Fouling of
+'
+down by the conservator in a port, the master of such vessel or any other person moorings.
+shall not, except in case of emergency, lift the buoys or moorings for the purpose of
+10 unhooking or getting clear from the same without the assistance of the conservator.
+(2) The conservator, immediately on receiving notice of any emergency, under
+sub-section (1), shall assist and superintend the clearing of such vessel and the
+master of such vessel shall, upon demand, pay such reasonable expenses as may be
+incurred in clearing the same.
+15 23. (1) The conservator, or any person appointed under this Act to receive fees Power to board
+or charges related to any vessel, may, when necessary for the performance of duties vessels and enter
+under this Act, board any vessel or enter any building or place within the port limits,
+buildings.
+either alone or accompanied by any other person or body of persons.
+(2) No master of a vessel or any person in possession or occupation of the
+20 building or place shall without lawful excuse refuse the conservator or any person
+or body of persons to board or enter such vessel, building or place.
+24. (1) The Government may appoint an empanelled medical practitioner as Appointment
+the health officer to carry out the functions of the health officer at any port.
+and powers of
+health officer
+(2) The health officer shall possess such qualification, experience and be
+and prevention
+of contagious
+25 subject to such other terms and conditions of service as may be prescribed by the diseases.
+appropriate Government.
+(3) The health officer shall, subject to the control of the Government, have the
+following powers, within the port limits, namely:—
+(a) to inspect the provisions, water, sanitation and accommodation
+30 within vessels;
+(b) to enter or board any vessel and medically examine all or any of the
+seafarers on board the vessel;
+(c) to require and enforce the production of the log-book and any other
+books, papers or documents as may be deemed necessary for the purpose of
+35 enquiring into the health and medical condition of persons on board the vessel;
+(d) to summon and question any person for any purpose, to require
+responses from the person questioned, and to make and sign a declaration
+affirming the truth of the statements made by such person.
+(4) Whenever any infectious or contagious disease has broken out or is reasonably
+suspected to break out at any port or part thereof, the appropriate Government may—
+40
+(a) declare such port or part thereof as an infected zone, and require all
+persons coming out from an infected zone to be medically inspected or
+examined by a health officer; and
+(b) prescribe the measures to be taken at such infected zone.
+45 (5) Whenever any infectious or contagious disease has broken out or is
+reasonably suspected to break out in vessels arriving at, or being in, any port,—
+12
+(a) the conservator shall take such action, and pass such directions to
+such persons for the prevention or containment of the spread of any infectious
+or contagious disease, as may be prescribed by the Central Government in
+consultation with the State Government;
+(b) the master shall report the particulars of any such disease to the 5
+Government or the conservator in such manner as may be prescribed by the
+Central Government in consultation with the State Government.
+(6) The health officer, along with such person or body of persons authorised
+by the Government, may board the vessel for medical inspection of vessels and of '
+persons on board the vessels. 10
+Indemnity of 25. The Government shall not be liable for any act or default of any
+Government conservator, harbour master or other port officers or of any deputy or assistant of
+against act or
+any of the authorities aforesaid or of any person acting under the control or direction
+default of port
+officers or pilot. of any such authority, deputy or assistant, or for any act or default of any pilot or for
+any damage sustained by any vessel in consequence of any defect in any of the 15
+moorings, hawsers or other things belonging to the Government which may be used
+by the vessel:
+Provided that nothing in this section shall protect the Government from a suit
+in respect of any act done by or under the express order or sanction of the
+Government. 20
+CHAPTER VII
+SAFETY AND CONSERVATION OF PORTS
+Damage to 26. (1) No person shall, without lawful excuse, remove, destroy or damage
+property of port. any property including any pier or wharf belonging to, or in the custody or
+possession of, the port, or hinder or prevent such property from being used or 25
+operated in the manner it is intended to be used or operated.
+(2) Any person who does any act in violation of the provisions of sub-section (1),
+shall, in addition to any other penalty specified under column (4) of the Second
+Schedule, be liable to pay such expenses, as the conservator may determine to be just
+and reasonable, on the basis of such factors, as may be prescribed by the appropriate 30
+Government for any loss, destruction or damage suffered by the port, including the
+expenses of any inspection or survey carried out, having regard to the circumstances of
+the case.
+Warping.
+27. Every master of a vessel in any port shall, when directed by the
+conservator, permit warps or hawsers to be made fast to the vessel for the purpose 35
+of warping any other vessel in the port, and shall not allow any such warp or hawser
+to be let go until so directed by the conservator.
+Master to take 28. Every master of a vessel lying in any port shall take order to extinguish
+order to any fire on the vessel, and co-operate with the conservator or any person acting
+extinguish fire.
+under the authority of the conservator, in extinguishing or attempting to extinguish 40
+any fire on the vessel.
+Offences in 29. (1) No person shall wilfully and without lawful excuse,—
+connection with
+safety of vessels, (a) loosen or remove from its moorings or from its fastenings any vessel in
+etc. the port without leave or authority from the master or owner of such vessel; or
+(b) lift, injure, make a vessel fast to, loosen or set adrift any moorings,
+45
+buoys, beacons or sea or landmarks; or
+(c) discharge any firearm in the port; or
+(d) do or omit to do any act on board any vessel in the port which has
+caused or likely to cause fire; or
+13
+(e) use a vessel in the port which is in such a state that by reason of the
+defective condition of its hull, equipment or machinery, or by reason of
+under-manning or otherwise, the life of any person or the safety of any other
+vessel navigating in the port is likely to be endangered.
+5 (2) No master of a vessel shall cause or suffer any warp or hawser attached to
+his vessel to be left out in any port in such a manner as to endanger the safety of any
+other vessel navigating in the port.
+(3) No person shall grave, bream or smoke any vessel in the port, or boil or
+heat any pitch, tar, resin, dammar, turpentine oil or other such combustible matter
+10 on board any vessel within port limits, if such act is prohibited by the Government,
+or contrary to the orders or directions of the conservator.
+30. No person, without the permission of the conservator shall, in any port, Unauthorised
+person not to
+creep or sweep for anchors, cables or other stores lost or supposed to be lost therein.
+search for lost
+stores.
+31. No person shall, except with the permission of the conservator and under the Injuring banks or
+15 supervision of such person as may be appointed by the conservator, in any port,— shores of port
+prohibited.
+(a) disturb the existing waterbed or geophysical structures or any
+artificial protection or constructions or shore of the port; or
+(b) sink or bury in any part of such bank or shore, whether the same is
+public or private property, any mooring-post, anchor or any other thing; or
+20 (c) do any other thing which is likely to cause damage to such bank or shore.
+32. (1) No vessel shall enter, leave or be moved in any port without having a Moving of
+pilot, harbour master or any port officer on board, unless,— vessels without
+pilot or
+(a) upon application to the proper officer the master was unable to permission of
+procure a pilot, harbour master or port officer to go on board the vessel;
+harbour master
+or port officer.
+25 (b) an authority in writing has been obtained from the conservator or any
+officer authorised to give such authority:
+Provided that the Government may, by notification, direct that in any port as
+may be specified therein, the provisions of this sub-section shall not apply to sailing
+vessels of any measurement not exceeding a measurement so specified therein.
+30 (2) Notwithstanding anything in sub-section (1), the owner or master of a
+vessel, shall be answerable for any loss or damage caused by the vessel or by any
+fault of the navigation of the vessel.
+33. A port officer shall, if required by an officer authorised by a general or Port officer to
+special order of the Central Government, cooperate as directed by the officer, in co-operate in
+manoeuvres for
+35 carrying out manoeuvres related to the defense of the port in time of war, or for the defence of port.
+security of the port against sub-conventional or non-traditional threats, or natural
+disasters, and, if necessary, temporarily make available the services of their staff,
+vessels, property, equipment or other resources:
+Provided that the Central Government shall bear the running expenses of
+40 vessels placed at the disposal of such officer in respect of the period during which
+they are so at his disposal, and be responsible for any damage thereto.
+Explanation.— For the purposes of this section, the expression “running
+expenses” shall include all expenses incurred in connection with the use of the
+vessels other than any charges for their hire or for the wages of the officers and
+crews of such vessels.
+45
+34. (1) The Authority may issue guidelines for the purposes of regulating the Authority and
+Director-General
+following matters and activities, namely:—
+to regulate
+certain activities.
+14
+(a) the vessel movement and safety of navigation, including determining
+the schedules and procedural protocols for vessel entry, departure, and transit
+within port limits;
+(b) assigning the berths, including designating specific berths, stations,
+and areas for vessel docking in the port; 5
+(c) the anchor and equipment management, focusing on the correct
+stowage and positioning of cargo gear, anchors, and other external apparatus
+on vessels;
+(d) the cargo and passenger operations, including regulating locations
+and methods for passenger embarkation and loading and unloading of cargo; '10
+(e) standards for bunkering practices and equipment for vessel fueling
+operations;
+(f) specifying the requirements for the clear passage to ensure designated
+safe passage areas are maintained near docking structures and within port limits;
+(g) standards and procedure for mooring and anchoring of vessels and 15
+related equipment;
+(h) specifying the access and usage protocols for Government-owned
+docking and storage facilities;
+(i) standards and procedures for licensing various maritime transport
+vessels and the conditions for license renewal or revocation; 20
+(j) specifying protocols for the consistent and safe use of visual and
+signal aids by vessels and ports;
+(k) standards relating to occupational health, safety and security of dock
+workers, seafarers and port visitors; and
+(l) the protocols to ensure seafarer and port workers' welfare-related 25
+resources and activities.
+(2) The Director-General may also issue such guidelines on any of the matters and
+activities specified in sub-section (1), as may be deemed necessary, from time to time.
+(3) Any guidelines issued by the Authority under sub-section (1), shall be in
+conformity with the guidelines issued by the Director-General under sub-section (2). 30
+Explanation.— For the purposes of this section, “Director-General” means the
+Director-General appointed under the Merchant Shipping Act, 1958. 44 of 1958.
+CHAPTER VIII
+PREVENTION, CONTAINMENT OF POLLUTION AND RESPONSE
+Definitions. 35. In this Chapter, unless the context otherwise requires,— 35
+(a) “Ballast Water Management Convention” means the International
+Convention for the Control and Management of Ships’ Ballast Water and
+Sediments, 2004;
+(b) “cargo residues” means the remnants of any cargo material on board
+which remain on the deck or in holds or tanks following loading and unloading, 40
+including loading and unloading excess or spillage, whether in wet or dry
+condition or entrained in wash-water, but does not include cargo dust remaining
+on the deck after sweeping or dust of the external surfaces of the vessel;
+(c) “MARPOL Convention” means the International Convention for the
+Prevention of Pollution from Ships, 1973, including its Protocol of 1978; 45
+(d) “reception facility” means any facility which is fixed, floating or
+mobile and capable of providing the service of receiving the waste from
+vessels;
+15
+(e) “waste from vessels” or “vessel-generated waste” means every
+waste, including cargo residues, which is generated during the service of a
+vessel or during loading, unloading and cleaning operations and which falls
+within the scope of Annexes I, II, IV, V and VI to the MARPOL Convention
+5 and the Ballast Water Management Convention.
+36. Every port shall provide reception facilities adequate to meet the needs of Reception
+vessels without causing undue delay to vessels, in compliance with the provisions facilities.
+relating to reception facilities specified in Annexes I, II, IV, V and VI of the
+MARPOL Convention or with the requirements of Article 5 of the Ballast Water
+10 Management Convention, as applicable, based on such conditions as may be
+prescribed by the Central Government in consultation with the State Government.
+Explanation.— For the purposes of this section, the term “adequate” means
+capable of receiving the types and quantities of wastes from vessels normally using
+that port, taking into account the operational needs of the port users, its size and
+15 geographical location and the types of vessels calling at that port.
+37. Where in respect of any port it appears to the Central Government, on the Direction to
+basis of the audit conducted under section 42 or otherwise, that the port has no provide adequate
+reception
+reception facilities or if the port has such facilities, those facilities are not adequate
+facilities.
+within the meaning of section 36, the Central Government or an officer authorised
+20 by it may, by order in writing, direct the port to provide, or arrange for the provision
+of, such reception facilities as may be specified in that order.
+38. (1) Every port shall prepare a port waste reception and handling plan in Port waste
+such form and manner as may be prescribed by the Central Government in reception and
+handling plans.
+consultation with the State Government.
+25 (2) Upon approval of the port waste reception and handling plan by the Central
+Government, such plan shall be implemented by the port.
+(3) Every port shall communicate such information about the port waste
+reception and handling plan to vessels in such manner as may be prescribed by the
+Central Government in consultation with the State Government.
+30 39. The operator, agent or master of a vessel bound for India shall submit an Advance waste
+advance waste notice to the port of call in such form and manner and within such notice.
+time period as may be prescribed by the Central Government in consultation with
+the State Government.
+40. (1) Subject to such conditions as may be prescribed by the Central Delivery of
+35 Government in consultation with the State Government, the master of a vessel vessel-generated
+waste.
+calling at a port shall, before leaving that port, deliver all its vessel-generated waste
+carried on board to a reception facility.
+(2) Upon delivery, the port where the waste was delivered shall issue the waste
+delivery receipt to the master of the vessel in such form and manner as may be
+40 prescribed by the Central Government in consultation with the State Government.
+41. (1) A port providing reception facilities or a person providing such Charges for
+facilities by arrangement with the port may levy such charges for the use of the vessel-generated
+waste.
+facilities.
+(2) The reception facility provided at the port shall be made available for use
+by any vessel subject to such conditions as may be imposed by the port and on
+45
+payment of the charges referred to in sub-section (1).
+42. (1) The Central Government shall audit every port at such intervals and in Audit of ports.
+such manner as may be prescribed by the Central Government in consultation with
+the State Government.
+16
+(2) The audit under sub-section (1) shall be carried out for the proposes of
+checking the availability and adequacy of reception facilities in accordance with this
+Chapter and the rules made thereunder, and shall include audit of such pollution
+containment equipment as may be specified by the Central Government, from time
+to time. 5
+Maintenance of 43. The following information shall be uploaded electronically in such manner
+information on and by such persons as may be notified by the Central Government, namely:—
+portal.
+(a) advance waste notice under section 39;
+(b) waste delivery receipt under sub-section (2) of section 40;
+'
+(c) request by a vessel for availing reception facilities; and 10
+(d) such other matters as may be notified by the Central Government.
+Measures for 44. (1) Every port shall report the particulars of any incident that threatens or
+p
+co
+re
+n
+v
+ta
+e
+i
+n
+n
+t
+m
+io
+e
+n
+n
+o
+t
+r
+o f
+is likely to pose a threat of pollution to the coastal waters or related interests, to the
+Government, in such manner as may be prescribed by the Central Government in
+pollution.
+consultation with the State Government. 15
+(2) Where the Central Government is satisfied that an incident which threatens
+or is likely to pose a threat of pollution to the coastal waters or related interests has
+taken place or is likely to take place, it may direct the port or State Government or
+the Authority or organisation, as may be applicable, to take such action for the
+prevention or containment or threat of such pollution in accordance with the 20
+applicable law.
+Explanation.— For the purposes of this section, the expression “coastal
+waters” shall mean and include any part of the territorial waters of India, along with
+any part of the adjoining maritime zones of India or any marine area adjacent thereto
+over which India has, or, may hereafter have, exclusive jurisdiction in regard to 25
+control of marine pollution under the Territorial Waters, Continental Shelf,
+Exclusive Economic Zone and Other Maritime Zones Act, 1976, or any other law 80 of 1976.
+for time being in force.
+Directions for 45. The Government may issue directions to any port or port officer to comply
+securing
+with any of the provisions of this Chapter. 30
+compliance.
+CHAPTER IX
+LEVY OF FEES AND OTHER CHARGES
+Levy of fees and 46. There shall be leviable such fees or other charges in each of the ports in
+other charges. respect of—
+(a) consideration payable to the port by owners or agents of vessels or 35
+shippers in lieu of services rendered by such port including but not limited to—
+(i) providing usage of or access to all or any part of the port;
+(ii) loading or unloading of cargo;
+(iii) embarking or disembarking of passengers;
+40
+(iv) storage of materials;
+(v) supplying provisions or equipment to vessels;
+(vi) handling, storing and transporting goods on land adjoining
+ports and for the handling of passengers carried by the vessels;
+(vii) embarking or disembarking of masters, crew and other
+personnel, if payable; 45
+(viii) repairing of vessel;
+17
+(ix) providing aids to navigation within the port limits;
+(x) carrying passengers or goods between vessels in the port or port
+approaches;
+(xi) stevedoring, landing and shipping of passengers or goods from
+5 or to such vessels;
+(xii) wharfage, storage or demurrage of goods on any such place;
+(xiii) pilotage and berth hire;
+(xiv) towage; and
+(xv) waterfront royalty;
+'
+(b) consideration payable by or to the port for port works pertaining to
+10
+the maintenance of ports;
+(c) realisations from usage of land and property belonging to, or in the
+possession or occupation of, the Authority.
+47. (1) (a) The port tariff for every major port shall be fixed by— Port tariff.
+15 (i) the Board of Major Port Authority or such person or body of persons
+authorised by it; or
+(ii) the board of directors, in case a port is registered as a company under
+18 of 2013. the Companies Act, 2013;
+(b) the port tariff for every port other than major port shall be fixed by the
+20 respective State Maritime Boards or such concessionaire as may be authorised by
+the concerned State Maritime Board.
+(2) The port tariff fixed under sub-section (1) shall be published electronically
+by the Authority or concessionaire or person or body of persons, responsible for
+fixing the port tariff.
+25 (3) The port tariff fixed under sub-section (1) shall come into effect after
+expiry of a period of thirty days from the date of its publication.
+(4) The Council may issue guidelines on any matter relating to transparency
+of port tariff including the components thereof.
+(5) The Authority may, based on any recommendation by the Government, in
+special cases exempt or, remit the whole or any portion of the fees or other charges
+30
+due or payable under this Act.
+48. (1) The Government shall, by notification, authorise at any port, an officer Receipt of fees
+or body of persons who may receive the fees or other charges payable under this or other charges.
+Act and to expend the receipts thereof, subject to such conditions as may be
+35 specified in the notification.
+(2) The officer or body of persons authorised to receive fees or other charges,
+shall issue a receipt in lieu of such fees or other charges, in such form and manner
+as may be prescribed by the appropriate Government, containing the following
+particulars, namely:—
+40 (a) name of the issuing office;
+(b) the port or place at which the fees or other charges due or payable is paid;
+and
+(c) the name, gross tonnage and other proper description of the vessel in
+respect of which the payment is made, as applicable.
+18
+Owner, agent or 49. The owner, agent or master of every vessel liable to pay any other fees or
+master to report
+other charges shall, on arrival of such vessel within the port limits, report her arrival
+arrival.
+to the conservator in such form, manner and within such time as may be prescribed
+by the Central Government in consultation with the State Government.
+Detention and 50. (1) If the master of any vessel in respect of which any fees or other charges 5
+sale on refusal to are payable under this Act refuses or fails to pay the same on demand, the officer or
+pay fees or other body of persons authorised under sub-section (1) of section 48 may detain or arrest
+charges.
+the vessel or any part thereof, until the amount due is paid.
+(2) In case any part of the fees or other charges, or of the costs of the detention or
+arrest or of the keeping of the vessel detained or arrested remains unpaid for fifteen days 10
+after any such detention or arrest, such officer or body of persons may cause the vessel
+detained or arrested to be sold, and with the proceeds of such sale, may recover the fees
+or other charges and the cost including the costs of sale remaining unpaid, and shall
+render the surplus, if any, to the master of the vessel upon demand:
+Provided that where such vessel is already arrested under the order of a court 15
+or other authority, the authority appointed to receive fees or other charges, may sell
+the vessel or part thereof only with the prior permission of such court or other
+authority and recover the fees or other charges due and the costs including costs of
+sale remaining unpaid, and disburse the surplus, if any, in accordance with the orders
+or directions of such court or other authority. 20
+(3) Where the sale proceeds of the vessel is insufficient to satisfy the fees or
+other charges due and the cost including the costs of sale remains unpaid, the
+authority appointed to receive such fees or other charges due may, by order in
+writing direct the owner of the vessel to pay the unpaid balance, within one month
+of issuance of such order. 25
+Grant of 51. No port-clearance shall be granted to any vessel until the owner or master
+port-clearance.
+or agent or port user has paid or secured to the satisfaction of the officer granting
+the clearance the amount of all fees or charges, and of all fines, penalties and
+expenses to which the vessel or her owner or master is liable under this Act.
+Master not to 52. (1) No master of a vessel shall evade the payment of any fees or other
+30
+evade payment charges required to be paid under this Act.
+of fees or other
+charges. (2) In any proceeding before a Magistrate, any document issued by the officer
+empowered to grant port clearance under section 51 stating that the master has
+evaded such payment shall be sufficient proof of the evasion, unless the master
+shows to the satisfaction of the Magistrate that the departure of the vessel without 35
+payment of the sum was caused by stress of weather, or that there was lawful or
+reasonable ground for such departure.
+(3) Any Magistrate having jurisdiction under this Act in any port to which the
+vessel may proceed, or in which she may be found, shall be deemed to have
+jurisdiction in any proceeding under this section. 40
+CHAPTER X
+PENALTIES AND PROCEDURES
+Offences and 53. (1) Whoever contravenes any provision of this Act or fails to comply with
+penalties.
+any provision thereof, shall be liable to penalty under this Act and, if, in respect of
+any offence or contravention no punishment or penalty is specially provided, shall 45
+be liable to penalty which may extend to ten thousand rupees, and if the breach is a
+continuing one, with further penalty which may extend to one thousand rupees for
+every day, after the first day, during which the breach continues.
+(2) The offences mentioned in column (2) of the First Schedule, shall be
+punishable to the extent of punishment mentioned in the corresponding column (4) 50
+of that Schedule against the offence specified in column (2) of that Schedule.
+19
+Explanation.— For the purposes of this sub-section, where any offence is
+attributable to a port under column (2) of the First Schedule, the fine specified for
+such offence under column (4) thereof, shall be payable by the Authority; or by the
+concessionaire where such port is operated by the conservator.
+5 (3) Whoever contravenes any provision mentioned in column (2) of the
+Second Schedule, shall be liable to the extent of penalty mentioned in the
+corresponding column (4) of that Schedule against the contravention specified in
+column (2) of that Schedule.
+' 54. (1) The authority for imposing the penalty under the Second Schedule shall Authority for
+10 be the conservator. imposition of
+penalty and
+(2) For the purposes of imposition of penalty under this Chapter, where the procedure
+conservator is a body of persons, the authority for imposition of penalty shall mean,
+therefor.
+one person appointed from amongst such body of persons, in such manner as may
+be prescribed by the appropriate Government.
+15 (3) The conservator shall, before imposing any penalty specified under the
+Second Schedule, give the parties an opportunity of being heard.
+(4) Every order of imposition of penalty under this section shall be in writing.
+(5) Any contravention of the provisions of this Act for which penalty has been
+provided may be compounded for the first contravention by such officer as may be
+20 notified by the Central Government in this behalf.
+55. No Court inferior to that of a Judicial Magistrate of the first class shall take Cognizance of
+cognizance of any offence specified under the First Schedule. offences.
+56. Any person who wilfully fails to comply with any order of the Dispute Penalty for
+Resolution Committee against which no appeal has been preferred, shall be liable wilful failure to
+comply with
+25 to a penalty which may extend to one lakh rupees, and in addition, penalty which
+orders of
+may extend to one thousand rupees for every day during which such default Dispute
+continues. Resolution
+Committee.
+57. No person shall,— Penalty for
+failure to furnish
+(a) make any statement or furnish any document which the person knows information, etc.
+30 or has reason to believe to be false in any material particular; or
+(b) omit to state any material fact knowing it to be material; or
+(c) wilfully alter, suppress or destroy any document which is required to
+be furnished.
+58. Any fine imposed by the Magistrate under the First Schedule, or, penalty Recovery of fine
+35 imposed by the conservator under the Second Schedule, may be recovered by or penalty.
+distress and sale of the vessel or part thereof, as may be deemed necessary.
+59. (1) Any dispute as to the sum to be paid as expenses or damages under this Recovery of
+expenses and
+Act shall be determined by a Magistrate upon an application made for that purpose
+damages.
+by either of the disputing parties.
+40
+(2) Any sum payable as expenses or damages under this Act which does not
+exceed twenty thousand rupees may be recovered by the conservator or the
+Magistrate, as if it were a penalty or fine.
+60. Whenever any penalty, fine, expenses or damages is or are levied under Cost of distress.
+this Act by distress and sale, the cost of distress and sale may be levied in addition
+45 to such penalty, fine, expenses or damages, in the manner specified in section 59.
+20
+Magistrate to 61. If any dispute arises concerning the amount leviable by any distress or
+determine
+arrest under this Act or the costs payable under section 60, the person making the
+amount to be
+distress or arrest may detain the goods seized or arrested, or the proceeds of the sale
+levied in case of
+dispute. thereof, until the amount to be levied has been determined by a Magistrate who,
+upon an application made for that purpose, may determine the amount and award 5
+such costs to be paid by either of the parties to the other of them as the Magistrate
+may deem reasonable and payment of such costs if not paid on demand, shall be
+enforced as if they were a fine.
+Place of trial and 62. (1) Any person committing any offence under this Act may be tried for
+jurisdiction. such offence in any place in which that person may be found, or before any 10
+Magistrate having jurisdiction over any district or place adjoining the port in which
+the offence takes place, or in any court in which that person may be tried under any
+other law for time being in force.
+(2) The Magistrate referred to in sub-section (1) may exercise all the powers
+of a Magistrate under this Act in the same manner and to the same extent as if the
+15
+offence had been committed locally within the limits of his jurisdiction,
+notwithstanding that the offence may not have been committed locally within such
+limits and in case any such Magistrate exercises the jurisdiction hereby vested in
+him, the offence shall be deemed, for all purposes, to have been committed locally
+within the limits of his jurisdiction. 20
+Offences by 63. (1) Where any offence under this Act has been committed by a company,
+companies. every person who, at the time the offence was committed, was directly in charge of,
+and was responsible to, the company for the conduct of the business of the company,
+as well as the company, shall be deemed to be guilty of the offence and shall be
+liable to be proceeded against and punished accordingly: 25
+Provided that nothing in this sub-section shall render any such person liable to
+any punishment provided in this Act, if he proves that the offence was committed
+without his knowledge or that he exercised all due diligence to prevent the
+commission of such offence.
+(2) Notwithstanding anything in sub-section (1), where an offence under this 30
+Act has been committed by a company and it is proved that the offence has been
+committed with the consent or connivance of, or is attributable to any neglect on the
+part of, any director, manager, secretary or other officer of the company, such
+director, manager, secretary or other officer shall also be deemed to be guilty of that
+offence and shall be liable to be proceeded against and punished accordingly. 35
+Explanation.— For the purpose of this section, —
+(a) “company” means anybody corporate and includes a co-operative
+society, a firm, a limited liability partnership registered under the Limited
+Liability Partnership Act, 2008 or other association of individuals; and
+6 of 2009.
+(b) “director”, in relation to a firm, means a partner in the firm. 40
+CHAPTER XI
+MISCELLANEOUS
+Service of 64. (1) Where, for the purposes of this Act any document is to be served on
+documents. any person, that document may be served in any case by delivering a copy thereof
+personally to the person to be served or by leaving the same at his last place of 45
+residence, or by post.
+(2) If the document is to be served—
+(a) on the harbour master of a port, where there is one, by leaving the
+same for him at the port, with the person being or appearing to be in command
+of the port; 50
+21
+(b) on the master of a vessel, where there is one, by leaving the same for
+him on board that vessel, with the person being or appearing to be in command
+or charge of the vessel; and
+(c) on the master of a vessel, or if there is no master and the vessel is in
+India, on the owner of the vessel, or, if such owner is not in India, on any agent
+5
+of the owner residing in India, or, where no such agent is known or can be
+found, by affixing a copy thereof on the vessel or at a suitable place on the
+bridge.
+65. (1) In any port where hoisting is mandated by the conservator, no vessel shall Hoisting
+unlawful colours
+10 hoist, carry or wear, any flag, jack, pennant or colours, the use whereof is unlawful.
+in port.
+(2) Every foreign vessel calling at a port in India shall hoist the flag of the flag
+State of the vessel and the flag of the Republic of India.
+66. (1) Every port shall frame an emergency preparedness and response plan Emergency
+for the purposes of safety, security, disaster management and pollution incidents in preparedness
+and response
+15 accordance with applicable law. plan.
+(2) The plan referred to in sub-section (1) shall be submitted to the Central
+Government for its approval in such manner as may be directed by the Central
+Government in consultation with the State Government.
+(3) The Central Government may grant approval to the plan after taking into
+consideration such factors as may be notified by the Central Government in
+20
+consultation with the State Government.
+(4) The conservator may issue directions for the implementation of the
+approved plan and the Central Government may audit such implementation.
+(5) The Central Government may, either suo motu or on the basis of an audit
+25 under sub-section (4), issue directions to any person in order to ensure compliance
+with the provisions of this section and put in place a national emergency response
+mechanism.
+67. Every port shall report the particulars of any incident such as property Reporting of
+damage, vessels sinking, vessel collisions or fire, in such manner as may be incident.
+30 prescribed by the Central Government in consultation with the State Government.
+68. Every port shall provide such shore based welfare services as may be Shore based
+prescribed by the Central Government in consultation with the State Government,
+welfare services
+for seafarers.
+for seafarers of vessels calling at the port.
+69. (1) The Central Government may, by notification, direct a port to adopt a Port community
+system and
+35 mechanism for electronically integrating such port related data as may be notified
+vessel traffic
+by the Central Government in consultation with the State Government, with the port service.
+community system or any other centralised system.
+(2) Every port shall maintain vessel traffic service within the port limits in
+accordance with applicable law.
+40 Explanation.— For the purposes of this section, the expressions,—
+(a) “port community system” means a secure electronic system
+integrating the trade related information submitted and exchanged therein,
+serving as a centralised portal for ports and other relevant stakeholders in
+accordance with the Convention on Facilitation of International Maritime
+45 Traffic, 1965 or any other requirement as may be directed by the Central
+Government;
+(b) “vessel traffic service” shall have the same meaning as assigned to it
+20 of 2021. in the Marine Aids to Navigation Act, 2021.
+22
+Order for 70. The Central Government may issue directions to such port, port facility,
+securing
+port officer, or person, to ensure compliance with any other laws for the time being
+compliance.
+in force and the provisions of the Merchant Shipping Act, 1958 relating to the safety 44 of 1958.
+and security of port facilities.
+Prior clearance. 71. Any port undergoing a change in substantial ownership or effective control 5
+shall obtain a prior clearance from the Central Government or a person authorised
+by it, in such form and manner and within such time as may be notified by the
+Central Government in consultation with the State Government.
+Obligations of 72. (1) Every port shall ensure that the obligations under the international
+ports under conventions to which India is a party are discharged in accordance with such 10
+international
+conventions.
+conventions.
+(2) The obligations to be discharged by the ports under the conventions
+referred to in sub-section (1) shall be such as may be prescribed by the Central
+Government.
+Notification of 73. (1) The Central Government may, in consultation with the State Government, 15
+mega port
+by notification, specify the criteria for classification of a port as mega port.
+(2) The Central Government may notify any major port, which satisfies the
+criteria notified under sub-section (1), as a mega port.
+(3) The Central Government may, in consultation with the State Government,
+notify any port other than major port, which satisfies the criteria notified under 2 0
+sub-section (1), as a mega port.
+(4) Notwithstanding its classification as a mega port under this section, a port shall
+retain its status as either a major port or a port other than a major port, as applicable, and
+shall continue to be governed by the respective laws applicable to such port.
+Chairperson, 74. All members, officers and other employees of the Council shall be deemed, 25
+members, when acting or purporting to act in pursuance of any of the provisions of this Act,
+officers and
+to be public servants within the meaning of clause (28) of section 2 of the Bharatiya
+employees of
+Council, etc., to Nyaya Sanhita, 2023. 45 of 2023.
+be public
+servants.
+Application of 75. The provisions of this Act shall be in addition to and not in derogation of,
+certain laws. the Major Port Authorities Act, 2021 and the Merchant Shipping Act, 1958, in so 30 1 of 2021.
+far as they relate to ports. 44 of 1958.
+Power of Central 76. (1) The Central Government may, by notification and subject to the
+Government to condition of previous publication, make rules to carry out the provisions of this Act.
+make rules.
+(2) In particular, and without prejudice to the generality of the foregoing
+power, such rules may provide for all or any of the following matters, namely:— 35
+(a) the salary and allowances and other conditions of service of the
+employees of the Council under sub-section (2) of section 7;
+(b) other officers of the port to be appointed under sub-section (2) of
+section 18;
+(c) the terms and conditions of service of the officers under 4 0
+sub-section (3) of section 18;
+(d) the powers to be delegated by the conservator and the persons to
+whom such powers may be delegated under sub-section (6) of section 18;
+(e) the manner of removal or alteration of obstruction and factors for
+determining compensation under sub-section (5) of section 20; 45
+(f) the qualifications, experience and other terms and conditions of service
+of the health officer to be appointed under sub-section (2) of section 24;
+23
+(g) the measures to be taken at infected zone under clause (b) of
+sub-section (4) of section 24;
+(h) the factors to be considered by the conservator in determining the
+expenses to be paid under sub-section (2) of section 26;
+5 (i) the form and manner of receipt of fees or other charges under
+sub-section (2) of section 48;
+(j) the manner of appointment of conservator from a body of persons
+under sub-section (2) of section 54;
+(k) the obligations to be discharged by the ports under sub-section (2) of
+10 section 72.
+77. (1) The State Government may, by notification in the State Gazette and Power of State
+subject to the condition of previous publication, make rules to carry out the Government to
+make rules.
+provisions of this Act.
+(2) In particular, and without prejudice to the generality of the foregoing
+15 power, such rules may provide for all or any of the following matters, namely:—
+(a) the form and manner of making an application for adjudication of
+disputes referred to the State Maritime Board under sub-section (2) of section 16;
+(b) other matters in respect of which the State Maritime Board shall exercise
+powers of civil court under clause (d) of sub-section (4) of section 16;
+20
+(c) other officers of the port to be appointed under sub-section (2) of
+section 18;
+(d) the terms and conditions of service of officers under sub-section (3)
+of section 18;
+(e) the powers to be delegated by the conservator and the persons to
+25 whom such powers may be delegated under sub-section (6) of section 18;
+(f) the manner of removal or alteration of obstruction and factors for
+determining compensation under sub-section (5) of section 20;
+(g) the qualification, experience and other terms and conditions of service
+of the health officer to be appointed under sub-section (2) of section 24;
+30
+(h) the measures to be taken at infected zone under clause (b) of
+sub-section (4) of section 24;
+(i) the factors to be considered by the conservator in determining the
+expenses to be paid under sub-section (2) of section 26;
+(j) the form and manner of receipt of fees or other charges under
+35 sub-section (2) of section 48;
+(k) the manner of appointment of conservator from a body of persons
+under sub-section (2) of section 54.
+78. (1) The Central Government in consultation with the State Governments
+may, by notification, and subject to the condition of previous publication, make Power of Central
+40 rules to carry out the provisions of this Act. Government to
+make rules in
+(2) In particular, and without prejudice to the generality of the foregoing consultation
+power, such rules may provide for all or any of the following matters, namely:—
+with State
+Governments.
+(a) the form and the manner of notification of any part of the navigable
+rivers or channels leading to ports under sub-clause (iii) of clause (a) of
+45 sub-section (3) of section 1;
+24
+(b) the norms, form and manner of notifying a new port and
+altering port limits under sub-section (2) of section 11;
+(c) the action to be taken by the conservator and the directions to
+be issued to the persons under clause (a) of sub-section (5) of section 24;
+(d) the manner of reporting of disease by the master under 5
+clause (b) of sub-section (5) of section 24;
+(e) the conditions subject to which port shall provide reception
+facilities under section 36;
+(f) the form and manner of preparing port waste reception and
+handling plan under sub-section (1) of section 38; 10
+(g) the information about the port waste reception and handling plan
+and manner of communicating such information under sub-section (3) of
+section 38;
+(h) the form, manner and time for submitting an advance waste
+notice under section 39; 15
+(i) the conditions for delivery of vessel-generated waste under
+sub-section (1) of section 40;
+(j) the form and manner of issuance of waste delivery receipt under
+sub-section (2) of section 40;
+(k) the intervals and manner of conducting audit of ports under 20
+sub-section (1) of section 42;
+(l) the manner of reporting incidents under sub-section (1) of
+section 44;
+(m) the form, manner and time for reporting arrival of vessel at
+port under section 49; 25
+(n) the manner of reporting of incidents under section 67;
+(o) the provision of shore based welfare services under section 68.
+79. (1) The Council may, by notification and subject to the condition of
+Power of
+Council to make previous publication, make regulations consistent with this Act and the rules made
+regulations. thereunder to carry out the provisions of this Act. 30
+(2) In particular, and without prejudice to the generality of the foregoing power,
+such regulations may provide for all or any of the following matters, namely:—
+(a) the manner and conditions subject to which the Chairperson may
+invite persons to meetings of the Council under sub-section (3) of section 3;
+(b) the manner of transaction of business at meetings of the Council 35
+under sub-section (4) of section 3;
+(c) any such other matters which is to be, or may be, specified by
+regulations.
+Power of 80. (1) The Council may, by notification, issue such guidelines consistent with
+Council to issue this Act and the rules made thereunder to carry out the provisions of this Act. 40
+guidelines.
+(2) In particular, and without prejudice to the generality of the foregoing power,
+such guidelines may provide for all or any of the following matters, namely:—
+(a) the data or information to be collected and manner of collection,
+storage, updation and submission of such data or information to the Council
+under item (A) of sub-clause (ii) of clause (b) of sub-section (1) of section 6; 45
+25
+(b) the manner of dissemination of information, records, data and
+research studies relating to ports, under item (B) of sub-clause (ii) of
+clause (b) of sub-section (1) of section 6;
+(c) the matters in relation to the transparency of port tariff and its
+5 components under sub-section (4) of section 47;
+(d) such other matters as it may deem fit.
+81. (1) Every rule made by the Central Government and every regulation made Laying of rules
+under this Act shall be laid, as soon as may be after it is made, before each House and regulations
+before
+of Parliament, while it is in session, for a total period of thirty days which may be
+' Parliament and
+10 comprised in one session or in two or more successive sessions, and if, before the State
+expiry of the session immediately following the session or the successive sessions Legislature.
+aforesaid, both Houses agree in making any modification in the rule or regulation
+or both Houses agree that the rule or regulation should not be made, the rule or
+regulation shall thereafter have effect only in such modified form or be of no effect,
+15 as the case may be; so, however, that any such modification or annulment shall be
+without prejudice to the validity of anything previously done under that rule or
+regulation.
+(2) Every rule made by the State Government shall be laid, as soon as may be
+after it is made, before each House of the State Legislature where it consists of two
+20 Houses, or where such Legislature consists of one House, before that House.
+82. No suit or other legal proceeding shall lie against the Central Government Protection of
+or the State Government or the Council or the Authority or the employees of the action taken in
+Government or the members or employees of the Council or the Authority, in
+good faith.
+respect of anything which is done or intended to be done or any action taken in good
+25 faith under this Act or any rules or regulations made thereunder.
+83. (1) The Central Government may, by notification, amend column (4) of Power to amend
+the Second Schedule, increasing the amount of penalty which shall not exceed more Second
+Schedule.
+than twice the amount of penalty when the Act was first enacted.
+(2) Every notification issued under sub-section (1), shall be laid before each
+30 House of Parliament as soon as may be after it is issued.
+84. (1) If any difficulty arises in giving effect to the provisions of this Act, the Power to remove
+Central Government may, by order published in the Official Gazette, make such difficulties.
+provisions not inconsistent with the provisions of this Act as may appear to it to be
+necessary or expedient for removing the difficulty:
+35
+Provided that no such order shall be made after the expiry of a period of three
+years from the date of commencement of this Act.
+(2) Every order made under this section shall be laid, as soon as may be after
+it is made, before each House of Parliament.
+15 of 1908. 85. (1) The Indian Ports Act, 1908 is hereby repealed. Repeal and
+savings.
+40 (2) Notwithstanding such repeal,—
+(a) any notification, rule, regulation, bye-law, order or exemption made,
+issued or granted under the Act so repealed shall have effect as if it had been made,
+issued or granted under the provisions of this Act, till new notification, rule,
+regulation, bye-law, order or exemption is made, issued or granted under this Act;
+(b) any office established or created, officer or person appointed and any
+45
+body constituted under the Act so repealed shall continue and shall be deemed
+to have been established, created, appointed or constituted under this Act;
+(c) any document referring to the Act so repealed shall be construed as
+referring to this Act or to the provision of this Act;
+26
+(d) any fine or penalty levied under the Act so repealed may be recovered
+as if it had been levied under this Act;
+(e) any offence committed under the Act so repealed may be prosecuted
+and punished as if it had been committed under this Act;
+(f) any proceeding pending before any court under the Act so repealed 5
+may be tried or disposed of under the corresponding provisions of this Act;
+(g) any inspection, investigation or inquiry ordered to be done under the
+provisions of the Act so repealed shall continue to be proceeded with as if such
+inspection, investigation or inquiry is ordered to be done under the
+corresponding provisions of this Act. 10
+(3) The mention of particular matters in this section shall not be held to
+prejudice or affect the general application of section 6 of the General Clauses
+Act, 1897, with regard to the effect of repeals. 10 of 1897.
+27
+THE FIRST SCHEDULE
+[See section 53(2)]
+Punishment for certain offences
+Serial Offences. Section to which Punishment.
+No. offence is referred.
+(1) (2) (3) (4)
+1. If any port 10 Fine which may
+commences or carries extend to one lakh
+on operations in rupees and in addition,
+contravention of a fine which may
+section 10 extend to ten thousand
+rupees for every day
+during which the
+offence continues
+after conviction.
+2. If any port other 15(3) In case of
+than major port or contravention by port
+port officer fails to officer, fine which
+comply with may extend to ten
+directions of the State thousand rupees and
+Maritime Board in addition, fine not
+under sub-section (3) exceeding one
+of section 15 thousand rupees for
+every day during
+which the offence
+continues after
+conviction.
+In case of
+contravention by port,
+fine which may extend
+to two lakh rupees and
+in addition, fine not
+exceeding twenty
+thousand rupees for
+every day during which
+the offence continues
+after conviction.
+3. If any master of a 27 Imprisonment
+vessel fails to permit qwhich may extend to
+warps or hawsers to be six months or fine
+made fast or let go of which may extend to
+any warps or hawsers one lakh rupees or
+in contravention of both.
+section 27
+4. If master omits to 28 Imprisonment
+take order to which may extend to
+extinguish the fire or six months or fine
+obstructs the which may extend to
+conservator or any one lakh rupees or
+person in both.
+extinguishing or
+attempting to
+extinguish the fire, in
+contravention of
+section 28
+27
+28
+(1) (2) (3) (4)
+5. If any person does 29(1) Imprisonment
+or omits to do any act which may extend to
+relating to safety of six months or fine
+vessels in which may extend to
+contravention of one lakh rupees or
+sub-section (1) of both.
+section 29
+6. If the master of the 29(2) Imprisonment
+vessel causes or which may extend to
+suffer any warp or six months or fine
+hawser attached to his which may extend to
+vessel to be left out in one lakh rupees or
+any port in both.
+contravention of sub-
+section (2) of
+section 29
+7. If any person 29(3) Imprisonment
+commits any act in which may extend to
+contravention of sub- six months or fine
+section (3) of which may extend to
+section 29 one lakh rupees or
+both.
+8. If any 30 Imprisonment
+unauthorised person which may extend to
+searches for lost six months or fine
+stores in which may extend to
+contravention of one lakh rupees or
+section 30 both.
+9. If any person 31 Imprisonment
+injures any bank or which may extend to
+shore in six months or fine
+contravention of which may extend to
+section 31 one lakh rupees or
+both.
+10. If any port fails to 36 Fine which may
+provide adequate extend to two lakh
+reception facilities in rupees.
+contravention of
+section 36
+11. If any port fails to 37 Fine which may
+comply with extend to one lakh
+directions of the rupees and in addition,
+Central Government fine which may extend
+under section 37 to twenty thousand
+rupees for everyday
+during which the
+offence continues
+after conviction.
+12. If any port fails to 38 (1) Fine which may
+prepare a port waste extend to one lakh
+reception and rupees.
+handling plan in
+contravention of
+sub-section (1) of
+section 38
+29
+(1) (2) (3) (4)
+13. If any port fails to 38(2) Fine which may
+implement the extend to one lakh
+approved port waste rupees.
+reception and
+handling plan in
+contravention of sub-
+section (2) of section
+38
+14. If any port fails to 38(3) Fine which may
+communicate any extend to twenty
+information to thousand rupees.
+vessels in
+contravention of
+sub-section (3) of
+section 38
+15. If any port fails to 44(1) Fine which may
+report the particulars extend to one lakh
+of any incident in rupees.
+contravention of
+sub-section (1) of
+section 44
+16. If any port fails to 44(2) Fine which may
+comply with the extend to one lakh
+directions issued by rupees and in addition,
+the Central fine which may extend
+Government under to ten thousand rupees
+sub-section (2) of for every day during
+section 44 which the offence
+continues after
+conviction.
+17. If any port fails to 66(1) Fine which may
+prepare a safety, extend to two lakh
+security, disaster rupees.
+management and
+pollution incident
+emergency
+preparedness and
+response plan in
+contravention of sub-
+section (1) of section 66
+18. If any port fails to 66(4) Fine which may
+comply with the extend to two lakh
+directions issued by the rupees.
+conservator in
+contravention of sub-
+section (4) of section 66
+19. If any port fails to 67 Fine which may
+report particulars of extend to one lakh
+any incident in rupees.
+contravention of
+section 67
+20. If any port fails to 68 Fine which may
+provide shore based extend to twenty
+welfare services in thousand rupees.
+contravention of
+section 68
+30
+(1) (2) (3) (4)
+21. If any port fails to 69(1) Fine which may
+comply with extend to fifty
+directions of the thousand rupees.
+Central Government
+issued under
+sub-section (1) of
+section 69
+22. If any port fails to 69(2) Fine which may
+develop or maintain a extend to one lakh
+vessel traffic service rupees.
+in contravention of
+sub-section (2) of
+section 69
+23. If any port fails to 71 Fine which may
+obtain prior clearance extend to fifty
+in contravention of thousand rupees.
+section 71
+31
+THE SECOND SCHEDULE
+[See section 53(3)]
+Penalty for certain contraventions
+Serial No. Contravention Section Penalties
+(1) (2) (3) (4)
+1. If any person refuses 19 Penalty which may
+or neglects to obey any extend to fifty thousand
+direction of the rupees and in addition,
+conservator issued under penalty not exceeding five
+section 19 thousand rupees for every
+day during which the
+contravention continues
+after conviction.
+2. If any owner has 20 Penalty which may
+without lawful excuse extend to two lakh rupees
+caused any obstruction or and in addition, penalty
+impediment under not exceeding twenty
+section 20 thousand rupees for every
+day during which the
+contravention continues
+after conviction.
+3. If any master of a 22(1) Penalty which may
+vessel or any other extend to one lakh rupees.
+person lifts the buoys or
+moorings without
+assistance of the
+conservator in
+contravention of sub-
+section (1) of section 22
+4. If the master of the 23 Penalty which may
+vessel, or any person in extend to ten thousand
+possession or occupation rupees for the first offence
+of the building or place, and in addition, penalty
+without lawful excuse, not exceeding ten
+refuses to allow the thousand rupees for every
+conservator or any day during which the
+person to board or enter contravention continues.
+such vessel, building or
+place in contravention of
+section 23
+5. If any person without 26(1) Penalty which may
+lawful excuse, removes, extend to one lakh rupees
+destroys or damages any and in addition, expenses
+property in contravention for any loss, destruction or
+of sub-section (1) of damage suffered by the
+section 26 port, including expenses of
+any inspection or survey
+carried out.
+6. If any owner or master 32(1) Penalty which may
+of a vessel enters, leaves extend to two lakh rupees.
+or moves in any port in
+contravention of sub-
+section (1) of section 32.
+31
+32
+(1) (2) (3) (4)
+7. If any operator, agent or 39 Penalty which may
+master of a vessel fails to extend to twenty thousand
+submit an advance waste rupees.
+notice in contravention of
+section 39.
+8. If any master of a 40(1) Penalty which may
+vessel fails to deliver all extend to one lakh rupees.
+its vessel-generated
+waste to a reception
+facility in contravention
+of sub-section (1) of
+section 40.
+9. If the owner or master 41 Penalty which may
+of any vessel fails to pay extend to twenty thousand
+the charges payable or rupees and in addition,
+fails to comply with the penalty which may extend
+conditions under to two thousand rupees for
+section 41 every day during which the
+contravention continues.
+10. If any person fails to 43 Penalty which may
+upload information on the extend to ten thousand
+portal in contravention of rupees.
+section 43.
+11. If the Authority or 47(2) Penalty which may
+concessionaire or person extend to fifty thousand
+or body of persons fails rupees and in addition,
+to publish the port tariff penalty which may extend
+in contravention of sub- to five thousand rupees for
+section (2) of section 47 every day during which the
+contravention continues.
+12. If any owner, agent or 49 Penalty which may
+master of a vessel fails to extend to twenty thousand
+report the arrival of a rupees.
+vessel in contravention
+of section 49
+13. If any master of a 52(1) Penalty which may
+vessel fails to pay any extend to twice the amount
+fees or other charges in of fees or other charges
+contravention of sub- due, subject to a minimum
+section (1) of section 52 of twenty thousand rupees.
+14. If any person fails to 57 Penalty which may
+furnish or furnishes extend to two lakh rupees
+information in and in addition, penalty
+contravention of which may extend to two
+section 57 thousand rupees for every
+day during which such
+default continues.
+15. If the master of any 65 Penalty which may
+vessel unlawfully hoists extend to twenty thousand
+or fails to hoist any flag rupees.
+in contravention of
+section 65
+33
+THE THIRD SCHEDULE
+[See section 13(1)]
+State Maritime Boards constituted or established under State Acts
+Serial No. Name of State Name of State Act Date of
+Maritime Board establishment
+(1) (2) (3) (4)
+1. Gujarat Gujarat Maritime The 3rd
+Maritime Board Board Act, 1981 November, 1981
+(Gujarat Act No. 30
+of 1981)
+2. Maharashtra Maharashtra The 4th October,
+Maritime Board Maritime Board Act, 1996
+1996
+(Maharashtra Act
+XV of 1997)
+3. Tamil Nadu Tamil Nadu The 18th March,
+Maritime Board Maritime Board Act, 1997
+1995 (Tamil Nadu
+Act No. 4 of 1996)
+4. The West West Bengal The 1st October,
+Bengal Maritime Maritime Board Act, 2015
+Board 2000 (West Bengal
+Act XXX of 2000)
+5. Karnataka Karnataka The 9th
+Maritime Board Maritime Board Act, September, 2019
+2015 (Karnataka Act
+41 of 2017)
+6. Kerala Kerala Maritime The 2nd
+Maritime Board Board Act, 2017 February, 2018
+(Kerala Act 16 of
+2017)
+7. Andhra Pradesh Andhra Pradesh The 16th
+Maritime Board Maritime Board Act, December, 2019
+2018 (Andhra
+Pradesh Act No. 16 of
+2019)
+8. Odisha State Odisha State The 28th March,
+Maritime Board Maritime Board Act, 2022
+2022 (Odisha Act No.
+01 of 2022)
+33
+3 4
+STATEMENT OF OBJECTS AND REASONS
+The Indian Ports Act, 1908 (the 1908 Act) was a pre-independence legislation,
+enacted to consolidate the laws on ports and port-charges. It consisted of provisions
+on the powers of the Central Government and the State Governments for extending
+or withdrawing the applicability of Act and altering port limits, appointment of
+port-officials and their powers and duties, safety and conservation of ports, levy of
+port-dues, fees and other charges, penalties and supplemental provisions.
+2. India has witnessed expansion in the number of operational ports as well
+as the overall traffic being handled at ports. Since the enactment of the 1908 Act,
+there have been significant changes in both the commercial operations of ports and
+the international norms for prevention of pollution of ports. In order to facilitate the
+development of the port sector in a planned manner, it was felt necessary to reflect
+the present-day frameworks, incorporate India’s international obligations, address
+emerging environmental concerns and aid the consultative development of the ports
+sector in the national interest.
+3. The proposed legislation seeks to to effectively adopt international
+obligations, allowing adequate power to frame subordinate legislation, keeping our
+domestic priorities in mind. It further seeks to integrate development of ports so as to
+utilise India’s coastline in a coherent and sustainable way. It also seeks to reinforce
+and empower the State Maritime Boards to effectively administer, control and manage
+ports other than major ports, within each coastal State and Union territory.
+4. In view of the above, it has become imperative to repeal the Indian Ports
+Act, 1908 and to provide for a contemporaneous and dynamic legislation to meet
+the requirements of India as an emerging economy. The Indian Ports Bill, 2025,
+inter alia, seeks to provide for the following, namely:––
+(i) to define the term “appropriate Government” or “Government” and
+clarify that in relation to major ports, means the Central Government; and in
+relation to ports other than major ports, means the State Government;
+(ii) applies to all existing ports to which the provisions of the Indian
+Ports Act, 1908 applied; all new ports notified under the Bill; notified parts of
+navigable river or channel which leads to such new port; all vessels within
+port limits; and all aircrafts making use of any part of the port, while on water;
+(iii) the establishment of a body to be notified as Maritime State
+Development Council by the Central Government, which would be
+responsible for making recommendations to the Government, inter alia,
+including, efficient and conducive framework for ports in India; measures for
+growth of the port sector and to promote competition and efficiency in the
+operation of ports; and discharge other functions;
+(iv) to empower the Government to notify a new port or to alter the limits
+of any port;
+(v) to empower the Central Government to formulate a national
+perspective plan for the purposes of maritime trade and to prioritise associated
+infrastructure development of ports;
+(vi) to provide for statutory recognition to State Maritime Boards
+established or constituted by the State Government or body of persons or a
+department of the State Government executing such functions and empower
+the State Maritime Boards with supervisory, developmental and other
+functions for effective administration, control and management of ports other
+than major ports;
+(vii) to provide for the creation of new adjudicatory mechanism which
+requires every State Government to constitute a Dispute Resolution
+Committee, by notification, for the purposes of adjudicating any dispute
+arising between ports other than major ports, concessionaires, port users and
+34
+35
+port service providers within the State and bars the jurisdiction of civil courts
+from entertaining any matter which the Dispute Resolution Committee is
+empowered to determine under the Bill;
+(viii) powers of conservators have been enlarged, for effective
+superintendence over ports as far as safety and conservation of ports are concerned;
+(ix) to mandate provision of reception facilities in compliance with the
+International Convention for the Control and Management of Ships’ Ballast
+Water and Sediments 2004 and the International Convention for the
+Prevention of Pollution from Ships, 1973, including its Protocol of 1978;
+(x) to provide for preparation of port waste reception and handling plan
+by each port;
+(xi) to empower Board of Major Port Authority or the board of directors,
+where a major port is a company registered under the Companies Act, 2013,
+to fix the port tariff for major ports and to empower the respective State
+Maritime Boards to fix the port tariff for every port other than major port;
+(xii) to provide for preparation of emergency preparedness and response
+plan by each port for the purposes of safety, security, disaster management
+and pollution incidents;
+(xiii) to make provisions for offences and to empower the Judicial
+Magistrate of first class to impose punishment against offences;
+(xiv) to make provisions for penalties and procedure and to empower the
+conservator to impose a penalty against those contraventions;
+(xv) to empower the Central Government to direct ports to adopt
+mechanism for electronically integrating port related data;
+(xvi) requirement of prior clearance from the Central Government when
+a port is undergoing change in substantial ownership or effective control;
+(xvii) classification of a major port or a port other than major port as a
+mega port by notification, when such port fulfils the criteria notified by the
+Central Government in consultation with the State Government;
+(xviii) to clarify that the Bill is in addition, and not in derogation to
+existing legislations such as the Major Port Authorities Act, 2021 and the
+Merchant Shipping Act, 1958;
+(xix) to empower the Central Government to make such provisions not
+inconsistent with the provisions of the Bill, as appear to it to be necessary or
+expedient, for removing the difficulty before the expiry of a period of three
+years from the date of commencement of the Bill;
+(xx) to repeal the Indian Ports Act, 1908 and to provide for saving of
+certain actions taken thereunder.
+5. The Notes on clauses explain in detail the various provisions contained
+in the Bill.
+6. The Bill seeks to achieve the above objectives.
+NEW DELHI; SARBANANDA SONOWAL.
+The 18th March, 2025.
+36
+Notes on clauses
+Clause 1.—This clause seeks to provide for short title, extent, commencement,
+and application of the Bill. It specifies the application of the Bill, inter alia, to all
+ports, parts of the navigable rivers and channels leading to such ports as may be
+notified by the Government, all vessels within port limits and all aircrafts making
+use of any port while on water. It also specifies the vessels to which the Bill shall
+not be applicable, which include any port or navigable rivers or channels or vessels
+or classes of vessels, any vessel or any aircraft making use of any part of the port
+belonging to or exclusively servicing, for military or non-commercial service of the
+Government, the Indian Navy, Indian Coast Guard, customs authorities, Central
+Armed Forces and police and other agencies as may be notified by the Central
+Government; any vessel belonging to or in service of the Central Government or
+State Government, or any foreign vessel of war.
+Clause 2.—This clause defines the various expressions used in the Bill which,
+inter alia, include “appropriate Government” or “Government”, “concessionaire”,
+“existing port”, “mega port”, “mooring”, “new port”, “port”, “port limits”, “port
+tariff”, “port works”, “State”, “State Maritime Board”, “Schedule” “security” and
+“vessel”.
+Clause 3.—This clause seeks to provide for the establishment of the Maritime
+State Development Council with the Union Minister of Ports, Shipping and
+Waterways, Government of India, as Chairperson and other members namely, the
+Minister in-charge of ports of each State; Minister-in-charge of the Union territory
+of Puducherry and Administrators of all coastal Union territories; the Secretary or
+equivalent rank to the Government of India in the Indian Navy dealing with coastal
+security nominated by the Central Government in the Ministry of Defence; the
+Secretary or equivalent rank to the Government of India in the Indian Coast Guard
+dealing with coastal security nominated by the Central Government in the Ministry
+of Defence and the Secretary to the Government of India in the Ministry of Ports,
+Shipping and Waterways as the Member Secretary. The office of the member of the
+Council is not deemed to be an office of profit.
+Clause 4.—This clause empowers the Chairperson with the general
+superintendence and directions in the conduct of affairs of the Council.
+Clause 5.—This clause seeks to provide that no act or proceeding of the
+Council shall be invalidated merely because of any vacancy in the Council, or any
+defect in the constitution of the Council, or any defect in the appointment of a
+member or any irregularity in the Council’s procedure provided such irregularity
+does not affect the merits of the case.
+Clause 6.—This clause seeks to specify the functions of the Council which,
+inter alia, include making recommendations to the Government on the matters
+specified therein; issuing guidelines, in consultation with the Central Government
+and the State Governments on matters specified therein; and calling for information
+from any Authority or port or person, for the purpose of discharging its functions.
+Clause 7.—This clause seeks to empower the Central Government to make
+officers and employees available for discharge of the functions of the Council. It
+further empowers the Central Government to prescribe salaries, allowances, and
+conditions of service of the employees of the Council.
+Clause 8.—This clause seeks to empower the Central Government to make
+grants to the Council of such sums of money required by it to discharge its functions
+under this Bill.
+Clause 9.—This clause seeks to empower the Council to delegate its powers
+and functions subject to any conditions by general or special order in writing to any
+member or employee of the Council, except the power to make regulations or to
+issue guidelines.
+36
+37
+Clause 10.—This clause seeks to disallow any port from commencing or
+carrying on activities unless it is an existing port or a new port which is duly notified
+in accordance with clause 11.
+Clause 11.—This clause seeks to empower the Central Government to notify
+a new port and to alter the limits of any port. It further provides that the notification
+which alters the limits of any port shall not have retrospective effect. The clause also
+empowers the Central Government in consultation with the State Government to
+prescribe the norms, form and manner for declaring a new port and for altering the
+port limits.
+Clause 12.—This clause seeks to empower the Central Government to
+formulate a national perspective plan for the purpose of maritime trade and to
+prioritise associated infrastructure development. It provides that the Central
+Government, State Governments and the Authority shall endeavour to adhere to the
+national perspective plan formulated by the Central Government and guidelines
+issued by the Council.
+Clause 13.—This clause provides that every State Maritime Board established
+or constituted by the State Government under any of the enactments specified in the
+Third Schedule shall be deemed to be duly established or constituted under this Bill.
+It provides where such State Maritime Board is not established or constituted, the
+State Governments are obligated to establish and notify State Maritime Board. The
+State Maritime Board shall be a distinct legal entity, having the power, subject to
+the provisions of the Bill to contract, acquire, hold and dispose of property, to sue
+or be sued. The State Government may specify by notification, the place where the
+head office of the State Maritime Board shall be situated.
+Clause 14.—This clause provides for transfer of assets and liabilities by the
+State Government to the State Maritime Board. It provides that on and from the date
+of establishment or the date of notification of the State Maritime Board, the State
+Government shall transfer to the State Maritime Board and vest all port land,
+property, assets, funds, interest in the property and all rights to levy rates, fee and
+other sums of money vested or due in the State Government. It further provides that
+all debts, obligations, contracts, and legal proceedings of the State Government
+before the establishment or notification of the State Maritime Board shall be
+transferred to the State Maritime Board. The State Maritime Board will continue all
+suits or other legal proceedings initiated, on behalf or against the State Government.
+Clause 15.—This clause specifies the various functions of the State Maritime
+Board with respect to all the ports other than major ports within the territory of the
+respective State, which, inter alia, include, initiating plans for development of ports;
+promoting the use, development and improvement of ports; developing new ports,
+subject to security clearance as per the guidelines issued by the Central Government.
+It further seeks to empower the State Maritime Board to issue directions to any port
+other than major port or to any officer of such port for discharging its functions
+under the Bill.
+Clause 16.—This clause seeks to mandate every State Government to
+constitute by notification, a Dispute Resolution Committee consisting of not less
+than three members, to adjudicate disputes between ports other than major ports,
+concessionaires, port users and port service providers, unless the parties have agreed
+to arbitration or any other dispute resolution mechanism. The time limit for deciding
+any dispute is six months, which may be extended up to three more months at a time
+after recording reasons for doing so, but not exceeding twelve months. It further
+confers the Dispute Resolution Committee with the powers of a civil court. This
+clause also provides that any party aggrieved by an order of the Dispute Resolution
+Committee may prefer an appeal to the High Court of the appropriate jurisdiction,
+within sixty days from the date on which a copy of the order is received by the party.
+38
+Clause 17.—This clause seeks to bar the jurisdiction of any civil court to
+entertain any suit or proceeding in respect of any matter which the Dispute
+Resolution Committee is empowered by or under this Bill to determine.
+Clause 18.—This clause seeks to provide for the appointment of conservator
+for every port or for two or more ports by the Government, and the conservator shall
+be subject to the control of the Government and the Authority. It further mandates
+every port to appoint a harbour master or such other officers of the port as may be
+prescribed by rules made by the Government. All officers operating in a port shall
+be subject to the supervision and control of the conservator. It also empowers the
+conservator, with the approval of the Government, to delegate such powers to such
+persons, as may be prescribed by rules made by the Government.
+Clause 19.—This clause empowers the conservator to issue directions to any
+vessel within the port for carrying out the provisions of this Bill or the rules made
+thereunder, which, inter alia, include the berthing, mooring, anchoring of a vessel;
+removal of a vessel from any place within the port and the time period within which
+the same shall be done; regulate, restrict or prohibit the movement of vessels, direct
+the master of the vessel to have adequate crew members; prohibit any vessel from
+entering or leaving the port; or endangering the safety of any vessel in the port. It
+further empowers the conservator to take any action and hold such person liable for
+reimbursement of all expenses incurred in order to give effect to the directions in
+case person refuses or neglects to obey with any directions of the conservator.
+Clause 20.—This clause empowers the conservator to remove directly or
+through another agency or port officer, any obstruction in the operation of a port or
+part thereof of the port or any other work. It further requires the owner of such
+obstruction to pay reasonable expenses incurred in such removal, however, if the
+owner evades such payment, public auction of the object causing obstruction may
+be conducted to recover the expenses and excess proceeds or part of the obstruction
+shall be returned to the owner or deposited in the manner the Government may
+direct. If the storage of the obstruction incurs expenses, the same may be recovered
+by a further sale of the remaining unsold obstruction. This clause also states that in
+case of an impediment sought to be removed by the conservator exists on account
+of permission from the Government, the conservator shall obtain prior sanction for
+removal from the Government. The owner of the obstruction in this case shall
+receive due compensation contingent on factors prescribed by rules made by the
+appropriate Government.
+Clause 21.—This clause seeks to empower the Government to specify by
+notification, the restrictions on certain activities within port limits that may cause
+any impediment to the navigation in a port.
+Clause 22.—This clause restricts the master of the vessel, except in the case
+of an emergency, from lifting any buoy or mooring in a port, laid down by the
+conservator, without the conservator’s assistance where such vessel hooks or gets
+foul. It further provides that conservator, immediately on receiving notice of any
+such emergency under this clause, shall assist and superintend the clearing of such
+vessel. This clause also puts an obligation on the vessel master to pay for the
+reasonable expenses incurred in clearing the same.
+Clause 23.—This clause empowers the conservator, either alone or with any
+other person or body of person to board any vessel or enter any building or place
+within port limits to board any vessel, or enter any building or place whenever is it
+necessary for performance of duties under the Bill. This clause prevents a master of
+a vessel or any person in possession or occupation of the building or place, from
+disallowing boarding such vessel or entering such building or place without lawful
+excuse.
+39
+Clause 24.—This clause empowers the Government to appoint an empanelled
+medical practitioner as a health officer to undertake the functions of a port
+health-officer at any port to, inter alia, inspect water, sanitation and accommodation
+facilities of a vessel, board any vessel and medically examine any person on the
+vessel as well as enforce production of any document to inquire into the health and
+medical conditions of any person on the vessel. This clause further empowers the
+Government to declare any port or part thereof an infected zone when any infectious
+or contagious disease has broken out, or is reasonably suspected to break out and
+prescribe measures to be taken. This clause also empowers the conservator to take
+actions and pass directions for prevention or containment of any disease in vessels
+arriving at or being in port. The master shall report the particulars of any such
+disease in such vessels to either the Government or the conservator. It also
+empowers the health officer along with such person or body of persons authorised
+by the Government, to board the vessel for medical inspection of either the vessel
+or any person on vessel.
+Clause 25.—This clause provides indemnity to the Government from any act
+or default of any conservator, harbour master or any other port officers, their
+deputies or assistants of authorities in any port or any person acting under the control
+or direction of any authority or their assistant or any act or default of any pilot or for
+any damage caused to the vessel due to any defect in the moorings, hawsers or any
+other thing belonging to the Government. This clause further provides that the
+provision does not apply to any suit against the Government on any act done under
+any order or sanction of the Government.
+Clause 26.—This clause bars any person, without lawful excuse, from
+removing, destroying or damaging any property including pier or wharf which
+belongs to, in custody or in the possession of the port or hinder or prevent the
+operation of any such property. This clause obligates any person who contravenes
+the provision to pay for any loss, destruction or damage suffered by the port which
+also includes the cost of inspection or survey, in addition to any other penalty as
+specified under the Second Schedule of the Bill.
+Clause 27.—This clause obligates the master of any vessel to allow warps or
+hawsers to be fastened to the vessel for warping another vessel in the port, as and
+when required by the conservator and to not let go off such warp or hawser until
+directed by the conservator to do so.
+Clause 28.—This clause seeks to impose an obligation on the master of the
+vessel to co-operate with and take orders from, the conservator or any person
+authorised by the conservator, to extinguish any fire on the vessel.
+Clause 29.—This clause seeks to bar a person on a vessel from various actions
+that impact the safety of the vessel and its surroundings, including inter alia,
+willfully loosening or removing the moorings from a vessel without being
+authorised to do so, lifting, injuring or making a vessel fast to loosen or set adrift
+any moorings, buoys, beacons or sea or landmarks or discharges any firearm in the
+port or commits an action or abstains from one which causes or may cause fire
+onboard a vessel or uses a vessel in state of defective condition, which makes the
+life of any person or the safety of another vessel, likely to be endangered. This clause
+further states that the master of a vessel shall not leave a warp or hawser attached to
+his vessel, in the port, causing danger to the safety of another vessel in the port. It
+also prohibits commission of any act in relation to any combustible matter which is
+prohibited by the Government or contrary to the orders or directions of the
+conservator.
+Clause 30.—This clause prohibits any person from creeping or sweeping for
+anchors, cables without the conservator’s permission.
+40
+Clause 31.—This clause bars any person from disturbing the existing
+waterbed or geophysical structures or any kind of artificial protection or shore of
+the port without the conservator’s permission and under the supervision of such
+person as may be appointed by the conservator. It further bars any person from
+sinking or burying any mooring-post, anchor or any other thing or do anything
+which may damage any part of the bank or shore.
+Clause 32.—This clause seeks to mandate that vessels shall not leave or move
+in any port without a pilot, harbour master or port officer on board the vessel, unless
+the vessel has the conservator’s written permission unless upon application to the
+proper officer, the master was unable to procure a pilot, harbour master or port
+officer to go on board the vessel. This clause empowers the Government to specify
+by notification that this clause will not apply to sailing vessels of any measurement
+not exceeding a measurement specified in the notification. This clause also provide
+that the owner or master of the vessel shall be answerable for any damage caused
+by the vessel or fault of navigation of the vessel.
+Clause 33.—This clause directs every port officer in a port to co-operate with
+any officer authorised by a general or special order of the Central Government for
+carrying out any manoeuvres which is part of any scheme or preparations for the
+defence of the port during time of war, or for the security of the port from any
+sub-conventional or non-traditional threats, or natural disasters. This clause further
+puts an obligation on the Government to bear the running expenses of such vessels
+which are used during time of war.
+Clause 34.—This clause provides for the Authority and Director General to
+regulate certain activities specified therein.
+Clause 35.—This clause seeks to define certain expressions which are specific
+to Chapter VIII, such as “Ballast Water Management Convention”, “MARPOL
+Convention”, “reception facility”, “waste from vessels”, “cargo residues”.
+Clause 36.—This clause seeks to mandate every port to provide reception
+facilities adequate to meet the needs of vessels normally using a port without
+causing undue delay to vessels, in order to comply with the requirements of relevant
+provisions in the MARPOL Convention and the Ballast Water Management
+Convention. Further, this clause explains the term “adequate” as capable of
+receiving the types and quantities of wastes from vessels normally using that port,
+taking into account the operational needs of the port users, its size and geographical
+location, the types of vessels calling there.
+Clause 37.—This clause seeks to empower the Central Government to
+mandate any port, by way of a written order, which has no reception facility or
+whose facilities are not “adequate”, on the basis of an audit conducted or otherwise,
+to provide or arrange the reception facilities specified in the order.
+Clause 38.—This clause requires every port to prepare a port waste reception
+and handling plan as prescribed by rules made by the Central Government in
+consultation with the State Government. The port waste reception and handling plan
+approved by the Central Government is required to be implemented by the port. This
+clause further mandates every port to communicate information about the plan to
+the vessels in the manner prescribed by rules.
+Clause 39.—This clause seeks to obligate the operator, agent or master of a
+vessel bound for India to submit an advance waste notification to the port of call in
+the form and manner and within the time period prescribed by rules made by the
+Central Government in consultation with the State Government.
+Clause 40.—This clause seeks to obligate the master of a vessel calling at a
+port, to deliver all its vessel generated waste to a reception facility, as per the
+conditions prescribed by rules. It requires the port where the waste is delivered to
+issue a waste delivery receipt to the master of the vessel in the form and manner
+prescribed by rules.
+41
+Clause 41.—This clause seeks to empower a port providing reception facilities
+or person providing such facilities, to levy reasonable charges for use of the
+reception facilities. On payment of all charges and subject to compliance with all
+conditions imposed, any reception facility provided at the port shall be made
+available for use by any vessel.
+Clause 42.—This clause requires the Central Government to audit every port
+for the availability and adequacy of reception facilities and also audit such pollution
+containment equipment as may be specified by the Central Government, at such
+intervals, and in the manner prescribed by the Central Government in consultation
+with the State Government.
+Clause 43.—This clause seeks to empower the Central Government to specify
+by notification the manner in which and the person by whom the information will
+be uploaded on the Portal. This includes advance waste notification as specified
+under clause 39; waste delivery receipts under sub-clause (2) of clause 40; request
+by a vessel for availing reception facilities and such other matters.
+Clause 44.—This clause seeks to obligate every port to report to the
+Government, any incident that threatens or is likely to pose a threat of pollution to
+the coastal waters, in the manner prescribed by rules. It further empowers the
+Central Government to issue appropriate directions to any port or State Government
+or Authority or organisation, in case it is satisfied that an incident which threatens
+or is likely to pose a threat of pollution of the coastal waters has taken place or is
+likely to take place, to prevent or contain such pollution in accordance with
+applicable law. It also explains the meaning of coastal waters for the purposes of
+this clause.
+Clause 45.—This clause seeks to empower the Government to issue
+appropriate directions to any port or port officer to ensure compliance with any of
+the provisions of Chapter VIII.
+Clause 46.—This clause specifies fee and other charges which shall be
+leviable in ports.
+Clause 47.—This clause seeks to authorise the State Maritime Board or an
+authorised concessionaire to fix the port tariff for every port other than major port.
+Further, the Board of Major Port Authority or such person or body of persons
+authorised by the Board of Major Port Authority or board of directors where port is
+registered as a company under the Companies Act, 2013 will fix the port tariff for
+every major port. The port tariff fixed shall be published electronically and shall
+come into effect after expiry of a period of thirty days from the date of its
+publication. This clause also allows the Council to issue guidelines on any matter
+related to transparency of port tariff including its components. It further empowers
+the Authority on the basis of recommendations by the Government to exempt or
+remit the whole or any portion of fee or other charges payable under the Bill.
+Clause 48.—This clause empowers Government to authorise by way of
+notification, an officer or body of persons at the port, to receive the fees or other
+charges payable under the Bill and to expend the receipts as may be specified in the
+notification. It requires such officer or body of persons to issue receipts in lieu of
+such fee or other charges. These receipts shall contain the particulars as specified
+under this clause.
+Clause 49.—This clause obligates the owner, agent or master of every vessel
+required to pay any fee or other charges, to report the vessel’s arrival within port
+limits in such form, manner and within such period as may be prescribed by rules.
+42
+Clause 50.—This clause empowers the officer or body of persons authorised
+under sub-clause (1) of clause 48, to detain or arrest the vessel, if the master of any
+vessel refuses or neglects to pay fees and other charges on demand, until such
+amount is paid. It further empowers the officer or body of persons to sell off the
+detained or arrested vessel to recover the costs if the fees or other charges remain
+unpaid for fifteen days. In cases where a vessel is already arrested under the order
+of a court or other authority, prior permission of such court or the authority must be
+taken to make the sale and disburse the surplus according to guidelines. This clause
+also covers conditions in which the sale proceeds of the vessel are insufficient to
+satisfy the fee or other charges.
+Clause 51.—This clause mandates that the port-clearance shall not be granted
+to any vessel until the amount of fees or other charges and fines, penalties and
+expenses have been paid by the owner or master or agent or port user, to the
+satisfaction of the officer granting the clearance.
+Clause 52.—This clause mandates that no vessel master shall evade the
+payment of fees or other charges, liable to be paid under the Bill. It further states
+that in any proceeding before a Magistrate any document issued stating that the
+master has evaded such payments, shall be sufficient prima facie proof of the
+evasion, unless the master can prove that such a departure happened due to the stress
+of weather, or there was a lawful and reasonable ground for such departure. Any
+Magistrate having jurisdiction under this Bill, in any port to which the vessel may
+proceed, or on which she may be found shall have jurisdiction in any proceeding
+under this clause.
+Clause 53.—This clause states that any person who contravenes any provision
+or fails to comply with any provision of the Bill shall be liable to penalty. The First
+Schedule pertains to offences for which fines or imprisonment is specified and the
+Second Schedule pertains to contraventions for which penalties have been specified.
+This clause seeks to specify that any contravention or failure to comply with the
+provisions of the Bill, rules or regulations under the Bill which do not have a
+separate penalty, shall be punishable with a fine up to ten thousand rupees, and if
+the breach is a continuing one, with further fine which may extend to one thousand
+rupees for every day, after the first day, during which the breach continues.
+Clause 54.—This clause specifies that the authority for imposing the penalty
+for contravention specified in the table under the Second Schedule will be the
+conservator. It further empowers the Central Government to notify an officer to
+compound first contravention of any provision under the Bill.
+Clause 55.—This Clause specifies that no court inferior to that of a Judicial
+Magistrate of the first class shall try any offence specified in the First Schedule
+under the Bill.
+Clause 56.—This clause seeks to specify the penalty for wilful failure to
+comply with any order of the Dispute Resolution Committee. Where no appeal has
+been preferred against such order of the Dispute Resolution Committee, penalty
+extending up to one lakh rupees with an additional penalty of one thousand rupees
+each day for continuing default shall be imposed.
+Clause 57.—This clause provides that no person shall make any statement or
+furnish any document which the person knows or has reason to believe to be false
+in any material particular or omit to state any material fact knowing it to be material,
+or wilfully alter, suppress or destroy any document which is required to be
+furnished.
+Clause 58.—This clause states that any fine imposed by the Magistrate or
+penalty imposed by the conservator, may be recovered by distress and sale of vessel
+or part of vessel, as may be deemed necessary.
+43
+Clause 59.—This clause states that if any dispute as to the sum to be paid as
+expenses or damages under this Bill arises, it shall be determined by the Magistrate,
+upon application made to him for that purpose by either of the disrupting parties.
+Further, any sum payable as expenses or damages under the Bill that do not exceed
+twenty thousand rupees, may be recovered by the conservator or Magistrate as if it
+were a penalty or fine.
+Clause 60.—This clause seeks to provide that the cost of distress or sale may
+be levied in addition to any penalty, fine, expenses or damages.
+Clause 61.—This clause seeks to provide that in case of any dispute about the
+amount leviable by any distress or arrest under the Bill and costs payable for distress,
+the person making the distress or arrest may detain the goods and proceeds of the
+sale until the Magistrate determines the amount to be levied. Such amount shall be
+determined by the Magistrate pursuant to an application made to him in that regard
+to be paid as costs, which if not paid on demand shall be enforced as a fine.
+Clause 62.—This clause seeks to provide that any person committing any
+offence under the Bill or the corresponding rules may be tried at a place in which he
+may be found, or by any Magistrate having jurisdiction over the district or place
+adjoining the port where the offence has taken place, or in any court where the
+person might be tried under any other law for the time being in force. All powers of
+a Magistrate under the Bill shall be exercised by such Magistrate in such manner as
+if the offence had been committed under his jurisdiction even if the same was
+committed outside the limits of his jurisdiction.
+Clause 63.—This clause seeks to provide that in case the person committing
+an offence under the Bill is a company, every person who, at the time the offence
+was committed, was in charge of, and was responsible to the company for the
+conduct of its business, as well as the company, shall be deemed to be guilty of the
+offence and shall be liable to be proceeded against and punished accordingly. If such
+person proves that the offence was committed without his knowledge or that he
+exercised all due diligence to prevent the commission of such offence, such person
+need not to be subject to punishment. However, if it is proved that the offence was
+committed with the consent or connivance of, or is attributable to any neglect, such
+person shall be punished accordingly. This clause also explains the meaning of
+“company” and “director” for this clause.
+Clause 64.—This clause seeks to provide the manner of service of documents
+on any person, such as, personal delivery, leaving the same at his last place of
+residence, or by post. If such delivery is to be made to the harbour master of a port,
+it may be left at the port or with a person in command at the port; in case of a master
+of a vessel, such document may be left on board with person in command of the
+vessel and if no master or owner or agent is there, it may be affixed on the vessel or
+at a suitable place on the bridge.
+Clause 65.—This clause prohibits vessels from hoisting, carrying or wearing
+any flag, jack, pennant or colours at any port, the use of which is unlawful. It further
+imposes an obligation on foreign vessels to hoist the flag of Republic of India and
+the flag of the country of the vessel while calling at a port in India.
+Clause 66.—This clause mandates every port to prepare emergency
+preparedness and response plan. It further empowers the Central Government to
+approve such a plan as well as to audit the port to ensure compliance with this clause.
+This clause also empowers the conservator to issue directions for the
+implementation of the approved plan. It also empowers the Central Government to
+issue directions to any person in order to ensure compliance with this clause and put
+in place a national emergency response mechanism.
+44
+Clause 67.—This clause imposes an obligation on every port to report the
+particulars of any incident such as property damage, sinking of vessels, collision of
+vessels, fire, in such manner as may be prescribed by rules.
+Clause 68.—This clause obligates every port to provide shore-based welfare
+services for seafarers of vessels calling at the port, as may be prescribed by rules.
+Clause 69.—This clause empowers the Central Government to direct a port to
+adopt a mechanism for electronically integrating such port related data with the port
+community system. It further obligates every port to maintain an effective vessel
+traffic service within port limits in accordance with applicable law. This clause also
+explains the meaning of port community system and vessel traffic system.
+Clause 70.—This clause empowers the Central Government to issue
+directions to port, port facilities, port officer or any person, to ensure compliance
+with provisions of the Merchant Shipping Act, 1958.
+Clause 71.—This clause seeks to require any port undergoing a change in
+substantial ownership or effective control, to obtain prior clearance from the Central
+Government or a person authorised by the Central Government, in such form and
+manner and within such time as may be notified.
+Clause 72.—This clause mandates that obligations under the international
+conventions to which India is a party are discharged in accordance with such
+conventions, as may be prescribed by rules made by the Central Government.
+Clause 73.—This clause seeks to empower the Central Government, in
+consultation with the State Government, to specify by notification the criteria for
+classification of one or more port as a mega port. It further empowers the Central
+Government in the case of a major port, and in consultation with the State
+Government in the case of a port other than major port, to notify a port as a mega
+port. Irrespective of such classification as a mega port, such major port a port other
+than major port shall retain its status and continue to be governed by the respective
+laws applicable to them.
+Clause 74.—This clause seeks to provide that all members, officers and other
+employees of the Maritime State Development Council when acting in pursuance of
+the provisions of the Bill shall be deemed to be public servants under clause (28) of
+section 2 of the Bharatiya Nyaya Sanhita, 2023.
+Clause 75.—This clause mandates that the provisions of the Bill shall be in
+addition to and not in derogation of the Major Port Authorities Act, 2021 and
+Merchant Shipping Act, 1958, in so far as it relates to ports.
+Clause 76.—This clause enumerates the matters in respect of which the
+Central Government may make rules to carry out the purposes of the Bill.
+Clause 77.—This clause enumerates the matters in respect of which the State
+Government may make rules to carry out the purposes of the Bill.
+Clause 78.—This clause enumerates the matters in respect of which the
+Central Government in consultation with the State Government make rules to carry
+out the purpose of the Bill.
+Clause 79.—This clause seeks to enumerates the matters in respect of which
+the Council may make regulations governing its administrative functioning of ports.
+Clause 80.—This clause seeks to enumerates the matters in respect of which
+the Council may frame guidelines consistent with the Bill and the rules made
+thereunder to carry out the provisions of this Bill.
+Clause 81.—This clause mandates that every rule and every regulation made
+under the Bill shall be laid, as soon as may be after it is made, before each House of
+Parliament, while it is in session, for a total period of thirty days which may be
+comprised in one session or in two or more successive sessions. It further provides
+that every rule made by the State Government shall be laid, as soon as it is made,
+before the State Legislature.
+45
+Clause 82.—This clause seeks to protect the Government, the Council, the
+Authority or any member or any employee of the Council or the Authority from any
+suit or other legal proceedings for an action done in good faith under the Bill, or any
+rules or any regulations made under the Bill.
+Clause 83.—This clause empowers the Central Government to notify and
+increase the amount of penalty specified in the Second Schedule, not exceeding,
+twice the amount that has been specified. It further provides that each notification
+shall be laid before each House of Parliament as soon as after it is issued.
+Clause 84.—This clause seeks to empower the Central Government to make,
+by order published in the Official Gazette, provisions for removal of difficulties in
+giving effect to the provisions of the Bill and restrict the power to make such order
+within a period of three years from the commencement of the Bill and mandates
+every such order to be laid before each House of Parliament.
+Clause 85.—This clause seeks to repeal the Indian Ports Act, 1908 and to
+provide for the saving of various actions undertaken under the said Act. It further
+states that provisions of section 6 of the General Clauses Act, 1897 shall be
+applicable to the repealed enactment.
+46
+FINANCIAL MEMORANDUM
+The Bill seeks to repeal the Indian Ports Act, 1908 and to introduce the Indian
+Ports Bill, 2025.
+2. Clause 3 of the Bill seeks to provide for the establishment of a Council, for
+the purposes of this Bill to be called the Maritime State Development Council.
+Clause 8 of the Bill provides that the Central Government may, after due
+appropriation made by Parliament, make grants as required by the Maritime State
+Development Council, to discharge its functions under this Bill.
+3. The expenditure to be incurred towards the said body would be met from
+budgetary allocation after such allocation by the Department of Expenditure, as and
+when the body will be constituted. This expenditure is not quantifiable at this stage
+as the structure, posts, number of officers and other aspects are not final.
+4. The Bill, if enacted, will not involve any other expenditure, either recurring
+or non-recurring nature from the Consolidated Fund of India.
+46
+47
+MEMORANDUM REGARDING DELEGATED LEGISLATION
+Clause 76 of the Indian Ports Bill, 2025 seeks to empower the Central
+Government to make rules to carry out the provisions of the Bill, subject to the
+condition of previous publication. Sub-clause (2) of the said clause specifies the
+matters in respect of which such rules may be made. These matters include, (i) the
+salary and allowances and other conditions of service of the employees of the
+Council under sub-clause (2) of clause 7; (ii) other officers of the port to be
+appointed under sub-clause (2) of clause 18; (iii) the terms and conditions of service
+of the officers under sub-clause (3) of clause 18; (iv) the powers to be delegated by
+the conservator and the persons to whom such powers may be delegated under sub-
+clause (6) of clause 18; (v) the manner of removal or alteration of obstruction and
+factors for determining compensation under sub-clause (5) of clause 20; (vi) the
+qualifications, experience and other terms and conditions of service of the health
+officer to be appointed under sub- clause (2) of clause 24; (vii) the measures to be
+taken at infected zone under sub-clause (4) (b) of clause 24; (viii) the factors to be
+considered by the conservator in determining the expenses to be paid by under sub-
+clause (2) of clause 26; (ix) the form and manner of receipt of fees or other charges
+under sub-clause (2) of clause 48; (x) the manner of appointment of conservator
+from a body of persons under sub-clause (2) of clause 54; and (xi) the obligations to
+be discharged by the ports under sub-clause (2) of clause 72.
+2. Clause 77 of the Bill seeks to empower the State Government to make rules
+to carry out the provisions of the Bill, subject to the condition of previous
+publication. Sub-clause (2) of the said clause specifies the matters in respect of
+which such rules may be made. These matters include, (i) the form and manner of
+making an application for adjudication of disputes referred to the State Maritime
+Board under sub-clause (2) of clause 16; (ii) other matters in respect of which the
+State Maritime Board shall exercise powers of civil court under sub-clause (4) (d)
+of clause 16; (iii) other officers of the port to be appointed under sub-clause (2) of
+clause 18; (iv) the terms and conditions of service of officers under sub-clause (3)
+of clause 18; (v) the powers to be delegated by the conservator and the persons to
+whom such powers may be delegated sub-clause (6) of clause 18; (vi) the manner
+of removal or alteration of obstruction and factors for determining compensation
+under sub-clause (5) of clause 20; (vii) the qualification, experience and other terms
+and conditions of service of the health officer to be appointed under sub-clause (2)
+of clause 24; (viii) the measures to be taken at infected zone under sub-clause (4)
+(b) of clause 24; (ix) the factors to be considered by the conservator in determining
+the expenses to be paid under sub-clause (2) of clause 26; (x) the form and manner
+of receipt of fees or other charges under sub-clause (2) of clause 48; and (xi) the
+manner of appointment of conservator from a body of persons under sub-clause (2)
+of clause 54.
+3. Clause 78 of the Bill seeks to empower the Central Government in
+consultation with State Governments to make rules, to carry out the provisions of
+the Bill, subject to the condition of previous publication. Sub-clause (2) of the said
+clause specifies the matters in respect of which rules may be made. These matters
+include, (i) the form and manner of notification of any part of the navigable rivers
+or channels leading to ports under sub-clause (3) (a) (iii) of clause 1; (ii) the norms,
+form and manner of notifying a new port and altering port limits under sub-clause
+(2) of clause 11; (iii) the action to be taken by the conservator and the directions to
+be issued to the persons sub-clause (5) (a) of clause 24; (iv) the manner of reporting
+of disease by the master under sub-clause (5) (b) of clause 24; (v) the conditions
+subject to which port shall provide reception facilities under clause 36; (vi) the form
+and manner of preparing port waste reception and handling plan under sub-clause
+(1) of clause 38; (vii) the information about the port waste reception and handling
+plan and manner of communicating such information under sub-clause (3) of
+clause 38; (viii) the form, manner and time for submitting an advance waste notice
+under clause 39; (ix) the conditions for delivery of vessel-generated waste under
+47
+48
+sub-clause (1) of clause 40; (x) the form and manner of issuance of waste delivery
+receipt under sub-clause (2) of clause 40; (xi) the intervals and manner of conducting
+audit of ports under sub-clause (1) of clause 42; (xii) the manner of reporting
+incidents under sub-clause (1) of clause 44; (xiii) the form, manner and time for
+reporting arrival of vessel at port under clause 49; (xiv) the manner of reporting of
+incidents under clause 67; and (xv) the provisions of shore-based welfare services
+under clause 68.
+4. Clause 79 of the Bill seeks to empower the Maritime State Development
+Council to make regulations, to carry out the provisions of the Bill, subject to the
+condition of previous publication. Sub-clause (2) of the said clause specifies the
+matters in respect of which rules may be made. These matters include, (i) the manner
+and conditions subject to which the Chairperson may invite persons to meetings of
+the Council under sub-clause (3) of clause 3; (ii) the manner of transaction of
+business at meetings of the Council under sub-clause (4) of clause 3; and (iii) any
+such other matters which is to be, or may be, specified by regulations.
+5. The matters in respect of which the aforementioned rules and regulations
+may be made are matters of procedure and administrative details, and as such, it is
+not practicable to provide for them in the Bill itself. The delegation of legislative
+power is, therefore, of a normal character.
+49
+50
+LOK SABHA
+———
+A
+BILL
+to consolidate the law relating to ports, promote integrated port development,
+facilitate ease of doing business and ensure the optimum utilisation of India's
+coastline; establish and empower State Maritime Boards for effective
+management of ports other than major ports; establish the Maritime State
+Development Council for fostering structured growth and development of the
+port sector; provide for the management of pollution, disaster, emergencies,
+security, safety, navigation, and data at ports; ensure compliance with India’s
+obligations under international instruments to which it is a party; take
+measures for the conservation of ports; provide for adjudicatory mechanisms
+for the redressal of port-related disputes; and address matters connected
+therewith or incidental thereto.
+———
+(Shri Sarbananda Sonowal, Minister of Ports, Shipping and Waterways)

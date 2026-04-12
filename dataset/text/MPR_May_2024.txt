@@ -1,0 +1,359 @@
+Monthly Policy Review
+May 2024
+Highlights of this Issue
+GDP grew by 8.2% in 2023-24 (p. 2)
+GDP growth in 2023-24 is estimated to be higher than the previous year (7%). In 2023-24, both manufacturing and
+construction sectors grew at 9.9%.
+SEBI issues norms for sharing real-time price data (p. 2)
+Market infrastructure institutions (such as stock exchanges) can only share real time price data for orderly functioning
+of the securities market or fulfilling regulatory requirements.
+RBI notifies framework for self regulatory organisations (SRO) in the FinTech sector (p. 3)
+The framework contains the eligibility criteria, scope, and responsibilities of an SRO for the sector. RBI will continue
+to be the apex regulator. Joining an SRO will not be mandatory but highly encouraged by the RBI.
+IRDAI releases master circular for the health insurance sector (p. 3)
+The circular supersedes 55 previous regulations on health insurance. Insurers must provide: (i) insurance products for
+all categories of individuals, and (ii) a customer information sheet with the key details of the policy offered.
+RBI seeks comments on prudential framework for project financing (p. 3)
+The draft framework seeks to regulate project financing carried out by regulated entities such as banks. It sets forth
+exposure limits to such projects, norms for stress resolution, and minimum provisioning amounts.
+Comments sought on draft Explosives Bill, 2024 (p. 4)
+The draft Bill seeks to replace the Explosives Act, 1884. Key changes in the draft Bill include a revision of fines and
+penal provisions, and changes in the licencing authority.
+Dam safety regulations released, (p. 5)
+The National Dam Safety Authority released regulations regarding monitoring and inspection of dams. A
+hydrometeorological station must be established near a dam to measure indicators such as wind and water flow.
+Note that the Model Code of Conduct is in place from March 16, 2024 till the completion of elections to the 18th
+Lok Sabha. The government cannot make major policy decisions during this period without prior approval of the
+Election Commission of India.
+June 3, 2024
+PRS Legislative Research ◼ Institute for Policy Research Studies
+3rd Floor, Gandharva Mahavidyalaya ◼ 212, Deen Dayal Upadhyaya Marg ◼ New Delhi – 110002
+Tel: (011) 23234801, 43434035 ◼ www.prsindia.org
+Monthly Policy Review – May 2024 PRS Legislative Research
+Macroeconomic Development Industrial production grew by 4.9% in fourth
+quarter of 2023-24
+Tushar Chakrabarty (tushar@prsindia.org)
+The Index of Industrial Production (IIP) grew by 4.9%
+GDP grew by 8.2% in 2023-24 in the fourth quarter (January-March) of 2023-24,
+compared to an increase of 4.5% in the same period in
+In 2023-24, Gross Domestic Product (GDP) (at 2022-23.2,3 Mining increased by 4.9% in the fourth
+constant 2011-12 prices) is estimated to grow by 8.2%, quarter of 2023-24. In the corresponding quarter of
+higher than the previous year (7%). GDP grew by 2022-23, mining increased by 6.9%. Manufacturing
+7.8% in the fourth quarter (January-March) of 2023-24, increased by 4.5% while electricity increased by 7.3%
+higher than growth of 6.2% in the fourth quarter of in the fourth quarter of 2023-24.
+2022-23.1 In the third quarter (October-December) of
+2023-24, GDP had grown by 8.6%. Figure 2: Growth in IIP (%, year-on-year)
+10%
+Figure 1: Growth in GDP (%, year-on-year)
+25% 22.6% 8% 7.3%
+20%
+15% 12.8% 6% 4.9% 4.9%
+9.9% 8.2% 8.6% 4.5%
+10% 5.5% 4.5% 5.5% 4.3% 6.2% 8.1% 7.8% 4%
+5%
+0% 2%
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+2021-22 2022-23 2023-24 0%
+Mining Mfg Electricity IIP
+Note: GDP growth in Q1 of 2021-22 was high on back of a
+contraction of 23.1% in Q1 of 2020-21 (COVID year). Jan-24 Feb-24 Mar-24 Jan-Mar 24
+Sources: Ministry of Statistics and Programme Implementation; PRS.
+Sources: Ministry of Statistics and Programme Implementation; PRS.
+GDP across economic sectors is measured in terms of
+Gross Value Added (GVA). In 2023-24, both
+manufacturing and construction sectors are estimated to
+grow by 9.9%, followed by the financial services sector
+Finance
+at 8.4%. Agriculture sector is estimated to grow by
+1.4% in 2023-24. Note that while the growth in GVA
+is estimated at 7.2%, GDP growth is estimated at 8.2%. SEBI issues norms for sharing real time price
+This is owing to a 19.1% growth in net taxes. GDP is data with third parties
+calculated by adding net taxes to GVA.
+Tushar Chakrabarty (tushar@prsindia.org)
+Table 1: Growth in GVA across sectors at constant
+prices (%, year-on-year) The Securities and Exchange Board of India (SEBI)
+Sectors 2020-21 2021-22 2022-23 2023-24 issued a circular regarding norms for sharing real time
+Agriculture 4.0% 4.6% 4.7% 1.4% price data to third parties.4 SEBI noted that certain
+online gaming platforms provide virtual trading
+Mining -8.2% 6.3% 1.9% 7.1%
+services or fantasy games. Such games are based on
+Manufacturing 3.1% 10.0% -2.2% 9.9% movement of real time share prices of listed companies.
+Electricity -4.2% 10.3% 9.4% 7.5% Some platforms also offer monetary incentives based
+on the performance of a virtual stock portfolio. As per
+Construction -4.6% 19.9% 9.4% 9.9%
+the circular, market infrastructure institutions (such as
+Trade -19.9% 15.2% 12.0% 6.4%
+stock exchanges) should not share real time price data
+Financial services 1.9% 5.7% 9.1% 8.4% with third parties. Data can be shared when needed for
+Public administration -7.6% 7.5% 8.9% 7.8% orderly functioning of the securities market or meeting
+regulatory requirements. Market institutions or
+GVA -4.1% 9.4% 6.7% 7.2%
+intermediaries must enter into an agreement with
+GDP -5.8% 9.7% 7.0% 8.2%
+entities with whom they want to share real time price
+Note: GDP is calculated by adding net taxes to GVA. Net taxes are
+data. Such an agreement must specify the activities for
+taxes minus subsidies.
+Sources: Ministry of Statistics and Programme Implementation; PRS. which the data is being shared along with the
+justification of it being needed for orderly functioning
+of the securities market. Market price data can be
+shared for investor education and awareness with a lag
+of one day.
+- 2-
+Monthly Policy Review – May 2024 PRS Legislative Research
+RBI notifies framework for self-regulatory Existing products not in compliance with the circular
+organisations in the FinTech sector must comply by September 30, 2024. Key features of
+the master circular include:
+Pratinav Damani (pratinav@prsindia.org)
+▪ Types of insurance products offered: Insurers
+The Reserve Bank of India (RBI) notified a framework must offer products to provide a wider choice to
+for self-regulatory organisations (SROs) in the FinTech customers. They must cater to: (i) all ages, (ii) all
+sector.5 A FinTech company provides technological types of medical conditions, (iii) pre-existing and
+solutions for the delivery of financial products to chronic conditions, (iv) all systems of medicine
+businesses and consumers. They can operate in and treatment, and (v) all types of hospitals and
+partnership with a traditional financial institution (such health care providers. Insurance products offered
+as a bank) or otherwise. RBI noted that self-regulation must be in compliance with laws such as: (i) the
+can allow FinTechs to set and adhere to industry Mental Healthcare Act, 2017, (ii) the Surrogacy
+standards. Key features of the framework include: (Regulation) Act, 2021, and (iii) the HIV and
+AIDS (Prevention and Control) Act, 2017.
+▪ Eligibility and membership criteria: The
+applicant for a SRO must have a minimum net ▪ Claim settlement: Insurers must aim towards
+worth of two crore rupees. This must be achieved 100% cashless settlements of claims in a time
+within one year of recognition by the RBI or bound manner. Requests for cashless settlements
+before commencement of operations as an SRO, must be decided within one hour of the request.
+whichever is earlier. The shareholding of the SRO To enable such requests, necessary systems must
+must be diversified, with no entity (or entities be implemented by July 31, 2024. Final
+acting in concert) holding more than 10% of authorisation must be granted within three hours of
+shares. The SRO should represent the sector with discharge authorisation from the hospital. In case
+membership across entities of all sizes, stages, and of delays, any additional amount charged must be
+activities. Membership would be voluntary but borne by the insurer from the shareholder’s fund.
+RBI would encourage FinTechs to become
+▪ Customer information sheet: Insurers will be
+members of a recognised SRO.
+required to provide customers with a Customer
+▪ Features of the SRO: The SRO must function Information Sheet (CIS) in a format prescribed by
+objectively under RBI’s oversight. It should aim IRDAI. The CIS will explain all the features of a
+for sustainable development of the sector and, if policy in a simple language. These include: (i)
+necessary, identify a glide path for phased type of insurance, (ii) sum insured, (iii) summary
+regulatory compliance. Other features include: (i) of exclusions, (iv) deductibles, and (v) sub-limits.
+being truly representative of the sector through
+▪ Board-approved policies: Insurers will be
+comprehensive membership agreements, (ii)
+required to have board-approved policies on: (i)
+operate independently and freely from the
+underwriting, and (ii) empanelment of hospitals
+influence of a single member or group of members,
+and healthcare providers. They must have well-
+(iii) act as a legitimate arbiter of disputes between
+defined claims handling and claims settlement
+members, and (iv) encourage its members to
+procedures and processes.
+adhere to regulatory priorities.
+▪ Functions: The SRO should have objective and RBI invites comments on prudential
+consultative processes to make rules and standards. framework for project finance
+It should also set industry benchmarks and baseline
+Pratinav Damani (pratinav@prsindia.org)
+technology standards. SROs should deploy
+surveillance measures to monitor the sector and to
+The Reserve Bank of India (RBI) released draft
+detect and highlight exceptions. They can
+directions that provide a framework for the financing of
+establish standards of conduct and impose
+infrastructure, non-infrastructure, and commercial real
+penalties for violations. SROs are also empowered
+estate projects by regulated entities.8 Regulated entities
+to bar or remove entities as members. They should
+include banks and non-banking financial companies.
+establish a grievance redressal and dispute
+Key features of the draft directions include:
+resolution framework for their members.
+▪ Conditions for project financing: Project
+IRDAI releases master circular for health finance is a method of funding in which revenue
+insurance products generation from a project is the source of
+repayment and the project itself the collateral for
+Pratinav Damani (pratinav@prsindia.org)
+the loan. Such projects can include power plants,
+mines, and transportation infrastructure. Lenders
+The Insurance and Regulatory Development Authority
+wishing to have exposure to such projects must
+of India (IRDAI) released a master circular on health
+have a board approved policy for stress resolution.
+insurance products.6 The master circular supersedes 55
+Further, lenders must ensure that: (i) the date of
+previous circulars and is effective immediately.7
+commencement of operations is given prior to
+- 3-
+Monthly Policy Review – May 2024 PRS Legislative Research
+disbursal of funds, (ii) funds are disbursed in limited to 20% of the overseas fund’s net assets. In
+proportion to project completion, and (iii) an case this limit is breached and the overseas fund does
+independent architect or engineer certifies the not rebalance its portfolio within six months, Indian
+stages of completion. mutual funds must liquidate their investment in the
+overseas fund. Liquidation of investments must be
+▪ Projects financed by a consortium will have
+done within the next six months.
+exposure limits. For projects with an aggregate
+exposure of up to Rs 1,500 crore, every lender Comments are invited by June 7, 2024.
+must have exposure of at least than 10% of the
+aggregate exposure. For projects with higher
+aggregate exposure, the individual exposure must
+be at least Rs 150 crore or 5% of the aggregate
+Commerce
+exposure, whichever is higher.
+▪ Stress resolution: Lenders are expected to Shrusti Singh (shrusti@prsindia.org)
+monitor stress in projects. Credit events must be
+reported to the Central Repository of Information Draft Explosive Bill, 2024 released for public
+on Large Credit. A credit event is: (i) need for feedback
+extension in the date of commencement of
+The Ministry of Commerce and Industry released the draft
+commercial operations, (ii) need for infusion of
+Explosive Bill, 2024 for public feedback.11,12 The draft Bill
+additional debt, or (iii) diminution in the net
+seeks to replace the Explosives Act, 1884.13 The Act
+present value of the project. A review of the
+regulates the manufacture, possession, use, sale, transport,
+debtor must be done by the lender within 30 days
+import, or export of explosives for commercial use. The
+of the credit event. Based on the outcome, a
+draft Bill retains several provisions of the Act. Key changes
+resolution plan may be implemented.
+in the draft Bill include:
+▪ Provisioning for standard assets: Lenders will
+▪ Granting of licence: As per the Act, persons
+be required to provision funds for standard assets
+intending to manufacture, use, sell, export, or import
+(loans that are rated ‘standard’ based on certain
+explosives must apply for a license to the licensing
+conditions). For projects under construction, 5%
+authority. The licencing authority shall be the Chief
+of the outstanding funds must be maintained as
+Controller of Explosives or any other authority
+provisions. Once the project is operational, this
+prescribed. The draft Bill retains this provision. It
+amount can be reduced to 2.5%, and then 1%,
+adds that the licensing authority may grant a license
+subject to certain conditions. These include: (i) a
+for a prescribed period. The license must specify the
+positive net operating cash flow to cover
+quantity of explosives that a licensee can
+obligations to all lenders, and (ii) a reduction of
+manufacture, sell, transport, import, or export. The
+20% in the total long term debt to the lenders from
+Chief Controller of Explosives or other prescribed
+the date of commencement of operations.
+authority will be the licensing authority under the
+Comments are invited by June 15, 2024.9 draft Bill.
+▪ Penalties for offences: The draft Bill increases the
+Consultation paper issued on investments by
+fines for various offences. For instance, the
+Indian mutual funds in certain overseas funds
+maximum fine for illegal manufacturing, importing,
+Tushar Chakrabarty (tushar@prsindia.org) or exporting explosives has been increased from
+five thousand rupees to one lakh rupees.
+The Securities and Exchange Board of India (SEBI)
+issued a consultation paper on facilitating investments
+by Indian mutual funds in overseas funds that invest
+certain portion of their assets in Indian securities.10
+Water Resources
+Currently, mutual funds can invest is several overseas
+securities. These include: (i) share of Indian or foreign
+Arpita Mallick (arpita@prsindia.org)
+companies traded on foreign stock exchanges, (ii)
+investment-grade money market instruments, (iii)
+National Dam Safety Authority releases
+investment-grade government securities, and (iv) short
+regulations on dam safety and surveillance
+term deposits with overseas banks. The present
+framework does not explicitly allow Indian mutual The National Dam Safety Authority released the
+funds to invest in those overseas funds which have Surveillance, Inspection and Hydrometeorological
+invested in Indian securities. Thus, several mutual Station of Specified Dams Regulation, 2024.14 These
+funds avoid investing in such overseas funds. Regulations pertain to monitoring of dams and water
+inflow indicators for safety purposes. These
+SEBI has proposed that that Indian mutual funds be
+regulations cover dams which are: (i) more than 15
+allowed to invest in overseas funds with exposure to
+metres in height, or (ii) between 10 and 15 metres with
+Indian securities. However, such exposure should be
+- 4-
+Monthly Policy Review – May 2024 PRS Legislative Research
+certain structural specifications as mentioned under the period flood for dams, and (iii) after earthquakes or
+Dam Safety Act, 2021.15 Key features include: any natural calamities.
+▪ Inspection of dams: Every State Dam Safety ▪ Hydrometeorological Station: A
+Organisation (SDSO) will keep a constant hydrometeorological station must be established in
+surveillance of all dams under its jurisdiction. the vicinity of a dam. They will be responsible for
+SDOs are established under the Dam Safety Act, measuring rainfall, water level and discharge,
+2021 to monitor dams and ensure their continued temperature, and wind velocity and direction.
+safety. Surveillance is required to observe any These indicators will be measured at least once a
+anomalies such as cracks in the body of the dam, day. The required instruments will be placed at the
+seepage or any issue related to equipment. dam site or around a 250-metre radius from the
+dam abutment. Dam owners are also required to
+▪ The regulations provide that SDSOs must carry out
+install an instrumentation network for inflow
+inspection of a dam at specified instances. These
+forecasting and flood warning.
+include: (i) pre and post monsoon inspections, (ii)
+during or after each one in a 50-year return period
+flood for barrages and one in a 100-year return
+1 Press Note on Provisional Estimates of Annual GDP for 2023-24 May 3, 2024,
+and Quarterly Estimates of GDP for Q4 of 2023-24, National https://rbidocs.rbi.org.in/rdocs/Content/PDFs/DRAFTPRUDENTIAL
+Statistical Office, Ministry of Statistics and Programme FRAMEWORKFORIRACP2D1F0D1A32D1442F989223014E803B
+Implementation, May 31, 2024, 05.PDF.
+https://www.mospi.gov.in/sites/default/files/press_release/PressNote 9 RBI releases draft guidelines on ‘Prudential Framework for Income
+GDP31052024.pdf. Recognition, Asset Classification and Provisioning pertaining to
+2 India's Index of Industrial Production grows by 4.9 % in March Advances - Projects Under Implementation’, RBI, May 3, 2024,
+2024, Ministry of Statistics and Programme Implementation, May 10, https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR244PRUDENT
+2024, https://pib.gov.in/PressReleasePage.aspx?PRID=2020239. IALFRAMEWORKF8F044FAC0264AF4BBC62373DF5B945A.PD
+3 Statement I: Index of Industrial Production - Sectoral, Ministry of F.
+Statistics and Programme Implementation, 10 Consultation paper on facilitating investments by Indian Mutual
+https://static.pib.gov.in/WriteReadData/specificdocs/documents/2023 Funds in such overseas funds that invest certain portion of their assets
+/may/doc2023512197401.pdf. in Indian securities, Securities and Exchange Board of India, May 17,
+4 Norms for sharing of real time price data to third parties, Securities 2024, https://www.sebi.gov.in/reports-and-statistics/reports/may-
+and Exchange Board of India, May 24, 2024, 2024/consultation-paper-on-facilitating-investments-by-indian-
+https://www.sebi.gov.in/legal/circulars/may-2024/norms-for-sharing- mutual-funds-in-such-overseas-funds-that-invest-certain-portion-of-
+of-real-time-price-data-to-third-parties_83572.html. their-assets-in-indian-securities_83443.html.
+5 Framework for Self-Regulatory Organisation(s) in the FinTech 11 Note for Public, Stakeholder Consultation for seeking
+Sector, RBI, May 30, 2024, comments/suggestions on the proposal for Repeal of the Explosives
+https://rbidocs.rbi.org.in/rdocs/PublicationReport/Pdfs/SRO30052024 Act 1884, April 15, 2024,
+F5B5DF1DE3C8145A8AC7AD7F14C5F604C.PDF. https://dpiit.gov.in/sites/default/files/note_StakeholderConsultation_1
+5April2024.pdf.
+6 Master Circular on Health Insurance Business, IRDAI, May 29,
+2024, 12 Note for Public and Stakeholder Consultation for seeking
+https://irdai.gov.in/documents/37343/365525/%E0%A4%B8%E0%A comments/suggestions on the proposal for Repeal of the Explosives
+5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D% Act, 1884 and introduction of the Explosives Bill, 2024, April 29,
+E0%A4%A5%E0%A5%8D%E0%A4%AF+%E0%A4%AC%E0%A 2024,
+5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B5%E0%A5%8D https://dpiit.gov.in/sites/default/files/Note_for_Public_Explosive_Dat
+%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A4%BE%E0%A ed_29-04-2024.pdf.
+4%AF+%E0%A4%AA%E0%A4%B0+%E0%A4%AE%E0%A4%B 13 The Explosives Act, 1884,
+E%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%B0+%E0% https://www.indiacode.nic.in/bitstream/123456789/15371/1/the_expl
+A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AA%E0%A4%A4 osives_act%2C_1884.pdf.
+%E0%A5%8D%E0%A4%B0+_+Master+Circular++on+Health++In 14 Surveillance, Inspection and Hydrometeorological Station of
+surance+Business++29052024.pdf/5e707a91-b5de-1ec1-cf18- Specified Dams Regulation, 2024, National Dam Safety Authority,
+b66273a6839d?version=1.0&t=1716962621002. May 28, 2024,
+7 Annexures to Master Circular on Health Insurance Business, https://egazette.gov.in/WriteReadData/2024/254406.pdf.
+IRDAI, May 29, 2024, 15 The National Dam Safety Act, 2021,
+https://irdai.gov.in/documents/37343/991022/%E0%A4%B8%E0%A https://cdnbbsr.s3waas.gov.in/s3a70dc40477bc2adceef4d2c90f47eb8
+5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D% 2/uploads/2023/01/2023011887.pdf.
+E0%A4%A5%E0%A5%8D%E0%A4%AF+%E0%A4%AC%E0%A
+5%80%E0%A4%AE%E0%A4%BE+%E0%A4%B5%E0%A5%8D
+DISCLAIMER: This document is being furnished to you for your
+%E0%A4%AF%E0%A4%B5%E0%A4%B8%E0%A4%BE%E0%A
+information. You may choose to reproduce or redistribute this
+4%AF+%E0%A4%AA%E0%A4%B0+%E0%A4%AE%E0%A4%B
+report for non-commercial purposes in part or in full to any other
+E%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%B0+%E0%
+person with due acknowledgement of PRS Legislative Research
+A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AA%E0%A4%A4
+(“PRS”). The opinions expressed herein are entirely those of the
+%E0%A5%8D%E0%A4%B0+29052024+%E0%A4%95%E0%A4%
+author(s). PRS makes every effort to use reliable and
+BE+%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%AC%E0
+comprehensive information, but PRS does not represent that the
+%A4%82%E0%A4%A7+_+Annexure+to+Master+circualr+on+Heal
+contents of the report are accurate or complete. PRS is an
+th+Insurance+Business+29052024.pdf/e65501d8-2731-6f5c-aaed-
+independent, not-for-profit group. This document has been
+658f961289e1?version=1.0&t=1716962361813&download=true.
+prepared without regard to the objectives or opinions of those
+8 Reserve Bank of India - Prudential Framework for Income who may receive it.
+Recognition, Asset Classification and Provisioning pertaining to
+Advances - Projects Under Implementation, Directions, 2024, RBI,
+- 5-

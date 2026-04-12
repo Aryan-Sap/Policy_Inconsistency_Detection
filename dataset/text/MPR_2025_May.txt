@@ -1,0 +1,560 @@
+Monthly Policy Review
+May 2025
+Highlights of this Issue
+GDP grew by 6.5% in 2024-25 (p. 2)
+GDP growth in 2024-25 is estimated to be lower than in the previous year (9.2%). In 2024-25, the construction
+sector is estimated to grow the highest at 9.4%.
+India and UK conclude the Free Trade Agreement (p. 2)
+Tariff will be eliminated from about 99% of products which cover nearly all trade with UK. Indian workers and
+their employers in UK are exempted from paying social security contributions for three years.
+Commerce Ministry revises credit guarantee scheme for startups (p. 3)
+The ceiling on guarantee cover per borrower has been increased from Rs 10 crore to Rs 20 crore. The guarantee
+fee for certain champion sectors has also been reduced from 2% to 1%.
+Minimum Support Prices for Kharif crops approved (p. 3)
+For the marketing season 2025-26, MSP for paddy has been increased by 3% over the previous year. Ragi,
+Jowar, and Soybean have seen the highest increase.
+Supreme Court struck down retrospective environmental clearances (p. 5)
+The Court held that the grant of retrospective environmental clearances is against the environmental laws and
+the EIA Notification. Retrospective environmental clearances already granted will remain in effect.
+Cabinet approves revised policy for coal allocation to power sector (p. 5)
+The revised SHAKTI policy allocates coal directly to power projects via auctions. Linkage will be of two types:
+up to one year, and one year to 25 years.
+Comments invited on the Draft Registration Bill (p. 4)
+The draft Bill seeks to repeal the Registration Act, 1908. Key changes include expansion of the list of
+documents that must be registered and allowing electronic submission of documents.
+Finance Ministry issues draft framework of India’s climate finance taxonomy (p. 4)
+The draft framework seeks to facilitate investors in identifying opportunities in climate-related activities. It
+classifies projects into climate supportive and climate transition activities.
+Cabinet approved scheme for upgrading industrial training institutes (p. 6)
+The Cabinet approved a Rs 60,000 crore scheme to upgrade 1,000 ITIs and set up five Centres of Excellence.
+Funding and planning support will be provided from the central government, state governments and industry.
+Scheme for cashless treatment of road accident victims notified (p. 7)
+Victims of road accidents will be entitled to cashless treatment at designated hospitals for up to seven days after
+the accident, and for up to Rs 1.5 lakh per victim.
+June 2, 2025
+PRS Legislative Research ■ Institute for Policy Research Studies
+3rd Floor, Gandharva Mahavidyalaya ■ 212, Deen Dayal Upadhyaya Marg ■ New Delhi – 110002
+Tel: (011) 43434035-36, 23234801-02 ■ www.prsindia.org
+Monthly Policy Review – May 2025 PRS Legislative Research
+2024-25, slower than the same period in 2023-24
+Macroeconomic Development
+(5.1%).2 Mining increased by 2.1% in the fourth
+quarter of 2024-25 as against an increase of
+Tushar Chakrabarty (tushar@prsindia.org)
+4.9% in the corresponding period of 2023-24.
+GDP grew by 6.5% in 2024-25 Manufacturing increased by 3.9% while
+electricity increased by 4.2% in the fourth
+In 2024-25, India’s Gross Domestic Product
+quarter of 2024-25. Note that manufacturing has
+(GDP) (at constant 2011-12 prices) is estimated
+a 78% weightage in the IIP, followed by mining
+to grow by 6.5%, lower than the previous year
+(14%) and electricity (8%).
+(9.2%). GDP grew by 7.4% in the fourth quarter
+(January-March) of 2024-25, lower than growth Figure 2: Growth in IIP (%, year-on-year)
+of 8.4% in the corresponding quarter of 2023-
+7%
+24.1 In the third quarter (October-December) of
+6%
+2024-25, GDP had grown by 6.4%.
+5%
+4.2%
+3.9%
+Figure 1: Growth in GDP (%, year-on-year) 4% 3.6%
+16% 3% 2.1%
+14% 13.5% 2%
+12% 9.7% 1%
+9.5%
+10% 9.3% 0%
+8.4%
+7.4% IIP Mining Mfg Electricity
+8% 6.0% 6.9% 6.5% 5.6% 6.4%
+6% 4.8% Jan-25 Feb-25 Mar-25 Jan-Mar 25
+4%
+Sources: Ministry of Statistics and Programme
+2%
+Implementation; PRS.
+0%
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+2022-23 2023-24 2024-25
+Commerce and Industry
+Sources: Ministry of Statistics and Programme
+Implementation; PRS. India and United Kingdom conclude Free
+GDP across economic sectors is measured in Trade Agreement
+terms of Gross Value Added (GVA). In 2024-
+25, the construction sector is estimated to grow Shirin Pajnoo (shirin@prsindia.org)
+by 9.4%, followed by public services at 8.9%.
+India and UK concluded a Free Trade
+Table 1: Growth in GVA across sectors at
+Agreement (FTA).3 Key highlights of the FTA
+constant prices (%, year-on-year)
+include: (i) removing tariffs on 99% of products,
+Sectors 2022-23 2023-24 2024-25
+covering nearly all trade with UK, (ii)
+Agriculture 6.3% 2.7% 4.6% comprehensive market access for goods across
+sectors, and (iii) creating job opportunities in
+Mining 3.4% 3.2% 2.7%
+service sectors including IT, business, financial,
+Manufacturing -1.7% 12.3% 4.5%
+and educational services.
+Electricity 10.8% 8.6% 5.9%
+India and UK have also signed a Double
+Construction 9.1% 10.4% 9.4%
+Contribution Convention. Under this
+Trade 12.3% 7.5% 6.1% Convention, Indian workers who are temporarily
+Financial services 10.8% 10.3% 7.2% working in the UK and their employers are
+exempted from paying social security
+Public administration 6.7% 8.8% 8.9%
+contributions for three years.
+GVA 7.2% 8.6% 6.4%
+GDP 7.6% 9.2% 6.5%
+Note: GDP is calculated by adding net taxes to GVA. Net
+taxes are taxes minus subsidies.
+Sources: Ministry of Statistics and Programme
+Implementation; PRS.
+Industrial production grew by 3.6% in
+fourth quarter of 2024-25
+The Index of Industrial Production (IIP) grew by
+3.6% in the fourth quarter (January-March) of
+-2-
+Monthly Policy Review – May 2025 PRS Legislative Research
+India and Chile sign terms of reference Agriculture
+for an Economic agreement
+Vaishali Dhariwal (vaishali@prsindia.org)
+Shirin Pajnoo (shirin@prsindia.org)
+Minimum Support Prices for Kharif
+India and Chile signed the terms of reference for
+crops approved
+a Comprehensive Economic Partnership
+Agreement.4 It aims to build upon the existing The Cabinet Committee on Economic Affairs
+Preferential Trade Agreement between the two approved an increase in the minimum support
+countries by expanding to sectors such as digital prices (MSP) for kharif crops for the marketing
+services, investment promotion, MSME, and season 2025- 26 (see Table 1).8 The MSP for
+critical minerals. paddy has been increased by 3%. Crops such as
+Ragi, Jowar, and Soybean have seen the highest
+Scheme for reimbursement of taxes increase. MSP refers to the assured price at
+reinstated for certain exports which crops are procured from farmers by the
+central government.
+Tushar Chakrabarty (tushar@prsindia.org)
+Table 2: Minimum Support Price for Kharif
+The central government has restored the benefits crops 2025-26 (in Rs per quintal)
+under the Remission of Duties and Taxes on Crops 2025-26 2024-25 % change
+Paddy (common) 2,369 2,300 3%
+Exported Products (RoDTEP) scheme for certain
+Jowar (hybrid) 3,699 3,371 10%
+exports.5 These include exports made by export-
+Bajra 2,775 2,625 6%
+oriented units and units in special economic
+Ragi 4,886 4,290 14%
+zones. The benefits will be available for all
+Maize 2,400 2,225 8%
+eligible exports from June 1, 2025 onwards. The
+Tur/Arhar 8,000 7,550 6%
+benefits under the scheme were earlier available
+Moong 8,786 8,682 1%
+till February 5, 2025. The RoDTEP scheme
+Urad 7,800 7,400 5%
+reimburses exporters for embedded duties, taxes, Groundnut 7,263 6,783 7%
+and levies which are not refunded under any Sunflower seed 7,721 7,280 6%
+other scheme. Soybean (yellow) 5,328 4,892 9%
+Sesamum 9,846 9,267 6%
+Commerce Ministry notifies revised Nigerseed 9,537 8,717 9%
+credit guarantee scheme for startups Cotton (medium staple) 7,710 7,121 8%
+Source: Ministry of Agriculture and Farmers Welfare, PRS.
+Tushar Chakrabarty (tushar@prsindia.org)
+Cabinet approved continuation of
+The Department for Promotion of Industry and Modified Interest Subvention Scheme
+Internal Trade has notified a revised credit
+guarantee scheme for startups.6 The scheme was The Union Cabinet approved continuation of the
+notified in October 2022 to provide guarantee interest subvention component under the
+cover for loans extended to startups. The revised Modified Interest Subvention Scheme for the
+scheme has increased the ceiling on guarantee year 2025-26.9
+cover per borrower from Rs 10 crore to Rs 20
+Under the scheme, farmers receive short-term
+crore. The extent of guarantee cover in case of
+loans of up to three lakh rupees through Kisan
+default will be 85% for loans up to Rs 10 crore
+Credit Cards at a subsidised interest rate of 7%.
+and 75% for loans exceeding Rs 10 crore. The
+Eligible lending institutions are provided with
+earlier guarantee cover ranged between 65% to
+1.5% interest subvention. Moreover, farmers
+80% depending on the loan amount. The annual
+repaying loans timely are provided with up to 3
+guarantee fee for startups in 27 champion sectors
+percentage point reduction on the interest rate as
+has been reduced from 2% per annum to 1% per
+a Prompt Repayment Incentive. The scheme
+annum. The champion sectors have been
+will continue unchanged.
+identified to support India’s manufacturing and
+service capabilities. These include: (i) aerospace
+and defence, (ii) automotive and auto
+components, (iii) pharmaceuticals and medical
+devices, and (iv) capital goods.7
+-3-
+Monthly Policy Review – May 2025 PRS Legislative Research
+Finance The draft framework classifies activities and
+projects into two baskets: (i) climate supportive
+Tushar Chakrabarty (tushar@prsindia.org) and (ii) climate transition. Key features include:
+▪ Climate supportive activities: These
+Comments invited on the Draft
+include projects and measures that
+Registration Bill
+contribute towards: (i) avoiding greenhouse
+The Ministry of Rural Development released the gas emissions, (ii) reducing emission
+Draft Registration Bill, 2025 for public intensity, (iii) deploying solutions that
+feedback.10 It seeks to repeal the Registration reduce the risk from climate change, and
+Act, 1908.11 The Act provides a framework for (iv) research and development to meet the
+registration of documents affecting immovable above objectives. These activities are
+property and other transactions. further divided into two tiers. The first tier
+includes activities for emission avoidance,
+Key changes include:
+reduction in emission intensity, and climate
+▪ Compulsory registration of documents: resilience. The second tier includes
+The Act specifies certain documents which activities to improve energy efficiency and
+must be registered. These include: (i) reduce emission intensity in sectors where
+instruments of gifting immovable property, emission avoidance is currently not viable.
+(ii) lease of immovable property, and (iii)
+▪ Climate transition activities: Transition
+instruments that create, assign, or extinguish
+activities would include those measures and
+any right or interest (of at least Rs 100) in
+projects for which there are no feasible low-
+immovable property. The draft Bill expands
+emission alternatives in India. These
+the list of documents that must be registered
+include projects in sectors such as iron,
+to include: (i) power of attorney for transfer
+steel, and cement.
+of immovable property, (ii) sale certificate
+issued under any central or state acts, and Comments are invited by June 25, 2025.
+(iii) instruments of reconstruction, merger,
+and demerger of companies. RBI notifies Payments Regulatory Board
+Regulations, 2025
+▪ Inspector-General of Registration: The
+Act requires the state government to appoint The Reserve Bank of India (RBI) notified the
+the Inspector-General of Registration. The Payments Regulatory Board Regulations, 2025.13
+Inspector-General is responsible for It repeals the Board for Regulation and
+superintendence of all registration offices in Supervision of Payment and Settlement Systems
+the state. The draft Bill allows the state Regulations, 2008.14 The 2008 Regulations
+government to appoint one or more constituted a committee of RBI’s central board
+Additional Inspector-General, Joint for the regulation and supervision of payment
+Inspector-General, Deputy Inspector- and settlement systems. Key changes include:
+General, and Assistant Inspector-General.
+▪ Composition: Under the 2008 Regulations,
+▪ Electronic registration of documents: the committee comprised: (i) RBI governor
+The draft bill allows electronic submission as the chairperson, (ii) deputy governors,
+of documents affecting immovable property and (iii) up to three directors of the central
+for registration with the sub-registrar. It board. Two executive directors and the
+also allows consent-based Aadhaar principal legal advisor of RBI were
+authentication of persons submitting permanent invitees to the Board. It could
+documents for registration. also invite persons with experience in the
+fields of payment and settlement systems as
+Comments are invited until June 25, 2025.
+permanent or temporary invitees.
+Finance Ministry issues draft framework The 2025 Regulations retains the RBI
+of India’s climate finance taxonomy Governor as the chairperson and specify that
+the regulatory board will only have the RBI
+The Ministry of Finance released draft
+Deputy Governor in charge of payment and
+Framework of India’s Climate Finance
+settlement systems. Instead of directors of
+Taxonomy for public feedback.12 The draft
+the Central Board, the Board will nominate
+framework seeks to facilitate investors in
+one RBI officer. Three persons will be
+identifying opportunities in climate-related
+nominated by the central government. RBI
+activities. It aims to increase the availability of
+executive directors will no longer be
+capital for climate adaptation and mitigation. It
+permanent invitees to the Board.
+proposes to cover sectors such as power,
+mobility, agriculture, iron, steel, and cement. ▪ Eligibility for nominated members:
+Members to be nominated by the central
+-4-
+Monthly Policy Review – May 2025 PRS Legislative Research
+government must: (i) have expertise in the through bidding for a premium over a
+fields of payment systems, information notified price. Some additional conditions
+technology, or law, (ii) be less than 70 years for the second category included: (i) linkage
+of age, (iii) not be an MP/MLA, and (iv) not to be awarded for the period between three
+have been convicted of an offence months and one year, and (ii) power
+punishable with imprisonment of at least generated to be sold through power
+180 days. exchanges or through short-term contracts
+awarded through competitive bidding.
+RBI removes limits on investment by
+The revised policy states that for all private
+FPIs in corporate debt securities
+generation companies, linkage will be
+The Reserve Bank of India (RBI) removed the awarded on auction basis by paying a
+investment limit for foreign portfolio investors premium above the notified price. The
+(FPIs) for investing in corporate debt securities linkage will be available for a period: (i) up
+through the general route.15,16 FPIs can invest in to 12 months, or (ii) between one year and
+Indian debt securities through the general route, 25 years. The plants will have flexibility to
+voluntary retention route, or fully accessible sell electricity as per their choice.
+route. These routes allow debt investments by
+FPIs as per different investment limits. Draft amendments to mineral auction
+rules released
+Earlier, under the general route, short-term
+investment (up to one year) by an FPI in The Ministry of Mines issued draft amendments
+corporate debt securities could not exceed 30% to the Mineral (Auction) Rules, 2015 for public
+of the FPI’s total investment in corporate debt consultation.19 The draft amendments seek to
+securities. General route investments also could introduce intermediary timelines for various
+not exceed 15% of prevailing investment limits activities to be completed after issue of Letter of
+for long-term FPIs (such as sovereign wealth Intent (LoI) till execution of mining lease.
+funds and multilateral agencies) and 10% of Delays in mining lease execution can lead to
+prevailing limits for other FPIs. RBI has now appropriation of a percentage of performance
+removed these provisions. This has been done to security. Bidders are required to top- up the
+provide greater ease of investment for FPIs. performance security within two months of such
+appropriation. Intermediary timelines for
+operationalisation of mineral blocks include: (i)
+approval of mining plan within four months
+Coal and Mining from the issue of LoI for mining lease, (ii)
+granting environmental clearance within 18
+Vaishali Dhariwal (vaishali@prsindia.org) months of mining plan approval, (iii) execution
+of mining lease within 11 months of granting
+Cabinet approves revised policy for coal environment clearance, and (iv) execution of
+allocation to power sector composite licence within nine months from the
+issue of LoI.
+The Cabinet Committee on Economic Affairs
+has approved the revision of the Scheme for
+Harnessing and Allocating Koyala Transparently
+in India (SHAKTI) policy for allocating coal for
+Environment
+the power sector.17,18 Key features of the revised
+policy are as follows:
+Vaishali Dhariwal (vaishali@prsindia.org)
+▪ Allocation to government-owned
+generation companies: Under the original Supreme Court struck down
+policy, coal was allocated to companies retrospective environmental clearances
+owned by central and state governments and
+A two-judge bench of the Supreme Court struck
+their joint ventures and subsidiaries at a
+down retrospective environmental clearances to
+notified price. The revised policy retains
+projects.20 These clearances are issued under the
+these provisions.
+under the Environment Protection Act, 1986, and
+▪ Allocation to private generation Environmental Impact Assessment (EIA)
+companies: Under the existing policy, Notification, 2006.
+private generation companies were allocated
+EIA provides that certain projects or activities
+coal linkages through auction in following
+shall require prior Environmental Clearance
+two modes: (i) for companies with long-
+(EC) from the concerned regulatory authority at
+term power purchase agreements (PPA),
+the central, state, or district level. In March
+through bidding for a discount on tariff
+2017, the Union Ministry of Environment,
+discovered under PPA, and (ii) for others,
+-5-
+Monthly Policy Review – May 2025 PRS Legislative Research
+Forest, and Climate Change issued a notification fossil sources. Designated consumers include
+to provide retrospective clearance to projects or distribution companies, open access consumers
+activities that had started the work on site, (who procure electricity directly from
+expanded the production beyond the limit of the generators), and captive users (who generate
+EC, or changed production mix without electricity for their own use).22
+obtaining EC.
+Currently, RCO may be fulfilled by: (i) actually
+The Supreme Court ruled that the concept of utilising electricity from non-fossil sources, or
+granting retrospective EC under the 2017 (ii) purchasing Renewable Energy Certificates
+notification was illegal. The Court held that the (REC) from generators through competitive
+grant of retrospective EC is against the bidding on power exchanges. RECs are issued
+environmental laws and the EIA Notification. to generators for supplying electricity from non-
+Retrospective clearances infringe the fossil sources. A VPPA will provide a third
+fundamental right to live in a pollution-free option to fulfil the obligation. A VPPA is a
+environment under Article 21 of the financial contract in which electricity is not
+Constitution. It held that the central government physically exchanged between contracting
+must not come out with a new version of the parties. Key features of the guidelines include:
+2017 notification to provide similar retrospective
+▪ Design of VPPA: A VPPA will be a long-
+ECs in any manner. ECs already granted with
+term bilateral contract between a renewable
+retrospective effect will remain in force.
+energy generator and a designated
+consumer. Under this contract, the
+generator will earmark certain RE capacity
+for that designated consumer. The generator
+Education
+will transfer to the designated consumer the
+RECs earned from the sale of electricity up
+Vaishali Dhariwal (vaishali@prsindia.org)
+to the earmarked capacity. RECs for VPPAs
+Cabinet approved scheme for upgrading may be earned by sale through a power
+exchange, or other such modes authorised
+industrial training institutes
+by CERC. VPPAs will be non-tradeable and
+The Union Cabinet has approved the National non-transferrable.
+Scheme for Industrial Training Institute (ITI)
+▪ Modes for entering VPPA: VPPAs may be
+Upgradation and Setting up of five National
+entered: (i) directly, (ii) through a trader, or
+Centres of Excellence for Skilling as a centrally
+(iii) through listing on a platform registered
+sponsored scheme.21 The scheme aims to
+with CERC.
+upgrade 1,000 government ITIs in collaboration
+with state governments and industry. It will ▪ Dispute settlement: The guidelines specify
+involve industry in planning and management of that a dispute will be mutually settled as per
+ITI upgradation. The scheme has an estimated the terms of the contract.
+outlay of Rs 60,000 crore, with Rs 30,000 crore
+Comments are invited until June 20, 2025.
+as central share, Rs 20,000 crore as state share,
+and Rs 10,000 crore as industry share.
+Communications
+Power
+Saket Surya (saket@prsindia.org)
+Saket Surya (saket@prsindia.org)
+TRAI releases recommendations on
+spectrum for satellite communication
+Comments invited on draft guidelines for
+virtual power purchase agreements The Telecom Regulatory Authority of India
+(TRAI) has released recommendations on the
+The Central Electricity Regulatory Commission
+assignment of spectrum for certain satellite-
+(CERC) has invited comments on draft
+based communication services.24 These include
+guidelines for Virtual Power Purchase
+voice, text, and internet services using satellites.
+Agreements (VPPAs).22 These agreements are
+TRAI has specified spectrum bands to be used
+intended to help designated consumers meet
+for these services. Spectrum for these services is
+their Renewable Energy Consumption
+to be allocated administratively as per the
+Obligation (RCO).23 This obligation was
+Telecommunications Act, 2023.24,25 Key
+introduced through an amendment to the Energy
+recommendations by TRAI are as follows:
+Conservation Act, 2001 in 2022. It requires
+certain consumers to source a minimum ▪ Spectrum charges: Spectrum charges
+percentage of electricity requirement from non- should be levied at the rate of 4% of
+-6-
+Monthly Policy Review – May 2025 PRS Legislative Research
+adjusted gross revenue, or an annual fee of Transport
+Rs 3,500 per megahertz (MHz) of spectrum
+assigned, whichever is higher. Adjusted Vaishali Dhariwal (vaishali@prsindia.org)
+gross revenue is arrived at after making
+certain specified deductions from the gross Scheme for cashless treatment of road
+revenue. Charges should be paid quarterly. accident victims notified
+Non-geostationary orbit (NGSO) satellite- The Ministry of Road Transport and Highways
+based operators should pay an additional notified the Cashless Treatment of Road
+annual charge at the rate of Rs 500 per Accident Victims Scheme, 2025.27 Under the
+subscriber in urban area. Such satellites do scheme, any victim of a road accident will be
+not maintain a fixed position relative to entitled to cashless treatment at designated
+earth. Services using NGSO satellites are hospitals. The facility will be provided for an
+yet to commence in India.24 TRAI observed amount of up to Rs 1,50,000 per victim with a
+that NGSO satellites offer better coverage maximum period of seven days from the date of
+and lower latency compared to conventional accident. Expenses will be covered through the
+GSO satellites. It noted that NGSO Motor Vehicle Accident Fund, established under
+satellite-based operators will have a the Central Motor Vehicles (Motor Vehicle
+competitive advantage and spectrum will Accident Fund) Rules, 2022. The State Road
+hold a higher economic value for them. It Safety Council will be the nodal agency for
+further noted that the additional charge is to implementing the scheme and a Steering
+disincentivise concentration of services in Committee will be established to monitor the
+urban areas. implementation. The Secretary of the Ministry
+of Road Transport and Highways will head the
+▪ Period of assignment: Spectrum should be
+Steering Committee.
+assigned for a period up to five years. It
+may be extended by up to two years based
+on the market conditions. Assignees should
+be permitted to surrender spectrum before
+the expiry of the validity period.
+▪ Subsidy: In underserved or unserved
+regions in rural and remote areas, the
+government may consider providing subsidy
+to subscribers of NGSO satellite-based
+services. Subsidy may be paid either
+through direct benefit transfer or as a direct
+payment to service providers. Digital
+Bharat Nidhi may be utilised for funding
+subsidy. Digital Bharat Nidhi has been set
+up under the 2023 Act, replacing the
+Universal Service Obligation Fund.26 The
+Nidhi is funded through a levy on telecom
+service providers.
+1 Press Note on Provisional Estimates of Annual GDP for Ministry of Commerce & Industry, May 9, 2025,
+2024-25 and Quarterly Estimates of GDP for the Fourth https://www.pib.gov.in/PressReleasePage.aspx?PRID=21278
+Quarter (January-March) of 2024-25, National Statistics 26.
+Office, Ministry of Statistics and Programme
+Implementation, May 30, 2025, 5 “Government Restores RoDTEP Benefits for AA, SEZ, and
+https://static.pib.gov.in/WriteReadData/specificdocs/docume EOU Exports”, Press Information Bureau, Ministry of
+nts/2025/may/doc2025530560501.pdf. Commerce and Industry, May 27, 2025,
+2 “India's Index of Industrial Production records growth of https://www.pib.gov.in/PressReleasePage.aspx?PRID=21315
+3% in March 2025”, Press Information Bureau, Ministry of 26.
+Statistics and Programme Implementation, April 28, 2025, 6 “Government notifies the expansion of the Credit
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=21248 Guarantee Scheme for Startups (CGSS) to increase capital
+50. mobilization for startups”, Press Information Bureau,
+3 “A historic and ambitious deal to boost jobs, exports and Ministry of Commerce and Industry, May 9, 2025,
+national growth”, Press Information Bureau, Ministry of https://www.pib.gov.in/PressReleasePage.aspx?PRID=21278
+Commerce & Industry, May 6, 2025, 43.
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=21273 7 S.O. 2046(E), Ministry of Commerce and Industry, May 8,
+21. 2025,
+https://www.ncgtc.in//content/products/0/20250509/Gazette_
+4 “India and Chile Sign Terms of Reference for Notification_CGSS_8th_May_2025_44e1a2d0dc.pdf.
+Comprehensive Economic Partnership 8 “Cabinet approves Minimum Support Prices (MSP) for
+Agreement Negotiations”, Press Information Bureau, Kharif Crops for Marketing Season 2025-26” Press
+-7-
+Monthly Policy Review – May 2025 PRS Legislative Research
+19 Notice for Public Consultation, Ministry of Mines, May 1,
+2025,
+Information Bureau, Cabinet, May 28, 2025,
+https://mines.gov.in/admin/download/681301956a2f6174607
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=21319
+6053.pdf.
+83.
+20 Writ Petition No. 1394 of 2023, Vanashakti vs Union of
+9 “Cabinet approves continuation of Modified Interest
+India, Supreme Court, May 16, 2025,
+Subvention Scheme (MISS) for FY 2025-26 with existing
+1.5% Interest Subvention (IS)” Press Information Bureau, https://api.sci.gov.in/supremecourt/2023/50009/50009_2023
+Cabinet, May 28, 2025, _3_1502_61809_Judgement_16-May-2025.pdf.
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=21319 21 “Cabinet approves National Scheme for Industrial Training
+88. Institute (ITI) Upgradation and Setting up of Five National
+10 “Department of Land Resources, Ministry of Rural Centres of Excellence for Skilling” Press Information
+Development invites suggestions on draft ‘The Registration Bureau, the Cabinet, May 7, 2025,
+Bill 2025’ from public within a period of 30 days”, Ministry https://www.pib.gov.in/PressReleseDetail.aspx?PRID=21274
+of Rural Development, 15&reg=3&lang=1.
+https://cdnbbsr.s3waas.gov.in/s3d69116f8b0140cdeb1f99a4d 22 Draft Guidelines for Virtual Power Purchase Agreements,
+5096ffe4/uploads/2025/05/20250526906486876.pdf. Central Electricity Regulatory Commission, May 22, 2025,
+11 The Registration Act, 1908, https://cercind.gov.in/2025/draft_reg/Draft%20Guidelines%2
+https://www.indiacode.nic.in/bitstream/123456789/15937/1/t 0for%20VPPAs.pdf.
+he_registration_act%2C1908.pdf. 23 Section 13 (tf),The Energy Conservation Act, 2001,
+12 Draft Framework of India’s Climate Finance Taxonomy, https://www.indiacode.nic.in/bitstream/123456789/2003/1/A
+Ministry of Finance, 2001-52.pdf.
+https://static.pib.gov.in/WriteReadData/specificdocs/docume 24 “Recommendations on Terms and Conditions for the
+nts/2025/may/doc202557551101.pdf. Assignment of Spectrum for Certain Satellite-Based
+13 Notification No. CO.DPSS.BD.No.S168 /02-01-012/2025- Commercial Communication Services”, Telecom Regulatory
+2026, Reserve Bank of India, May 20, 2025, Authority of India, May 9, 2025,
+https://egazette.gov.in/WriteReadData/2025/263277.pdf. https://trai.gov.in/sites/default/files/2025-
+14 The Board for Regulation and Supervision of Payment and 05/Recommendtion_09052025_0.pdf.
+Settlement Systems Regulations, 2008, 25 Section 4 (4), First Schedule, The Telecommunications
+https://thc.nic.in/Central%20Governmental%20Regulations/ Act, 2023,
+Board%20for%20Regulation%20and%20Supervision%20of https://egazette.gov.in/WriteReadData/2023/250880.pdf.
+%20Payment%20and%20Settlement%20%20Regulation%20 26 Chapter V, The Telecommunications Act, 2023,
+2008.pdf. https://egazette.gov.in/WriteReadData/2023/250880.pdf.
+15 Investments by Foreign Portfolio Investors in Corporate 27 S.O. 2015(E), Ministry if Road Transport and Highways,
+Debt Securities through the General Route – Relaxations, May 5, 2025,
+Reserve Bank of India, May 8, 2025, https://egazette.gov.in/WriteReadData/2025/262912.pdf.
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/35NT1A4A
+DISCLAIMER: This document is being furnished to you
+AAC7E141470486FC6785028754FA.PDF.
+for your information. You may choose to reproduce or
+16 Master Direction - Reserve Bank of India (Non-resident redistribute this report for non-commercial purposes in
+Investment in Debt Instruments) Directions, 2025, Reserve part or in full to any other person with due
+Bank of India, January 7, 2025, acknowledgement of PRS Legislative Research (“PRS”).
+https://rbidocs.rbi.org.in/rdocs/notification/PDFs/MD126B9 The opinions expressed herein are entirely those of the
+CF2E0CABD14471955E50A54D8291F2.PDF. author(s). PRS makes every effort to use reliable and
+17 “Revised SHAKTI Policy for Coal Allocation to Power comprehensive information, but PRS does not represent
+Sector”, Press Information Bureau, Cabinet Committee on that the contents of the report are accurate or complete.
+Economic Affairs, May 7, 2025, PRS is an independent, not-for-profit group. This
+https://www.pib.gov.in/PressReleasePage.aspx?PRID=21274 document has been prepared without regard to the
+08. objectives or opinions of those who may receive it.
+18 “Objectives of SHAKTI Yojana”, Ministry of Coal,
+December 2, 2024,
+https://www.coal.nic.in/sites/default/files/2024-
+12/PIB2079744.pdf.
+-8-
