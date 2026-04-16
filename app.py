@@ -170,6 +170,28 @@ def has_negative_policy_language(text):
     )
 
 
+def has_unrestricted_scope_language(text):
+    return bool(
+        re.search(
+            r"\b(without restriction|without registration|without prior approval|"
+            r"without approval|without licence|without license|without compliance|"
+            r"freely|all .* may|any .* may)\b",
+            text.lower(),
+        )
+    )
+
+
+def has_conditional_scope_language(text):
+    return bool(
+        re.search(
+            r"\b(subject to|only after|only if|provided that|unless|except|"
+            r"registration|registered|licen[cs]e|approval|prior approval|"
+            r"recognised|recognized|compliance|due diligence|permission)\b",
+            text.lower(),
+        )
+    )
+
+
 def classify_conflict_type(a, b):
     text = f"{a} {b}".lower()
     a_pos = has_positive_policy_language(a)
@@ -177,6 +199,10 @@ def classify_conflict_type(a, b):
     b_pos = has_positive_policy_language(b)
     b_neg = has_negative_policy_language(b)
 
+    if (has_unrestricted_scope_language(a) and has_conditional_scope_language(b)) or (
+        has_unrestricted_scope_language(b) and has_conditional_scope_language(a)
+    ):
+        return "scope"
     if (a_pos and not a_neg and b_neg and not b_pos) or (
         a_neg and not a_pos and b_pos and not b_neg
     ):
@@ -198,12 +224,19 @@ def heuristic_conflict_score(a, b):
     opposing_polarity = (a_pos and not a_neg and b_neg and not b_pos) or (
         a_neg and not a_pos and b_pos and not b_neg
     )
+    scope_mismatch = (
+        has_unrestricted_scope_language(a) and has_conditional_scope_language(b)
+    ) or (
+        has_unrestricted_scope_language(b) and has_conditional_scope_language(a)
+    )
 
     if opposing_polarity:
         score += 0.55
-    if opposing_polarity and re.search(r"\b(except|unless|only|subject to|provided that)\b", f"{a} {b}".lower()):
+    if scope_mismatch:
+        score += 0.60
+    if (opposing_polarity or scope_mismatch) and re.search(r"\b(except|unless|only|subject to|provided that)\b", f"{a} {b}".lower()):
         score += 0.15
-    if opposing_polarity and re.search(r"\b(licen[cs]e|permission|approval|registration|prohibit|penalty|fine)\b", f"{a} {b}".lower()):
+    if (opposing_polarity or scope_mismatch) and re.search(r"\b(licen[cs]e|permission|approval|registration|prohibit|penalty|fine)\b", f"{a} {b}".lower()):
         score += 0.10
     return min(score, 0.85)
 
@@ -273,6 +306,40 @@ def save_report(report):
     return path
 
 
+def similarity_band(score):
+    if score >= 0.70:
+        return "High", "#1f8f4d"
+    if score >= 0.50:
+        return "Medium", "#c69214"
+    return "Low", "#c2413b"
+
+
+def render_similarity_badge(score):
+    label, color = similarity_band(score)
+    st.markdown(
+        f"""
+        <div style="
+            display:inline-block;
+            padding:0.25rem 0.6rem;
+            border-radius:6px;
+            background:{color};
+            color:white;
+            font-weight:700;
+            margin:0.25rem 0 0.75rem 0;">
+            {label} similarity: {score:.3f}
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+
+def read_source_document(path):
+    source_path = Path(path)
+    if not source_path.exists() or not source_path.is_file():
+        return None
+    return source_path.read_text(encoding="utf-8", errors="ignore")
+
+
 def render_result_cards(rows, only_conflicts=False):
     visible_rows = [row for row in rows if row["conflict"]] if only_conflicts else rows
 
@@ -286,6 +353,7 @@ def render_result_cards(rows, only_conflicts=False):
             f"{label}: {row['source_file']} | similarity {row['retrieval_score']:.3f}",
             expanded=row["conflict"],
         ):
+            render_similarity_badge(row["retrieval_score"])
             c1, c2, c3, c4 = st.columns(4)
             c1.metric("NLI", row["nli_label"])
             c2.metric("NLI score", f"{row['nli_score']:.3f}")
@@ -353,22 +421,57 @@ with tab_search:
 
     results = st.session_state.get("search_results", [])
     if results:
-        grouped = defaultdict(lambda: {"best_score": 0.0, "matches": 0, "sample": ""})
+        grouped = defaultdict(
+            lambda: {
+                "best_score": 0.0,
+                "matches": 0,
+                "sample": "",
+                "source_path": "",
+            }
+        )
         for item in results:
             row = grouped[item["source_file"]]
             row["best_score"] = max(row["best_score"], item["retrieval_score"])
             row["matches"] += 1
             if not row["sample"]:
                 row["sample"] = item["text"][:260]
+            if not row["source_path"]:
+                row["source_path"] = item.get("source_path", "")
 
         doc_rows = [
-            {"Document": doc, "Best score": data["best_score"], "Matches": data["matches"], "Sample": data["sample"]}
+            {
+                "Document": doc,
+                "Similarity": similarity_band(data["best_score"])[0],
+                "Best score": round(data["best_score"], 3),
+                "Matches": data["matches"],
+                "Sample": data["sample"],
+            }
             for doc, data in grouped.items()
         ]
         st.dataframe(pd.DataFrame(doc_rows), hide_index=True, use_container_width=True)
 
+        st.markdown("### Download relevant documents")
+        for doc, data in grouped.items():
+            source_text = read_source_document(data["source_path"])
+            label, _ = similarity_band(data["best_score"])
+            c1, c2, c3 = st.columns([4, 1, 1])
+            c1.write(f"**{doc}**")
+            c2.write(f"{label}: {data['best_score']:.3f}")
+            if source_text:
+                c3.download_button(
+                    "Download",
+                    source_text,
+                    file_name=doc,
+                    mime="text/plain",
+                    key=f"download-{doc}",
+                )
+            else:
+                c3.caption("File unavailable")
+
+        st.markdown("### Matching chunks")
         for result in results:
             with st.expander(f"{result['source_file']} #{result['local_chunk_id']} | {result['retrieval_score']:.3f}"):
+                render_similarity_badge(result["retrieval_score"])
                 st.write(result["text"])
 
 

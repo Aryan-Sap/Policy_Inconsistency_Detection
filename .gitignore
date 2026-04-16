@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+reports/frontend_policy_report_*.json
+reports/batch_policy_audit_*.json
